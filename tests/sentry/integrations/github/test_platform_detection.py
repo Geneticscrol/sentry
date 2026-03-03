@@ -335,6 +335,29 @@ class TestRuleMatches:
         rule: DetectorRule = {"match_ext": ".uproject"}
         assert _rule_matches(rule, {"MyGame.uproject"}, {}, None) is True
 
+    def test_match_ext_with_match_content_matches(self) -> None:
+        rule: DetectorRule = {"match_ext": ".csproj", "match_content": r"Microsoft\.Maui"}
+        files = {"MyApp.csproj", "README.md"}
+        contents = {"MyApp.csproj": '<PackageReference Include="Microsoft.Maui" />'}
+        assert _rule_matches(rule, files, contents, None) is True
+
+    def test_match_ext_with_match_content_no_content_match(self) -> None:
+        rule: DetectorRule = {"match_ext": ".csproj", "match_content": r"Microsoft\.Maui"}
+        files = {"MyApp.csproj", "README.md"}
+        contents = {"MyApp.csproj": '<PackageReference Include="Newtonsoft.Json" />'}
+        assert _rule_matches(rule, files, contents, None) is False
+
+    def test_match_ext_with_match_content_no_ext_match(self) -> None:
+        rule: DetectorRule = {"match_ext": ".csproj", "match_content": r"Microsoft\.Maui"}
+        files = {"README.md", "package.json"}
+        assert _rule_matches(rule, files, {}, None) is False
+
+    def test_match_ext_with_match_content_no_fetched_content(self) -> None:
+        rule: DetectorRule = {"match_ext": ".csproj", "match_content": r"Microsoft\.Maui"}
+        files = {"MyApp.csproj"}
+        # File exists but content wasn't fetched
+        assert _rule_matches(rule, files, {}, None) is False
+
 
 class TestFrameworkMatches:
     def test_some_rules_match_when_any_passes(self) -> None:
@@ -1616,6 +1639,201 @@ class TestDetectPlatforms:
         platforms = [r["platform"] for r in result]
         assert "python-awslambda" in platforms
 
+    def test_bun_detected_from_bunfig(self) -> None:
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"TypeScript": 50000}
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [
+                    {"name": "bunfig.toml", "type": "file"},
+                    {"name": "package.json", "type": "file"},
+                ]
+            if "package.json" in path:
+                return _make_b64_response(json.dumps({"dependencies": {}}))
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        assert "bun" in platforms
+
+    def test_bun_detected_from_lockfile(self) -> None:
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"JavaScript": 30000}
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [
+                    {"name": "bun.lockb", "type": "file"},
+                    {"name": "package.json", "type": "file"},
+                ]
+            if "package.json" in path:
+                return _make_b64_response(json.dumps({"dependencies": {}}))
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        assert "bun" in platforms
+
+    def test_deno_detected_from_config(self) -> None:
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"TypeScript": 40000}
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [
+                    {"name": "deno.json", "type": "file"},
+                    {"name": "package.json", "type": "file"},
+                ]
+            if "package.json" in path:
+                return _make_b64_response(json.dumps({"dependencies": {}}))
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        assert "deno" in platforms
+
+    def test_dotnet_maui_detected_from_csproj_content(self) -> None:
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"C#": 60000}
+
+        csproj_content = """<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>net8.0-android;net8.0-ios</TargetFrameworks>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Maui.Controls" Version="8.0.0" />
+  </ItemGroup>
+</Project>"""
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [
+                    {"name": "MyApp.csproj", "type": "file"},
+                    {"name": "MauiProgram.cs", "type": "file"},
+                ]
+            if "MyApp.csproj" in path:
+                return _make_b64_response(csproj_content)
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        assert "dotnet-maui" in platforms
+
+    def test_dotnet_wpf_detected_from_csproj_content(self) -> None:
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"C#": 50000}
+
+        csproj_content = """<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+</Project>"""
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [
+                    {"name": "WpfApp.csproj", "type": "file"},
+                ]
+            if "WpfApp.csproj" in path:
+                return _make_b64_response(csproj_content)
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        assert "dotnet-wpf" in platforms
+
+    def test_dotnet_awslambda_detected_from_csproj_content(self) -> None:
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"C#": 30000}
+
+        csproj_content = """<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <PackageReference Include="Amazon.Lambda.Core" Version="2.1.0" />
+    <PackageReference Include="Amazon.Lambda.Serialization.SystemTextJson" />
+  </ItemGroup>
+</Project>"""
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [
+                    {"name": "LambdaFunc.csproj", "type": "file"},
+                ]
+            if "LambdaFunc.csproj" in path:
+                return _make_b64_response(csproj_content)
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        assert "dotnet-awslambda" in platforms
+
+    def test_dotnet_aspnet_legacy_detected_not_core(self) -> None:
+        """dotnet-aspnet detects legacy ASP.NET but not ASP.NET Core."""
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"C#": 40000}
+
+        csproj_content = """<Project>
+  <ItemGroup>
+    <Reference Include="Microsoft.AspNet.Mvc" />
+  </ItemGroup>
+</Project>"""
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [
+                    {"name": "WebApp.csproj", "type": "file"},
+                ]
+            if "WebApp.csproj" in path:
+                return _make_b64_response(csproj_content)
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        assert "dotnet-aspnet" in platforms
+
+    def test_dotnet_aspnetcore_not_detected_as_legacy_aspnet(self) -> None:
+        """ASP.NET Core references should NOT match the legacy dotnet-aspnet pattern."""
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"C#": 40000}
+
+        csproj_content = """<Project Sdk="Microsoft.NET.Sdk.Web">
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+</Project>"""
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [
+                    {"name": "WebApp.csproj", "type": "file"},
+                    {"name": "appsettings.json", "type": "file"},
+                ]
+            if "WebApp.csproj" in path:
+                return _make_b64_response(csproj_content)
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        # Should detect aspnetcore (via existing rule), not legacy aspnet
+        assert "dotnet-aspnetcore" in platforms
+        assert "dotnet-aspnet" not in platforms
+
 
 class TestFrameworksIntegrity:
     """Validate the FRAMEWORKS list is internally consistent.
@@ -1663,13 +1881,13 @@ class TestFrameworksIntegrity:
                 f"{fw['platform']} sort={fw['sort']} is outside valid range 1-99"
             )
 
-    def test_no_rule_has_match_content_without_path(self) -> None:
+    def test_no_rule_has_match_content_without_file_source(self) -> None:
         for fw in FRAMEWORKS:
             for rule in [*fw.get("every", []), *fw.get("some", [])]:
                 if "match_content" in rule:
-                    assert "path" in rule, (
-                        f"{fw['platform']} has match_content without path — "
-                        f"content matching requires a file to read"
+                    assert "path" in rule or "match_ext" in rule, (
+                        f"{fw['platform']} has match_content without path or match_ext — "
+                        f"content matching requires a file source to read"
                     )
 
 

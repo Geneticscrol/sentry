@@ -709,6 +709,70 @@ FRAMEWORKS: list[FrameworkDef] = [
         "base_platform": "native",
         "some": [{"path": "project.godot"}],
     },
+    # ===================================================================
+    # JavaScript runtimes — detected via config/lockfile presence
+    # ===================================================================
+    {
+        "platform": "bun",
+        "sort": 5,
+        "base_platform": "javascript",
+        "some": [{"path": "bunfig.toml"}, {"path": "bun.lockb"}],
+    },
+    {
+        "platform": "deno",
+        "sort": 5,
+        "base_platform": "javascript",
+        "some": [{"path": "deno.json"}, {"path": "deno.jsonc"}],
+    },
+    # ===================================================================
+    # .NET variants — detected via .csproj content inspection
+    # ===================================================================
+    {
+        "platform": "dotnet-maui",
+        "sort": 10,
+        "base_platform": "dotnet",
+        "every": [{"match_ext": ".csproj", "match_content": r"Microsoft\.Maui"}],
+    },
+    {
+        "platform": "dotnet-wpf",
+        "sort": 10,
+        "base_platform": "dotnet",
+        "every": [{"match_ext": ".csproj", "match_content": r"UseWPF"}],
+    },
+    {
+        "platform": "dotnet-winforms",
+        "sort": 10,
+        "base_platform": "dotnet",
+        "every": [{"match_ext": ".csproj", "match_content": r"UseWindowsForms"}],
+    },
+    {
+        "platform": "dotnet-xamarin",
+        "sort": 10,
+        "base_platform": "dotnet",
+        "every": [{"match_ext": ".csproj", "match_content": r"Xamarin\."}],
+    },
+    {
+        "platform": "dotnet-aspnet",
+        "sort": 20,
+        "base_platform": "dotnet",
+        "every": [
+            {"match_ext": ".csproj", "match_content": r"Microsoft\.AspNet(?!Core)"},
+        ],
+    },
+    {
+        "platform": "dotnet-awslambda",
+        "sort": 50,
+        "base_platform": "dotnet",
+        "every": [{"match_ext": ".csproj", "match_content": r"Amazon\.Lambda"}],
+    },
+    {
+        "platform": "dotnet-gcpfunctions",
+        "sort": 50,
+        "base_platform": "dotnet",
+        "every": [
+            {"match_ext": ".csproj", "match_content": r"Google\.Cloud\.Functions"},
+        ],
+    },
 ]
 
 # Derived indexes built at module load
@@ -927,7 +991,18 @@ def _rule_matches(
 
     if "match_ext" in rule:
         ext = rule["match_ext"]
-        return any(f.endswith(ext) for f in root_files)
+        matching_files = [f for f in root_files if f.endswith(ext)]
+        if not matching_files:
+            return False
+        if "match_content" not in rule:
+            return True
+        # match_ext + match_content: search content of extension-matched files
+        pattern = rule["match_content"]
+        for f in matching_files:
+            content = file_contents.get(f)
+            if content and re.search(pattern, content):
+                return True
+        return False
 
     path = rule.get("path")
     if path is None:
@@ -1015,14 +1090,21 @@ def detect_platforms(
         if base_platform is not None:
             active_platforms[base_platform].append((language, byte_count))
 
-    # Collect all file paths that need content fetching (path + match_content rules)
+    # Collect all file paths that need content fetching (match_content rules)
     needed_paths: set[str] = set()
     for base_platform in active_platforms:
         for fw in _FRAMEWORKS_BY_PLATFORM.get(base_platform, []):
             for rule in [*fw.get("every", []), *fw.get("some", [])]:
+                if "match_content" not in rule:
+                    continue
                 path = rule.get("path")
-                if path and "match_content" in rule and path in root_files:
+                if path and path in root_files:
                     needed_paths.add(path)
+                elif "match_ext" in rule:
+                    ext = rule["match_ext"]
+                    for f in root_files:
+                        if f.endswith(ext):
+                            needed_paths.add(f)
 
     # Fetch file contents in one pass
     file_contents: dict[str, str] = {}
