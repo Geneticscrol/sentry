@@ -312,27 +312,27 @@ class TestRuleMatches:
         assert _rule_matches(rule, {"file.txt"}, {}, None) is False
 
     def test_match_dir_matches_when_dir_exists(self) -> None:
-        rule = {"match_dir": "Assets"}
+        rule: DetectorRule = {"match_dir": "Assets"}
         assert _rule_matches(rule, set(), {}, None, root_dirs={"Assets", "src"}) is True
 
     def test_match_dir_no_match_when_dir_missing(self) -> None:
-        rule = {"match_dir": "Assets"}
+        rule: DetectorRule = {"match_dir": "Assets"}
         assert _rule_matches(rule, set(), {}, None, root_dirs={"src", "lib"}) is False
 
     def test_match_dir_no_match_when_root_dirs_none(self) -> None:
-        rule = {"match_dir": "Assets"}
+        rule: DetectorRule = {"match_dir": "Assets"}
         assert _rule_matches(rule, set(), {}, None, root_dirs=None) is False
 
     def test_match_ext_matches_when_extension_exists(self) -> None:
-        rule = {"match_ext": ".csproj"}
+        rule: DetectorRule = {"match_ext": ".csproj"}
         assert _rule_matches(rule, {"MyApp.csproj", "README.md"}, {}, None) is True
 
     def test_match_ext_no_match_when_extension_missing(self) -> None:
-        rule = {"match_ext": ".csproj"}
+        rule: DetectorRule = {"match_ext": ".csproj"}
         assert _rule_matches(rule, {"README.md", "package.json"}, {}, None) is False
 
     def test_match_ext_uproject(self) -> None:
-        rule = {"match_ext": ".uproject"}
+        rule: DetectorRule = {"match_ext": ".uproject"}
         assert _rule_matches(rule, {"MyGame.uproject"}, {}, None) is True
 
 
@@ -403,7 +403,7 @@ class TestFrameworkMatches:
         assert _framework_matches(fw, set(), {}, None) is False
 
     def test_match_dir_in_every(self) -> None:
-        fw = {
+        fw: FrameworkDef = {
             "platform": "test",
             "sort": 1,
             "base_platform": "test",
@@ -418,7 +418,7 @@ class TestFrameworkMatches:
         assert _framework_matches(fw, set(), {}, None, root_dirs={"Assets"}) is False
 
     def test_match_ext_in_some(self) -> None:
-        fw = {
+        fw: FrameworkDef = {
             "platform": "test",
             "sort": 1,
             "base_platform": "test",
@@ -1633,7 +1633,7 @@ class TestFrameworksIntegrity:
         valid_base_platforms = set(GITHUB_LANGUAGE_TO_SENTRY_PLATFORM.values())
         for fw in FRAMEWORKS:
             assert fw["base_platform"] in valid_base_platforms, (
-                f'{fw["platform"]} has base_platform={fw["base_platform"]!r} '
+                f"{fw['platform']} has base_platform={fw['base_platform']!r} "
                 f"which is not a value in GITHUB_LANGUAGE_TO_SENTRY_PLATFORM"
             )
 
@@ -1645,22 +1645,22 @@ class TestFrameworksIntegrity:
         for fw in FRAMEWORKS:
             for target in fw.get("supersedes", []):
                 assert target in valid_targets, (
-                    f'{fw["platform"]} supersedes {target!r} '
+                    f"{fw['platform']} supersedes {target!r} "
                     f"which does not exist as a framework or base platform"
                 )
 
     def test_every_framework_has_at_least_one_rule(self) -> None:
         for fw in FRAMEWORKS:
             has_rules = fw.get("every") or fw.get("some")
-            assert has_rules, f'{fw["platform"]} has no detection rules (no every or some)'
+            assert has_rules, f"{fw['platform']} has no detection rules (no every or some)"
 
     def test_sort_values_are_positive_integers(self) -> None:
         for fw in FRAMEWORKS:
             assert isinstance(fw["sort"], int), (
-                f'{fw["platform"]} sort={fw["sort"]!r} is not an int'
+                f"{fw['platform']} sort={fw['sort']!r} is not an int"
             )
             assert 1 <= fw["sort"] <= 99, (
-                f'{fw["platform"]} sort={fw["sort"]} is outside valid range 1-99'
+                f"{fw['platform']} sort={fw['sort']} is outside valid range 1-99"
             )
 
     def test_no_rule_has_match_content_without_path(self) -> None:
@@ -1668,7 +1668,7 @@ class TestFrameworksIntegrity:
             for rule in [*fw.get("every", []), *fw.get("some", [])]:
                 if "match_content" in rule:
                     assert "path" in rule, (
-                        f'{fw["platform"]} has match_content without path — '
+                        f"{fw['platform']} has match_content without path — "
                         f"content matching requires a file to read"
                     )
 

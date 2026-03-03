@@ -769,16 +769,8 @@ def _get_root_entries(
         if ref:
             params["ref"] = ref
         response = client.get(f"/repos/{repo}/contents", params=params)
-        files = {
-            item["name"]
-            for item in response
-            if item.get("type") == "file" and "name" in item
-        }
-        dirs = {
-            item["name"]
-            for item in response
-            if item.get("type") == "dir" and "name" in item
-        }
+        files = {item["name"] for item in response if item.get("type") == "file" and "name" in item}
+        dirs = {item["name"] for item in response if item.get("type") == "dir" and "name" in item}
         return files, dirs
     except (ApiError, AttributeError, TypeError):
         return set(), set()
