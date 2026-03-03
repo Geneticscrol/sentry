@@ -180,6 +180,33 @@ class SCIMDetailPatchTest(SCIMTestCase):
         ).exists()
         assert Team.objects.get(id=self.team.id).idp_provisioned
 
+    def test_scim_team_details_patch_add_with_duplicate_member_ids(self) -> None:
+        self.base_data["Operations"] = [
+            {
+                "op": "add",
+                "path": "members",
+                "value": [
+                    {
+                        "value": self.member_one.id,
+                        "display": self.member_one.email,
+                    },
+                    {
+                        "value": self.member_one.id,
+                        "display": self.member_one.email,
+                    },
+                ],
+            },
+        ]
+        self.get_success_response(
+            self.organization.slug, self.team.id, **self.base_data, status_code=204
+        )
+        assert (
+            OrganizationMemberTeam.objects.filter(
+                team_id=self.team.id, organizationmember_id=self.member_one.id
+            ).count()
+            == 1
+        )
+
     def test_scim_team_details_patch_remove(self) -> None:
         self.base_data["Operations"] = [
             {
@@ -194,6 +221,24 @@ class SCIMDetailPatchTest(SCIMTestCase):
             team_id=self.team.id, organizationmember_id=self.member_one.id
         ).exists()
         assert Team.objects.get(id=self.team.id).idp_provisioned
+
+    @patch("sentry.core.endpoints.scim.teams.OrganizationMemberTeam.objects.bulk_delete")
+    def test_scim_team_details_patch_remove_uses_bulk_delete(
+        self, mock_bulk_delete: MagicMock
+    ) -> None:
+        self.base_data["Operations"] = [
+            {
+                "op": "remove",
+                "path": f'members[value eq "{self.member_on_team.id}"]',
+            }
+        ]
+        self.get_success_response(
+            self.organization.slug, self.team.id, **self.base_data, status_code=204
+        )
+        mock_bulk_delete.assert_called_once()
+        omts = mock_bulk_delete.call_args.args[0]
+        assert len(omts) == 1
+        assert omts[0].organizationmember_id == self.member_on_team.id
 
     def test_team_details_replace_members_list(self) -> None:
         self.base_data["Operations"] = [

@@ -409,7 +409,7 @@ class OrganizationSCIMTeamDetails(SCIMEndpoint, TeamDetailsEndpoint):
                     event=audit_log.get_event_id("MEMBER_LEAVE_TEAM"),
                     data=omt.get_audit_log_data(),
                 )
-            OrganizationMemberTeam.objects.filter(id__in=[omt.id for omt in omts]).delete()
+            OrganizationMemberTeam.objects.bulk_delete(omts)
 
     def _rename_team_operation(self, request: Request, new_name, team):
         serializer = TeamSerializer(
@@ -468,7 +468,7 @@ class OrganizationSCIMTeamDetails(SCIMEndpoint, TeamDetailsEndpoint):
 
                     if op == TeamPatchOps.ADD and operation["path"] == "members":
                         try:
-                            member_ids = [int(v["value"]) for v in operation["value"]]
+                            member_ids = {int(v["value"]) for v in operation["value"]}
                         except (KeyError, TypeError, ValueError):
                             return Response(
                                 {"detail": "Invalid member value format in add operation"},
