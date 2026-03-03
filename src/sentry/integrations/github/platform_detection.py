@@ -221,6 +221,16 @@ FRAMEWORKS: list[FrameworkDef] = [
             {"match_package": "@ionic/vue"},
         ],
     },
+    {
+        "platform": "cordova",
+        "sort": 10,
+        "base_platform": "javascript",
+        "some": [
+            {"path": "config.xml", "match_content": r"cordova\.apache\.org"},
+            {"match_package": "cordova-android"},
+            {"match_package": "cordova-ios"},
+        ],
+    },
     # ===================================================================
     # JavaScript UI frameworks (sort=30)
     # ===================================================================
@@ -352,6 +362,19 @@ FRAMEWORKS: list[FrameworkDef] = [
         "some": [
             {"path": "wrangler.toml"},
             {"match_package": "wrangler"},
+        ],
+    },
+    # --- Node.js base (sort=60, low priority fallback) ---
+    {
+        "platform": "node",
+        "sort": 60,
+        "base_platform": "javascript",
+        "some": [
+            {"path": ".nvmrc"},
+            {"path": ".node-version"},
+            {"path": "nodemon.json"},
+            {"path": "Procfile", "match_content": r"\bnode\b"},
+            {"path": "package.json", "match_content": r'"engines"\s*:\s*\{[^}]*"node"'},
         ],
     },
     # ===================================================================
@@ -503,6 +526,42 @@ FRAMEWORKS: list[FrameworkDef] = [
             {"path": "requirements.txt", "match_content": r"(?i)\bfunctions-framework\b"},
             {"path": "pyproject.toml", "match_content": r"(?i)\bfunctions-framework\b"},
             {"path": "Pipfile", "match_content": r"(?i)\bfunctions-framework\b"},
+        ],
+    },
+    # --- Python ASGI / WSGI servers (sort=60) ---
+    {
+        "platform": "python-asgi",
+        "sort": 60,
+        "base_platform": "python",
+        "some": [
+            {
+                "path": "requirements.txt",
+                "match_content": r"(?i)\b(?:uvicorn|daphne|hypercorn)\b",
+            },
+            {
+                "path": "pyproject.toml",
+                "match_content": r"(?i)\b(?:uvicorn|daphne|hypercorn)\b",
+            },
+            {
+                "path": "Pipfile",
+                "match_content": r"(?i)\b(?:uvicorn|daphne|hypercorn)\b",
+            },
+        ],
+    },
+    {
+        "platform": "python-wsgi",
+        "sort": 60,
+        "base_platform": "python",
+        "some": [
+            {
+                "path": "requirements.txt",
+                "match_content": r"(?i)\b(?:gunicorn|uwsgi)\b",
+            },
+            {
+                "path": "pyproject.toml",
+                "match_content": r"(?i)\b(?:gunicorn|uwsgi)\b",
+            },
+            {"path": "Pipfile", "match_content": r"(?i)\b(?:gunicorn|uwsgi)\b"},
         ],
     },
     # --- Python task queues / background (sort=60) ---
@@ -671,6 +730,33 @@ FRAMEWORKS: list[FrameworkDef] = [
         "some": [{"match_package": "flutter"}],
     },
     # ===================================================================
+    # Swift — macOS vs iOS differentiation
+    # ===================================================================
+    {
+        "platform": "apple-macos",
+        "sort": 5,
+        "base_platform": "swift",
+        "some": [
+            {"path": "Package.swift", "match_content": r"\.macOS\s*\("},
+            {"path": "Podfile", "match_content": r"platform\s+:osx\b"},
+        ],
+    },
+    # ===================================================================
+    # Native (C/C++) — Qt framework detection
+    # ===================================================================
+    {
+        "platform": "native-qt",
+        "sort": 10,
+        "base_platform": "native",
+        "some": [
+            {"match_ext": ".qrc"},
+            {
+                "path": "CMakeLists.txt",
+                "match_content": r"find_package\s*\(\s*Qt[56]|qt_add_executable|Qt[56]::\w+",
+            },
+        ],
+    },
+    # ===================================================================
     # Mobile / Desktop / Gaming — directory and extension-based detection
     # ===================================================================
     {
@@ -784,6 +870,12 @@ _SUPERSESSION_MAP: dict[str, list[str]] = {}
 for _fw in FRAMEWORKS:
     if "supersedes" in _fw:
         _SUPERSESSION_MAP[_fw["platform"]] = _fw["supersedes"]
+
+# Base platform overrides for when no framework is detected.
+# Maps base_platform → more specific fallback platform ID.
+_PLAIN_PLATFORM_OVERRIDES: dict[str, str] = {
+    "go": "go-http",
+}
 
 # Package manifest files per base platform (for match_package rules)
 _PACKAGE_MANIFEST_FILES: dict[str, str] = {
@@ -1141,8 +1233,10 @@ def detect_platforms(
         manifest_file = _PACKAGE_MANIFEST_FILES.get(base_platform)
         manifest = package_manifests.get(manifest_file) if manifest_file else None
 
+        matched_any_framework = False
         for fw in _FRAMEWORKS_BY_PLATFORM.get(base_platform, []):
             if _framework_matches(fw, root_files, file_contents, manifest, root_dirs):
+                matched_any_framework = True
                 platform_id = fw["platform"]
                 if platform_id not in seen_platforms:
                     seen_platforms.add(platform_id)
@@ -1157,10 +1251,17 @@ def detect_platforms(
                     )
 
         if base_platform not in seen_platforms:
+            # When no framework matched, some base platforms have a more
+            # specific fallback (e.g. "go" → "go-http" for stdlib net/http).
+            fallback = (
+                _PLAIN_PLATFORM_OVERRIDES.get(base_platform, base_platform)
+                if not matched_any_framework
+                else base_platform
+            )
             seen_platforms.add(base_platform)
             results.append(
                 DetectedPlatform(
-                    platform=base_platform,
+                    platform=fallback,
                     language=language,
                     bytes=byte_count,
                     confidence="medium",

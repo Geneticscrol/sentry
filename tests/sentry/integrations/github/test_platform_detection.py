@@ -1028,7 +1028,7 @@ class TestDetectPlatforms:
             ("Java", "java"),
             ("Kotlin", "kotlin"),
             ("Swift", "swift"),
-            ("Go", "go"),
+            ("Go", "go-http"),
             ("Ruby", "ruby"),
             ("PHP", "php"),
             ("Rust", "rust"),
@@ -1834,6 +1834,243 @@ class TestDetectPlatforms:
         assert "dotnet-aspnetcore" in platforms
         assert "dotnet-aspnet" not in platforms
 
+    def test_apple_macos_detected_from_package_swift(self) -> None:
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"Swift": 40000}
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [{"name": "Package.swift", "type": "file"}]
+            if "Package.swift" in path:
+                return _make_b64_response(
+                    'let package = Package(\n  platforms: [.macOS("12.0")],\n)'
+                )
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        assert "apple-macos" in platforms
+
+    def test_apple_macos_detected_from_podfile(self) -> None:
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"Swift": 40000}
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [{"name": "Podfile", "type": "file"}]
+            if "Podfile" in path:
+                return _make_b64_response("platform :osx, '12.0'\npod 'Alamofire'\n")
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        assert "apple-macos" in platforms
+
+    def test_native_qt_detected_from_qrc(self) -> None:
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"C++": 30000}
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [{"name": "resources.qrc", "type": "file"}]
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        assert "native-qt" in platforms
+
+    def test_native_qt_detected_from_cmake(self) -> None:
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"C++": 30000}
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [{"name": "CMakeLists.txt", "type": "file"}]
+            if "CMakeLists.txt" in path:
+                return _make_b64_response(
+                    "cmake_minimum_required(VERSION 3.16)\nfind_package(Qt6 REQUIRED)\n"
+                )
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        assert "native-qt" in platforms
+
+    def test_cordova_detected_from_config_xml(self) -> None:
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"JavaScript": 20000}
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [
+                    {"name": "config.xml", "type": "file"},
+                    {"name": "package.json", "type": "file"},
+                ]
+            if "config.xml" in path:
+                return _make_b64_response(
+                    '<widget xmlns="http://cordova.apache.org/ns/1.0">\n'
+                    "  <name>MyApp</name>\n"
+                    "</widget>\n"
+                )
+            if "package.json" in path:
+                return _make_b64_response(json.dumps({"dependencies": {}}))
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        assert "cordova" in platforms
+
+    def test_cordova_detected_from_package_json(self) -> None:
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"JavaScript": 20000}
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [{"name": "package.json", "type": "file"}]
+            if "package.json" in path:
+                return _make_b64_response(
+                    json.dumps({"dependencies": {"cordova-android": "^12.0.0"}})
+                )
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        assert "cordova" in platforms
+
+    def test_node_detected_from_nvmrc(self) -> None:
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"JavaScript": 30000}
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [
+                    {"name": ".nvmrc", "type": "file"},
+                    {"name": "package.json", "type": "file"},
+                ]
+            if "package.json" in path:
+                return _make_b64_response(json.dumps({"dependencies": {}}))
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        assert "node" in platforms
+
+    def test_node_detected_from_engines_field(self) -> None:
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"JavaScript": 30000}
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [{"name": "package.json", "type": "file"}]
+            if "package.json" in path:
+                return _make_b64_response(
+                    json.dumps(
+                        {
+                            "engines": {"node": ">=18.0.0"},
+                            "dependencies": {},
+                        }
+                    )
+                )
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        assert "node" in platforms
+
+    def test_go_http_fallback_when_no_framework(self) -> None:
+        """Go with no framework should emit go-http instead of go."""
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"Go": 50000}
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [{"name": "main.go", "type": "file"}]
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        assert "go-http" in platforms
+        assert "go" not in platforms
+
+    def test_go_with_framework_emits_go_base(self) -> None:
+        """Go with a framework should emit the base 'go' platform, not 'go-http'."""
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"Go": 50000}
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [{"name": "go.mod", "type": "file"}]
+            if "go.mod" in path:
+                return _make_b64_response(
+                    "module example.com/app\n\nrequire github.com/gin-gonic/gin v1.9.1\n"
+                )
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        assert "go-gin" in platforms
+        assert "go" in platforms
+        assert "go-http" not in platforms
+
+    def test_python_asgi_detected_from_uvicorn(self) -> None:
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"Python": 40000}
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [{"name": "requirements.txt", "type": "file"}]
+            if "requirements.txt" in path:
+                return _make_b64_response("fastapi\nuvicorn\npydantic\n")
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        assert "python-asgi" in platforms
+        assert "python-fastapi" in platforms
+
+    def test_python_wsgi_detected_from_gunicorn(self) -> None:
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"Python": 40000}
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [
+                    {"name": "requirements.txt", "type": "file"},
+                    {"name": "manage.py", "type": "file"},
+                ]
+            if "requirements.txt" in path:
+                return _make_b64_response("Django==4.2\ngunicorn\npsycopg2\n")
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        assert "python-wsgi" in platforms
+        assert "python-django" in platforms
+
 
 class TestFrameworksIntegrity:
     """Validate the FRAMEWORKS list is internally consistent.
@@ -1969,6 +2206,7 @@ class TestDetectPlatformsMultiStack:
         # Frameworks detected with high confidence
         assert "python-django" in platform_set
         assert "python-celery" in platform_set
+        assert "python-wsgi" in platform_set  # gunicorn in requirements.txt
         assert "javascript-nextjs" in platform_set
         assert "go-gin" in platform_set
 
