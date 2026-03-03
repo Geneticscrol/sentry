@@ -185,6 +185,27 @@ class TestParseGoMod:
         result = _parse_go_mod("module example.com/app\n\ngo 1.21\n")
         assert result["dependencies"] == set()
 
+    def test_skips_commented_lines_in_require_block(self) -> None:
+        content = (
+            "module example.com/app\n\n"
+            "require (\n"
+            "\tgithub.com/gin-gonic/gin v1.9.1\n"
+            "\t// github.com/old/dep v0.1.0\n"
+            "\tgithub.com/labstack/echo/v4 v4.11.0\n"
+            ")\n"
+        )
+        result = _parse_go_mod(content)
+        assert "github.com/gin-gonic/gin" in result["dependencies"]
+        assert "github.com/labstack/echo/v4" in result["dependencies"]
+        assert "//" not in result["dependencies"]
+        assert "github.com/old/dep" not in result["dependencies"]
+
+    def test_skips_commented_single_require(self) -> None:
+        content = "module example.com/app\n\n// require github.com/old/dep v0.1.0\n"
+        result = _parse_go_mod(content)
+        assert result["dependencies"] == set()
+
+
 class TestPackageInManifest:
     def test_exact_match_in_dependencies(self) -> None:
         manifest = _PackageManifest(dependencies={"next", "react"}, dev_dependencies=set())
@@ -219,6 +240,17 @@ class TestPackageInManifest:
             dependencies={"github.com/gin-gonic/gin"}, dev_dependencies=set()
         )
         assert _package_in_manifest("github.com/gin-gonic/gin", manifest) is True
+
+    def test_go_module_version_no_false_positive_on_similar_path(self) -> None:
+        manifest = _PackageManifest(
+            dependencies={"github.com/foo/bar/validator"}, dev_dependencies=set()
+        )
+        assert _package_in_manifest("github.com/foo/bar", manifest) is False
+
+    def test_npm_scoped_package_no_go_version_matching(self) -> None:
+        manifest = _PackageManifest(dependencies={"@nestjs/core"}, dev_dependencies=set())
+        assert _package_in_manifest("@nestjs/core", manifest) is True
+        assert _package_in_manifest("@nestjs/missing", manifest) is False
 
 
 class TestRuleMatches:
@@ -444,12 +476,23 @@ class TestFrameworkMatches:
         manifest = _PackageManifest(dependencies={"flutter", "http"}, dev_dependencies=set())
         assert _framework_matches(flutter, set(), {}, manifest) is True
 
-    def test_dotnet_aspnetcore_matches_from_csproj(self) -> None:
+    def test_dotnet_aspnetcore_matches_with_csproj_and_appsettings(self) -> None:
         from sentry.integrations.github.platform_detection import FRAMEWORKS
 
         aspnet = next(fw for fw in FRAMEWORKS if fw["platform"] == "dotnet-aspnetcore")
-        assert _framework_matches(aspnet, {"MyApp.csproj"}, {}, None) is True
-        assert _framework_matches(aspnet, {"README.md"}, {}, None) is False
+        assert _framework_matches(aspnet, {"MyApp.csproj", "appsettings.json"}, {}, None) is True
+
+    def test_dotnet_aspnetcore_no_match_csproj_only(self) -> None:
+        from sentry.integrations.github.platform_detection import FRAMEWORKS
+
+        aspnet = next(fw for fw in FRAMEWORKS if fw["platform"] == "dotnet-aspnetcore")
+        assert _framework_matches(aspnet, {"MyApp.csproj"}, {}, None) is False
+
+    def test_dotnet_aspnetcore_no_match_appsettings_only(self) -> None:
+        from sentry.integrations.github.platform_detection import FRAMEWORKS
+
+        aspnet = next(fw for fw in FRAMEWORKS if fw["platform"] == "dotnet-aspnetcore")
+        assert _framework_matches(aspnet, {"appsettings.json"}, {}, None) is False
 
 
 class TestGetRootEntries:
@@ -1291,7 +1334,27 @@ class TestDetectPlatforms:
         platforms = [r["platform"] for r in result]
         assert "android" in platforms
 
-    def test_dotnet_aspnetcore_detected_from_csproj(self) -> None:
+    def test_dotnet_aspnetcore_detected_with_csproj_and_appsettings(self) -> None:
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"C#": 50000}
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [
+                    {"name": "MyApp.csproj", "type": "file"},
+                    {"name": "Program.cs", "type": "file"},
+                    {"name": "appsettings.json", "type": "file"},
+                ]
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+
+        platforms = [r["platform"] for r in result]
+        assert "dotnet-aspnetcore" in platforms
+
+    def test_dotnet_csproj_without_appsettings_falls_back_to_base(self) -> None:
         client = mock.MagicMock()
         client.get_languages.return_value = {"C#": 50000}
 
@@ -1308,7 +1371,8 @@ class TestDetectPlatforms:
         result = detect_platforms(client, "owner/repo")
 
         platforms = [r["platform"] for r in result]
-        assert "dotnet-aspnetcore" in platforms
+        assert "dotnet-aspnetcore" not in platforms
+        assert "dotnet" in platforms
 
     def test_unreal_detected_from_uproject(self) -> None:
         client = mock.MagicMock()

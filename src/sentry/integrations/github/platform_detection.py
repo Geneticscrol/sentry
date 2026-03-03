@@ -97,12 +97,13 @@ class FrameworkDef(TypedDict):
 # The `sort` field controls priority for onboarding recommendations.
 # Lower sort = higher priority. Converted to `priority = 100 - sort` in output.
 #
-#   sort=1      Meta-frameworks         Next.js, Remix, Nuxt, SvelteKit
-#   sort=10     Primary frameworks      Django, Rails, Laravel, Spring Boot
+#   sort=1      Meta-frameworks         Next.js, Remix, Nuxt, SvelteKit, React Native
+#   sort=5-10   Primary frameworks      Django, Rails, Laravel, Spring Boot, Electron
 #   sort=20     Secondary frameworks    Flask, Go frameworks, PHP Symfony
 #   sort=30     UI / general            React, Vue, Angular, Svelte, Starlette
-#   sort=40     Server frameworks       Express, Koa
-#   sort=60     Utilities / background  Celery
+#   sort=40     Server frameworks       Express, Koa, Fastify, NestJS
+#   sort=50     Serverless / edge       AWS Lambda, GCP Functions, Cloudflare Workers
+#   sort=60     Utilities / background  Celery, RQ, Log4j, Logback
 FRAMEWORKS: list[FrameworkDef] = [
     # ===================================================================
     # JavaScript meta-frameworks (sort=1, highest priority)
@@ -691,7 +692,10 @@ FRAMEWORKS: list[FrameworkDef] = [
         "platform": "dotnet-aspnetcore",
         "sort": 10,
         "base_platform": "dotnet",
-        "some": [{"match_ext": ".csproj"}],
+        "every": [
+            {"match_ext": ".csproj"},
+            {"path": "appsettings.json"},
+        ],
     },
     {
         "platform": "unreal",
@@ -870,6 +874,8 @@ def _parse_go_mod(content: str) -> _PackageManifest:
     in_require = False
     for line in content.splitlines():
         stripped = line.strip()
+        if not stripped or stripped.startswith("//"):
+            continue
         if stripped.startswith("require ("):
             in_require = True
             continue
@@ -896,8 +902,16 @@ def _package_in_manifest(package_name: str, manifest: _PackageManifest) -> bool:
     if package_name.endswith("/"):
         return any(dep.startswith(package_name) for dep in all_deps)
     # Go module version path matching: github.com/foo/bar matches github.com/foo/bar/v2
-    if "/" in package_name:
-        return any(dep.startswith(package_name + "/v") for dep in all_deps)
+    # Only applies to Go module paths (contain a dot from the domain name),
+    # not npm scoped packages (@nestjs/core) or composer packages (laravel/framework).
+    if "." in package_name and "/" in package_name:
+        version_prefix = package_name + "/v"
+        return any(
+            dep.startswith(version_prefix)
+            and len(dep) > len(version_prefix)
+            and dep[len(version_prefix)].isdigit()
+            for dep in all_deps
+        )
     return False
 
 
