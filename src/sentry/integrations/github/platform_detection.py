@@ -733,8 +733,19 @@ FRAMEWORKS: list[FrameworkDef] = [
         "some": [{"match_package": "flutter"}],
     },
     # ===================================================================
-    # Swift — macOS vs iOS differentiation
+    # Swift — iOS vs macOS differentiation
     # ===================================================================
+    {
+        "platform": "apple-ios",
+        "sort": 3,
+        "base_platform": "swift",
+        "some": [
+            {"path": "Package.swift", "match_content": r"\.iOS\s*\("},
+            {"path": "Podfile", "match_content": r"platform\s+:ios\b"},
+            {"match_ext": ".xcodeproj"},
+            {"match_dir": ".xcodeproj"},
+        ],
+    },
     {
         "platform": "apple-macos",
         "sort": 5,
@@ -878,6 +889,7 @@ for _fw in FRAMEWORKS:
 # Maps base_platform → more specific fallback platform ID.
 _PLAIN_PLATFORM_OVERRIDES: dict[str, str] = {
     "go": "go-http",
+    "swift": "apple-ios",
 }
 
 # Package manifest files per base platform (for match_package rules)

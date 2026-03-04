@@ -1886,6 +1886,80 @@ class TestDetectPlatforms:
         assert "dotnet-aspnetcore" in platforms
         assert "dotnet-aspnet" not in platforms
 
+    def test_apple_ios_detected_from_package_swift(self) -> None:
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"Swift": 40000}
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [{"name": "Package.swift", "type": "file"}]
+            if "Package.swift" in path:
+                return _make_b64_response("let package = Package(\n  platforms: [.iOS(.v14)],\n)")
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        assert "apple-ios" in platforms
+
+    def test_apple_ios_detected_from_podfile(self) -> None:
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"Swift": 40000}
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [{"name": "Podfile", "type": "file"}]
+            if "Podfile" in path:
+                return _make_b64_response("platform :ios, '14.0'\npod 'Alamofire'\n")
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        assert "apple-ios" in platforms
+
+    def test_apple_ios_higher_priority_than_macos(self) -> None:
+        """When both iOS and macOS are in Package.swift, iOS should rank higher."""
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"Swift": 40000}
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [{"name": "Package.swift", "type": "file"}]
+            if "Package.swift" in path:
+                return _make_b64_response(
+                    "let package = Package(\n  platforms: [.iOS(.v14), .macOS(.v11)],\n)"
+                )
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        assert "apple-ios" in platforms
+        assert "apple-macos" in platforms
+        # iOS (sort=3, priority=97) should come before macOS (sort=5, priority=95)
+        assert platforms.index("apple-ios") < platforms.index("apple-macos")
+
+    def test_swift_fallback_is_apple_ios(self) -> None:
+        """Plain Swift repo with no framework signals should default to apple-ios."""
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"Swift": 40000}
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [{"name": "README.md", "type": "file"}]
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        assert "apple-ios" in platforms
+        assert "swift" not in platforms
+
     def test_apple_macos_detected_from_package_swift(self) -> None:
         client = mock.MagicMock()
         client.get_languages.return_value = {"Swift": 40000}
