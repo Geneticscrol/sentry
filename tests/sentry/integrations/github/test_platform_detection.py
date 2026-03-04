@@ -1027,7 +1027,7 @@ class TestDetectPlatforms:
             ("TypeScript", "javascript"),
             ("Java", "java"),
             ("Kotlin", "kotlin"),
-            ("Swift", "swift"),
+            ("Swift", "apple-ios"),
             ("Go", "go-http"),
             ("Ruby", "ruby"),
             ("PHP", "php"),
