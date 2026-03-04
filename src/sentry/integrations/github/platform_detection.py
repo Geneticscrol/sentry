@@ -344,7 +344,10 @@ FRAMEWORKS: list[FrameworkDef] = [
         "platform": "node-azurefunctions",
         "sort": 50,
         "base_platform": "javascript",
-        "every": [{"path": "host.json"}],
+        "every": [
+            {"path": "host.json", "match_content": r'"extensionBundle"'},
+            {"path": "local.settings.json"},
+        ],
     },
     {
         "platform": "node-cloudflare-pages",

@@ -1620,6 +1620,58 @@ class TestDetectPlatforms:
         assert "node-cloudflare-pages" in platforms
         assert "node-cloudflare-workers" not in platforms
 
+    def test_azurefunctions_detected_from_host_and_local_settings(self) -> None:
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"JavaScript": 50000}
+
+        host_json = '{"version": "2.0", "extensionBundle": {"id": "Microsoft.Azure.Functions.ExtensionBundle"}}'
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [
+                    {"name": "host.json", "type": "file"},
+                    {"name": "local.settings.json", "type": "file"},
+                    {"name": "package.json", "type": "file"},
+                ]
+            if "host.json" in path:
+                return _make_b64_response(host_json)
+            if "package.json" in path:
+                return _make_b64_response(json.dumps({"dependencies": {}}))
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+
+        platforms = [r["platform"] for r in result]
+        assert "node-azurefunctions" in platforms
+
+    def test_azurefunctions_not_detected_without_extension_bundle(self) -> None:
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"JavaScript": 50000}
+
+        host_json = '{"version": "2.0"}'
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [
+                    {"name": "host.json", "type": "file"},
+                    {"name": "local.settings.json", "type": "file"},
+                    {"name": "package.json", "type": "file"},
+                ]
+            if "host.json" in path:
+                return _make_b64_response(host_json)
+            if "package.json" in path:
+                return _make_b64_response(json.dumps({"dependencies": {}}))
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+
+        platforms = [r["platform"] for r in result]
+        assert "node-azurefunctions" not in platforms
+
     def test_serverless_yml_detects_awslambda(self) -> None:
         client = mock.MagicMock()
         client.get_languages.return_value = {"Python": 50000}
