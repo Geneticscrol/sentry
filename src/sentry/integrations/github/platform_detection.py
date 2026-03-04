@@ -968,7 +968,7 @@ def _parse_package_manifest(content: str, manifest_file: str) -> _PackageManifes
             return _parse_gemfile(content)
         elif manifest_file == "go.mod":
             return _parse_go_mod(content)
-    except (json.JSONDecodeError, TypeError):
+    except (json.JSONDecodeError, TypeError, Exception):
         pass
     return None
 
