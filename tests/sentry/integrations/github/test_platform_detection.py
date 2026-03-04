@@ -1960,6 +1960,25 @@ class TestDetectPlatforms:
         assert "apple-ios" in platforms
         assert "swift" not in platforms
 
+    def test_apple_ios_detected_from_xcodeproj_dir(self) -> None:
+        """xcodeproj directories (e.g. MyApp.xcodeproj) should trigger iOS detection."""
+        client = mock.MagicMock()
+        client.get_languages.return_value = {"Swift": 40000}
+
+        def get_side_effect(path, params=None):
+            if path.endswith("/contents"):
+                return [
+                    {"name": "MyApp.xcodeproj", "type": "dir"},
+                    {"name": "README.md", "type": "file"},
+                ]
+            raise ApiError("Not Found", code=404)
+
+        client.get.side_effect = get_side_effect
+
+        result = detect_platforms(client, "owner/repo")
+        platforms = [r["platform"] for r in result]
+        assert "apple-ios" in platforms
+
     def test_apple_macos_detected_from_package_swift(self) -> None:
         client = mock.MagicMock()
         client.get_languages.return_value = {"Swift": 40000}

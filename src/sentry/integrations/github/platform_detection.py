@@ -79,7 +79,8 @@ class DetectorRule(TypedDict, total=False):
     path: str  # File must exist in root directory
     match_content: str  # Regex pattern to match in file content (requires path)
     match_package: str  # Package name in package.json/composer.json deps
-    match_dir: str  # Directory must exist in root
+    match_dir: str  # Directory must exist in root (exact name match)
+    match_dir_ext: str  # Directory with this extension must exist (e.g., ".xcodeproj")
     match_ext: str  # File extension must exist in root (e.g., ".csproj")
 
 
@@ -742,8 +743,7 @@ FRAMEWORKS: list[FrameworkDef] = [
         "some": [
             {"path": "Package.swift", "match_content": r"\.iOS\s*\("},
             {"path": "Podfile", "match_content": r"platform\s+:ios\b"},
-            {"match_ext": ".xcodeproj"},
-            {"match_dir": ".xcodeproj"},
+            {"match_dir_ext": ".xcodeproj"},
         ],
     },
     {
@@ -1096,6 +1096,12 @@ def _rule_matches(
             return False
         return rule["match_dir"] in root_dirs
 
+    if "match_dir_ext" in rule:
+        if root_dirs is None:
+            return False
+        ext = rule["match_dir_ext"]
+        return any(d.endswith(ext) for d in root_dirs)
+
     if "match_ext" in rule:
         ext = rule["match_ext"]
         matching_files = [f for f in root_files if f.endswith(ext)]
@@ -1179,7 +1185,7 @@ def detect_platforms(
     1. Config files — path-only rules (next.config.js, manage.py, etc.)
     2. Manifest content — path + match_content rules (requirements.txt, go.mod, etc.)
     3. Package dependencies — match_package rules (package.json, composer.json, etc.)
-    4. Root directories — match_dir rules (Assets/, app/, etc.)
+    4. Root directories — match_dir / match_dir_ext rules (Assets/, .xcodeproj, etc.)
     5. File extensions — match_ext rules (.csproj, .uproject, etc.)
 
     Results are ranked by priority (descending), then bytes (descending).
