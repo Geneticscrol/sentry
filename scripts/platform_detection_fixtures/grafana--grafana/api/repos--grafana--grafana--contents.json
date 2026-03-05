@@ -1,0 +1,1362 @@
+[
+  {
+    "name": ".air.toml",
+    "path": ".air.toml",
+    "sha": "2959e88838ed7499d7cb58ccef35df81c29fcae5",
+    "size": 632,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/.air.toml?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/.air.toml",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/2959e88838ed7499d7cb58ccef35df81c29fcae5",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/.air.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/.air.toml?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/2959e88838ed7499d7cb58ccef35df81c29fcae5",
+      "html": "https://github.com/grafana/grafana/blob/main/.air.toml"
+    }
+  },
+  {
+    "name": ".bra.toml",
+    "path": ".bra.toml",
+    "sha": "5af8e05ebcc52e3e4b2ef2f497955e27e9dea7ff",
+    "size": 824,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/.bra.toml?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/.bra.toml",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/5af8e05ebcc52e3e4b2ef2f497955e27e9dea7ff",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/.bra.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/.bra.toml?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/5af8e05ebcc52e3e4b2ef2f497955e27e9dea7ff",
+      "html": "https://github.com/grafana/grafana/blob/main/.bra.toml"
+    }
+  },
+  {
+    "name": ".browserslistrc",
+    "path": ".browserslistrc",
+    "sha": "f7b0acde0a7f4672123b19a312ca57aee20ee895",
+    "size": 255,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/.browserslistrc?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/.browserslistrc",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/f7b0acde0a7f4672123b19a312ca57aee20ee895",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/.browserslistrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/.browserslistrc?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/f7b0acde0a7f4672123b19a312ca57aee20ee895",
+      "html": "https://github.com/grafana/grafana/blob/main/.browserslistrc"
+    }
+  },
+  {
+    "name": ".changelog-archive",
+    "path": ".changelog-archive",
+    "sha": "9b0e38bb885856b401726d6c149d4e58de31d718",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/.changelog-archive?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/.changelog-archive",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/9b0e38bb885856b401726d6c149d4e58de31d718",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/.changelog-archive?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/9b0e38bb885856b401726d6c149d4e58de31d718",
+      "html": "https://github.com/grafana/grafana/tree/main/.changelog-archive"
+    }
+  },
+  {
+    "name": ".citools",
+    "path": ".citools",
+    "sha": "be7c702cd5e1095ee61d8403ee8ecc3f80ff1602",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/.citools?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/.citools",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/be7c702cd5e1095ee61d8403ee8ecc3f80ff1602",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/.citools?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/be7c702cd5e1095ee61d8403ee8ecc3f80ff1602",
+      "html": "https://github.com/grafana/grafana/tree/main/.citools"
+    }
+  },
+  {
+    "name": ".dockerignore",
+    "path": ".dockerignore",
+    "sha": "baf9cd046c6caa531beee743d5817aac2fb6999d",
+    "size": 287,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/.dockerignore?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/.dockerignore",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/baf9cd046c6caa531beee743d5817aac2fb6999d",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/.dockerignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/.dockerignore?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/baf9cd046c6caa531beee743d5817aac2fb6999d",
+      "html": "https://github.com/grafana/grafana/blob/main/.dockerignore"
+    }
+  },
+  {
+    "name": ".editorconfig",
+    "path": ".editorconfig",
+    "sha": "3a8c0c7751fc6bd33c92960582aa5578396b682b",
+    "size": 453,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/.editorconfig?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/.editorconfig",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/3a8c0c7751fc6bd33c92960582aa5578396b682b",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/.editorconfig",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/.editorconfig?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/3a8c0c7751fc6bd33c92960582aa5578396b682b",
+      "html": "https://github.com/grafana/grafana/blob/main/.editorconfig"
+    }
+  },
+  {
+    "name": ".gitattributes",
+    "path": ".gitattributes",
+    "sha": "506da7cc196ba0e13538cf22381b4af54e2eb109",
+    "size": 392,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/.gitattributes?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/.gitattributes",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/506da7cc196ba0e13538cf22381b4af54e2eb109",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/.gitattributes",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/.gitattributes?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/506da7cc196ba0e13538cf22381b4af54e2eb109",
+      "html": "https://github.com/grafana/grafana/blob/main/.gitattributes"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "9966506ce8d15844b9496c18d5ab6c4cdd650539",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/.github?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/.github",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/9966506ce8d15844b9496c18d5ab6c4cdd650539",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/9966506ce8d15844b9496c18d5ab6c4cdd650539",
+      "html": "https://github.com/grafana/grafana/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "673e4cf7ec45c4eaa6374a14b0c8b5bdd4424256",
+    "size": 5642,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/673e4cf7ec45c4eaa6374a14b0c8b5bdd4424256",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/673e4cf7ec45c4eaa6374a14b0c8b5bdd4424256",
+      "html": "https://github.com/grafana/grafana/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".golangci.yml",
+    "path": ".golangci.yml",
+    "sha": "d7037bf6fac83ee7d61d75e675190ec560f33c29",
+    "size": 12496,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/.golangci.yml?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/.golangci.yml",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/d7037bf6fac83ee7d61d75e675190ec560f33c29",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/.golangci.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/.golangci.yml?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/d7037bf6fac83ee7d61d75e675190ec560f33c29",
+      "html": "https://github.com/grafana/grafana/blob/main/.golangci.yml"
+    }
+  },
+  {
+    "name": ".husky",
+    "path": ".husky",
+    "sha": "c8eeb1efb22603de2e6f779476f6b13403fed28e",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/.husky?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/.husky",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/c8eeb1efb22603de2e6f779476f6b13403fed28e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/.husky?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/c8eeb1efb22603de2e6f779476f6b13403fed28e",
+      "html": "https://github.com/grafana/grafana/tree/main/.husky"
+    }
+  },
+  {
+    "name": ".ignore",
+    "path": ".ignore",
+    "sha": "e2253d1f69d3bfae22f86014a1891b2f8c5e0028",
+    "size": 644,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/.ignore?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/.ignore",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/e2253d1f69d3bfae22f86014a1891b2f8c5e0028",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/.ignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/.ignore?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/e2253d1f69d3bfae22f86014a1891b2f8c5e0028",
+      "html": "https://github.com/grafana/grafana/blob/main/.ignore"
+    }
+  },
+  {
+    "name": ".levignore.js",
+    "path": ".levignore.js",
+    "sha": "1ebd406a0387a7218212a31818700017fcfca6d9",
+    "size": 130,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/.levignore.js?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/.levignore.js",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/1ebd406a0387a7218212a31818700017fcfca6d9",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/.levignore.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/.levignore.js?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/1ebd406a0387a7218212a31818700017fcfca6d9",
+      "html": "https://github.com/grafana/grafana/blob/main/.levignore.js"
+    }
+  },
+  {
+    "name": ".nvmrc",
+    "path": ".nvmrc",
+    "sha": "c519bf5baaaa57e334443c22af9625e3f509bcb3",
+    "size": 9,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/.nvmrc?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/.nvmrc",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/c519bf5baaaa57e334443c22af9625e3f509bcb3",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/.nvmrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/.nvmrc?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/c519bf5baaaa57e334443c22af9625e3f509bcb3",
+      "html": "https://github.com/grafana/grafana/blob/main/.nvmrc"
+    }
+  },
+  {
+    "name": ".nxignore",
+    "path": ".nxignore",
+    "sha": "edf9f018d254bdae5b0e289ce69afd4ddd200990",
+    "size": 17,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/.nxignore?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/.nxignore",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/edf9f018d254bdae5b0e289ce69afd4ddd200990",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/.nxignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/.nxignore?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/edf9f018d254bdae5b0e289ce69afd4ddd200990",
+      "html": "https://github.com/grafana/grafana/blob/main/.nxignore"
+    }
+  },
+  {
+    "name": ".prettierignore",
+    "path": ".prettierignore",
+    "sha": "3548bdf574154795198e48940f8bbe3c72ef151d",
+    "size": 822,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/.prettierignore?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/.prettierignore",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/3548bdf574154795198e48940f8bbe3c72ef151d",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/.prettierignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/.prettierignore?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/3548bdf574154795198e48940f8bbe3c72ef151d",
+      "html": "https://github.com/grafana/grafana/blob/main/.prettierignore"
+    }
+  },
+  {
+    "name": ".prettierrc.js",
+    "path": ".prettierrc.js",
+    "sha": "a4df7366a3ae3af12c75d40acd5d69b2acfc8813",
+    "size": 86,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/.prettierrc.js?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/.prettierrc.js",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/a4df7366a3ae3af12c75d40acd5d69b2acfc8813",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/.prettierrc.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/.prettierrc.js?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/a4df7366a3ae3af12c75d40acd5d69b2acfc8813",
+      "html": "https://github.com/grafana/grafana/blob/main/.prettierrc.js"
+    }
+  },
+  {
+    "name": ".trivyignore",
+    "path": ".trivyignore",
+    "sha": "f326688a0c7a6c5f6ef5012c1a0dc8ec9c16e31d",
+    "size": 91,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/.trivyignore?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/.trivyignore",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/f326688a0c7a6c5f6ef5012c1a0dc8ec9c16e31d",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/.trivyignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/.trivyignore?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/f326688a0c7a6c5f6ef5012c1a0dc8ec9c16e31d",
+      "html": "https://github.com/grafana/grafana/blob/main/.trivyignore"
+    }
+  },
+  {
+    "name": ".vale.ini",
+    "path": ".vale.ini",
+    "sha": "37e764e6d0fd14e74dd18e805266837039eb3d1d",
+    "size": 104,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/.vale.ini?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/.vale.ini",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/37e764e6d0fd14e74dd18e805266837039eb3d1d",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/.vale.ini",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/.vale.ini?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/37e764e6d0fd14e74dd18e805266837039eb3d1d",
+      "html": "https://github.com/grafana/grafana/blob/main/.vale.ini"
+    }
+  },
+  {
+    "name": ".vim",
+    "path": ".vim",
+    "sha": "073bed10cf36515d4375987111af26b467ad2cac",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/.vim?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/.vim",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/073bed10cf36515d4375987111af26b467ad2cac",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/.vim?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/073bed10cf36515d4375987111af26b467ad2cac",
+      "html": "https://github.com/grafana/grafana/tree/main/.vim"
+    }
+  },
+  {
+    "name": ".vscode",
+    "path": ".vscode",
+    "sha": "b6aa88a4c2f22be84c0ccf1e77a82346091c8d5f",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/.vscode?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/.vscode",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/b6aa88a4c2f22be84c0ccf1e77a82346091c8d5f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/.vscode?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/b6aa88a4c2f22be84c0ccf1e77a82346091c8d5f",
+      "html": "https://github.com/grafana/grafana/tree/main/.vscode"
+    }
+  },
+  {
+    "name": ".yarn",
+    "path": ".yarn",
+    "sha": "4aed3d7caaa244b155796446d689965e0bbb01ed",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/.yarn?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/.yarn",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/4aed3d7caaa244b155796446d689965e0bbb01ed",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/.yarn?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/4aed3d7caaa244b155796446d689965e0bbb01ed",
+      "html": "https://github.com/grafana/grafana/tree/main/.yarn"
+    }
+  },
+  {
+    "name": ".yarnrc.yml",
+    "path": ".yarnrc.yml",
+    "sha": "a5975db72f3755499abe2ac9e2c00c72a1d5b28d",
+    "size": 820,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/.yarnrc.yml?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/.yarnrc.yml",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/a5975db72f3755499abe2ac9e2c00c72a1d5b28d",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/.yarnrc.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/.yarnrc.yml?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/a5975db72f3755499abe2ac9e2c00c72a1d5b28d",
+      "html": "https://github.com/grafana/grafana/blob/main/.yarnrc.yml"
+    }
+  },
+  {
+    "name": "AGENTS.md",
+    "path": "AGENTS.md",
+    "sha": "800d274e4c231aadb1a26298773b64da774164c8",
+    "size": 7581,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/AGENTS.md?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/AGENTS.md",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/800d274e4c231aadb1a26298773b64da774164c8",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/AGENTS.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/AGENTS.md?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/800d274e4c231aadb1a26298773b64da774164c8",
+      "html": "https://github.com/grafana/grafana/blob/main/AGENTS.md"
+    }
+  },
+  {
+    "name": "CHANGELOG.md",
+    "path": "CHANGELOG.md",
+    "sha": "696a33bca9a53b32818b41d6b348bfeb3b3a7a36",
+    "size": 447088,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/CHANGELOG.md?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/CHANGELOG.md",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/696a33bca9a53b32818b41d6b348bfeb3b3a7a36",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/CHANGELOG.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/CHANGELOG.md?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/696a33bca9a53b32818b41d6b348bfeb3b3a7a36",
+      "html": "https://github.com/grafana/grafana/blob/main/CHANGELOG.md"
+    }
+  },
+  {
+    "name": "CODE_OF_CONDUCT.md",
+    "path": "CODE_OF_CONDUCT.md",
+    "sha": "ac296aad9558b03a7c48f07471ed1e1a074560ce",
+    "size": 3253,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/CODE_OF_CONDUCT.md?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/CODE_OF_CONDUCT.md",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/ac296aad9558b03a7c48f07471ed1e1a074560ce",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/CODE_OF_CONDUCT.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/CODE_OF_CONDUCT.md?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/ac296aad9558b03a7c48f07471ed1e1a074560ce",
+      "html": "https://github.com/grafana/grafana/blob/main/CODE_OF_CONDUCT.md"
+    }
+  },
+  {
+    "name": "CONTRIBUTING.md",
+    "path": "CONTRIBUTING.md",
+    "sha": "56703333c1bbbac1d94346aa2292f7a94a613fb6",
+    "size": 9324,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/CONTRIBUTING.md?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/CONTRIBUTING.md",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/56703333c1bbbac1d94346aa2292f7a94a613fb6",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/CONTRIBUTING.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/CONTRIBUTING.md?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/56703333c1bbbac1d94346aa2292f7a94a613fb6",
+      "html": "https://github.com/grafana/grafana/blob/main/CONTRIBUTING.md"
+    }
+  },
+  {
+    "name": "Dockerfile",
+    "path": "Dockerfile",
+    "sha": "21dd9aa0dddb475f43c3713a20716d02d07853b9",
+    "size": 7965,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/Dockerfile?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/Dockerfile",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/21dd9aa0dddb475f43c3713a20716d02d07853b9",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/Dockerfile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/Dockerfile?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/21dd9aa0dddb475f43c3713a20716d02d07853b9",
+      "html": "https://github.com/grafana/grafana/blob/main/Dockerfile"
+    }
+  },
+  {
+    "name": "GOVERNANCE.md",
+    "path": "GOVERNANCE.md",
+    "sha": "f246ca03386806893a3874073051ea270d649b99",
+    "size": 12909,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/GOVERNANCE.md?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/GOVERNANCE.md",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/f246ca03386806893a3874073051ea270d649b99",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/GOVERNANCE.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/GOVERNANCE.md?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/f246ca03386806893a3874073051ea270d649b99",
+      "html": "https://github.com/grafana/grafana/blob/main/GOVERNANCE.md"
+    }
+  },
+  {
+    "name": "HALL_OF_FAME.md",
+    "path": "HALL_OF_FAME.md",
+    "sha": "dc14715d6ebde10cd0213f6ba4bed7a035f011cb",
+    "size": 298,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/HALL_OF_FAME.md?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/HALL_OF_FAME.md",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/dc14715d6ebde10cd0213f6ba4bed7a035f011cb",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/HALL_OF_FAME.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/HALL_OF_FAME.md?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/dc14715d6ebde10cd0213f6ba4bed7a035f011cb",
+      "html": "https://github.com/grafana/grafana/blob/main/HALL_OF_FAME.md"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "be3f7b28e564e7dd05eaf59d64adba1a4065ac0e",
+    "size": 34523,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/LICENSE?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/LICENSE",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/be3f7b28e564e7dd05eaf59d64adba1a4065ac0e",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/LICENSE?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/be3f7b28e564e7dd05eaf59d64adba1a4065ac0e",
+      "html": "https://github.com/grafana/grafana/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "LICENSING.md",
+    "path": "LICENSING.md",
+    "sha": "cfd239e7230e68b679271be46c6877cf35bb9e95",
+    "size": 1027,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/LICENSING.md?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/LICENSING.md",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/cfd239e7230e68b679271be46c6877cf35bb9e95",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/LICENSING.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/LICENSING.md?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/cfd239e7230e68b679271be46c6877cf35bb9e95",
+      "html": "https://github.com/grafana/grafana/blob/main/LICENSING.md"
+    }
+  },
+  {
+    "name": "MAINTAINERS.md",
+    "path": "MAINTAINERS.md",
+    "sha": "b1443b3372275528260ae5fda4743eb2d8ac29f0",
+    "size": 207,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/MAINTAINERS.md?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/MAINTAINERS.md",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/b1443b3372275528260ae5fda4743eb2d8ac29f0",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/MAINTAINERS.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/MAINTAINERS.md?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/b1443b3372275528260ae5fda4743eb2d8ac29f0",
+      "html": "https://github.com/grafana/grafana/blob/main/MAINTAINERS.md"
+    }
+  },
+  {
+    "name": "Makefile",
+    "path": "Makefile",
+    "sha": "78707a6db48c7a441f60a6d1084354ac236622ab",
+    "size": 23909,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/Makefile?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/Makefile",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/78707a6db48c7a441f60a6d1084354ac236622ab",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/Makefile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/Makefile?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/78707a6db48c7a441f60a6d1084354ac236622ab",
+      "html": "https://github.com/grafana/grafana/blob/main/Makefile"
+    }
+  },
+  {
+    "name": "NOTICE.md",
+    "path": "NOTICE.md",
+    "sha": "15bc6c61bf38e5687d1b194fbd37d7a2297b0081",
+    "size": 105,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/NOTICE.md?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/NOTICE.md",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/15bc6c61bf38e5687d1b194fbd37d7a2297b0081",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/NOTICE.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/NOTICE.md?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/15bc6c61bf38e5687d1b194fbd37d7a2297b0081",
+      "html": "https://github.com/grafana/grafana/blob/main/NOTICE.md"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "d92844ed9aab90ff0c41706ea1d4d3b2135d32d7",
+    "size": 3253,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/README.md?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/d92844ed9aab90ff0c41706ea1d4d3b2135d32d7",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/d92844ed9aab90ff0c41706ea1d4d3b2135d32d7",
+      "html": "https://github.com/grafana/grafana/blob/main/README.md"
+    }
+  },
+  {
+    "name": "ROADMAP.md",
+    "path": "ROADMAP.md",
+    "sha": "7daf6465dccf10e166a3bdd81d63fe1f39222c58",
+    "size": 322,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/ROADMAP.md?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/ROADMAP.md",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/7daf6465dccf10e166a3bdd81d63fe1f39222c58",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/ROADMAP.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/ROADMAP.md?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/7daf6465dccf10e166a3bdd81d63fe1f39222c58",
+      "html": "https://github.com/grafana/grafana/blob/main/ROADMAP.md"
+    }
+  },
+  {
+    "name": "SUPPORT.md",
+    "path": "SUPPORT.md",
+    "sha": "a8aae994618db1105f43961798b35726d7652909",
+    "size": 661,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/SUPPORT.md?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/SUPPORT.md",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/a8aae994618db1105f43961798b35726d7652909",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/SUPPORT.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/SUPPORT.md?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/a8aae994618db1105f43961798b35726d7652909",
+      "html": "https://github.com/grafana/grafana/blob/main/SUPPORT.md"
+    }
+  },
+  {
+    "name": "WORKFLOW.md",
+    "path": "WORKFLOW.md",
+    "sha": "891aad6feefbed6c0743cb113c9f2b5172f7896b",
+    "size": 4580,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/WORKFLOW.md?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/WORKFLOW.md",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/891aad6feefbed6c0743cb113c9f2b5172f7896b",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/WORKFLOW.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/WORKFLOW.md?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/891aad6feefbed6c0743cb113c9f2b5172f7896b",
+      "html": "https://github.com/grafana/grafana/blob/main/WORKFLOW.md"
+    }
+  },
+  {
+    "name": "apps",
+    "path": "apps",
+    "sha": "e458ecccf61a74cff2517fce4c93886c158a079c",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/apps?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/apps",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/e458ecccf61a74cff2517fce4c93886c158a079c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/apps?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/e458ecccf61a74cff2517fce4c93886c158a079c",
+      "html": "https://github.com/grafana/grafana/tree/main/apps"
+    }
+  },
+  {
+    "name": "conf",
+    "path": "conf",
+    "sha": "1ddc5ba343a80c3aa12b81596ca87ef48411cb84",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/conf?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/conf",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/1ddc5ba343a80c3aa12b81596ca87ef48411cb84",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/conf?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/1ddc5ba343a80c3aa12b81596ca87ef48411cb84",
+      "html": "https://github.com/grafana/grafana/tree/main/conf"
+    }
+  },
+  {
+    "name": "contribute",
+    "path": "contribute",
+    "sha": "1a20338dd4531d3478fd3ecdef9faf31d58b4287",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/contribute?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/contribute",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/1a20338dd4531d3478fd3ecdef9faf31d58b4287",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/contribute?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/1a20338dd4531d3478fd3ecdef9faf31d58b4287",
+      "html": "https://github.com/grafana/grafana/tree/main/contribute"
+    }
+  },
+  {
+    "name": "crowdin.yml",
+    "path": "crowdin.yml",
+    "sha": "750bf8d1f4a2d9efcf8538e9b89405f2fc02c3b7",
+    "size": 1433,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/crowdin.yml?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/crowdin.yml",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/750bf8d1f4a2d9efcf8538e9b89405f2fc02c3b7",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/crowdin.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/crowdin.yml?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/750bf8d1f4a2d9efcf8538e9b89405f2fc02c3b7",
+      "html": "https://github.com/grafana/grafana/blob/main/crowdin.yml"
+    }
+  },
+  {
+    "name": "cue.mod",
+    "path": "cue.mod",
+    "sha": "ceb8024d9fba48965e4632d25063709f075e145b",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/cue.mod?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/cue.mod",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/ceb8024d9fba48965e4632d25063709f075e145b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/cue.mod?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/ceb8024d9fba48965e4632d25063709f075e145b",
+      "html": "https://github.com/grafana/grafana/tree/main/cue.mod"
+    }
+  },
+  {
+    "name": "cypress.config.js",
+    "path": "cypress.config.js",
+    "sha": "a76a3d562b5ddc88aaf15cc2fc6dc3c9c7d251d3",
+    "size": 3713,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/cypress.config.js?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/cypress.config.js",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/a76a3d562b5ddc88aaf15cc2fc6dc3c9c7d251d3",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/cypress.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/cypress.config.js?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/a76a3d562b5ddc88aaf15cc2fc6dc3c9c7d251d3",
+      "html": "https://github.com/grafana/grafana/blob/main/cypress.config.js"
+    }
+  },
+  {
+    "name": "devenv",
+    "path": "devenv",
+    "sha": "01e3c5f3ea5da9ec5f217fa24433513fffa12394",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/devenv?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/devenv",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/01e3c5f3ea5da9ec5f217fa24433513fffa12394",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/devenv?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/01e3c5f3ea5da9ec5f217fa24433513fffa12394",
+      "html": "https://github.com/grafana/grafana/tree/main/devenv"
+    }
+  },
+  {
+    "name": "docs",
+    "path": "docs",
+    "sha": "5c74241c6eac94d1bf59db31d2629b1492c65dd1",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/docs?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/docs",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/5c74241c6eac94d1bf59db31d2629b1492c65dd1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/docs?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/5c74241c6eac94d1bf59db31d2629b1492c65dd1",
+      "html": "https://github.com/grafana/grafana/tree/main/docs"
+    }
+  },
+  {
+    "name": "e2e-playwright",
+    "path": "e2e-playwright",
+    "sha": "f64e30b6d81c300ae14e2658f341a56fa6bb7152",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/e2e-playwright?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/e2e-playwright",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/f64e30b6d81c300ae14e2658f341a56fa6bb7152",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/e2e-playwright?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/f64e30b6d81c300ae14e2658f341a56fa6bb7152",
+      "html": "https://github.com/grafana/grafana/tree/main/e2e-playwright"
+    }
+  },
+  {
+    "name": "e2e",
+    "path": "e2e",
+    "sha": "09792c3e6ed524873d49582e762536e6d3974101",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/e2e?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/e2e",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/09792c3e6ed524873d49582e762536e6d3974101",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/e2e?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/09792c3e6ed524873d49582e762536e6d3974101",
+      "html": "https://github.com/grafana/grafana/tree/main/e2e"
+    }
+  },
+  {
+    "name": "emails",
+    "path": "emails",
+    "sha": "e3753e6ca2791f6098a822b10d8f78ef0c75035d",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/emails?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/emails",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/e3753e6ca2791f6098a822b10d8f78ef0c75035d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/emails?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/e3753e6ca2791f6098a822b10d8f78ef0c75035d",
+      "html": "https://github.com/grafana/grafana/tree/main/emails"
+    }
+  },
+  {
+    "name": "embed.go",
+    "path": "embed.go",
+    "sha": "b968d1ca455a01606d5837296f550a76c9f53a6d",
+    "size": 171,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/embed.go?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/embed.go",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/b968d1ca455a01606d5837296f550a76c9f53a6d",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/embed.go",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/embed.go?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/b968d1ca455a01606d5837296f550a76c9f53a6d",
+      "html": "https://github.com/grafana/grafana/blob/main/embed.go"
+    }
+  },
+  {
+    "name": "eslint-suppressions.json",
+    "path": "eslint-suppressions.json",
+    "sha": "9dd65a585e106fc4bd56f2ce87ac061889da9a8a",
+    "size": 117708,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/eslint-suppressions.json?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/eslint-suppressions.json",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/9dd65a585e106fc4bd56f2ce87ac061889da9a8a",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/eslint-suppressions.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/eslint-suppressions.json?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/9dd65a585e106fc4bd56f2ce87ac061889da9a8a",
+      "html": "https://github.com/grafana/grafana/blob/main/eslint-suppressions.json"
+    }
+  },
+  {
+    "name": "eslint.config.js",
+    "path": "eslint.config.js",
+    "sha": "8168702a8ee1f25af3eb1a271249e800bf1822e8",
+    "size": 24414,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/eslint.config.js?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/eslint.config.js",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/8168702a8ee1f25af3eb1a271249e800bf1822e8",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/eslint.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/eslint.config.js?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/8168702a8ee1f25af3eb1a271249e800bf1822e8",
+      "html": "https://github.com/grafana/grafana/blob/main/eslint.config.js"
+    }
+  },
+  {
+    "name": "go.mod",
+    "path": "go.mod",
+    "sha": "96e317cc8ab0575d6d0c3447e73503a681ffde48",
+    "size": 49003,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/go.mod?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/go.mod",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/96e317cc8ab0575d6d0c3447e73503a681ffde48",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/go.mod",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/go.mod?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/96e317cc8ab0575d6d0c3447e73503a681ffde48",
+      "html": "https://github.com/grafana/grafana/blob/main/go.mod"
+    }
+  },
+  {
+    "name": "go.sum",
+    "path": "go.sum",
+    "sha": "936cc521ac0ef98fd9e612f8535f0e4ef5417354",
+    "size": 364700,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/go.sum?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/go.sum",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/936cc521ac0ef98fd9e612f8535f0e4ef5417354",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/go.sum",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/go.sum?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/936cc521ac0ef98fd9e612f8535f0e4ef5417354",
+      "html": "https://github.com/grafana/grafana/blob/main/go.sum"
+    }
+  },
+  {
+    "name": "go.work",
+    "path": "go.work",
+    "sha": "ab2fd4ca0015d46cb0ff37f684c07f61d78892c7",
+    "size": 1193,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/go.work?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/go.work",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/ab2fd4ca0015d46cb0ff37f684c07f61d78892c7",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/go.work",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/go.work?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/ab2fd4ca0015d46cb0ff37f684c07f61d78892c7",
+      "html": "https://github.com/grafana/grafana/blob/main/go.work"
+    }
+  },
+  {
+    "name": "go.work.sum",
+    "path": "go.work.sum",
+    "sha": "c2ca8054a20f5bad009e6764e3488ea10e4ede3c",
+    "size": 224136,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/go.work.sum?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/go.work.sum",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/c2ca8054a20f5bad009e6764e3488ea10e4ede3c",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/go.work.sum",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/go.work.sum?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/c2ca8054a20f5bad009e6764e3488ea10e4ede3c",
+      "html": "https://github.com/grafana/grafana/blob/main/go.work.sum"
+    }
+  },
+  {
+    "name": "grafana-mixin",
+    "path": "grafana-mixin",
+    "sha": "0330b05ca911845f146272abf6d148f838921a5c",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/grafana-mixin?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/grafana-mixin",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/0330b05ca911845f146272abf6d148f838921a5c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/grafana-mixin?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/0330b05ca911845f146272abf6d148f838921a5c",
+      "html": "https://github.com/grafana/grafana/tree/main/grafana-mixin"
+    }
+  },
+  {
+    "name": "hack",
+    "path": "hack",
+    "sha": "ab9cb2ebfbb4333f99cfe898b04c60b2911f9a36",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/hack?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/hack",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/ab9cb2ebfbb4333f99cfe898b04c60b2911f9a36",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/hack?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/ab9cb2ebfbb4333f99cfe898b04c60b2911f9a36",
+      "html": "https://github.com/grafana/grafana/tree/main/hack"
+    }
+  },
+  {
+    "name": "i18next.config.ts",
+    "path": "i18next.config.ts",
+    "sha": "ae0683186990f6ad0b5545ada9258c27d3cdece9",
+    "size": 638,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/i18next.config.ts?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/i18next.config.ts",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/ae0683186990f6ad0b5545ada9258c27d3cdece9",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/i18next.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/i18next.config.ts?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/ae0683186990f6ad0b5545ada9258c27d3cdece9",
+      "html": "https://github.com/grafana/grafana/blob/main/i18next.config.ts"
+    }
+  },
+  {
+    "name": "jest.config.codeowner.js",
+    "path": "jest.config.codeowner.js",
+    "sha": "165c8b96a7b47ca9f6c9b87e6f13a4f17c794f33",
+    "size": 6245,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/jest.config.codeowner.js?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/jest.config.codeowner.js",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/165c8b96a7b47ca9f6c9b87e6f13a4f17c794f33",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/jest.config.codeowner.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/jest.config.codeowner.js?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/165c8b96a7b47ca9f6c9b87e6f13a4f17c794f33",
+      "html": "https://github.com/grafana/grafana/blob/main/jest.config.codeowner.js"
+    }
+  },
+  {
+    "name": "jest.config.js",
+    "path": "jest.config.js",
+    "sha": "a8da73c7c32aecab5409ffe4c0550a17ddb0e0c8",
+    "size": 3918,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/jest.config.js?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/jest.config.js",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/a8da73c7c32aecab5409ffe4c0550a17ddb0e0c8",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/jest.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/jest.config.js?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/a8da73c7c32aecab5409ffe4c0550a17ddb0e0c8",
+      "html": "https://github.com/grafana/grafana/blob/main/jest.config.js"
+    }
+  },
+  {
+    "name": "kinds",
+    "path": "kinds",
+    "sha": "5b40947dfcc0a5ed98557e9b87496b85f0e6c179",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/kinds?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/kinds",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/5b40947dfcc0a5ed98557e9b87496b85f0e6c179",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/kinds?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/5b40947dfcc0a5ed98557e9b87496b85f0e6c179",
+      "html": "https://github.com/grafana/grafana/tree/main/kinds"
+    }
+  },
+  {
+    "name": "kindsv2",
+    "path": "kindsv2",
+    "sha": "c92a78c438c337c635c974600b8f2e44d30f2a87",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/kindsv2?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/kindsv2",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/c92a78c438c337c635c974600b8f2e44d30f2a87",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/kindsv2?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/c92a78c438c337c635c974600b8f2e44d30f2a87",
+      "html": "https://github.com/grafana/grafana/tree/main/kindsv2"
+    }
+  },
+  {
+    "name": "latest.json",
+    "path": "latest.json",
+    "sha": "8186768eabb82218e971b14f6f16c4d256a6a7de",
+    "size": 183,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/latest.json?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/latest.json",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/8186768eabb82218e971b14f6f16c4d256a6a7de",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/latest.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/latest.json?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/8186768eabb82218e971b14f6f16c4d256a6a7de",
+      "html": "https://github.com/grafana/grafana/blob/main/latest.json"
+    }
+  },
+  {
+    "name": "lefthook.rc",
+    "path": "lefthook.rc",
+    "sha": "a772dbb680ef9798404e7af18c149a6574f1ea7e",
+    "size": 257,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/lefthook.rc?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/lefthook.rc",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/a772dbb680ef9798404e7af18c149a6574f1ea7e",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/lefthook.rc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/lefthook.rc?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/a772dbb680ef9798404e7af18c149a6574f1ea7e",
+      "html": "https://github.com/grafana/grafana/blob/main/lefthook.rc"
+    }
+  },
+  {
+    "name": "lefthook.yml",
+    "path": "lefthook.yml",
+    "sha": "fcae0a2f6ac0684019e545673ab3eb69d88ea46e",
+    "size": 845,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/lefthook.yml?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/lefthook.yml",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/fcae0a2f6ac0684019e545673ab3eb69d88ea46e",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/lefthook.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/lefthook.yml?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/fcae0a2f6ac0684019e545673ab3eb69d88ea46e",
+      "html": "https://github.com/grafana/grafana/blob/main/lefthook.yml"
+    }
+  },
+  {
+    "name": "lerna.json",
+    "path": "lerna.json",
+    "sha": "63beec6730aed6069cca90d97d5c48e75225ed1a",
+    "size": 114,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/lerna.json?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/lerna.json",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/63beec6730aed6069cca90d97d5c48e75225ed1a",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/lerna.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/lerna.json?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/63beec6730aed6069cca90d97d5c48e75225ed1a",
+      "html": "https://github.com/grafana/grafana/blob/main/lerna.json"
+    }
+  },
+  {
+    "name": "local",
+    "path": "local",
+    "sha": "d564d0bc3dd917926892c55e3706cc116d5b165e",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/local?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/local",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/d564d0bc3dd917926892c55e3706cc116d5b165e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/local?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/d564d0bc3dd917926892c55e3706cc116d5b165e",
+      "html": "https://github.com/grafana/grafana/tree/main/local"
+    }
+  },
+  {
+    "name": "nx.json",
+    "path": "nx.json",
+    "sha": "c217e907f442ce6811659235fd499882aaffc327",
+    "size": 241,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/nx.json?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/nx.json",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/c217e907f442ce6811659235fd499882aaffc327",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/nx.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/nx.json?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/c217e907f442ce6811659235fd499882aaffc327",
+      "html": "https://github.com/grafana/grafana/blob/main/nx.json"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "d0e809887338216a20eacac84c60589cd5d1540c",
+    "size": 21423,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/package.json?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/package.json",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/d0e809887338216a20eacac84c60589cd5d1540c",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/package.json?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/d0e809887338216a20eacac84c60589cd5d1540c",
+      "html": "https://github.com/grafana/grafana/blob/main/package.json"
+    }
+  },
+  {
+    "name": "packages",
+    "path": "packages",
+    "sha": "1dca6a7738ae4f731ecec09f7aca6e909890a3bc",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/packages?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/packages",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/1dca6a7738ae4f731ecec09f7aca6e909890a3bc",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/packages?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/1dca6a7738ae4f731ecec09f7aca6e909890a3bc",
+      "html": "https://github.com/grafana/grafana/tree/main/packages"
+    }
+  },
+  {
+    "name": "packaging",
+    "path": "packaging",
+    "sha": "d1d5ebfc5cad9a92e2065079a92fc12367c869c4",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/packaging?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/packaging",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/d1d5ebfc5cad9a92e2065079a92fc12367c869c4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/packaging?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/d1d5ebfc5cad9a92e2065079a92fc12367c869c4",
+      "html": "https://github.com/grafana/grafana/tree/main/packaging"
+    }
+  },
+  {
+    "name": "pkg",
+    "path": "pkg",
+    "sha": "0f8e2e16de379ee1cf3f4d02720fbbdd902f4b0c",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/pkg?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/pkg",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/0f8e2e16de379ee1cf3f4d02720fbbdd902f4b0c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/pkg?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/0f8e2e16de379ee1cf3f4d02720fbbdd902f4b0c",
+      "html": "https://github.com/grafana/grafana/tree/main/pkg"
+    }
+  },
+  {
+    "name": "playwright.config.ts",
+    "path": "playwright.config.ts",
+    "sha": "2b50453f87b06486b7e27d9c4550e9925a6ef7d1",
+    "size": 6346,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/playwright.config.ts?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/playwright.config.ts",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/2b50453f87b06486b7e27d9c4550e9925a6ef7d1",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/playwright.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/playwright.config.ts?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/2b50453f87b06486b7e27d9c4550e9925a6ef7d1",
+      "html": "https://github.com/grafana/grafana/blob/main/playwright.config.ts"
+    }
+  },
+  {
+    "name": "playwright.storybook.config.ts",
+    "path": "playwright.storybook.config.ts",
+    "sha": "faa18ce7d0543f19806b9dd7256d3dc54c478881",
+    "size": 829,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/playwright.storybook.config.ts?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/playwright.storybook.config.ts",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/faa18ce7d0543f19806b9dd7256d3dc54c478881",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/playwright.storybook.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/playwright.storybook.config.ts?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/faa18ce7d0543f19806b9dd7256d3dc54c478881",
+      "html": "https://github.com/grafana/grafana/blob/main/playwright.storybook.config.ts"
+    }
+  },
+  {
+    "name": "project.json",
+    "path": "project.json",
+    "sha": "702efba58af300747b6dbd8137004d8ff5f4ccb4",
+    "size": 1436,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/project.json?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/project.json",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/702efba58af300747b6dbd8137004d8ff5f4ccb4",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/project.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/project.json?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/702efba58af300747b6dbd8137004d8ff5f4ccb4",
+      "html": "https://github.com/grafana/grafana/blob/main/project.json"
+    }
+  },
+  {
+    "name": "public",
+    "path": "public",
+    "sha": "537fcbe8d3a4306ec3535e5a7908dd37d4fef556",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/public?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/public",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/537fcbe8d3a4306ec3535e5a7908dd37d4fef556",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/public?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/537fcbe8d3a4306ec3535e5a7908dd37d4fef556",
+      "html": "https://github.com/grafana/grafana/tree/main/public"
+    }
+  },
+  {
+    "name": "relyance.yaml",
+    "path": "relyance.yaml",
+    "sha": "41a798d27f2ca0f4bcfcbc594a4fbcd0da91f87a",
+    "size": 2019,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/relyance.yaml?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/relyance.yaml",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/41a798d27f2ca0f4bcfcbc594a4fbcd0da91f87a",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/relyance.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/relyance.yaml?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/41a798d27f2ca0f4bcfcbc594a4fbcd0da91f87a",
+      "html": "https://github.com/grafana/grafana/blob/main/relyance.yaml"
+    }
+  },
+  {
+    "name": "scripts",
+    "path": "scripts",
+    "sha": "9309854aa03b89b8d17f63425ec9262b7b0ae0d7",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/scripts?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/scripts",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/9309854aa03b89b8d17f63425ec9262b7b0ae0d7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/scripts?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/9309854aa03b89b8d17f63425ec9262b7b0ae0d7",
+      "html": "https://github.com/grafana/grafana/tree/main/scripts"
+    }
+  },
+  {
+    "name": "stylelint.config.js",
+    "path": "stylelint.config.js",
+    "sha": "e92d9fd3e04270114d3ada8c2a2bacfa5338bb16",
+    "size": 1294,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/stylelint.config.js?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/stylelint.config.js",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/e92d9fd3e04270114d3ada8c2a2bacfa5338bb16",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/stylelint.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/stylelint.config.js?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/e92d9fd3e04270114d3ada8c2a2bacfa5338bb16",
+      "html": "https://github.com/grafana/grafana/blob/main/stylelint.config.js"
+    }
+  },
+  {
+    "name": "tools",
+    "path": "tools",
+    "sha": "3719cb340e69be24fb01477741b81deec408beba",
+    "size": 0,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/tools?ref=main",
+    "html_url": "https://github.com/grafana/grafana/tree/main/tools",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/trees/3719cb340e69be24fb01477741b81deec408beba",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/tools?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/trees/3719cb340e69be24fb01477741b81deec408beba",
+      "html": "https://github.com/grafana/grafana/tree/main/tools"
+    }
+  },
+  {
+    "name": "tsconfig.json",
+    "path": "tsconfig.json",
+    "sha": "46f7b630cb2e921b306e171d99278f56cec0f05a",
+    "size": 971,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/tsconfig.json?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/tsconfig.json",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/46f7b630cb2e921b306e171d99278f56cec0f05a",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/tsconfig.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/tsconfig.json?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/46f7b630cb2e921b306e171d99278f56cec0f05a",
+      "html": "https://github.com/grafana/grafana/blob/main/tsconfig.json"
+    }
+  },
+  {
+    "name": "yarn.lock",
+    "path": "yarn.lock",
+    "sha": "aa4622cdf7420ee08e561710c78a6f23edb67d36",
+    "size": 1298648,
+    "url": "https://api.github.com/repos/grafana/grafana/contents/yarn.lock?ref=main",
+    "html_url": "https://github.com/grafana/grafana/blob/main/yarn.lock",
+    "git_url": "https://api.github.com/repos/grafana/grafana/git/blobs/aa4622cdf7420ee08e561710c78a6f23edb67d36",
+    "download_url": "https://raw.githubusercontent.com/grafana/grafana/main/yarn.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/grafana/grafana/contents/yarn.lock?ref=main",
+      "git": "https://api.github.com/repos/grafana/grafana/git/blobs/aa4622cdf7420ee08e561710c78a6f23edb67d36",
+      "html": "https://github.com/grafana/grafana/blob/main/yarn.lock"
+    }
+  }
+]

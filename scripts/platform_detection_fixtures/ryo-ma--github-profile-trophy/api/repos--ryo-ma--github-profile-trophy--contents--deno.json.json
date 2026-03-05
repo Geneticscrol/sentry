@@ -1,0 +1,18 @@
+{
+  "name": "deno.json",
+  "path": "deno.json",
+  "sha": "66acc4b543ac017e147d32bbd5f908b7f6902053",
+  "size": 208,
+  "url": "https://api.github.com/repos/ryo-ma/github-profile-trophy/contents/deno.json?ref=master",
+  "html_url": "https://github.com/ryo-ma/github-profile-trophy/blob/master/deno.json",
+  "git_url": "https://api.github.com/repos/ryo-ma/github-profile-trophy/git/blobs/66acc4b543ac017e147d32bbd5f908b7f6902053",
+  "download_url": "https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/deno.json",
+  "type": "file",
+  "content": "ewogICJ0YXNrcyI6IHsKICAgICJzdGFydCI6ICJkZW5vIHJ1biAtQSBtYWlu\nLnRzIiwKICAgICJkZWJ1ZyI6ICJkZW5vIHJ1biAtLWluc3BlY3QtYnJrIC1B\nIG1haW4udHMiLAogICAgImZvcm1hdCI6ICJkZW5vIGZtdCIsCiAgICAibGlu\ndCI6ICJkZW5vIGxpbnQiLAogICAgInRlc3QiOiAiRU5WX1RZUEU9dGVzdCBk\nZW5vIHRlc3QgLS1hbGxvdy1lbnYiCiAgfQp9Cg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/ryo-ma/github-profile-trophy/contents/deno.json?ref=master",
+    "git": "https://api.github.com/repos/ryo-ma/github-profile-trophy/git/blobs/66acc4b543ac017e147d32bbd5f908b7f6902053",
+    "html": "https://github.com/ryo-ma/github-profile-trophy/blob/master/deno.json"
+  }
+}

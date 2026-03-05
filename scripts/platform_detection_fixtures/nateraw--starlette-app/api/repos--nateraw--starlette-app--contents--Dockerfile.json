@@ -1,0 +1,18 @@
+{
+  "name": "Dockerfile",
+  "path": "Dockerfile",
+  "sha": "39091020f59692849dcc63153f1c0281b17f0105",
+  "size": 1188,
+  "url": "https://api.github.com/repos/nateraw/starlette-app/contents/Dockerfile?ref=main",
+  "html_url": "https://github.com/nateraw/starlette-app/blob/main/Dockerfile",
+  "git_url": "https://api.github.com/repos/nateraw/starlette-app/git/blobs/39091020f59692849dcc63153f1c0281b17f0105",
+  "download_url": "https://raw.githubusercontent.com/nateraw/starlette-app/main/Dockerfile",
+  "type": "file",
+  "content": "RlJPTSB0aWFuZ29sby91dmljb3JuLWd1bmljb3JuOnB5dGhvbjMuOApMQUJF\nTCBtYWludGFpbmVyPSJOYXRoYW4gUmF3IDxuYXRlcmF3ZGF0YUBnbWFpbC5j\nb20+IgoKIyBBZGQgYW55IHN5c3RlbSBkZXBlbmRlbmN5IGhlcmUKIyBSVU4g\nYXB0LWdldCB1cGRhdGUgLXkgJiYgYXB0LWdldCBpbnN0YWxsIGxpYlhYWCAt\neQoKQ09QWSAuL3JlcXVpcmVtZW50cy50eHQgL2FwcApSVU4gcGlwIGluc3Rh\nbGwgLS1uby1jYWNoZS1kaXIgLXIgcmVxdWlyZW1lbnRzLnR4dApDT1BZIC4v\ncHJlc3RhcnQuc2ggL2FwcC8KCgojIE1vc3QgREwgbW9kZWxzIGFyZSBxdWl0\nZSBsYXJnZSBpbiB0ZXJtcyBvZiBtZW1vcnksIHVzaW5nIHdvcmtlcnMgaXMg\nYSBIVUdFCiMgc2xvd2Rvd24gYmVjYXVzZSBvZiB0aGUgZm9yayBhbmQgR0lM\nIHdpdGggcHl0aG9uLgojIFVzaW5nIG11bHRpcGxlIHBvZHMgc2VlbXMgbGlr\nZSBhIGJldHRlciBkZWZhdWx0IHN0cmF0ZWd5LgojIEZlZWwgZnJlZSB0byBv\ndmVycmlkZSBpZiBpdCBkb2VzIG5vdCBtYWtlIHNlbnNlIGZvciB5b3VyIGxp\nYnJhcnkuCkFSRyBtYXhfd29ya2Vycz0xCkVOViBNQVhfV09SS0VSUz0kbWF4\nX3dvcmtlcnMKRU5WIEhVR0dJTkdGQUNFX0hVQl9DQUNIRT0vZGF0YQoKIyBO\nZWNlc3Nhcnkgb24gR1BVIGVudmlyb25tZW50IGRvY2tlci4KIyBUSU1FT1VU\nIGVudiB2YXJpYWJsZSBpcyB1c2VkIGJ5IG52Y3IuaW8vbnZpZGlhL3B5dG9y\nY2g6eHggZm9yIGFub3RoZXIgcHVycG9zZQojIHJlbmRlcmluZyBUSU1FT1VU\nIGRlZmluZWQgYnkgdXZpY29ybiBpbXBvc3NpYmxlIHRvIHVzZSBjb3JyZWN0\nbHkKIyBXZSdyZSBvdmVycmlkaW5nIGl0IHRvIGJlIHJlbmFtZWQgVVZJQ09S\nTl9USU1FT1VUCiMgVVZJQ09STl9USU1FT1VUIGlzIGEgdXNlZnVsIHZhcmlh\nYmxlIGZvciB2ZXJ5IGxhcmdlIG1vZGVscyB0aGF0IHRha2UgbW9yZQojIHRo\nYW4gMzBzICh0aGUgZGVmYXVsdCkgdG8gbG9hZCBpbiBtZW1vcnkuCiMgSWYg\nVVZJQ09STl9USU1FT1VUIGlzIHRvbyBsb3csIHV2aWNvcm4gd2lsbCBzaW1w\nbHkgbmV2ZXIgbG9hZHMgYXMgaXQgd2lsbAojIGtpbGwgd29ya2VycyBhbGwg\ndGhlIHRpbWUgYmVmb3JlIHRoZXkgZmluaXNoLgpSVU4gc2VkIC1pICdzL1RJ\nTUVPVVQvVVZJQ09STl9USU1FT1VUL2cnIC9ndW5pY29ybl9jb25mLnB5CkNP\nUFkgLi9hcHAgL2FwcC9hcHAK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/nateraw/starlette-app/contents/Dockerfile?ref=main",
+    "git": "https://api.github.com/repos/nateraw/starlette-app/git/blobs/39091020f59692849dcc63153f1c0281b17f0105",
+    "html": "https://github.com/nateraw/starlette-app/blob/main/Dockerfile"
+  }
+}

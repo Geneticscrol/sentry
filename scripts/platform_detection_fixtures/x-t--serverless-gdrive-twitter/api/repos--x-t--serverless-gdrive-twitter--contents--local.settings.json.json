@@ -1,0 +1,18 @@
+{
+  "name": "local.settings.json",
+  "path": "local.settings.json",
+  "sha": "4e3da2cc65cfaea802a446df4e0da4189abc634c",
+  "size": 116,
+  "url": "https://api.github.com/repos/x-t/serverless-gdrive-twitter/contents/local.settings.json?ref=main",
+  "html_url": "https://github.com/x-t/serverless-gdrive-twitter/blob/main/local.settings.json",
+  "git_url": "https://api.github.com/repos/x-t/serverless-gdrive-twitter/git/blobs/4e3da2cc65cfaea802a446df4e0da4189abc634c",
+  "download_url": "https://raw.githubusercontent.com/x-t/serverless-gdrive-twitter/main/local.settings.json",
+  "type": "file",
+  "content": "ewogICJJc0VuY3J5cHRlZCI6IGZhbHNlLAogICJWYWx1ZXMiOiB7CiAgICAi\nQXp1cmVXZWJKb2JzU3RvcmFnZSI6ICIiLAogICAgIkZVTkNUSU9OU19XT1JL\nRVJfUlVOVElNRSI6ICJub2RlIgogIH0KfQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/x-t/serverless-gdrive-twitter/contents/local.settings.json?ref=main",
+    "git": "https://api.github.com/repos/x-t/serverless-gdrive-twitter/git/blobs/4e3da2cc65cfaea802a446df4e0da4189abc634c",
+    "html": "https://github.com/x-t/serverless-gdrive-twitter/blob/main/local.settings.json"
+  }
+}

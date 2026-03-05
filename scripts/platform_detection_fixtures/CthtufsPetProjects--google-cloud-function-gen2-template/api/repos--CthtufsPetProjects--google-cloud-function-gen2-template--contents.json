@@ -1,0 +1,370 @@
+[
+  {
+    "name": ".dockerignore",
+    "path": ".dockerignore",
+    "sha": "83af028094bc4c2a0fd8054be9346e6bf11ee770",
+    "size": 908,
+    "url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/.dockerignore?ref=main",
+    "html_url": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/.dockerignore",
+    "git_url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/83af028094bc4c2a0fd8054be9346e6bf11ee770",
+    "download_url": "https://raw.githubusercontent.com/cthtuf/google-cloud-function-gen2-template/main/.dockerignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/.dockerignore?ref=main",
+      "git": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/83af028094bc4c2a0fd8054be9346e6bf11ee770",
+      "html": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/.dockerignore"
+    }
+  },
+  {
+    "name": ".editorconfig",
+    "path": ".editorconfig",
+    "sha": "fbc2ad67551584899aa5d248f8bbceb384d49424",
+    "size": 366,
+    "url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/.editorconfig?ref=main",
+    "html_url": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/.editorconfig",
+    "git_url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/fbc2ad67551584899aa5d248f8bbceb384d49424",
+    "download_url": "https://raw.githubusercontent.com/cthtuf/google-cloud-function-gen2-template/main/.editorconfig",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/.editorconfig?ref=main",
+      "git": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/fbc2ad67551584899aa5d248f8bbceb384d49424",
+      "html": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/.editorconfig"
+    }
+  },
+  {
+    "name": ".gcloudignore",
+    "path": ".gcloudignore",
+    "sha": "d4176b5da29299fa31084a4d8b91ee8522f23a53",
+    "size": 551,
+    "url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/.gcloudignore?ref=main",
+    "html_url": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/.gcloudignore",
+    "git_url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/d4176b5da29299fa31084a4d8b91ee8522f23a53",
+    "download_url": "https://raw.githubusercontent.com/cthtuf/google-cloud-function-gen2-template/main/.gcloudignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/.gcloudignore?ref=main",
+      "git": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/d4176b5da29299fa31084a4d8b91ee8522f23a53",
+      "html": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/.gcloudignore"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "2e0ac9603b7ce013291e2aa7fbf161d4c5358c59",
+    "size": 0,
+    "url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/.github?ref=main",
+    "html_url": "https://github.com/cthtuf/google-cloud-function-gen2-template/tree/main/.github",
+    "git_url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/trees/2e0ac9603b7ce013291e2aa7fbf161d4c5358c59",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/trees/2e0ac9603b7ce013291e2aa7fbf161d4c5358c59",
+      "html": "https://github.com/cthtuf/google-cloud-function-gen2-template/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "278613bbf2c35ce38fb52680673a3fc9895fcbac",
+    "size": 3442,
+    "url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/278613bbf2c35ce38fb52680673a3fc9895fcbac",
+    "download_url": "https://raw.githubusercontent.com/cthtuf/google-cloud-function-gen2-template/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/278613bbf2c35ce38fb52680673a3fc9895fcbac",
+      "html": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".pre-commit-config.yaml",
+    "path": ".pre-commit-config.yaml",
+    "sha": "6f2b91f04065d2aa8c1ecf864242aca0691e6cef",
+    "size": 2180,
+    "url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/.pre-commit-config.yaml?ref=main",
+    "html_url": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/.pre-commit-config.yaml",
+    "git_url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/6f2b91f04065d2aa8c1ecf864242aca0691e6cef",
+    "download_url": "https://raw.githubusercontent.com/cthtuf/google-cloud-function-gen2-template/main/.pre-commit-config.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/.pre-commit-config.yaml?ref=main",
+      "git": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/6f2b91f04065d2aa8c1ecf864242aca0691e6cef",
+      "html": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/.pre-commit-config.yaml"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "26c822200fa54ea99fda3a2654d89a24c07af28a",
+    "size": 1061,
+    "url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/LICENSE?ref=main",
+    "html_url": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/LICENSE",
+    "git_url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/26c822200fa54ea99fda3a2654d89a24c07af28a",
+    "download_url": "https://raw.githubusercontent.com/cthtuf/google-cloud-function-gen2-template/main/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/LICENSE?ref=main",
+      "git": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/26c822200fa54ea99fda3a2654d89a24c07af28a",
+      "html": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "Makefile",
+    "path": "Makefile",
+    "sha": "f9980235a199b4e97465c223fdfa98bb875a72ec",
+    "size": 1327,
+    "url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/Makefile?ref=main",
+    "html_url": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/Makefile",
+    "git_url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/f9980235a199b4e97465c223fdfa98bb875a72ec",
+    "download_url": "https://raw.githubusercontent.com/cthtuf/google-cloud-function-gen2-template/main/Makefile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/Makefile?ref=main",
+      "git": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/f9980235a199b4e97465c223fdfa98bb875a72ec",
+      "html": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/Makefile"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "138c5e00871fd452b2288f23bd08e8d032438483",
+    "size": 6243,
+    "url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/README.md?ref=main",
+    "html_url": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/138c5e00871fd452b2288f23bd08e8d032438483",
+    "download_url": "https://raw.githubusercontent.com/cthtuf/google-cloud-function-gen2-template/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/138c5e00871fd452b2288f23bd08e8d032438483",
+      "html": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/README.md"
+    }
+  },
+  {
+    "name": "app",
+    "path": "app",
+    "sha": "fec840ada568a8b9a9c1ba8df305d3417549dee1",
+    "size": 0,
+    "url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/app?ref=main",
+    "html_url": "https://github.com/cthtuf/google-cloud-function-gen2-template/tree/main/app",
+    "git_url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/trees/fec840ada568a8b9a9c1ba8df305d3417549dee1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/app?ref=main",
+      "git": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/trees/fec840ada568a8b9a9c1ba8df305d3417549dee1",
+      "html": "https://github.com/cthtuf/google-cloud-function-gen2-template/tree/main/app"
+    }
+  },
+  {
+    "name": "codecov.yml",
+    "path": "codecov.yml",
+    "sha": "bb388c7817e2ddb49d93efbda5a330908e2911ab",
+    "size": 925,
+    "url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/codecov.yml?ref=main",
+    "html_url": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/codecov.yml",
+    "git_url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/bb388c7817e2ddb49d93efbda5a330908e2911ab",
+    "download_url": "https://raw.githubusercontent.com/cthtuf/google-cloud-function-gen2-template/main/codecov.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/codecov.yml?ref=main",
+      "git": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/bb388c7817e2ddb49d93efbda5a330908e2911ab",
+      "html": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/codecov.yml"
+    }
+  },
+  {
+    "name": "config",
+    "path": "config",
+    "sha": "a1d59c07e36d6e75e73080e60cca054b893aa597",
+    "size": 0,
+    "url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/config?ref=main",
+    "html_url": "https://github.com/cthtuf/google-cloud-function-gen2-template/tree/main/config",
+    "git_url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/trees/a1d59c07e36d6e75e73080e60cca054b893aa597",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/config?ref=main",
+      "git": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/trees/a1d59c07e36d6e75e73080e60cca054b893aa597",
+      "html": "https://github.com/cthtuf/google-cloud-function-gen2-template/tree/main/config"
+    }
+  },
+  {
+    "name": "deploy.sh",
+    "path": "deploy.sh",
+    "sha": "08e0c930d9cd019ad0241be297dfbc1dae0c0748",
+    "size": 2912,
+    "url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/deploy.sh?ref=main",
+    "html_url": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/deploy.sh",
+    "git_url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/08e0c930d9cd019ad0241be297dfbc1dae0c0748",
+    "download_url": "https://raw.githubusercontent.com/cthtuf/google-cloud-function-gen2-template/main/deploy.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/deploy.sh?ref=main",
+      "git": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/08e0c930d9cd019ad0241be297dfbc1dae0c0748",
+      "html": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/deploy.sh"
+    }
+  },
+  {
+    "name": "docker-compose.override.yml.template",
+    "path": "docker-compose.override.yml.template",
+    "sha": "7f92565d69ed38aa0894012147b3612222347bed",
+    "size": 96,
+    "url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/docker-compose.override.yml.template?ref=main",
+    "html_url": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/docker-compose.override.yml.template",
+    "git_url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/7f92565d69ed38aa0894012147b3612222347bed",
+    "download_url": "https://raw.githubusercontent.com/cthtuf/google-cloud-function-gen2-template/main/docker-compose.override.yml.template",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/docker-compose.override.yml.template?ref=main",
+      "git": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/7f92565d69ed38aa0894012147b3612222347bed",
+      "html": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/docker-compose.override.yml.template"
+    }
+  },
+  {
+    "name": "docker-compose.yml",
+    "path": "docker-compose.yml",
+    "sha": "1b218fe3b7f6526e45c03979b45c4bef1ccdf5fd",
+    "size": 581,
+    "url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/docker-compose.yml?ref=main",
+    "html_url": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/docker-compose.yml",
+    "git_url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/1b218fe3b7f6526e45c03979b45c4bef1ccdf5fd",
+    "download_url": "https://raw.githubusercontent.com/cthtuf/google-cloud-function-gen2-template/main/docker-compose.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/docker-compose.yml?ref=main",
+      "git": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/1b218fe3b7f6526e45c03979b45c4bef1ccdf5fd",
+      "html": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/docker-compose.yml"
+    }
+  },
+  {
+    "name": "docker",
+    "path": "docker",
+    "sha": "1c518013bc6ff9233e545b4cee986e09adb9e3f1",
+    "size": 0,
+    "url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/docker?ref=main",
+    "html_url": "https://github.com/cthtuf/google-cloud-function-gen2-template/tree/main/docker",
+    "git_url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/trees/1c518013bc6ff9233e545b4cee986e09adb9e3f1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/docker?ref=main",
+      "git": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/trees/1c518013bc6ff9233e545b4cee986e09adb9e3f1",
+      "html": "https://github.com/cthtuf/google-cloud-function-gen2-template/tree/main/docker"
+    }
+  },
+  {
+    "name": "docs",
+    "path": "docs",
+    "sha": "c12bb97483f32f0653df3fabea8b0941acbc935b",
+    "size": 0,
+    "url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/docs?ref=main",
+    "html_url": "https://github.com/cthtuf/google-cloud-function-gen2-template/tree/main/docs",
+    "git_url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/trees/c12bb97483f32f0653df3fabea8b0941acbc935b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/docs?ref=main",
+      "git": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/trees/c12bb97483f32f0653df3fabea8b0941acbc935b",
+      "html": "https://github.com/cthtuf/google-cloud-function-gen2-template/tree/main/docs"
+    }
+  },
+  {
+    "name": "generate_diagrams.sh",
+    "path": "generate_diagrams.sh",
+    "sha": "8bd12a999dc2de9b2ca48b71e220f662065ed386",
+    "size": 1084,
+    "url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/generate_diagrams.sh?ref=main",
+    "html_url": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/generate_diagrams.sh",
+    "git_url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/8bd12a999dc2de9b2ca48b71e220f662065ed386",
+    "download_url": "https://raw.githubusercontent.com/cthtuf/google-cloud-function-gen2-template/main/generate_diagrams.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/generate_diagrams.sh?ref=main",
+      "git": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/8bd12a999dc2de9b2ca48b71e220f662065ed386",
+      "html": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/generate_diagrams.sh"
+    }
+  },
+  {
+    "name": "infra",
+    "path": "infra",
+    "sha": "f20ed029cc2e3283a02b100eddc13cb62ca62ba0",
+    "size": 0,
+    "url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/infra?ref=main",
+    "html_url": "https://github.com/cthtuf/google-cloud-function-gen2-template/tree/main/infra",
+    "git_url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/trees/f20ed029cc2e3283a02b100eddc13cb62ca62ba0",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/infra?ref=main",
+      "git": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/trees/f20ed029cc2e3283a02b100eddc13cb62ca62ba0",
+      "html": "https://github.com/cthtuf/google-cloud-function-gen2-template/tree/main/infra"
+    }
+  },
+  {
+    "name": "main.py",
+    "path": "main.py",
+    "sha": "47c2a7f47ac8fd924e4ae51b37186a0c8236f98a",
+    "size": 1395,
+    "url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/main.py?ref=main",
+    "html_url": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/main.py",
+    "git_url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/47c2a7f47ac8fd924e4ae51b37186a0c8236f98a",
+    "download_url": "https://raw.githubusercontent.com/cthtuf/google-cloud-function-gen2-template/main/main.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/main.py?ref=main",
+      "git": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/47c2a7f47ac8fd924e4ae51b37186a0c8236f98a",
+      "html": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/main.py"
+    }
+  },
+  {
+    "name": "poetry.lock",
+    "path": "poetry.lock",
+    "sha": "1c7b674ec9a97057bd7d811b6b9b27928b29663d",
+    "size": 197006,
+    "url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/poetry.lock?ref=main",
+    "html_url": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/poetry.lock",
+    "git_url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/1c7b674ec9a97057bd7d811b6b9b27928b29663d",
+    "download_url": "https://raw.githubusercontent.com/cthtuf/google-cloud-function-gen2-template/main/poetry.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/poetry.lock?ref=main",
+      "git": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/1c7b674ec9a97057bd7d811b6b9b27928b29663d",
+      "html": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/poetry.lock"
+    }
+  },
+  {
+    "name": "pyproject.toml",
+    "path": "pyproject.toml",
+    "sha": "f71d5dabd09236e9115da1f8a3f5909b7bfcd974",
+    "size": 4727,
+    "url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/pyproject.toml?ref=main",
+    "html_url": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/pyproject.toml",
+    "git_url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/f71d5dabd09236e9115da1f8a3f5909b7bfcd974",
+    "download_url": "https://raw.githubusercontent.com/cthtuf/google-cloud-function-gen2-template/main/pyproject.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/pyproject.toml?ref=main",
+      "git": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/blobs/f71d5dabd09236e9115da1f8a3f5909b7bfcd974",
+      "html": "https://github.com/cthtuf/google-cloud-function-gen2-template/blob/main/pyproject.toml"
+    }
+  },
+  {
+    "name": "tests",
+    "path": "tests",
+    "sha": "72f45f80fde33bb12eb71de331bdd93b1192ca82",
+    "size": 0,
+    "url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/tests?ref=main",
+    "html_url": "https://github.com/cthtuf/google-cloud-function-gen2-template/tree/main/tests",
+    "git_url": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/trees/72f45f80fde33bb12eb71de331bdd93b1192ca82",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/contents/tests?ref=main",
+      "git": "https://api.github.com/repos/cthtuf/google-cloud-function-gen2-template/git/trees/72f45f80fde33bb12eb71de331bdd93b1192ca82",
+      "html": "https://github.com/cthtuf/google-cloud-function-gen2-template/tree/main/tests"
+    }
+  }
+]

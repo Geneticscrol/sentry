@@ -1,0 +1,18 @@
+{
+  "name": "requirements.txt",
+  "path": "requirements.txt",
+  "sha": "b40b89b8eba57df3d73ca360b80155e76615409b",
+  "size": 73,
+  "url": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/requirements.txt?ref=main",
+  "html_url": "https://github.com/rayluo/python-webapp-quart/blob/main/requirements.txt",
+  "git_url": "https://api.github.com/repos/rayluo/python-webapp-quart/git/blobs/b40b89b8eba57df3d73ca360b80155e76615409b",
+  "download_url": "https://raw.githubusercontent.com/rayluo/python-webapp-quart/main/requirements.txt",
+  "type": "file",
+  "content": "aWRlbnRpdHlbcXVhcnRdPj0wLjksPDAuMTAKcXVhcnQtc2Vzc2lvbltyZWRp\nc10KaHR0cHgKcHl0aG9uLWRvdGVudjwwLjIyCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/requirements.txt?ref=main",
+    "git": "https://api.github.com/repos/rayluo/python-webapp-quart/git/blobs/b40b89b8eba57df3d73ca360b80155e76615409b",
+    "html": "https://github.com/rayluo/python-webapp-quart/blob/main/requirements.txt"
+  }
+}

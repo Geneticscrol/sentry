@@ -1,0 +1,18 @@
+{
+  "name": "requirements.txt",
+  "path": "requirements.txt",
+  "sha": "61b3fd61baab8fde6701cc4ff877127198e283d9",
+  "size": 78,
+  "url": "https://api.github.com/repos/nateraw/starlette-app/contents/requirements.txt?ref=main",
+  "html_url": "https://github.com/nateraw/starlette-app/blob/main/requirements.txt",
+  "git_url": "https://api.github.com/repos/nateraw/starlette-app/git/blobs/61b3fd61baab8fde6701cc4ff877127198e283d9",
+  "download_url": "https://raw.githubusercontent.com/nateraw/starlette-app/main/requirements.txt",
+  "type": "file",
+  "content": "c3RhcmxldHRlPT0wLjE0LjIKcGlsbG93PT04LjIuMApudW1weT49MS4xOC4w\nCnB5ZGFudGljPT0xLjguMQpyZXF1ZXN0cz09Mi4yNi4w\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/nateraw/starlette-app/contents/requirements.txt?ref=main",
+    "git": "https://api.github.com/repos/nateraw/starlette-app/git/blobs/61b3fd61baab8fde6701cc4ff877127198e283d9",
+    "html": "https://github.com/nateraw/starlette-app/blob/main/requirements.txt"
+  }
+}

@@ -1,0 +1,482 @@
+[
+  {
+    "name": ".codesandbox",
+    "path": ".codesandbox",
+    "sha": "2bbe701df105c2fd7a52f64808f63fd161203a35",
+    "size": 0,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.codesandbox?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/tree/master/.codesandbox",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/trees/2bbe701df105c2fd7a52f64808f63fd161203a35",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.codesandbox?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/trees/2bbe701df105c2fd7a52f64808f63fd161203a35",
+      "html": "https://github.com/conventional-changelog/commitlint/tree/master/.codesandbox"
+    }
+  },
+  {
+    "name": ".devcontainer",
+    "path": ".devcontainer",
+    "sha": "10349ab50067fa3acba444e4e21fb35c644122c7",
+    "size": 0,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.devcontainer?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/tree/master/.devcontainer",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/trees/10349ab50067fa3acba444e4e21fb35c644122c7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.devcontainer?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/trees/10349ab50067fa3acba444e4e21fb35c644122c7",
+      "html": "https://github.com/conventional-changelog/commitlint/tree/master/.devcontainer"
+    }
+  },
+  {
+    "name": ".editorconfig",
+    "path": ".editorconfig",
+    "sha": "39506da27e6284a2369c5989edce655d9dc90971",
+    "size": 196,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.editorconfig?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/blob/master/.editorconfig",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/39506da27e6284a2369c5989edce655d9dc90971",
+    "download_url": "https://raw.githubusercontent.com/conventional-changelog/commitlint/master/.editorconfig",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.editorconfig?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/39506da27e6284a2369c5989edce655d9dc90971",
+      "html": "https://github.com/conventional-changelog/commitlint/blob/master/.editorconfig"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "3603348fd86da50a0fa391d13f21168d5384ce48",
+    "size": 0,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.github?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/tree/master/.github",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/trees/3603348fd86da50a0fa391d13f21168d5384ce48",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.github?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/trees/3603348fd86da50a0fa391d13f21168d5384ce48",
+      "html": "https://github.com/conventional-changelog/commitlint/tree/master/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "e9a4fbe8ce9b1eca31eda944d75c34caba11f6ff",
+    "size": 375,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/e9a4fbe8ce9b1eca31eda944d75c34caba11f6ff",
+    "download_url": "https://raw.githubusercontent.com/conventional-changelog/commitlint/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/e9a4fbe8ce9b1eca31eda944d75c34caba11f6ff",
+      "html": "https://github.com/conventional-changelog/commitlint/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": ".husky",
+    "path": ".husky",
+    "sha": "8ebff441573b2f9b50e7820e3e78e639bd40b66d",
+    "size": 0,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.husky?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/tree/master/.husky",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/trees/8ebff441573b2f9b50e7820e3e78e639bd40b66d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.husky?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/trees/8ebff441573b2f9b50e7820e3e78e639bd40b66d",
+      "html": "https://github.com/conventional-changelog/commitlint/tree/master/.husky"
+    }
+  },
+  {
+    "name": ".npmrc",
+    "path": ".npmrc",
+    "sha": "521a9f7c0773588848ad5fa8a074ceca964a6b41",
+    "size": 22,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.npmrc?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/blob/master/.npmrc",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/521a9f7c0773588848ad5fa8a074ceca964a6b41",
+    "download_url": "https://raw.githubusercontent.com/conventional-changelog/commitlint/master/.npmrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.npmrc?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/521a9f7c0773588848ad5fa8a074ceca964a6b41",
+      "html": "https://github.com/conventional-changelog/commitlint/blob/master/.npmrc"
+    }
+  },
+  {
+    "name": ".nvmrc",
+    "path": ".nvmrc",
+    "sha": "25bf17fc5aaabd17402e77a2b16f95fbea7310d2",
+    "size": 2,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.nvmrc?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/blob/master/.nvmrc",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/25bf17fc5aaabd17402e77a2b16f95fbea7310d2",
+    "download_url": "https://raw.githubusercontent.com/conventional-changelog/commitlint/master/.nvmrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.nvmrc?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/25bf17fc5aaabd17402e77a2b16f95fbea7310d2",
+      "html": "https://github.com/conventional-changelog/commitlint/blob/master/.nvmrc"
+    }
+  },
+  {
+    "name": ".nxignore",
+    "path": ".nxignore",
+    "sha": "5758b6a45672b7d037c6b11196c970dd79a1b7e7",
+    "size": 174,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.nxignore?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/blob/master/.nxignore",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/5758b6a45672b7d037c6b11196c970dd79a1b7e7",
+    "download_url": "https://raw.githubusercontent.com/conventional-changelog/commitlint/master/.nxignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.nxignore?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/5758b6a45672b7d037c6b11196c970dd79a1b7e7",
+      "html": "https://github.com/conventional-changelog/commitlint/blob/master/.nxignore"
+    }
+  },
+  {
+    "name": ".prettierignore",
+    "path": ".prettierignore",
+    "sha": "9d955cd0182dfec91e705e3bd2d4931dc67a35fc",
+    "size": 52,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.prettierignore?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/blob/master/.prettierignore",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/9d955cd0182dfec91e705e3bd2d4931dc67a35fc",
+    "download_url": "https://raw.githubusercontent.com/conventional-changelog/commitlint/master/.prettierignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.prettierignore?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/9d955cd0182dfec91e705e3bd2d4931dc67a35fc",
+      "html": "https://github.com/conventional-changelog/commitlint/blob/master/.prettierignore"
+    }
+  },
+  {
+    "name": ".tool-versions",
+    "path": ".tool-versions",
+    "sha": "3e511092ed8199af64c2e2867526bca4c0c6bd15",
+    "size": 10,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.tool-versions?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/blob/master/.tool-versions",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/3e511092ed8199af64c2e2867526bca4c0c6bd15",
+    "download_url": "https://raw.githubusercontent.com/conventional-changelog/commitlint/master/.tool-versions",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.tool-versions?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/3e511092ed8199af64c2e2867526bca4c0c6bd15",
+      "html": "https://github.com/conventional-changelog/commitlint/blob/master/.tool-versions"
+    }
+  },
+  {
+    "name": ".vscode",
+    "path": ".vscode",
+    "sha": "ad0dfc44e517e616f79624beadd2a396b87b8a51",
+    "size": 0,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.vscode?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/tree/master/.vscode",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/trees/ad0dfc44e517e616f79624beadd2a396b87b8a51",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.vscode?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/trees/ad0dfc44e517e616f79624beadd2a396b87b8a51",
+      "html": "https://github.com/conventional-changelog/commitlint/tree/master/.vscode"
+    }
+  },
+  {
+    "name": ".yarnrc",
+    "path": ".yarnrc",
+    "sha": "9f4075ec6a68c652277a1c88fdf3a0ea98b3520d",
+    "size": 69,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.yarnrc?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/blob/master/.yarnrc",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/9f4075ec6a68c652277a1c88fdf3a0ea98b3520d",
+    "download_url": "https://raw.githubusercontent.com/conventional-changelog/commitlint/master/.yarnrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.yarnrc?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/9f4075ec6a68c652277a1c88fdf3a0ea98b3520d",
+      "html": "https://github.com/conventional-changelog/commitlint/blob/master/.yarnrc"
+    }
+  },
+  {
+    "name": "@alias",
+    "path": "@alias",
+    "sha": "2d05b5b8b04b9281c51f19569415069540af9a85",
+    "size": 0,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/@alias?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/tree/master/@alias",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/trees/2d05b5b8b04b9281c51f19569415069540af9a85",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/@alias?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/trees/2d05b5b8b04b9281c51f19569415069540af9a85",
+      "html": "https://github.com/conventional-changelog/commitlint/tree/master/@alias"
+    }
+  },
+  {
+    "name": "@commitlint",
+    "path": "@commitlint",
+    "sha": "b82702a01f0802bcb85aadbd8c4d78d3528ebfbf",
+    "size": 0,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/@commitlint?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/tree/master/@commitlint",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/trees/b82702a01f0802bcb85aadbd8c4d78d3528ebfbf",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/@commitlint?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/trees/b82702a01f0802bcb85aadbd8c4d78d3528ebfbf",
+      "html": "https://github.com/conventional-changelog/commitlint/tree/master/@commitlint"
+    }
+  },
+  {
+    "name": "@packages",
+    "path": "@packages",
+    "sha": "f9f43f7a5aa37605bbaff3e21d93a1fee089c130",
+    "size": 0,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/@packages?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/tree/master/@packages",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/trees/f9f43f7a5aa37605bbaff3e21d93a1fee089c130",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/@packages?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/trees/f9f43f7a5aa37605bbaff3e21d93a1fee089c130",
+      "html": "https://github.com/conventional-changelog/commitlint/tree/master/@packages"
+    }
+  },
+  {
+    "name": "CHANGELOG.md",
+    "path": "CHANGELOG.md",
+    "sha": "bd5e33469230fe5796ae149ad9b98d39a9ba496b",
+    "size": 122016,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/CHANGELOG.md?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/blob/master/CHANGELOG.md",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/bd5e33469230fe5796ae149ad9b98d39a9ba496b",
+    "download_url": "https://raw.githubusercontent.com/conventional-changelog/commitlint/master/CHANGELOG.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/CHANGELOG.md?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/bd5e33469230fe5796ae149ad9b98d39a9ba496b",
+      "html": "https://github.com/conventional-changelog/commitlint/blob/master/CHANGELOG.md"
+    }
+  },
+  {
+    "name": "Dockerfile.ci",
+    "path": "Dockerfile.ci",
+    "sha": "3b9351355ca0bbac39430ce47769a73536b81888",
+    "size": 1359,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/Dockerfile.ci?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/blob/master/Dockerfile.ci",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/3b9351355ca0bbac39430ce47769a73536b81888",
+    "download_url": "https://raw.githubusercontent.com/conventional-changelog/commitlint/master/Dockerfile.ci",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/Dockerfile.ci?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/3b9351355ca0bbac39430ce47769a73536b81888",
+      "html": "https://github.com/conventional-changelog/commitlint/blob/master/Dockerfile.ci"
+    }
+  },
+  {
+    "name": "Dockerfile.dev",
+    "path": "Dockerfile.dev",
+    "sha": "a00826f979567613c7d64e3036dca64800e231f5",
+    "size": 112,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/Dockerfile.dev?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/blob/master/Dockerfile.dev",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/a00826f979567613c7d64e3036dca64800e231f5",
+    "download_url": "https://raw.githubusercontent.com/conventional-changelog/commitlint/master/Dockerfile.dev",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/Dockerfile.dev?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/a00826f979567613c7d64e3036dca64800e231f5",
+      "html": "https://github.com/conventional-changelog/commitlint/blob/master/Dockerfile.dev"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "d3be915ae5bb3d53c7c292dae24914c0f6434faf",
+    "size": 8707,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/README.md?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/d3be915ae5bb3d53c7c292dae24914c0f6434faf",
+    "download_url": "https://raw.githubusercontent.com/conventional-changelog/commitlint/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/d3be915ae5bb3d53c7c292dae24914c0f6434faf",
+      "html": "https://github.com/conventional-changelog/commitlint/blob/master/README.md"
+    }
+  },
+  {
+    "name": "compose.yaml",
+    "path": "compose.yaml",
+    "sha": "710f6a0bb91c237d41d1d397b320991437d40b97",
+    "size": 387,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/compose.yaml?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/blob/master/compose.yaml",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/710f6a0bb91c237d41d1d397b320991437d40b97",
+    "download_url": "https://raw.githubusercontent.com/conventional-changelog/commitlint/master/compose.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/compose.yaml?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/710f6a0bb91c237d41d1d397b320991437d40b97",
+      "html": "https://github.com/conventional-changelog/commitlint/blob/master/compose.yaml"
+    }
+  },
+  {
+    "name": "docs",
+    "path": "docs",
+    "sha": "007548e8df7716139dc1d8e4db4457e2f6dfdaaf",
+    "size": 0,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/docs?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/tree/master/docs",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/trees/007548e8df7716139dc1d8e4db4457e2f6dfdaaf",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/docs?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/trees/007548e8df7716139dc1d8e4db4457e2f6dfdaaf",
+      "html": "https://github.com/conventional-changelog/commitlint/tree/master/docs"
+    }
+  },
+  {
+    "name": "eslint.config.mjs",
+    "path": "eslint.config.mjs",
+    "sha": "679b906c0992f3693ab1399189f833a760b2eb66",
+    "size": 2766,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/eslint.config.mjs?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/blob/master/eslint.config.mjs",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/679b906c0992f3693ab1399189f833a760b2eb66",
+    "download_url": "https://raw.githubusercontent.com/conventional-changelog/commitlint/master/eslint.config.mjs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/eslint.config.mjs?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/679b906c0992f3693ab1399189f833a760b2eb66",
+      "html": "https://github.com/conventional-changelog/commitlint/blob/master/eslint.config.mjs"
+    }
+  },
+  {
+    "name": "lerna.json",
+    "path": "lerna.json",
+    "sha": "613c42f234e07e687bf0ed3b5ebc962bffcb4580",
+    "size": 49,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/lerna.json?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/blob/master/lerna.json",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/613c42f234e07e687bf0ed3b5ebc962bffcb4580",
+    "download_url": "https://raw.githubusercontent.com/conventional-changelog/commitlint/master/lerna.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/lerna.json?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/613c42f234e07e687bf0ed3b5ebc962bffcb4580",
+      "html": "https://github.com/conventional-changelog/commitlint/blob/master/lerna.json"
+    }
+  },
+  {
+    "name": "license.md",
+    "path": "license.md",
+    "sha": "9f7de65293f5ea41a897cc1aefd9185ad85fecda",
+    "size": 1087,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/license.md?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/blob/master/license.md",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/9f7de65293f5ea41a897cc1aefd9185ad85fecda",
+    "download_url": "https://raw.githubusercontent.com/conventional-changelog/commitlint/master/license.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/license.md?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/9f7de65293f5ea41a897cc1aefd9185ad85fecda",
+      "html": "https://github.com/conventional-changelog/commitlint/blob/master/license.md"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "48b7821f048ac81c8dc27ba294adcce7abd3f673",
+    "size": 2953,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/package.json?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/blob/master/package.json",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/48b7821f048ac81c8dc27ba294adcce7abd3f673",
+    "download_url": "https://raw.githubusercontent.com/conventional-changelog/commitlint/master/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/package.json?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/48b7821f048ac81c8dc27ba294adcce7abd3f673",
+      "html": "https://github.com/conventional-changelog/commitlint/blob/master/package.json"
+    }
+  },
+  {
+    "name": "tsconfig.json",
+    "path": "tsconfig.json",
+    "sha": "75aa57f703f04255274cb3033dc5f2aa0a924788",
+    "size": 1202,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/tsconfig.json?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/blob/master/tsconfig.json",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/75aa57f703f04255274cb3033dc5f2aa0a924788",
+    "download_url": "https://raw.githubusercontent.com/conventional-changelog/commitlint/master/tsconfig.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/tsconfig.json?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/75aa57f703f04255274cb3033dc5f2aa0a924788",
+      "html": "https://github.com/conventional-changelog/commitlint/blob/master/tsconfig.json"
+    }
+  },
+  {
+    "name": "tsconfig.shared.json",
+    "path": "tsconfig.shared.json",
+    "sha": "150d51255985d2468e00fae961bc38874fd5f730",
+    "size": 637,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/tsconfig.shared.json?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/blob/master/tsconfig.shared.json",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/150d51255985d2468e00fae961bc38874fd5f730",
+    "download_url": "https://raw.githubusercontent.com/conventional-changelog/commitlint/master/tsconfig.shared.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/tsconfig.shared.json?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/150d51255985d2468e00fae961bc38874fd5f730",
+      "html": "https://github.com/conventional-changelog/commitlint/blob/master/tsconfig.shared.json"
+    }
+  },
+  {
+    "name": "vitest.config.ts",
+    "path": "vitest.config.ts",
+    "sha": "96509aedb16c9200a6faaa7ebcfd3d1aef1af3e2",
+    "size": 334,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/vitest.config.ts?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/blob/master/vitest.config.ts",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/96509aedb16c9200a6faaa7ebcfd3d1aef1af3e2",
+    "download_url": "https://raw.githubusercontent.com/conventional-changelog/commitlint/master/vitest.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/vitest.config.ts?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/96509aedb16c9200a6faaa7ebcfd3d1aef1af3e2",
+      "html": "https://github.com/conventional-changelog/commitlint/blob/master/vitest.config.ts"
+    }
+  },
+  {
+    "name": "yarn.lock",
+    "path": "yarn.lock",
+    "sha": "f36308bdf2c6b022e801487538f60941dd9fdf3e",
+    "size": 375855,
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/yarn.lock?ref=master",
+    "html_url": "https://github.com/conventional-changelog/commitlint/blob/master/yarn.lock",
+    "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/f36308bdf2c6b022e801487538f60941dd9fdf3e",
+    "download_url": "https://raw.githubusercontent.com/conventional-changelog/commitlint/master/yarn.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/yarn.lock?ref=master",
+      "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/f36308bdf2c6b022e801487538f60941dd9fdf3e",
+      "html": "https://github.com/conventional-changelog/commitlint/blob/master/yarn.lock"
+    }
+  }
+]

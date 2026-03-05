@@ -1,0 +1,482 @@
+[
+  {
+    "name": ".checkmarx",
+    "path": ".checkmarx",
+    "sha": "d4c920f69224d7624b8d709b905035c3f6fc6bb9",
+    "size": 0,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/.checkmarx?ref=main",
+    "html_url": "https://github.com/bitwarden/server/tree/main/.checkmarx",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/trees/d4c920f69224d7624b8d709b905035c3f6fc6bb9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/.checkmarx?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/trees/d4c920f69224d7624b8d709b905035c3f6fc6bb9",
+      "html": "https://github.com/bitwarden/server/tree/main/.checkmarx"
+    }
+  },
+  {
+    "name": ".claude",
+    "path": ".claude",
+    "sha": "6599a3aaf61d375df5522ce74f7b30e9df4c3bfa",
+    "size": 0,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/.claude?ref=main",
+    "html_url": "https://github.com/bitwarden/server/tree/main/.claude",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/trees/6599a3aaf61d375df5522ce74f7b30e9df4c3bfa",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/.claude?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/trees/6599a3aaf61d375df5522ce74f7b30e9df4c3bfa",
+      "html": "https://github.com/bitwarden/server/tree/main/.claude"
+    }
+  },
+  {
+    "name": ".config",
+    "path": ".config",
+    "sha": "8c384162e9b41f03102abd7e82a0d6ef0946eccc",
+    "size": 0,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/.config?ref=main",
+    "html_url": "https://github.com/bitwarden/server/tree/main/.config",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/trees/8c384162e9b41f03102abd7e82a0d6ef0946eccc",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/.config?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/trees/8c384162e9b41f03102abd7e82a0d6ef0946eccc",
+      "html": "https://github.com/bitwarden/server/tree/main/.config"
+    }
+  },
+  {
+    "name": ".devcontainer",
+    "path": ".devcontainer",
+    "sha": "a595b71d65187c6fa09c042b958dd825e0b51962",
+    "size": 0,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/.devcontainer?ref=main",
+    "html_url": "https://github.com/bitwarden/server/tree/main/.devcontainer",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/trees/a595b71d65187c6fa09c042b958dd825e0b51962",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/.devcontainer?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/trees/a595b71d65187c6fa09c042b958dd825e0b51962",
+      "html": "https://github.com/bitwarden/server/tree/main/.devcontainer"
+    }
+  },
+  {
+    "name": ".dockerignore",
+    "path": ".dockerignore",
+    "sha": "ea060dc7558c5a1f507dd60f0dab0066318ad432",
+    "size": 30,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/.dockerignore?ref=main",
+    "html_url": "https://github.com/bitwarden/server/blob/main/.dockerignore",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/blobs/ea060dc7558c5a1f507dd60f0dab0066318ad432",
+    "download_url": "https://raw.githubusercontent.com/bitwarden/server/main/.dockerignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/.dockerignore?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/blobs/ea060dc7558c5a1f507dd60f0dab0066318ad432",
+      "html": "https://github.com/bitwarden/server/blob/main/.dockerignore"
+    }
+  },
+  {
+    "name": ".editorconfig",
+    "path": ".editorconfig",
+    "sha": "71dd40de985ebe1c70b033007fcd87bf969e3747",
+    "size": 5509,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/.editorconfig?ref=main",
+    "html_url": "https://github.com/bitwarden/server/blob/main/.editorconfig",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/blobs/71dd40de985ebe1c70b033007fcd87bf969e3747",
+    "download_url": "https://raw.githubusercontent.com/bitwarden/server/main/.editorconfig",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/.editorconfig?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/blobs/71dd40de985ebe1c70b033007fcd87bf969e3747",
+      "html": "https://github.com/bitwarden/server/blob/main/.editorconfig"
+    }
+  },
+  {
+    "name": ".git-blame-ignore-revs",
+    "path": ".git-blame-ignore-revs",
+    "sha": "02b9803ea86d42d765d12b1833c8d87e83b8db0c",
+    "size": 484,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/.git-blame-ignore-revs?ref=main",
+    "html_url": "https://github.com/bitwarden/server/blob/main/.git-blame-ignore-revs",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/blobs/02b9803ea86d42d765d12b1833c8d87e83b8db0c",
+    "download_url": "https://raw.githubusercontent.com/bitwarden/server/main/.git-blame-ignore-revs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/.git-blame-ignore-revs?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/blobs/02b9803ea86d42d765d12b1833c8d87e83b8db0c",
+      "html": "https://github.com/bitwarden/server/blob/main/.git-blame-ignore-revs"
+    }
+  },
+  {
+    "name": ".git-hooks",
+    "path": ".git-hooks",
+    "sha": "5ebf52b1dd9a3485b69215d933a5d1de748c8f79",
+    "size": 0,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/.git-hooks?ref=main",
+    "html_url": "https://github.com/bitwarden/server/tree/main/.git-hooks",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/trees/5ebf52b1dd9a3485b69215d933a5d1de748c8f79",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/.git-hooks?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/trees/5ebf52b1dd9a3485b69215d933a5d1de748c8f79",
+      "html": "https://github.com/bitwarden/server/tree/main/.git-hooks"
+    }
+  },
+  {
+    "name": ".gitattributes",
+    "path": ".gitattributes",
+    "sha": "ecb84500fb22ab9ce301da608fcc0ec923c5c6ee",
+    "size": 62,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/.gitattributes?ref=main",
+    "html_url": "https://github.com/bitwarden/server/blob/main/.gitattributes",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/blobs/ecb84500fb22ab9ce301da608fcc0ec923c5c6ee",
+    "download_url": "https://raw.githubusercontent.com/bitwarden/server/main/.gitattributes",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/.gitattributes?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/blobs/ecb84500fb22ab9ce301da608fcc0ec923c5c6ee",
+      "html": "https://github.com/bitwarden/server/blob/main/.gitattributes"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "c6d4b2597a5182dd449c4db6f3324c0f4cacd736",
+    "size": 0,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/.github?ref=main",
+    "html_url": "https://github.com/bitwarden/server/tree/main/.github",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/trees/c6d4b2597a5182dd449c4db6f3324c0f4cacd736",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/trees/c6d4b2597a5182dd449c4db6f3324c0f4cacd736",
+      "html": "https://github.com/bitwarden/server/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "db8cb50f84d64f870a0aaa5146458c4980343a28",
+    "size": 3704,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/bitwarden/server/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/blobs/db8cb50f84d64f870a0aaa5146458c4980343a28",
+    "download_url": "https://raw.githubusercontent.com/bitwarden/server/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/blobs/db8cb50f84d64f870a0aaa5146458c4980343a28",
+      "html": "https://github.com/bitwarden/server/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".run",
+    "path": ".run",
+    "sha": "ab08b7a40ace8764d6510a58f4339904410295f2",
+    "size": 0,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/.run?ref=main",
+    "html_url": "https://github.com/bitwarden/server/tree/main/.run",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/trees/ab08b7a40ace8764d6510a58f4339904410295f2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/.run?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/trees/ab08b7a40ace8764d6510a58f4339904410295f2",
+      "html": "https://github.com/bitwarden/server/tree/main/.run"
+    }
+  },
+  {
+    "name": ".vscode",
+    "path": ".vscode",
+    "sha": "d75a930eeaf5d8ac68026e7ac1d320860faec2e4",
+    "size": 0,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/.vscode?ref=main",
+    "html_url": "https://github.com/bitwarden/server/tree/main/.vscode",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/trees/d75a930eeaf5d8ac68026e7ac1d320860faec2e4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/.vscode?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/trees/d75a930eeaf5d8ac68026e7ac1d320860faec2e4",
+      "html": "https://github.com/bitwarden/server/tree/main/.vscode"
+    }
+  },
+  {
+    "name": "CONTRIBUTING.md",
+    "path": "CONTRIBUTING.md",
+    "sha": "2833057bc9e9e8728d189c75c6e6d1ce9e758173",
+    "size": 313,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/CONTRIBUTING.md?ref=main",
+    "html_url": "https://github.com/bitwarden/server/blob/main/CONTRIBUTING.md",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/blobs/2833057bc9e9e8728d189c75c6e6d1ce9e758173",
+    "download_url": "https://raw.githubusercontent.com/bitwarden/server/main/CONTRIBUTING.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/CONTRIBUTING.md?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/blobs/2833057bc9e9e8728d189c75c6e6d1ce9e758173",
+      "html": "https://github.com/bitwarden/server/blob/main/CONTRIBUTING.md"
+    }
+  },
+  {
+    "name": "Directory.Build.props",
+    "path": "Directory.Build.props",
+    "sha": "adf984f7d195ac26072c907a0b4362cf63d41021",
+    "size": 1359,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/Directory.Build.props?ref=main",
+    "html_url": "https://github.com/bitwarden/server/blob/main/Directory.Build.props",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/blobs/adf984f7d195ac26072c907a0b4362cf63d41021",
+    "download_url": "https://raw.githubusercontent.com/bitwarden/server/main/Directory.Build.props",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/Directory.Build.props?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/blobs/adf984f7d195ac26072c907a0b4362cf63d41021",
+      "html": "https://github.com/bitwarden/server/blob/main/Directory.Build.props"
+    }
+  },
+  {
+    "name": "LICENSE.txt",
+    "path": "LICENSE.txt",
+    "sha": "d47755561e7ea1237a5b7a723d11ec60c56c5d1a",
+    "size": 829,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/LICENSE.txt?ref=main",
+    "html_url": "https://github.com/bitwarden/server/blob/main/LICENSE.txt",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/blobs/d47755561e7ea1237a5b7a723d11ec60c56c5d1a",
+    "download_url": "https://raw.githubusercontent.com/bitwarden/server/main/LICENSE.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/LICENSE.txt?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/blobs/d47755561e7ea1237a5b7a723d11ec60c56c5d1a",
+      "html": "https://github.com/bitwarden/server/blob/main/LICENSE.txt"
+    }
+  },
+  {
+    "name": "LICENSE_AGPL.txt",
+    "path": "LICENSE_AGPL.txt",
+    "sha": "1ce875873d862b9c6b8583c6be32a864921ba551",
+    "size": 34519,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/LICENSE_AGPL.txt?ref=main",
+    "html_url": "https://github.com/bitwarden/server/blob/main/LICENSE_AGPL.txt",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/blobs/1ce875873d862b9c6b8583c6be32a864921ba551",
+    "download_url": "https://raw.githubusercontent.com/bitwarden/server/main/LICENSE_AGPL.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/LICENSE_AGPL.txt?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/blobs/1ce875873d862b9c6b8583c6be32a864921ba551",
+      "html": "https://github.com/bitwarden/server/blob/main/LICENSE_AGPL.txt"
+    }
+  },
+  {
+    "name": "LICENSE_BITWARDEN.txt",
+    "path": "LICENSE_BITWARDEN.txt",
+    "sha": "8855600f8bf1a36b45403ec82b7b351f96f193e5",
+    "size": 10724,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/LICENSE_BITWARDEN.txt?ref=main",
+    "html_url": "https://github.com/bitwarden/server/blob/main/LICENSE_BITWARDEN.txt",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/blobs/8855600f8bf1a36b45403ec82b7b351f96f193e5",
+    "download_url": "https://raw.githubusercontent.com/bitwarden/server/main/LICENSE_BITWARDEN.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/LICENSE_BITWARDEN.txt?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/blobs/8855600f8bf1a36b45403ec82b7b351f96f193e5",
+      "html": "https://github.com/bitwarden/server/blob/main/LICENSE_BITWARDEN.txt"
+    }
+  },
+  {
+    "name": "LICENSE_FAQ.md",
+    "path": "LICENSE_FAQ.md",
+    "sha": "ddb18240c0ab0fbc69c32f03cf8b685eef802701",
+    "size": 7883,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/LICENSE_FAQ.md?ref=main",
+    "html_url": "https://github.com/bitwarden/server/blob/main/LICENSE_FAQ.md",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/blobs/ddb18240c0ab0fbc69c32f03cf8b685eef802701",
+    "download_url": "https://raw.githubusercontent.com/bitwarden/server/main/LICENSE_FAQ.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/LICENSE_FAQ.md?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/blobs/ddb18240c0ab0fbc69c32f03cf8b685eef802701",
+      "html": "https://github.com/bitwarden/server/blob/main/LICENSE_FAQ.md"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "34902c207bba3b0cfff6e37e7c695aaa095874a5",
+    "size": 9141,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/README.md?ref=main",
+    "html_url": "https://github.com/bitwarden/server/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/blobs/34902c207bba3b0cfff6e37e7c695aaa095874a5",
+    "download_url": "https://raw.githubusercontent.com/bitwarden/server/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/blobs/34902c207bba3b0cfff6e37e7c695aaa095874a5",
+      "html": "https://github.com/bitwarden/server/blob/main/README.md"
+    }
+  },
+  {
+    "name": "SECURITY.md",
+    "path": "SECURITY.md",
+    "sha": "e6edb96da728c3f9e4ea041012725a2e1b86a9e4",
+    "size": 1794,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/SECURITY.md?ref=main",
+    "html_url": "https://github.com/bitwarden/server/blob/main/SECURITY.md",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/blobs/e6edb96da728c3f9e4ea041012725a2e1b86a9e4",
+    "download_url": "https://raw.githubusercontent.com/bitwarden/server/main/SECURITY.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/SECURITY.md?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/blobs/e6edb96da728c3f9e4ea041012725a2e1b86a9e4",
+      "html": "https://github.com/bitwarden/server/blob/main/SECURITY.md"
+    }
+  },
+  {
+    "name": "TRADEMARK_GUIDELINES.md",
+    "path": "TRADEMARK_GUIDELINES.md",
+    "sha": "16923e2e92cd692c78ef60e9282f44b400915d0e",
+    "size": 10009,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/TRADEMARK_GUIDELINES.md?ref=main",
+    "html_url": "https://github.com/bitwarden/server/blob/main/TRADEMARK_GUIDELINES.md",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/blobs/16923e2e92cd692c78ef60e9282f44b400915d0e",
+    "download_url": "https://raw.githubusercontent.com/bitwarden/server/main/TRADEMARK_GUIDELINES.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/TRADEMARK_GUIDELINES.md?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/blobs/16923e2e92cd692c78ef60e9282f44b400915d0e",
+      "html": "https://github.com/bitwarden/server/blob/main/TRADEMARK_GUIDELINES.md"
+    }
+  },
+  {
+    "name": "bitwarden-server.sln",
+    "path": "bitwarden-server.sln",
+    "sha": "4f3b3c8bdf68e09ee187d540afa69ff81df5618f",
+    "size": 34986,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/bitwarden-server.sln?ref=main",
+    "html_url": "https://github.com/bitwarden/server/blob/main/bitwarden-server.sln",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/blobs/4f3b3c8bdf68e09ee187d540afa69ff81df5618f",
+    "download_url": "https://raw.githubusercontent.com/bitwarden/server/main/bitwarden-server.sln",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/bitwarden-server.sln?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/blobs/4f3b3c8bdf68e09ee187d540afa69ff81df5618f",
+      "html": "https://github.com/bitwarden/server/blob/main/bitwarden-server.sln"
+    }
+  },
+  {
+    "name": "bitwarden_license",
+    "path": "bitwarden_license",
+    "sha": "829dcad660b5d0ac978879289a165f52c8c7724b",
+    "size": 0,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/bitwarden_license?ref=main",
+    "html_url": "https://github.com/bitwarden/server/tree/main/bitwarden_license",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/trees/829dcad660b5d0ac978879289a165f52c8c7724b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/bitwarden_license?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/trees/829dcad660b5d0ac978879289a165f52c8c7724b",
+      "html": "https://github.com/bitwarden/server/tree/main/bitwarden_license"
+    }
+  },
+  {
+    "name": "dev",
+    "path": "dev",
+    "sha": "90ddf6529be29fd79f56ecd9377f05a4b308535c",
+    "size": 0,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/dev?ref=main",
+    "html_url": "https://github.com/bitwarden/server/tree/main/dev",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/trees/90ddf6529be29fd79f56ecd9377f05a4b308535c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/dev?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/trees/90ddf6529be29fd79f56ecd9377f05a4b308535c",
+      "html": "https://github.com/bitwarden/server/tree/main/dev"
+    }
+  },
+  {
+    "name": "global.json",
+    "path": "global.json",
+    "sha": "970250aec9799f3a27860332145b6bad1f4ea822",
+    "size": 219,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/global.json?ref=main",
+    "html_url": "https://github.com/bitwarden/server/blob/main/global.json",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/blobs/970250aec9799f3a27860332145b6bad1f4ea822",
+    "download_url": "https://raw.githubusercontent.com/bitwarden/server/main/global.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/global.json?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/blobs/970250aec9799f3a27860332145b6bad1f4ea822",
+      "html": "https://github.com/bitwarden/server/blob/main/global.json"
+    }
+  },
+  {
+    "name": "perf",
+    "path": "perf",
+    "sha": "b92ea783ce7e8b805ba12ab12117c46fd140a722",
+    "size": 0,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/perf?ref=main",
+    "html_url": "https://github.com/bitwarden/server/tree/main/perf",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/trees/b92ea783ce7e8b805ba12ab12117c46fd140a722",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/perf?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/trees/b92ea783ce7e8b805ba12ab12117c46fd140a722",
+      "html": "https://github.com/bitwarden/server/tree/main/perf"
+    }
+  },
+  {
+    "name": "src",
+    "path": "src",
+    "sha": "d105130330ccb86d99929e7b03325e808786429c",
+    "size": 0,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/src?ref=main",
+    "html_url": "https://github.com/bitwarden/server/tree/main/src",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/trees/d105130330ccb86d99929e7b03325e808786429c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/src?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/trees/d105130330ccb86d99929e7b03325e808786429c",
+      "html": "https://github.com/bitwarden/server/tree/main/src"
+    }
+  },
+  {
+    "name": "test",
+    "path": "test",
+    "sha": "39c0be85a873c936246610cee2576a20505e673d",
+    "size": 0,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/test?ref=main",
+    "html_url": "https://github.com/bitwarden/server/tree/main/test",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/trees/39c0be85a873c936246610cee2576a20505e673d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/test?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/trees/39c0be85a873c936246610cee2576a20505e673d",
+      "html": "https://github.com/bitwarden/server/tree/main/test"
+    }
+  },
+  {
+    "name": "util",
+    "path": "util",
+    "sha": "7b324e3bdc53912673f68fb274aa18afd19828cc",
+    "size": 0,
+    "url": "https://api.github.com/repos/bitwarden/server/contents/util?ref=main",
+    "html_url": "https://github.com/bitwarden/server/tree/main/util",
+    "git_url": "https://api.github.com/repos/bitwarden/server/git/trees/7b324e3bdc53912673f68fb274aa18afd19828cc",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bitwarden/server/contents/util?ref=main",
+      "git": "https://api.github.com/repos/bitwarden/server/git/trees/7b324e3bdc53912673f68fb274aa18afd19828cc",
+      "html": "https://github.com/bitwarden/server/tree/main/util"
+    }
+  }
+]

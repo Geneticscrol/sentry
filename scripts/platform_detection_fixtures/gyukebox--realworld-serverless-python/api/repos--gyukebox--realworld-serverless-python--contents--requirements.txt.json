@@ -1,0 +1,18 @@
+{
+  "name": "requirements.txt",
+  "path": "requirements.txt",
+  "sha": "55fdb557be6a9e887a81b54df360c4c6f181636e",
+  "size": 260,
+  "url": "https://api.github.com/repos/joeyworld/realworld-serverless-python/contents/requirements.txt?ref=master",
+  "html_url": "https://github.com/joeyworld/realworld-serverless-python/blob/master/requirements.txt",
+  "git_url": "https://api.github.com/repos/joeyworld/realworld-serverless-python/git/blobs/55fdb557be6a9e887a81b54df360c4c6f181636e",
+  "download_url": "https://raw.githubusercontent.com/joeyworld/realworld-serverless-python/master/requirements.txt",
+  "type": "file",
+  "content": "YWxlbWJpYz09MC45LjkKY2VydGlmaT09MjAxOC4xLjE4CmNoYXJkZXQ9PTMu\nMC40CmlkbmE9PTIuNgpNYWtvPT0xLjAuNwpNYXJrdXBTYWZlPT0xLjAKcGFz\nc2xpYj09MS43LjEKUHlKV1Q9PTEuNi4xClB5TXlTUUw9PTAuOC4wCnB5dGhv\nbi1kYXRldXRpbD09Mi43LjIKcHl0aG9uLWVkaXRvcj09MS4wLjMKcmVxdWVz\ndHM9PTIuMTguNApzaXg9PTEuMTEuMApTUUxBbGNoZW15PT0xLjIuNwpTUUxB\nbGNoZW15LVV0aWxzPT0wLjMzLjIKdXJsbGliMz09MS4yMgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/joeyworld/realworld-serverless-python/contents/requirements.txt?ref=master",
+    "git": "https://api.github.com/repos/joeyworld/realworld-serverless-python/git/blobs/55fdb557be6a9e887a81b54df360c4c6f181636e",
+    "html": "https://github.com/joeyworld/realworld-serverless-python/blob/master/requirements.txt"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Podfile",
+  "path": "Podfile",
+  "sha": "acd0b9bb7dd01a4923dbb01b708f269d9da336db",
+  "size": 1453,
+  "url": "https://api.github.com/repos/Finb/Bark/contents/Podfile?ref=master",
+  "html_url": "https://github.com/Finb/Bark/blob/master/Podfile",
+  "git_url": "https://api.github.com/repos/Finb/Bark/git/blobs/acd0b9bb7dd01a4923dbb01b708f269d9da336db",
+  "download_url": "https://raw.githubusercontent.com/Finb/Bark/master/Podfile",
+  "type": "file",
+  "content": "c291cmNlICdodHRwczovL2Nkbi5jb2NvYXBvZHMub3JnLycKCnBsYXRmb3Jt\nOmlvcywnMTMuMCcKaW5oaWJpdF9hbGxfd2FybmluZ3MhCnVzZV9tb2R1bGFy\nX2hlYWRlcnMhCgoKZGVmIHBvZHMKICAgIHBvZCAnU25hcEtpdCcKICAgIHBv\nZCAnTWF0ZXJpYWwnCiAgICBwb2QgJ1NWUHJvZ3Jlc3NIVUQnCiAgICBwb2Qg\nJ0ZERnVsbHNjcmVlblBvcEdlc3R1cmUnCiAgICBwb2QgJ01veWEvUnhTd2lm\ndCcKICAgIHBvZCAnT2JqZWN0TWFwcGVyJwogICAgcG9kICdTd2lmdHlKU09O\nJwogICAgcG9kICdEZWZhdWx0c0tpdCcKICAgIHBvZCAnUmVhbG1Td2lmdCcK\nICAgIHBvZCAnQ3J5cHRvU3dpZnQnCiAgICBwb2QgJ0lRS2V5Ym9hcmRNYW5h\nZ2VyU3dpZnQvSVFLZXlib2FyZFRvb2xiYXJNYW5hZ2VyJwogICAgCiAgICBw\nb2QgJ1J4U3dpZnQnCiAgICBwb2QgJ1J4Q29jb2EnCiAgICBwb2QgJ1J4R2Vz\ndHVyZScKICAgIHBvZCAnUnhEYXRhU291cmNlcycKICAgIHBvZCAnTlNPYmpl\nY3QrUngnCiAgICAKICAgIHBvZCAnTUpSZWZyZXNoJwogICAgcG9kICdLaW5n\nZmlzaGVyJwogICAgcG9kICdNZXJjYXJpUVJTY2FubmVyJywgOmdpdCA9PiAn\naHR0cHM6Ly9naXRodWIuY29tL0ZpbmIvUVJTY2FubmVyJwogICAgcG9kICdE\ncm9wRG93bicKICAgIHBvZCAnSW1hZ2VWaWV3ZXIuc3dpZnQnLCA6Z2l0ID0+\nICdodHRwczovL2dpdGh1Yi5jb20vRmluYi9JbWFnZVZpZXdlci5zd2lmdCcK\nICAgIAogICAgcG9kICdTd2lmdHlTdG9yZUtpdCcKZW5kCgp0YXJnZXQgJ0Jh\ncmsnIGRvCiAgICBwb2RzCiAgICAKICAgIHRhcmdldCAnQmFya1Rlc3RzJyBk\nbwogICAgICBpbmhlcml0ISA6c2VhcmNoX3BhdGhzCiAgICBlbmQKICAgIApl\nbmQKCgp0YXJnZXQgJ05vdGlmaWNhdGlvblNlcnZpY2VFeHRlbnNpb24nIGRv\nCiAgICBwb2QgJ1JlYWxtU3dpZnQnCiAgICBwb2QgJ0tpbmdmaXNoZXInCiAg\nICBwb2QgJ0NyeXB0b1N3aWZ0JwogICAgcG9kICdTd2lmdHlKU09OJwplbmQK\nCnRhcmdldCAnTm90aWZpY2F0aW9uQ29udGVudEV4dGVuc2lvbicgZG8KICAg\nIHBvZCAnS2luZ2Zpc2hlcicKZW5kCgoKcG9zdF9pbnN0YWxsIGRvIHxpbnN0\nYWxsZXJ8CiAgICBpbnN0YWxsZXIucG9kc19wcm9qZWN0LnRhcmdldHMuZWFj\naCBkbyB8dGFyZ2V0fAogICAgICAgIHRhcmdldC5idWlsZF9jb25maWd1cmF0\naW9ucy5lYWNoIGRvIHxjb25maWd8CiAgICAgICAgICAgIGlmIGNvbmZpZy5i\ndWlsZF9zZXR0aW5nc1snSVBIT05FT1NfREVQTE9ZTUVOVF9UQVJHRVQnXS50\nb19mIDwgMTMuMAogICAgICAgICAgICAgICAgY29uZmlnLmJ1aWxkX3NldHRp\nbmdzWydJUEhPTkVPU19ERVBMT1lNRU5UX1RBUkdFVCddID0gJzEzLjAnCiAg\nICAgICAgICAgIGVuZAogICAgICAgICAgICBjb25maWcuYnVpbGRfc2V0dGlu\nZ3NbJ0NPREVfU0lHTklOR19BTExPV0VEJ10gPSAnTk8nCiAgICAgICAgZW5k\nCiAgICBlbmQKZW5kCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/Finb/Bark/contents/Podfile?ref=master",
+    "git": "https://api.github.com/repos/Finb/Bark/git/blobs/acd0b9bb7dd01a4923dbb01b708f269d9da336db",
+    "html": "https://github.com/Finb/Bark/blob/master/Podfile"
+  }
+}

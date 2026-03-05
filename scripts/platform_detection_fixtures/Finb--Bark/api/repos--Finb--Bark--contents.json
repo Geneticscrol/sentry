@@ -1,0 +1,370 @@
+[
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "566c299f9e5788612a269bc601e0e20981c28c99",
+    "size": 0,
+    "url": "https://api.github.com/repos/Finb/Bark/contents/.github?ref=master",
+    "html_url": "https://github.com/Finb/Bark/tree/master/.github",
+    "git_url": "https://api.github.com/repos/Finb/Bark/git/trees/566c299f9e5788612a269bc601e0e20981c28c99",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Finb/Bark/contents/.github?ref=master",
+      "git": "https://api.github.com/repos/Finb/Bark/git/trees/566c299f9e5788612a269bc601e0e20981c28c99",
+      "html": "https://github.com/Finb/Bark/tree/master/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "e8f44b6499ac9a26e9bc0fb33d9b908e65c3a34c",
+    "size": 148,
+    "url": "https://api.github.com/repos/Finb/Bark/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/Finb/Bark/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/Finb/Bark/git/blobs/e8f44b6499ac9a26e9bc0fb33d9b908e65c3a34c",
+    "download_url": "https://raw.githubusercontent.com/Finb/Bark/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Finb/Bark/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/Finb/Bark/git/blobs/e8f44b6499ac9a26e9bc0fb33d9b908e65c3a34c",
+      "html": "https://github.com/Finb/Bark/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": "Bark.xcodeproj",
+    "path": "Bark.xcodeproj",
+    "sha": "940f47059a0a45386d3100445b080f9bae3c4d8f",
+    "size": 0,
+    "url": "https://api.github.com/repos/Finb/Bark/contents/Bark.xcodeproj?ref=master",
+    "html_url": "https://github.com/Finb/Bark/tree/master/Bark.xcodeproj",
+    "git_url": "https://api.github.com/repos/Finb/Bark/git/trees/940f47059a0a45386d3100445b080f9bae3c4d8f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Finb/Bark/contents/Bark.xcodeproj?ref=master",
+      "git": "https://api.github.com/repos/Finb/Bark/git/trees/940f47059a0a45386d3100445b080f9bae3c4d8f",
+      "html": "https://github.com/Finb/Bark/tree/master/Bark.xcodeproj"
+    }
+  },
+  {
+    "name": "Bark.xcworkspace",
+    "path": "Bark.xcworkspace",
+    "sha": "94bde72f5837ca92949efd00bca05fe4d170d622",
+    "size": 0,
+    "url": "https://api.github.com/repos/Finb/Bark/contents/Bark.xcworkspace?ref=master",
+    "html_url": "https://github.com/Finb/Bark/tree/master/Bark.xcworkspace",
+    "git_url": "https://api.github.com/repos/Finb/Bark/git/trees/94bde72f5837ca92949efd00bca05fe4d170d622",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Finb/Bark/contents/Bark.xcworkspace?ref=master",
+      "git": "https://api.github.com/repos/Finb/Bark/git/trees/94bde72f5837ca92949efd00bca05fe4d170d622",
+      "html": "https://github.com/Finb/Bark/tree/master/Bark.xcworkspace"
+    }
+  },
+  {
+    "name": "Bark",
+    "path": "Bark",
+    "sha": "45807814052a3d7681f1f3ead5e7e2bc2af3840d",
+    "size": 0,
+    "url": "https://api.github.com/repos/Finb/Bark/contents/Bark?ref=master",
+    "html_url": "https://github.com/Finb/Bark/tree/master/Bark",
+    "git_url": "https://api.github.com/repos/Finb/Bark/git/trees/45807814052a3d7681f1f3ead5e7e2bc2af3840d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Finb/Bark/contents/Bark?ref=master",
+      "git": "https://api.github.com/repos/Finb/Bark/git/trees/45807814052a3d7681f1f3ead5e7e2bc2af3840d",
+      "html": "https://github.com/Finb/Bark/tree/master/Bark"
+    }
+  },
+  {
+    "name": "BarkTests",
+    "path": "BarkTests",
+    "sha": "bf5d4b74b47933edd267f3cc2d6a4c4311ee0c68",
+    "size": 0,
+    "url": "https://api.github.com/repos/Finb/Bark/contents/BarkTests?ref=master",
+    "html_url": "https://github.com/Finb/Bark/tree/master/BarkTests",
+    "git_url": "https://api.github.com/repos/Finb/Bark/git/trees/bf5d4b74b47933edd267f3cc2d6a4c4311ee0c68",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Finb/Bark/contents/BarkTests?ref=master",
+      "git": "https://api.github.com/repos/Finb/Bark/git/trees/bf5d4b74b47933edd267f3cc2d6a4c4311ee0c68",
+      "html": "https://github.com/Finb/Bark/tree/master/BarkTests"
+    }
+  },
+  {
+    "name": "CLAUDE.md",
+    "path": "CLAUDE.md",
+    "sha": "995bc46961ddc4341c0061b4991e302559451f9d",
+    "size": 6781,
+    "url": "https://api.github.com/repos/Finb/Bark/contents/CLAUDE.md?ref=master",
+    "html_url": "https://github.com/Finb/Bark/blob/master/CLAUDE.md",
+    "git_url": "https://api.github.com/repos/Finb/Bark/git/blobs/995bc46961ddc4341c0061b4991e302559451f9d",
+    "download_url": "https://raw.githubusercontent.com/Finb/Bark/master/CLAUDE.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Finb/Bark/contents/CLAUDE.md?ref=master",
+      "git": "https://api.github.com/repos/Finb/Bark/git/blobs/995bc46961ddc4341c0061b4991e302559451f9d",
+      "html": "https://github.com/Finb/Bark/blob/master/CLAUDE.md"
+    }
+  },
+  {
+    "name": "Common",
+    "path": "Common",
+    "sha": "8b7e8b6650ff8f627e4b8224dc22f0f5d5e19437",
+    "size": 0,
+    "url": "https://api.github.com/repos/Finb/Bark/contents/Common?ref=master",
+    "html_url": "https://github.com/Finb/Bark/tree/master/Common",
+    "git_url": "https://api.github.com/repos/Finb/Bark/git/trees/8b7e8b6650ff8f627e4b8224dc22f0f5d5e19437",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Finb/Bark/contents/Common?ref=master",
+      "git": "https://api.github.com/repos/Finb/Bark/git/trees/8b7e8b6650ff8f627e4b8224dc22f0f5d5e19437",
+      "html": "https://github.com/Finb/Bark/tree/master/Common"
+    }
+  },
+  {
+    "name": "Controller",
+    "path": "Controller",
+    "sha": "e3c288992d1e32cd19dee5a1d54b00b708d410c5",
+    "size": 0,
+    "url": "https://api.github.com/repos/Finb/Bark/contents/Controller?ref=master",
+    "html_url": "https://github.com/Finb/Bark/tree/master/Controller",
+    "git_url": "https://api.github.com/repos/Finb/Bark/git/trees/e3c288992d1e32cd19dee5a1d54b00b708d410c5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Finb/Bark/contents/Controller?ref=master",
+      "git": "https://api.github.com/repos/Finb/Bark/git/trees/e3c288992d1e32cd19dee5a1d54b00b708d410c5",
+      "html": "https://github.com/Finb/Bark/tree/master/Controller"
+    }
+  },
+  {
+    "name": "Gemfile",
+    "path": "Gemfile",
+    "sha": "7e7493d50e7de7e47ff10dfecd469ff60b02dd2a",
+    "size": 62,
+    "url": "https://api.github.com/repos/Finb/Bark/contents/Gemfile?ref=master",
+    "html_url": "https://github.com/Finb/Bark/blob/master/Gemfile",
+    "git_url": "https://api.github.com/repos/Finb/Bark/git/blobs/7e7493d50e7de7e47ff10dfecd469ff60b02dd2a",
+    "download_url": "https://raw.githubusercontent.com/Finb/Bark/master/Gemfile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Finb/Bark/contents/Gemfile?ref=master",
+      "git": "https://api.github.com/repos/Finb/Bark/git/blobs/7e7493d50e7de7e47ff10dfecd469ff60b02dd2a",
+      "html": "https://github.com/Finb/Bark/blob/master/Gemfile"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "67b60e7b56d78e88894b136114d1ab1fc996ebe1",
+    "size": 1061,
+    "url": "https://api.github.com/repos/Finb/Bark/contents/LICENSE?ref=master",
+    "html_url": "https://github.com/Finb/Bark/blob/master/LICENSE",
+    "git_url": "https://api.github.com/repos/Finb/Bark/git/blobs/67b60e7b56d78e88894b136114d1ab1fc996ebe1",
+    "download_url": "https://raw.githubusercontent.com/Finb/Bark/master/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Finb/Bark/contents/LICENSE?ref=master",
+      "git": "https://api.github.com/repos/Finb/Bark/git/blobs/67b60e7b56d78e88894b136114d1ab1fc996ebe1",
+      "html": "https://github.com/Finb/Bark/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Model",
+    "path": "Model",
+    "sha": "42895d3c9bf8e37697ad1bf83662bfbde97fe50f",
+    "size": 0,
+    "url": "https://api.github.com/repos/Finb/Bark/contents/Model?ref=master",
+    "html_url": "https://github.com/Finb/Bark/tree/master/Model",
+    "git_url": "https://api.github.com/repos/Finb/Bark/git/trees/42895d3c9bf8e37697ad1bf83662bfbde97fe50f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Finb/Bark/contents/Model?ref=master",
+      "git": "https://api.github.com/repos/Finb/Bark/git/trees/42895d3c9bf8e37697ad1bf83662bfbde97fe50f",
+      "html": "https://github.com/Finb/Bark/tree/master/Model"
+    }
+  },
+  {
+    "name": "NotificationServiceExtension",
+    "path": "NotificationServiceExtension",
+    "sha": "f27f32c4b4f4fba6220346945aab17550afd78d7",
+    "size": 0,
+    "url": "https://api.github.com/repos/Finb/Bark/contents/NotificationServiceExtension?ref=master",
+    "html_url": "https://github.com/Finb/Bark/tree/master/NotificationServiceExtension",
+    "git_url": "https://api.github.com/repos/Finb/Bark/git/trees/f27f32c4b4f4fba6220346945aab17550afd78d7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Finb/Bark/contents/NotificationServiceExtension?ref=master",
+      "git": "https://api.github.com/repos/Finb/Bark/git/trees/f27f32c4b4f4fba6220346945aab17550afd78d7",
+      "html": "https://github.com/Finb/Bark/tree/master/NotificationServiceExtension"
+    }
+  },
+  {
+    "name": "Podfile",
+    "path": "Podfile",
+    "sha": "acd0b9bb7dd01a4923dbb01b708f269d9da336db",
+    "size": 1453,
+    "url": "https://api.github.com/repos/Finb/Bark/contents/Podfile?ref=master",
+    "html_url": "https://github.com/Finb/Bark/blob/master/Podfile",
+    "git_url": "https://api.github.com/repos/Finb/Bark/git/blobs/acd0b9bb7dd01a4923dbb01b708f269d9da336db",
+    "download_url": "https://raw.githubusercontent.com/Finb/Bark/master/Podfile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Finb/Bark/contents/Podfile?ref=master",
+      "git": "https://api.github.com/repos/Finb/Bark/git/blobs/acd0b9bb7dd01a4923dbb01b708f269d9da336db",
+      "html": "https://github.com/Finb/Bark/blob/master/Podfile"
+    }
+  },
+  {
+    "name": "Podfile.lock",
+    "path": "Podfile.lock",
+    "sha": "ba611a7c18118a89741d09e829bcf6aee1860361",
+    "size": 5341,
+    "url": "https://api.github.com/repos/Finb/Bark/contents/Podfile.lock?ref=master",
+    "html_url": "https://github.com/Finb/Bark/blob/master/Podfile.lock",
+    "git_url": "https://api.github.com/repos/Finb/Bark/git/blobs/ba611a7c18118a89741d09e829bcf6aee1860361",
+    "download_url": "https://raw.githubusercontent.com/Finb/Bark/master/Podfile.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Finb/Bark/contents/Podfile.lock?ref=master",
+      "git": "https://api.github.com/repos/Finb/Bark/git/blobs/ba611a7c18118a89741d09e829bcf6aee1860361",
+      "html": "https://github.com/Finb/Bark/blob/master/Podfile.lock"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "00cdcef13ab9d72145193ffba2872fd3688f6a5b",
+    "size": 3839,
+    "url": "https://api.github.com/repos/Finb/Bark/contents/README.md?ref=master",
+    "html_url": "https://github.com/Finb/Bark/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/Finb/Bark/git/blobs/00cdcef13ab9d72145193ffba2872fd3688f6a5b",
+    "download_url": "https://raw.githubusercontent.com/Finb/Bark/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Finb/Bark/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/Finb/Bark/git/blobs/00cdcef13ab9d72145193ffba2872fd3688f6a5b",
+      "html": "https://github.com/Finb/Bark/blob/master/README.md"
+    }
+  },
+  {
+    "name": "README.zh.md",
+    "path": "README.zh.md",
+    "sha": "a8cdad504a91fc650b4c8a42bb34b93dcb409152",
+    "size": 3588,
+    "url": "https://api.github.com/repos/Finb/Bark/contents/README.zh.md?ref=master",
+    "html_url": "https://github.com/Finb/Bark/blob/master/README.zh.md",
+    "git_url": "https://api.github.com/repos/Finb/Bark/git/blobs/a8cdad504a91fc650b4c8a42bb34b93dcb409152",
+    "download_url": "https://raw.githubusercontent.com/Finb/Bark/master/README.zh.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Finb/Bark/contents/README.zh.md?ref=master",
+      "git": "https://api.github.com/repos/Finb/Bark/git/blobs/a8cdad504a91fc650b4c8a42bb34b93dcb409152",
+      "html": "https://github.com/Finb/Bark/blob/master/README.zh.md"
+    }
+  },
+  {
+    "name": "Sounds",
+    "path": "Sounds",
+    "sha": "3987d0fd99257c85c9ca14ce74bfcf71447b2cf8",
+    "size": 0,
+    "url": "https://api.github.com/repos/Finb/Bark/contents/Sounds?ref=master",
+    "html_url": "https://github.com/Finb/Bark/tree/master/Sounds",
+    "git_url": "https://api.github.com/repos/Finb/Bark/git/trees/3987d0fd99257c85c9ca14ce74bfcf71447b2cf8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Finb/Bark/contents/Sounds?ref=master",
+      "git": "https://api.github.com/repos/Finb/Bark/git/trees/3987d0fd99257c85c9ca14ce74bfcf71447b2cf8",
+      "html": "https://github.com/Finb/Bark/tree/master/Sounds"
+    }
+  },
+  {
+    "name": "View",
+    "path": "View",
+    "sha": "f817d10cb07c8b3b6389b09cc36d4011984028bd",
+    "size": 0,
+    "url": "https://api.github.com/repos/Finb/Bark/contents/View?ref=master",
+    "html_url": "https://github.com/Finb/Bark/tree/master/View",
+    "git_url": "https://api.github.com/repos/Finb/Bark/git/trees/f817d10cb07c8b3b6389b09cc36d4011984028bd",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Finb/Bark/contents/View?ref=master",
+      "git": "https://api.github.com/repos/Finb/Bark/git/trees/f817d10cb07c8b3b6389b09cc36d4011984028bd",
+      "html": "https://github.com/Finb/Bark/tree/master/View"
+    }
+  },
+  {
+    "name": "check_unused_translations.py",
+    "path": "check_unused_translations.py",
+    "sha": "a3d3d1f589668800115806e3846c2269d0551a39",
+    "size": 9233,
+    "url": "https://api.github.com/repos/Finb/Bark/contents/check_unused_translations.py?ref=master",
+    "html_url": "https://github.com/Finb/Bark/blob/master/check_unused_translations.py",
+    "git_url": "https://api.github.com/repos/Finb/Bark/git/blobs/a3d3d1f589668800115806e3846c2269d0551a39",
+    "download_url": "https://raw.githubusercontent.com/Finb/Bark/master/check_unused_translations.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Finb/Bark/contents/check_unused_translations.py?ref=master",
+      "git": "https://api.github.com/repos/Finb/Bark/git/blobs/a3d3d1f589668800115806e3846c2269d0551a39",
+      "html": "https://github.com/Finb/Bark/blob/master/check_unused_translations.py"
+    }
+  },
+  {
+    "name": "docs",
+    "path": "docs",
+    "sha": "7225a24d0444ee63d9694681c2f3bb6615a66f05",
+    "size": 0,
+    "url": "https://api.github.com/repos/Finb/Bark/contents/docs?ref=master",
+    "html_url": "https://github.com/Finb/Bark/tree/master/docs",
+    "git_url": "https://api.github.com/repos/Finb/Bark/git/trees/7225a24d0444ee63d9694681c2f3bb6615a66f05",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Finb/Bark/contents/docs?ref=master",
+      "git": "https://api.github.com/repos/Finb/Bark/git/trees/7225a24d0444ee63d9694681c2f3bb6615a66f05",
+      "html": "https://github.com/Finb/Bark/tree/master/docs"
+    }
+  },
+  {
+    "name": "fastlane",
+    "path": "fastlane",
+    "sha": "9d8b11f214b126e9c38629c1cbfc5f899954a85c",
+    "size": 0,
+    "url": "https://api.github.com/repos/Finb/Bark/contents/fastlane?ref=master",
+    "html_url": "https://github.com/Finb/Bark/tree/master/fastlane",
+    "git_url": "https://api.github.com/repos/Finb/Bark/git/trees/9d8b11f214b126e9c38629c1cbfc5f899954a85c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Finb/Bark/contents/fastlane?ref=master",
+      "git": "https://api.github.com/repos/Finb/Bark/git/trees/9d8b11f214b126e9c38629c1cbfc5f899954a85c",
+      "html": "https://github.com/Finb/Bark/tree/master/fastlane"
+    }
+  },
+  {
+    "name": "notificationContentExtension",
+    "path": "notificationContentExtension",
+    "sha": "669db556f6f56dba29a569735b0eeeaf2ae8328f",
+    "size": 0,
+    "url": "https://api.github.com/repos/Finb/Bark/contents/notificationContentExtension?ref=master",
+    "html_url": "https://github.com/Finb/Bark/tree/master/notificationContentExtension",
+    "git_url": "https://api.github.com/repos/Finb/Bark/git/trees/669db556f6f56dba29a569735b0eeeaf2ae8328f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Finb/Bark/contents/notificationContentExtension?ref=master",
+      "git": "https://api.github.com/repos/Finb/Bark/git/trees/669db556f6f56dba29a569735b0eeeaf2ae8328f",
+      "html": "https://github.com/Finb/Bark/tree/master/notificationContentExtension"
+    }
+  }
+]

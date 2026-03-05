@@ -1,0 +1,18 @@
+{
+  "name": "package.json",
+  "path": "package.json",
+  "sha": "01f644242f3a91258c737becdb0bd02dc948705d",
+  "size": 1311,
+  "url": "https://api.github.com/repos/zhengkyl/qrframe/contents/package.json?ref=main",
+  "html_url": "https://github.com/zhengkyl/qrframe/blob/main/package.json",
+  "git_url": "https://api.github.com/repos/zhengkyl/qrframe/git/blobs/01f644242f3a91258c737becdb0bd02dc948705d",
+  "download_url": "https://raw.githubusercontent.com/zhengkyl/qrframe/main/package.json",
+  "type": "file",
+  "content": "ewogICJuYW1lIjogInFyZnJhbWUiLAogICJ0eXBlIjogIm1vZHVsZSIsCiAg\nInNjcmlwdHMiOiB7CiAgICAiZGV2IjogInZpbnhpIGRldiIsCiAgICAiYnVp\nbGQiOiAidmlueGkgYnVpbGQiLAogICAgInN0YXJ0IjogInZpbnhpIHN0YXJ0\nIiwKICAgICJwcmV2aWV3IjogInBucG0gcnVuIGJ1aWxkICYmIG5weCB3cmFu\nZ2xlciBwYWdlcyBkZXYiLAogICAgImRlcGxveSI6ICJwbnBtIHJ1biBidWls\nZCAmJiB3cmFuZ2xlciBwYWdlcyBkZXBsb3kiCiAgfSwKICAiZGVwZW5kZW5j\naWVzIjogewogICAgIkBjb2RlbWlycm9yL2NvbW1hbmRzIjogIl42LjYuMCIs\nCiAgICAiQGNvZGVtaXJyb3IvbGFuZy1qYXZhc2NyaXB0IjogIl42LjIuMiIs\nCiAgICAiQGNvZGVtaXJyb3IvbGFuZ3VhZ2UiOiAiXjYuMTAuMiIsCiAgICAi\nQGNvZGVtaXJyb3Ivc3RhdGUiOiAiXjYuNC4xIiwKICAgICJAY29kZW1pcnJv\nci90aGVtZS1vbmUtZGFyayI6ICJeNi4xLjIiLAogICAgIkBjb2RlbWlycm9y\nL3ZpZXciOiAiXjYuMjguMyIsCiAgICAiQGtvYmFsdGUvY29yZSI6ICJeMC4x\nMy40IiwKICAgICJAbWVsbG93YXJlL2NvbG9yaXMiOiAiXjAuMjQuMCIsCiAg\nICAiQHJlcGxpdC9jb2RlbWlycm9yLXZpbSI6ICJeNi4yLjEiLAogICAgIkBz\nb2xpZGpzL3JvdXRlciI6ICJeMC4xMy4zIiwKICAgICJAc29saWRqcy9zdGFy\ndCI6ICJeMS4wLjAiLAogICAgIkB0aGlzYmV5b25kL3NvbGlkLWRuZCI6ICJe\nMC43LjUiLAogICAgIkB1bm9jc3MvcmVzZXQiOiAiXjAuNTkuNCIsCiAgICAi\nY29kZW1pcnJvciI6ICJeNi4wLjEiLAogICAgImZ1cXIiOiAiXjEuMC4wIiwK\nICAgICJsdWNpZGUtc29saWQiOiAiXjAuNDc0LjAiLAogICAgInNvbGlkLWpz\nIjogIl4xLjkuMiIsCiAgICAidW5vY3NzIjogIl4wLjU5LjQiLAogICAgInZp\nbnhpIjogIl4wLjMuMTEiCiAgfSwKICAiZGV2RGVwZW5kZW5jaWVzIjogewog\nICAgIkBjbG91ZGZsYXJlL3dvcmtlcnMtdHlwZXMiOiAiXjQuMjAyNDEwMTEu\nMCIsCiAgICAiQHVub2Nzcy90cmFuc2Zvcm1lci12YXJpYW50LWdyb3VwIjog\nIl4wLjU5LjQiLAogICAgInByZXR0aWVyIjogIl4zLjMuMyIsCiAgICAidml0\nZS1wbHVnaW4td2FzbS1wYWNrIjogIl4wLjEuMTIiLAogICAgIndyYW5nbGVy\nIjogIl4zLjgwLjQiCiAgfSwKICAicG5wbSI6IHsKICAgICJvdmVycmlkZXMi\nOiB7CiAgICAgICJAaW50ZXJuYXRpb25hbGl6ZWQvZGF0ZSI6ICJeMy41LjQi\nLAogICAgICAiQGludGVybmF0aW9uYWxpemVkL251bWJlciI6ICJeMy41LjMi\nCiAgICB9CiAgfSwKICAiZW5naW5lcyI6IHsKICAgICJub2RlIjogIj49MTgi\nCiAgfQp9\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/zhengkyl/qrframe/contents/package.json?ref=main",
+    "git": "https://api.github.com/repos/zhengkyl/qrframe/git/blobs/01f644242f3a91258c737becdb0bd02dc948705d",
+    "html": "https://github.com/zhengkyl/qrframe/blob/main/package.json"
+  }
+}

@@ -1,0 +1,1202 @@
+[
+  {
+    "name": ".all-contributorsrc",
+    "path": ".all-contributorsrc",
+    "sha": "5c3e48cf2473afcaff88eb92e1026ccd6d1847ff",
+    "size": 1812,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/.all-contributorsrc?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/.all-contributorsrc",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/5c3e48cf2473afcaff88eb92e1026ccd6d1847ff",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/.all-contributorsrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/.all-contributorsrc?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/5c3e48cf2473afcaff88eb92e1026ccd6d1847ff",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/.all-contributorsrc"
+    }
+  },
+  {
+    "name": ".browserslistrc",
+    "path": ".browserslistrc",
+    "sha": "e94f8140cc002ea77aeda3dae01314d9c3d491a9",
+    "size": 9,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/.browserslistrc?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/.browserslistrc",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/e94f8140cc002ea77aeda3dae01314d9c3d491a9",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/.browserslistrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/.browserslistrc?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/e94f8140cc002ea77aeda3dae01314d9c3d491a9",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/.browserslistrc"
+    }
+  },
+  {
+    "name": ".bundler-audit.yml",
+    "path": ".bundler-audit.yml",
+    "sha": "afe8702acb0eea89f28d31713095698a7c515e70",
+    "size": 126,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/.bundler-audit.yml?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/.bundler-audit.yml",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/afe8702acb0eea89f28d31713095698a7c515e70",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/.bundler-audit.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/.bundler-audit.yml?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/afe8702acb0eea89f28d31713095698a7c515e70",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/.bundler-audit.yml"
+    }
+  },
+  {
+    "name": ".circleci",
+    "path": ".circleci",
+    "sha": "ac2b67d9f8a5ed958be4c71706472dff2653ecdd",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/.circleci?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/.circleci",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/ac2b67d9f8a5ed958be4c71706472dff2653ecdd",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/.circleci?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/ac2b67d9f8a5ed958be4c71706472dff2653ecdd",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/.circleci"
+    }
+  },
+  {
+    "name": ".dependabot",
+    "path": ".dependabot",
+    "sha": "50747a328a5800fe9df7c8bf44f5f19c07170eb6",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/.dependabot?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/.dependabot",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/50747a328a5800fe9df7c8bf44f5f19c07170eb6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/.dependabot?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/50747a328a5800fe9df7c8bf44f5f19c07170eb6",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/.dependabot"
+    }
+  },
+  {
+    "name": ".devcontainer",
+    "path": ".devcontainer",
+    "sha": "f6c2fe38325663aae995cb0c77b3017cb7f13f10",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/.devcontainer?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/.devcontainer",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/f6c2fe38325663aae995cb0c77b3017cb7f13f10",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/.devcontainer?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/f6c2fe38325663aae995cb0c77b3017cb7f13f10",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/.devcontainer"
+    }
+  },
+  {
+    "name": ".dockerignore",
+    "path": ".dockerignore",
+    "sha": "a5af77eb5847a9e99d24a9415101018d852ef6a1",
+    "size": 180,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/.dockerignore?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/.dockerignore",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/a5af77eb5847a9e99d24a9415101018d852ef6a1",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/.dockerignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/.dockerignore?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/a5af77eb5847a9e99d24a9415101018d852ef6a1",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/.dockerignore"
+    }
+  },
+  {
+    "name": ".editorconfig",
+    "path": ".editorconfig",
+    "sha": "2a5fe28cf235e8ec2c24aae1cb931f37cd16cdd6",
+    "size": 366,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/.editorconfig?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/.editorconfig",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/2a5fe28cf235e8ec2c24aae1cb931f37cd16cdd6",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/.editorconfig",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/.editorconfig?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/2a5fe28cf235e8ec2c24aae1cb931f37cd16cdd6",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/.editorconfig"
+    }
+  },
+  {
+    "name": ".env.example",
+    "path": ".env.example",
+    "sha": "bc7380a292b077390b782ad9eae105f32d984c2b",
+    "size": 10119,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/.env.example?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/.env.example",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/bc7380a292b077390b782ad9eae105f32d984c2b",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/.env.example",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/.env.example?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/bc7380a292b077390b782ad9eae105f32d984c2b",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/.env.example"
+    }
+  },
+  {
+    "name": ".eslintrc.js",
+    "path": ".eslintrc.js",
+    "sha": "6b5205ad70e77a5d09c92e4a6c2e6e0de8c46023",
+    "size": 5976,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/.eslintrc.js?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/.eslintrc.js",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/6b5205ad70e77a5d09c92e4a6c2e6e0de8c46023",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/.eslintrc.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/.eslintrc.js?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/6b5205ad70e77a5d09c92e4a6c2e6e0de8c46023",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/.eslintrc.js"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "a207145f8c9a456e4ed6d3ec18b5df8001c677f4",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/.github?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/.github",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/a207145f8c9a456e4ed6d3ec18b5df8001c677f4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/.github?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/a207145f8c9a456e4ed6d3ec18b5df8001c677f4",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "017c5c22425170a443578f170a987245a24a8ade",
+    "size": 1716,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/.gitignore?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/.gitignore",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/017c5c22425170a443578f170a987245a24a8ade",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/.gitignore?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/017c5c22425170a443578f170a987245a24a8ade",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/.gitignore"
+    }
+  },
+  {
+    "name": ".husky",
+    "path": ".husky",
+    "sha": "fdfbc84e2f4e202616a8092274994452a5c7a0b3",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/.husky?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/.husky",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/fdfbc84e2f4e202616a8092274994452a5c7a0b3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/.husky?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/fdfbc84e2f4e202616a8092274994452a5c7a0b3",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/.husky"
+    }
+  },
+  {
+    "name": ".nvmrc",
+    "path": ".nvmrc",
+    "sha": "cf2efde8116022ffc3349ee6812d6d1f6d82b430",
+    "size": 7,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/.nvmrc?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/.nvmrc",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/cf2efde8116022ffc3349ee6812d6d1f6d82b430",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/.nvmrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/.nvmrc?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/cf2efde8116022ffc3349ee6812d6d1f6d82b430",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/.nvmrc"
+    }
+  },
+  {
+    "name": ".prettierrc",
+    "path": ".prettierrc",
+    "sha": "366415e244ccfd8ffc495cb9a19d1040e9de42b0",
+    "size": 98,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/.prettierrc?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/.prettierrc",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/366415e244ccfd8ffc495cb9a19d1040e9de42b0",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/.prettierrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/.prettierrc?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/366415e244ccfd8ffc495cb9a19d1040e9de42b0",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/.prettierrc"
+    }
+  },
+  {
+    "name": ".qlty",
+    "path": ".qlty",
+    "sha": "6a284c9b0d04ed67aa035a9d9fb01be5d116665c",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/.qlty?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/.qlty",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/6a284c9b0d04ed67aa035a9d9fb01be5d116665c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/.qlty?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/6a284c9b0d04ed67aa035a9d9fb01be5d116665c",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/.qlty"
+    }
+  },
+  {
+    "name": ".rspec",
+    "path": ".rspec",
+    "sha": "c99d2e7396e14ac072c63ec8419d9b8fede28d86",
+    "size": 22,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/.rspec?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/.rspec",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/c99d2e7396e14ac072c63ec8419d9b8fede28d86",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/.rspec",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/.rspec?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/c99d2e7396e14ac072c63ec8419d9b8fede28d86",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/.rspec"
+    }
+  },
+  {
+    "name": ".rubocop.yml",
+    "path": ".rubocop.yml",
+    "sha": "d87f08bfd5892510e00dd5a5329dc0068af6a78d",
+    "size": 6509,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/.rubocop.yml?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/.rubocop.yml",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/d87f08bfd5892510e00dd5a5329dc0068af6a78d",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/.rubocop.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/.rubocop.yml?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/d87f08bfd5892510e00dd5a5329dc0068af6a78d",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/.rubocop.yml"
+    }
+  },
+  {
+    "name": ".ruby-version",
+    "path": ".ruby-version",
+    "sha": "f9892605c753d1b0aa66cf0997e20ade551fd437",
+    "size": 6,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/.ruby-version?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/.ruby-version",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/f9892605c753d1b0aa66cf0997e20ade551fd437",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/.ruby-version",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/.ruby-version?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/f9892605c753d1b0aa66cf0997e20ade551fd437",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/.ruby-version"
+    }
+  },
+  {
+    "name": ".scss-lint.yml",
+    "path": ".scss-lint.yml",
+    "sha": "2477dfffbc8ead01213c585a3cde60a3195fff49",
+    "size": 5242,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/.scss-lint.yml?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/.scss-lint.yml",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/2477dfffbc8ead01213c585a3cde60a3195fff49",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/.scss-lint.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/.scss-lint.yml?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/2477dfffbc8ead01213c585a3cde60a3195fff49",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/.scss-lint.yml"
+    }
+  },
+  {
+    "name": ".slugignore",
+    "path": ".slugignore",
+    "sha": "eaecc7e3425e8e9058533be43f60ea91e2f2d605",
+    "size": 6,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/.slugignore?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/.slugignore",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/eaecc7e3425e8e9058533be43f60ea91e2f2d605",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/.slugignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/.slugignore?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/eaecc7e3425e8e9058533be43f60ea91e2f2d605",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/.slugignore"
+    }
+  },
+  {
+    "name": ".vscode",
+    "path": ".vscode",
+    "sha": "d16bc013c2990e50a06240708f0d51ad6333602f",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/.vscode?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/.vscode",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/d16bc013c2990e50a06240708f0d51ad6333602f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/.vscode?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/d16bc013c2990e50a06240708f0d51ad6333602f",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/.vscode"
+    }
+  },
+  {
+    "name": ".windsurf",
+    "path": ".windsurf",
+    "sha": "76e4f8951634651b608400b253d50790de0499f8",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/.windsurf?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/.windsurf",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/76e4f8951634651b608400b253d50790de0499f8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/.windsurf?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/76e4f8951634651b608400b253d50790de0499f8",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/.windsurf"
+    }
+  },
+  {
+    "name": "AGENTS.md",
+    "path": "AGENTS.md",
+    "sha": "2ab6373b7d742693567f71a4b9d9d9e70897e13d",
+    "size": 6696,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/AGENTS.md?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/AGENTS.md",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/2ab6373b7d742693567f71a4b9d9d9e70897e13d",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/AGENTS.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/AGENTS.md?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/2ab6373b7d742693567f71a4b9d9d9e70897e13d",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/AGENTS.md"
+    }
+  },
+  {
+    "name": "CLAUDE.md",
+    "path": "CLAUDE.md",
+    "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+    "size": 9,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/CLAUDE.md?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/CLAUDE.md",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/CLAUDE.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/CLAUDE.md?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/CLAUDE.md"
+    }
+  },
+  {
+    "name": "CODE_OF_CONDUCT.md",
+    "path": "CODE_OF_CONDUCT.md",
+    "sha": "6f64656dd9f5f04be057f88d58a0c2a8fb2d58a4",
+    "size": 5219,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/CODE_OF_CONDUCT.md?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/CODE_OF_CONDUCT.md",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/6f64656dd9f5f04be057f88d58a0c2a8fb2d58a4",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/CODE_OF_CONDUCT.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/CODE_OF_CONDUCT.md?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/6f64656dd9f5f04be057f88d58a0c2a8fb2d58a4",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/CODE_OF_CONDUCT.md"
+    }
+  },
+  {
+    "name": "CONTRIBUTING.md",
+    "path": "CONTRIBUTING.md",
+    "sha": "935bb293e2b9ce20ff5c1159f8dfa40aaefd71fb",
+    "size": 221,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/CONTRIBUTING.md?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/CONTRIBUTING.md",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/935bb293e2b9ce20ff5c1159f8dfa40aaefd71fb",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/CONTRIBUTING.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/CONTRIBUTING.md?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/935bb293e2b9ce20ff5c1159f8dfa40aaefd71fb",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/CONTRIBUTING.md"
+    }
+  },
+  {
+    "name": "Capfile",
+    "path": "Capfile",
+    "sha": "972b078463d4185b9a314eafff780ebb120f7110",
+    "size": 363,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/Capfile?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/Capfile",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/972b078463d4185b9a314eafff780ebb120f7110",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/Capfile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/Capfile?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/972b078463d4185b9a314eafff780ebb120f7110",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/Capfile"
+    }
+  },
+  {
+    "name": "Gemfile",
+    "path": "Gemfile",
+    "sha": "0636b7b2b4e11fc87d1cbd5bedbb5f4a68a18fa3",
+    "size": 7132,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/Gemfile?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/Gemfile",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/0636b7b2b4e11fc87d1cbd5bedbb5f4a68a18fa3",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/Gemfile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/Gemfile?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/0636b7b2b4e11fc87d1cbd5bedbb5f4a68a18fa3",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/Gemfile"
+    }
+  },
+  {
+    "name": "Gemfile.lock",
+    "path": "Gemfile.lock",
+    "sha": "7a7316e3c54bd8b27b27a49ffaa18198b44228e8",
+    "size": 29475,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/Gemfile.lock?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/Gemfile.lock",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/7a7316e3c54bd8b27b27a49ffaa18198b44228e8",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/Gemfile.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/Gemfile.lock?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/7a7316e3c54bd8b27b27a49ffaa18198b44228e8",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/Gemfile.lock"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "8f80f35beac23087f29ca3bfa9a38f065074f3d0",
+    "size": 1581,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/LICENSE?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/LICENSE",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/8f80f35beac23087f29ca3bfa9a38f065074f3d0",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/LICENSE?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/8f80f35beac23087f29ca3bfa9a38f065074f3d0",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/LICENSE"
+    }
+  },
+  {
+    "name": "Makefile",
+    "path": "Makefile",
+    "sha": "684adacc68fcbfb3cd89c6e5e3f9dc9c151ec83c",
+    "size": 1503,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/Makefile?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/Makefile",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/684adacc68fcbfb3cd89c6e5e3f9dc9c151ec83c",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/Makefile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/Makefile?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/684adacc68fcbfb3cd89c6e5e3f9dc9c151ec83c",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/Makefile"
+    }
+  },
+  {
+    "name": "Procfile",
+    "path": "Procfile",
+    "sha": "f281f018a1091db117eedc14c9464cb760be39f1",
+    "size": 283,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/Procfile?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/Procfile",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/f281f018a1091db117eedc14c9464cb760be39f1",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/Procfile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/Procfile?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/f281f018a1091db117eedc14c9464cb760be39f1",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/Procfile"
+    }
+  },
+  {
+    "name": "Procfile.dev",
+    "path": "Procfile.dev",
+    "sha": "651b84edd2bd90b5a8c55a45ca133c5b54f8ccf5",
+    "size": 177,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/Procfile.dev?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/Procfile.dev",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/651b84edd2bd90b5a8c55a45ca133c5b54f8ccf5",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/Procfile.dev",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/Procfile.dev?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/651b84edd2bd90b5a8c55a45ca133c5b54f8ccf5",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/Procfile.dev"
+    }
+  },
+  {
+    "name": "Procfile.test",
+    "path": "Procfile.test",
+    "sha": "f7ac060bad74ac57d68b23a748ac8d690b627a0c",
+    "size": 135,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/Procfile.test?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/Procfile.test",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/f7ac060bad74ac57d68b23a748ac8d690b627a0c",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/Procfile.test",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/Procfile.test?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/f7ac060bad74ac57d68b23a748ac8d690b627a0c",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/Procfile.test"
+    }
+  },
+  {
+    "name": "Procfile.tunnel",
+    "path": "Procfile.tunnel",
+    "sha": "bf3541dd05169b5c630c8a0b9cee105b1e41c857",
+    "size": 214,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/Procfile.tunnel?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/Procfile.tunnel",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/bf3541dd05169b5c630c8a0b9cee105b1e41c857",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/Procfile.tunnel",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/Procfile.tunnel?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/bf3541dd05169b5c630c8a0b9cee105b1e41c857",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/Procfile.tunnel"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "d8b8ae7a2331ba9eb4002ea7d2911a4ae36bf297",
+    "size": 7617,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/README.md?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/README.md",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/d8b8ae7a2331ba9eb4002ea7d2911a4ae36bf297",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/README.md?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/d8b8ae7a2331ba9eb4002ea7d2911a4ae36bf297",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/README.md"
+    }
+  },
+  {
+    "name": "Rakefile",
+    "path": "Rakefile",
+    "sha": "2e996417ee88260d1a9fd4e7bac177288f42a3cb",
+    "size": 422,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/Rakefile?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/Rakefile",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/2e996417ee88260d1a9fd4e7bac177288f42a3cb",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/Rakefile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/Rakefile?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/2e996417ee88260d1a9fd4e7bac177288f42a3cb",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/Rakefile"
+    }
+  },
+  {
+    "name": "SECURITY.md",
+    "path": "SECURITY.md",
+    "sha": "ee9eba0b848c7e09a178dfe74246ec60fb610e8e",
+    "size": 2455,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/SECURITY.md?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/SECURITY.md",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/ee9eba0b848c7e09a178dfe74246ec60fb610e8e",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/SECURITY.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/SECURITY.md?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/ee9eba0b848c7e09a178dfe74246ec60fb610e8e",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/SECURITY.md"
+    }
+  },
+  {
+    "name": "VERSION_CW",
+    "path": "VERSION_CW",
+    "sha": "d782fca8f647e3757d2eb79f4d638ebe196baf08",
+    "size": 7,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/VERSION_CW?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/VERSION_CW",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/d782fca8f647e3757d2eb79f4d638ebe196baf08",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/VERSION_CW",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/VERSION_CW?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/d782fca8f647e3757d2eb79f4d638ebe196baf08",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/VERSION_CW"
+    }
+  },
+  {
+    "name": "VERSION_CWCTL",
+    "path": "VERSION_CWCTL",
+    "sha": "1545d966571dc86b54c98f888a0e6451501f8c81",
+    "size": 6,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/VERSION_CWCTL?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/VERSION_CWCTL",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/1545d966571dc86b54c98f888a0e6451501f8c81",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/VERSION_CWCTL",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/VERSION_CWCTL?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/1545d966571dc86b54c98f888a0e6451501f8c81",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/VERSION_CWCTL"
+    }
+  },
+  {
+    "name": "__mocks__",
+    "path": "__mocks__",
+    "sha": "8fa2abcbf23e85dc896322ceebeb9f362851c415",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/__mocks__?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/__mocks__",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/8fa2abcbf23e85dc896322ceebeb9f362851c415",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/__mocks__?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/8fa2abcbf23e85dc896322ceebeb9f362851c415",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/__mocks__"
+    }
+  },
+  {
+    "name": "app.json",
+    "path": "app.json",
+    "sha": "91fb0fbd5566389f67276c18840a0fac614bd575",
+    "size": 2077,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/app.json?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/app.json",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/91fb0fbd5566389f67276c18840a0fac614bd575",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/app.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/app.json?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/91fb0fbd5566389f67276c18840a0fac614bd575",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/app.json"
+    }
+  },
+  {
+    "name": "app",
+    "path": "app",
+    "sha": "0a5a259811fedaed1b37815b51f82dc6d93da59e",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/app?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/app",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/0a5a259811fedaed1b37815b51f82dc6d93da59e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/app?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/0a5a259811fedaed1b37815b51f82dc6d93da59e",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/app"
+    }
+  },
+  {
+    "name": "bin",
+    "path": "bin",
+    "sha": "3a8c3f34fc18a6984f927e919014c7398e8ff87b",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/bin?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/bin",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/3a8c3f34fc18a6984f927e919014c7398e8ff87b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/bin?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/3a8c3f34fc18a6984f927e919014c7398e8ff87b",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/bin"
+    }
+  },
+  {
+    "name": "clevercloud",
+    "path": "clevercloud",
+    "sha": "113b177a743551126df304f774b08539e7e6a10e",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/clevercloud?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/clevercloud",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/113b177a743551126df304f774b08539e7e6a10e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/clevercloud?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/113b177a743551126df304f774b08539e7e6a10e",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/clevercloud"
+    }
+  },
+  {
+    "name": "config.ru",
+    "path": "config.ru",
+    "sha": "f7ba0b527b16a6f539991825ecd72c2e9b6e3af0",
+    "size": 130,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/config.ru?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/config.ru",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/f7ba0b527b16a6f539991825ecd72c2e9b6e3af0",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/config.ru",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/config.ru?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/f7ba0b527b16a6f539991825ecd72c2e9b6e3af0",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/config.ru"
+    }
+  },
+  {
+    "name": "config",
+    "path": "config",
+    "sha": "14541730360c9a9460f318fe7fa54b350b830175",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/config?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/config",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/14541730360c9a9460f318fe7fa54b350b830175",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/config?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/14541730360c9a9460f318fe7fa54b350b830175",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/config"
+    }
+  },
+  {
+    "name": "crowdin.yml",
+    "path": "crowdin.yml",
+    "sha": "3456558743ceec157ad75d16f92343055c343da0",
+    "size": 706,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/crowdin.yml?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/crowdin.yml",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/3456558743ceec157ad75d16f92343055c343da0",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/crowdin.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/crowdin.yml?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/3456558743ceec157ad75d16f92343055c343da0",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/crowdin.yml"
+    }
+  },
+  {
+    "name": "db",
+    "path": "db",
+    "sha": "db508454a956706eaa835dc1c61f899d2a95e3f7",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/db?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/db",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/db508454a956706eaa835dc1c61f899d2a95e3f7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/db?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/db508454a956706eaa835dc1c61f899d2a95e3f7",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/db"
+    }
+  },
+  {
+    "name": "deployment",
+    "path": "deployment",
+    "sha": "dbcaf61c2ced6cd5ee7af6a5d53065d1e517d46b",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/deployment?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/deployment",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/dbcaf61c2ced6cd5ee7af6a5d53065d1e517d46b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/deployment?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/dbcaf61c2ced6cd5ee7af6a5d53065d1e517d46b",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/deployment"
+    }
+  },
+  {
+    "name": "docker-compose.production.yaml",
+    "path": "docker-compose.production.yaml",
+    "sha": "bf6ecbb6ba9b36c9f9006fd05445fba79f757ea4",
+    "size": 1417,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/docker-compose.production.yaml?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/docker-compose.production.yaml",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/bf6ecbb6ba9b36c9f9006fd05445fba79f757ea4",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/docker-compose.production.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/docker-compose.production.yaml?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/bf6ecbb6ba9b36c9f9006fd05445fba79f757ea4",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/docker-compose.production.yaml"
+    }
+  },
+  {
+    "name": "docker-compose.test.yaml",
+    "path": "docker-compose.test.yaml",
+    "sha": "93410f686be2382c2124df996082a8f61e54fbd1",
+    "size": 1370,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/docker-compose.test.yaml?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/docker-compose.test.yaml",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/93410f686be2382c2124df996082a8f61e54fbd1",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/docker-compose.test.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/docker-compose.test.yaml?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/93410f686be2382c2124df996082a8f61e54fbd1",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/docker-compose.test.yaml"
+    }
+  },
+  {
+    "name": "docker-compose.yaml",
+    "path": "docker-compose.yaml",
+    "sha": "facac830f7fa43bc77a7d101c5218830d84c725b",
+    "size": 2643,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/docker-compose.yaml?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/docker-compose.yaml",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/facac830f7fa43bc77a7d101c5218830d84c725b",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/docker-compose.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/docker-compose.yaml?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/facac830f7fa43bc77a7d101c5218830d84c725b",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/docker-compose.yaml"
+    }
+  },
+  {
+    "name": "docker",
+    "path": "docker",
+    "sha": "e2460af3d956df1960f289cc6b6d97242db8672d",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/docker?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/docker",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/e2460af3d956df1960f289cc6b6d97242db8672d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/docker?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/e2460af3d956df1960f289cc6b6d97242db8672d",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/docker"
+    }
+  },
+  {
+    "name": "enterprise",
+    "path": "enterprise",
+    "sha": "b5df62230de93714f74ec175624bc48f0be51197",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/enterprise?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/enterprise",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/b5df62230de93714f74ec175624bc48f0be51197",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/enterprise?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/b5df62230de93714f74ec175624bc48f0be51197",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/enterprise"
+    }
+  },
+  {
+    "name": "histoire.config.ts",
+    "path": "histoire.config.ts",
+    "sha": "41b6f3c13495490024f09d58b56757f9955e48f5",
+    "size": 883,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/histoire.config.ts?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/histoire.config.ts",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/41b6f3c13495490024f09d58b56757f9955e48f5",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/histoire.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/histoire.config.ts?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/41b6f3c13495490024f09d58b56757f9955e48f5",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/histoire.config.ts"
+    }
+  },
+  {
+    "name": "lib",
+    "path": "lib",
+    "sha": "4bd625aca6c74895df80c053dda1a4c59a708f3f",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/lib?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/lib",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/4bd625aca6c74895df80c053dda1a4c59a708f3f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/lib?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/4bd625aca6c74895df80c053dda1a4c59a708f3f",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/lib"
+    }
+  },
+  {
+    "name": "log",
+    "path": "log",
+    "sha": "29a422c19251aeaeb907175e9b3219a9bed6c616",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/log?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/log",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/29a422c19251aeaeb907175e9b3219a9bed6c616",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/log?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/29a422c19251aeaeb907175e9b3219a9bed6c616",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/log"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "b1aa60f00a2007be848043a9b31ebde963ce00dc",
+    "size": 5390,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/package.json?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/package.json",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/b1aa60f00a2007be848043a9b31ebde963ce00dc",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/package.json?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/b1aa60f00a2007be848043a9b31ebde963ce00dc",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/package.json"
+    }
+  },
+  {
+    "name": "pnpm-lock.yaml",
+    "path": "pnpm-lock.yaml",
+    "sha": "539a99b21ee8dfc40d3ba8b59d90a6ce614a4bfd",
+    "size": 323557,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/pnpm-lock.yaml?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/pnpm-lock.yaml",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/539a99b21ee8dfc40d3ba8b59d90a6ce614a4bfd",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/pnpm-lock.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/pnpm-lock.yaml?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/539a99b21ee8dfc40d3ba8b59d90a6ce614a4bfd",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/pnpm-lock.yaml"
+    }
+  },
+  {
+    "name": "postcss.config.js",
+    "path": "postcss.config.js",
+    "sha": "b046a9b5cef932a238c4b3acf385617ba7d986f9",
+    "size": 268,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/postcss.config.js?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/postcss.config.js",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/b046a9b5cef932a238c4b3acf385617ba7d986f9",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/postcss.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/postcss.config.js?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/b046a9b5cef932a238c4b3acf385617ba7d986f9",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/postcss.config.js"
+    }
+  },
+  {
+    "name": "public",
+    "path": "public",
+    "sha": "48787fcb79e36164f530f5faaa7a24414bdac9ff",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/public?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/public",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/48787fcb79e36164f530f5faaa7a24414bdac9ff",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/public?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/48787fcb79e36164f530f5faaa7a24414bdac9ff",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/public"
+    }
+  },
+  {
+    "name": "rubocop",
+    "path": "rubocop",
+    "sha": "5a9bc22afb3527581d5d614c8b04d5f0e48d8673",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/rubocop?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/rubocop",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/5a9bc22afb3527581d5d614c8b04d5f0e48d8673",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/rubocop?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/5a9bc22afb3527581d5d614c8b04d5f0e48d8673",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/rubocop"
+    }
+  },
+  {
+    "name": "script",
+    "path": "script",
+    "sha": "6c5323e38c8ec6012890a076ef571b1161355b28",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/script?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/script",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/6c5323e38c8ec6012890a076ef571b1161355b28",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/script?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/6c5323e38c8ec6012890a076ef571b1161355b28",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/script"
+    }
+  },
+  {
+    "name": "semantic.yml",
+    "path": "semantic.yml",
+    "sha": "54040a62c7b251965d5ec7541f1170a9879c8c15",
+    "size": 124,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/semantic.yml?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/semantic.yml",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/54040a62c7b251965d5ec7541f1170a9879c8c15",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/semantic.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/semantic.yml?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/54040a62c7b251965d5ec7541f1170a9879c8c15",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/semantic.yml"
+    }
+  },
+  {
+    "name": "spec",
+    "path": "spec",
+    "sha": "daf4a3300772f2adf0b5698bc98646f0bba93c3e",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/spec?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/spec",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/daf4a3300772f2adf0b5698bc98646f0bba93c3e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/spec?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/daf4a3300772f2adf0b5698bc98646f0bba93c3e",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/spec"
+    }
+  },
+  {
+    "name": "swagger",
+    "path": "swagger",
+    "sha": "fada7267bf0ff0565ef2cfa8cc37446eeb7a259a",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/swagger?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/swagger",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/fada7267bf0ff0565ef2cfa8cc37446eeb7a259a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/swagger?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/fada7267bf0ff0565ef2cfa8cc37446eeb7a259a",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/swagger"
+    }
+  },
+  {
+    "name": "tailwind.config.js",
+    "path": "tailwind.config.js",
+    "sha": "26ff7da20075d85847440825809b0b28e857602a",
+    "size": 7673,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/tailwind.config.js?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/tailwind.config.js",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/26ff7da20075d85847440825809b0b28e857602a",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/tailwind.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/tailwind.config.js?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/26ff7da20075d85847440825809b0b28e857602a",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/tailwind.config.js"
+    }
+  },
+  {
+    "name": "theme",
+    "path": "theme",
+    "sha": "a9bf717c015509692242b7395f66fff8dcf3d114",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/theme?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/theme",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/a9bf717c015509692242b7395f66fff8dcf3d114",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/theme?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/a9bf717c015509692242b7395f66fff8dcf3d114",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/theme"
+    }
+  },
+  {
+    "name": "tmp",
+    "path": "tmp",
+    "sha": "29a422c19251aeaeb907175e9b3219a9bed6c616",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/tmp?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/tmp",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/29a422c19251aeaeb907175e9b3219a9bed6c616",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/tmp?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/29a422c19251aeaeb907175e9b3219a9bed6c616",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/tmp"
+    }
+  },
+  {
+    "name": "vendor",
+    "path": "vendor",
+    "sha": "db947bb18ee20201d1a5b0551c7587b8056b2408",
+    "size": 0,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/vendor?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/tree/develop/vendor",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/db947bb18ee20201d1a5b0551c7587b8056b2408",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/vendor?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/trees/db947bb18ee20201d1a5b0551c7587b8056b2408",
+      "html": "https://github.com/chatwoot/chatwoot/tree/develop/vendor"
+    }
+  },
+  {
+    "name": "vite.config.ts",
+    "path": "vite.config.ts",
+    "sha": "e06b0f1fba4a45089c2e717152c33468f38856fd",
+    "size": 3769,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/vite.config.ts?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/vite.config.ts",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/e06b0f1fba4a45089c2e717152c33468f38856fd",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/vite.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/vite.config.ts?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/e06b0f1fba4a45089c2e717152c33468f38856fd",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/vite.config.ts"
+    }
+  },
+  {
+    "name": "vitest.setup.js",
+    "path": "vitest.setup.js",
+    "sha": "1bed8ee3eb663b5816859882710f4e5984fec3dc",
+    "size": 487,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/vitest.setup.js?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/vitest.setup.js",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/1bed8ee3eb663b5816859882710f4e5984fec3dc",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/vitest.setup.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/vitest.setup.js?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/1bed8ee3eb663b5816859882710f4e5984fec3dc",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/vitest.setup.js"
+    }
+  },
+  {
+    "name": "workbox-config.js",
+    "path": "workbox-config.js",
+    "sha": "881161bd0737293899774cb1434ace6bb22ff9b1",
+    "size": 112,
+    "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/workbox-config.js?ref=develop",
+    "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/workbox-config.js",
+    "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/881161bd0737293899774cb1434ace6bb22ff9b1",
+    "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/workbox-config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/workbox-config.js?ref=develop",
+      "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/881161bd0737293899774cb1434ace6bb22ff9b1",
+      "html": "https://github.com/chatwoot/chatwoot/blob/develop/workbox-config.js"
+    }
+  }
+]

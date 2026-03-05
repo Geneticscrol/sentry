@@ -1,0 +1,18 @@
+{
+  "name": "Dockerfile",
+  "path": "Dockerfile",
+  "sha": "4dfefa1093ea9c726c3727be1a715f021f31d744",
+  "size": 1202,
+  "url": "https://api.github.com/repos/joeyworld/realworld-serverless-python/contents/Dockerfile?ref=master",
+  "html_url": "https://github.com/joeyworld/realworld-serverless-python/blob/master/Dockerfile",
+  "git_url": "https://api.github.com/repos/joeyworld/realworld-serverless-python/git/blobs/4dfefa1093ea9c726c3727be1a715f021f31d744",
+  "download_url": "https://raw.githubusercontent.com/joeyworld/realworld-serverless-python/master/Dockerfile",
+  "type": "file",
+  "content": "RlJPTSBsYW1iY2kvbGFtYmRhLWJhc2U6YnVpbGQKCkVOViBQQVRIPS92YXIv\nbGFuZy9iaW46L3Vzci9sb2NhbC9zYmluOi91c3IvbG9jYWwvYmluOi91c3Iv\nc2JpbjovdXNyL2Jpbjovc2JpbjovYmluIFwKICAgIExEX0xJQlJBUllfUEFU\nSD0vdmFyL2xhbmcvbGliOi9saWI2NDovdXNyL2xpYjY0Oi92YXIvcnVudGlt\nZTovdmFyL3J1bnRpbWUvbGliOi92YXIvdGFzazovdmFyL3Rhc2svbGliIFwK\nICAgIEFXU19FWEVDVVRJT05fRU5WPUFXU19MYW1iZGFfcHl0aG9uMy42IFwK\nICAgIFBZVEhPTlBBVEg9L3Zhci9ydW50aW1lIFwKICAgIE5PREVfUEFUSD0v\ndmFyL3J1bnRpbWU6L3Zhci90YXNrOi92YXIvcnVudGltZS9ub2RlX21vZHVs\nZXMgXAogICAgbnBtX2NvbmZpZ191bnNhZmUtcGVybT10cnVlIFwKICAgIFBL\nR19DT05GSUdfUEFUSD0vdmFyL2xhbmcvbGliL3BrZ2NvbmZpZzovdXNyL2xp\nYjY0L3BrZ2NvbmZpZzovdXNyL3NoYXJlL3BrZ2NvbmZpZwoKUlVOIHJtIC1y\nZiAvdmFyL3J1bnRpbWUgL3Zhci9sYW5nCgpSVU4gY3VybCBodHRwczovL2xh\nbWJjaS5zMy5hbWF6b25hd3MuY29tL2ZzL3B5dGhvbjMuNi50Z3ogfCB0YXIg\nLXh6IC1DIC8gJiYgXAogIHNlZCAtaSAnL15wcmVmaXg9L2NccHJlZml4PS92\nYXIvbGFuZycgL3Zhci9sYW5nL2xpYi9wa2djb25maWcvcHl0aG9uLTMuNi5w\nYyAmJiBcCiAgY3VybCBodHRwczovL3d3dy5weXRob24ub3JnL2Z0cC9weXRo\nb24vMy42LjEvUHl0aG9uLTMuNi4xLnRhci54eiB8IHRhciAteEogJiYgXAog\nIGNkIFB5dGhvbi0zLjYuMSAmJiBcCiAgTElCUz0iJExJQlMgLWx1dGlsIC1s\ncnQiIC4vY29uZmlndXJlIC0tcHJlZml4PS92YXIvbGFuZyAmJiBcCiAgbWFr\nZSAtaiQoZ2V0Y29uZiBfTlBST0NFU1NPUlNfT05MTikgbGliaW5zdGFsbCBp\nbmNsaW5zdGFsbCAmJiBcCiAgY2QgLi4gJiYgXAogIHJtIC1yZiBQeXRob24t\nMy42LjEgJiYgXAogIHBpcDMgaW5zdGFsbCAtVSBwaXAgYXdzY2xpIHZpcnR1\nYWxlbnYgLS1uby1jYWNoZS1kaXIKClJVTiBjdXJsIGh0dHBzOi8vbGFtYmNp\nLnMzLmFtYXpvbmF3cy5jb20vZnMvbm9kZWpzOC4xMC50Z3ogfCB0YXIgLXp4\nIC1DIC8KCkFERCAuIC9yZWFsd29ybGQKCldPUktESVIgL3JlYWx3b3JsZAoK\nUlVOIG5wbSBpbnN0YWxsIC1nIG5weAoKUlVOIHBpcDMgaW5zdGFsbCAtciBy\nZXF1aXJlbWVudHMudHh0ClJVTiBucG0gaW5zdGFsbAo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/joeyworld/realworld-serverless-python/contents/Dockerfile?ref=master",
+    "git": "https://api.github.com/repos/joeyworld/realworld-serverless-python/git/blobs/4dfefa1093ea9c726c3727be1a715f021f31d744",
+    "html": "https://github.com/joeyworld/realworld-serverless-python/blob/master/Dockerfile"
+  }
+}

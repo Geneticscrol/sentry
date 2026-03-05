@@ -1,0 +1,18 @@
+{
+  "name": "Dockerfile",
+  "path": "Dockerfile",
+  "sha": "2caa8404ebf55b2756377ce3d50c6fb8a7dfa533",
+  "size": 461,
+  "url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/Dockerfile?ref=master",
+  "html_url": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/Dockerfile",
+  "git_url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/2caa8404ebf55b2756377ce3d50c6fb8a7dfa533",
+  "download_url": "https://raw.githubusercontent.com/nsidnev/fastapi-realworld-example-app/master/Dockerfile",
+  "type": "file",
+  "content": "RlJPTSBweXRob246My45LjEwLXNsaW0KCkVOViBQWVRIT05VTkJVRkZFUkVE\nIDEKCkVYUE9TRSA4MDAwCldPUktESVIgL2FwcAoKClJVTiBhcHQtZ2V0IHVw\nZGF0ZSAmJiBcCiAgICBhcHQtZ2V0IGluc3RhbGwgLXkgLS1uby1pbnN0YWxs\nLXJlY29tbWVuZHMgbmV0Y2F0ICYmIFwKICAgIHJtIC1yZiAvdmFyL2xpYi9h\ncHQvbGlzdHMvKiAvdG1wLyogL3Zhci90bXAvKgoKQ09QWSBwb2V0cnkubG9j\nayBweXByb2plY3QudG9tbCAuLwpSVU4gcGlwIGluc3RhbGwgcG9ldHJ5PT0x\nLjEgJiYgXAogICAgcG9ldHJ5IGNvbmZpZyB2aXJ0dWFsZW52cy5pbi1wcm9q\nZWN0IHRydWUgJiYgXAogICAgcG9ldHJ5IGluc3RhbGwgLS1uby1kZXYKCkNP\nUFkgLiAuLwoKQ01EIHBvZXRyeSBydW4gYWxlbWJpYyB1cGdyYWRlIGhlYWQg\nJiYgXAogICAgcG9ldHJ5IHJ1biB1dmljb3JuIC0taG9zdD0wLjAuMC4wIGFw\ncC5tYWluOmFwcAo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/Dockerfile?ref=master",
+    "git": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/2caa8404ebf55b2756377ce3d50c6fb8a7dfa533",
+    "html": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/Dockerfile"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "vercel.json",
+  "path": "vercel.json",
+  "sha": "3d53349522ab33a869a12bf479aa55c1c971162f",
+  "size": 73,
+  "url": "https://api.github.com/repos/vercel/next.js/contents/vercel.json?ref=canary",
+  "html_url": "https://github.com/vercel/next.js/blob/canary/vercel.json",
+  "git_url": "https://api.github.com/repos/vercel/next.js/git/blobs/3d53349522ab33a869a12bf479aa55c1c971162f",
+  "download_url": "https://raw.githubusercontent.com/vercel/next.js/canary/vercel.json",
+  "type": "file",
+  "content": "ewogICJnaXRodWIiOiB7CiAgICAic2lsZW50IjogdHJ1ZSwKICAgICJhdXRv\nSm9iQ2FuY2VsYXRpb24iOiB0cnVlCiAgfQp9Cg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/vercel/next.js/contents/vercel.json?ref=canary",
+    "git": "https://api.github.com/repos/vercel/next.js/git/blobs/3d53349522ab33a869a12bf479aa55c1c971162f",
+    "html": "https://github.com/vercel/next.js/blob/canary/vercel.json"
+  }
+}

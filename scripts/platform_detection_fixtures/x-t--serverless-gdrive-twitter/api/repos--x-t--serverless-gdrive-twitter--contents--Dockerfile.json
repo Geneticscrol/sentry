@@ -1,0 +1,18 @@
+{
+  "name": "Dockerfile",
+  "path": "Dockerfile",
+  "sha": "50cc68cac6f95c58fb897493df30dd670337b504",
+  "size": 318,
+  "url": "https://api.github.com/repos/x-t/serverless-gdrive-twitter/contents/Dockerfile?ref=main",
+  "html_url": "https://github.com/x-t/serverless-gdrive-twitter/blob/main/Dockerfile",
+  "git_url": "https://api.github.com/repos/x-t/serverless-gdrive-twitter/git/blobs/50cc68cac6f95c58fb897493df30dd670337b504",
+  "download_url": "https://raw.githubusercontent.com/x-t/serverless-gdrive-twitter/main/Dockerfile",
+  "type": "file",
+  "content": "RlJPTSBub2RlOjE0IEFTIGJ1aWxkZXIKCkNPUFkgLiAvYXBwCldPUktESVIg\nL2FwcAoKIyBQYXNzIDEgLSBjb21waWxlIFR5cGVTY3JpcHQKUlVOIG5wbSBj\naQpSVU4gbnBtIHJ1biBidWlsZDpwcm9kClJVTiBybSAtcmYgc3JjCgojIFBh\nc3MgMiAtIGdldCBydW50aW1lIGRlcGVuZGVuY2llcwpSVU4gcm0gLXJmIG5v\nZGVfbW9kdWxlcwpSVU4gbnBtIGNpIC0tb25seT1wcm9kdWN0aW9uCgpGUk9N\nIGdjci5pby9kaXN0cm9sZXNzL25vZGVqczoxNgpDT1BZIC0tZnJvbT1idWls\nZGVyIC9hcHAgL2FwcApXT1JLRElSIC9hcHAKQ01EIFsiZGlzdC9pbmRleC5q\ncyJd\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/x-t/serverless-gdrive-twitter/contents/Dockerfile?ref=main",
+    "git": "https://api.github.com/repos/x-t/serverless-gdrive-twitter/git/blobs/50cc68cac6f95c58fb897493df30dd670337b504",
+    "html": "https://github.com/x-t/serverless-gdrive-twitter/blob/main/Dockerfile"
+  }
+}

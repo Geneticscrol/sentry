@@ -1,0 +1,18 @@
+{
+  "name": "build.gradle",
+  "path": "build.gradle",
+  "sha": "26ade533792699b62097a24d84ebb3f609a2910b",
+  "size": 891,
+  "url": "https://api.github.com/repos/D-clock/AndroidDaemonService/contents/build.gradle?ref=master",
+  "html_url": "https://github.com/D-clock/AndroidDaemonService/blob/master/build.gradle",
+  "git_url": "https://api.github.com/repos/D-clock/AndroidDaemonService/git/blobs/26ade533792699b62097a24d84ebb3f609a2910b",
+  "download_url": "https://raw.githubusercontent.com/D-clock/AndroidDaemonService/master/build.gradle",
+  "type": "file",
+  "content": "YnVpbGRzY3JpcHQgewogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBqY2Vu\ndGVyKCkKICAgIH0KICAgIGRlcGVuZGVuY2llcyB7CiAgICAgICAgY2xhc3Nw\nYXRoICdjb20uYW5kcm9pZC50b29scy5idWlsZDpncmFkbGU6Mi4xLjInCiAg\nICAgICAgLy8gTk9URTogRG8gbm90IHBsYWNlIHlvdXIgYXBwbGljYXRpb24g\nZGVwZW5kZW5jaWVzIGhlcmU7IHRoZXkgYmVsb25nCiAgICAgICAgLy8gaW4g\ndGhlIGluZGl2aWR1YWwgbW9kdWxlIGJ1aWxkLmdyYWRsZSBmaWxlcwogICAg\nfQp9CgphcHBseSBwbHVnaW46ICdjb20uYW5kcm9pZC5hcHBsaWNhdGlvbicK\nCmFuZHJvaWQgewogICAgY29tcGlsZVNka1ZlcnNpb24gMjMKICAgIGJ1aWxk\nVG9vbHNWZXJzaW9uICIyMy4wLjIiCgogICAgZGVmYXVsdENvbmZpZyB7CiAg\nICAgICAgYXBwbGljYXRpb25JZCAiY29tLmNsb2NrLmRhZW1vbiIKICAgICAg\nICBtaW5TZGtWZXJzaW9uIDkKICAgICAgICB0YXJnZXRTZGtWZXJzaW9uIDIz\nCiAgICAgICAgdmVyc2lvbkNvZGUgMQogICAgICAgIHZlcnNpb25OYW1lICIx\nLjAiCiAgICB9CiAgICBidWlsZFR5cGVzIHsKICAgICAgICByZWxlYXNlIHsK\nICAgICAgICAgICAgbWluaWZ5RW5hYmxlZCBmYWxzZQogICAgICAgICAgICBw\ncm9ndWFyZEZpbGVzIGdldERlZmF1bHRQcm9ndWFyZEZpbGUoJ3Byb2d1YXJk\nLWFuZHJvaWQudHh0JyksICdwcm9ndWFyZC1ydWxlcy5wcm8nCiAgICAgICAg\nfQogICAgfQp9CgpkZXBlbmRlbmNpZXMgewogICAgY29tcGlsZSBmaWxlVHJl\nZShkaXI6ICdsaWJzJywgaW5jbHVkZTogWycqLmphciddKQogICAgdGVzdENv\nbXBpbGUgJ2p1bml0Omp1bml0OjQuMTInCiAgICBjb21waWxlICdjb20uYW5k\ncm9pZC5zdXBwb3J0OmFwcGNvbXBhdC12NzoyMy4yLjAnCn0K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/D-clock/AndroidDaemonService/contents/build.gradle?ref=master",
+    "git": "https://api.github.com/repos/D-clock/AndroidDaemonService/git/blobs/26ade533792699b62097a24d84ebb3f609a2910b",
+    "html": "https://github.com/D-clock/AndroidDaemonService/blob/master/build.gradle"
+  }
+}

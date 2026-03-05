@@ -1,0 +1,18 @@
+{
+  "name": "app.py",
+  "path": "app.py",
+  "sha": "af386ac2585dce13b7d18b3842a3b2315a11fb6f",
+  "size": 662,
+  "url": "https://api.github.com/repos/pybites/pytip/contents/app.py?ref=master",
+  "html_url": "https://github.com/pybites/pytip/blob/master/app.py",
+  "git_url": "https://api.github.com/repos/pybites/pytip/git/blobs/af386ac2585dce13b7d18b3842a3b2315a11fb6f",
+  "download_url": "https://raw.githubusercontent.com/pybites/pytip/master/app.py",
+  "type": "file",
+  "content": "aW1wb3J0IG9zCgpmcm9tIGJvdHRsZSBpbXBvcnQgcm91dGUsIHJ1biwgcmVx\ndWVzdCwgc3RhdGljX2ZpbGUsIHZpZXcKCmZyb20gdGlwcyBpbXBvcnQgZ2V0\nX2hhc2h0YWdzLCBnZXRfdGlwcwoKCkByb3V0ZSgnL3N0YXRpYy88ZmlsZW5h\nbWU6cGF0aD4nKQpkZWYgc2VuZF9zdGF0aWMoZmlsZW5hbWUpOgogICAgcmV0\ndXJuIHN0YXRpY19maWxlKGZpbGVuYW1lLCByb290PSdzdGF0aWMnKQoKCkBy\nb3V0ZSgnLycpCkByb3V0ZSgnLzx0YWc+JykKQHZpZXcoJ2luZGV4JykKZGVm\nIGluZGV4KHRhZz1Ob25lKToKICAgIHRhZyA9IHRhZyBvciByZXF1ZXN0LnF1\nZXJ5LmdldCgndGFnJykgb3IgTm9uZQogICAgdGFncyA9IGdldF9oYXNodGFn\ncygpCiAgICB0aXBzID0gZ2V0X3RpcHModGFnKQoKICAgIHJldHVybiB7J3Nl\nYXJjaF90YWcnOiB0YWcgb3IgJycsCiAgICAgICAgICAgICd0YWdzJzogdGFn\ncywKICAgICAgICAgICAgJ3RpcHMnOiB0aXBzfQoKCmlmIG9zLmVudmlyb24u\nZ2V0KCdBUFBfTE9DQVRJT04nKSA9PSAnaGVyb2t1JzoKICAgIHJ1bihob3N0\nPSIwLjAuMC4wIiwgcG9ydD1pbnQob3MuZW52aXJvbi5nZXQoIlBPUlQiLCA1\nMDAwKSkpCmVsc2U6CiAgICBydW4oaG9zdD0nbG9jYWxob3N0JywgcG9ydD04\nMDgwLCBkZWJ1Zz1UcnVlLCByZWxvYWRlcj1UcnVlKQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/pybites/pytip/contents/app.py?ref=master",
+    "git": "https://api.github.com/repos/pybites/pytip/git/blobs/af386ac2585dce13b7d18b3842a3b2315a11fb6f",
+    "html": "https://github.com/pybites/pytip/blob/master/app.py"
+  }
+}

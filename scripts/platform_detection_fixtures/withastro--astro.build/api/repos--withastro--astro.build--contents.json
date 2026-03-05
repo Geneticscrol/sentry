@@ -1,0 +1,354 @@
+[
+  {
+    "name": ".env.example",
+    "path": ".env.example",
+    "sha": "4f4218c9c547f25e4011328691ed0b22532642b3",
+    "size": 218,
+    "url": "https://api.github.com/repos/withastro/astro.build/contents/.env.example?ref=main",
+    "html_url": "https://github.com/withastro/astro.build/blob/main/.env.example",
+    "git_url": "https://api.github.com/repos/withastro/astro.build/git/blobs/4f4218c9c547f25e4011328691ed0b22532642b3",
+    "download_url": "https://raw.githubusercontent.com/withastro/astro.build/main/.env.example",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/withastro/astro.build/contents/.env.example?ref=main",
+      "git": "https://api.github.com/repos/withastro/astro.build/git/blobs/4f4218c9c547f25e4011328691ed0b22532642b3",
+      "html": "https://github.com/withastro/astro.build/blob/main/.env.example"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "399aa66743cbc6dcc59d44899a0a79470fee5d5c",
+    "size": 0,
+    "url": "https://api.github.com/repos/withastro/astro.build/contents/.github?ref=main",
+    "html_url": "https://github.com/withastro/astro.build/tree/main/.github",
+    "git_url": "https://api.github.com/repos/withastro/astro.build/git/trees/399aa66743cbc6dcc59d44899a0a79470fee5d5c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/withastro/astro.build/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/withastro/astro.build/git/trees/399aa66743cbc6dcc59d44899a0a79470fee5d5c",
+      "html": "https://github.com/withastro/astro.build/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "e1b0b64f36ce086bd61f4aa7d067373826293b27",
+    "size": 361,
+    "url": "https://api.github.com/repos/withastro/astro.build/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/withastro/astro.build/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/withastro/astro.build/git/blobs/e1b0b64f36ce086bd61f4aa7d067373826293b27",
+    "download_url": "https://raw.githubusercontent.com/withastro/astro.build/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/withastro/astro.build/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/withastro/astro.build/git/blobs/e1b0b64f36ce086bd61f4aa7d067373826293b27",
+      "html": "https://github.com/withastro/astro.build/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".gitpod.yml",
+    "path": ".gitpod.yml",
+    "sha": "4c2e4fd567c56aab0548ec9c29bd69e7c977c428",
+    "size": 201,
+    "url": "https://api.github.com/repos/withastro/astro.build/contents/.gitpod.yml?ref=main",
+    "html_url": "https://github.com/withastro/astro.build/blob/main/.gitpod.yml",
+    "git_url": "https://api.github.com/repos/withastro/astro.build/git/blobs/4c2e4fd567c56aab0548ec9c29bd69e7c977c428",
+    "download_url": "https://raw.githubusercontent.com/withastro/astro.build/main/.gitpod.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/withastro/astro.build/contents/.gitpod.yml?ref=main",
+      "git": "https://api.github.com/repos/withastro/astro.build/git/blobs/4c2e4fd567c56aab0548ec9c29bd69e7c977c428",
+      "html": "https://github.com/withastro/astro.build/blob/main/.gitpod.yml"
+    }
+  },
+  {
+    "name": ".npmrc",
+    "path": ".npmrc",
+    "sha": "3e775efb0f4097b7f4189c34d2eda4affe63b04a",
+    "size": 24,
+    "url": "https://api.github.com/repos/withastro/astro.build/contents/.npmrc?ref=main",
+    "html_url": "https://github.com/withastro/astro.build/blob/main/.npmrc",
+    "git_url": "https://api.github.com/repos/withastro/astro.build/git/blobs/3e775efb0f4097b7f4189c34d2eda4affe63b04a",
+    "download_url": "https://raw.githubusercontent.com/withastro/astro.build/main/.npmrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/withastro/astro.build/contents/.npmrc?ref=main",
+      "git": "https://api.github.com/repos/withastro/astro.build/git/blobs/3e775efb0f4097b7f4189c34d2eda4affe63b04a",
+      "html": "https://github.com/withastro/astro.build/blob/main/.npmrc"
+    }
+  },
+  {
+    "name": ".nvmrc",
+    "path": ".nvmrc",
+    "sha": "d845d9d88db71e92ea1e8f50a4af89d49fecf2e3",
+    "size": 8,
+    "url": "https://api.github.com/repos/withastro/astro.build/contents/.nvmrc?ref=main",
+    "html_url": "https://github.com/withastro/astro.build/blob/main/.nvmrc",
+    "git_url": "https://api.github.com/repos/withastro/astro.build/git/blobs/d845d9d88db71e92ea1e8f50a4af89d49fecf2e3",
+    "download_url": "https://raw.githubusercontent.com/withastro/astro.build/main/.nvmrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/withastro/astro.build/contents/.nvmrc?ref=main",
+      "git": "https://api.github.com/repos/withastro/astro.build/git/blobs/d845d9d88db71e92ea1e8f50a4af89d49fecf2e3",
+      "html": "https://github.com/withastro/astro.build/blob/main/.nvmrc"
+    }
+  },
+  {
+    "name": ".prettierignore",
+    "path": ".prettierignore",
+    "sha": "b6edc9f6c294a5d6ee5ad1b36171616a5b147d5a",
+    "size": 245,
+    "url": "https://api.github.com/repos/withastro/astro.build/contents/.prettierignore?ref=main",
+    "html_url": "https://github.com/withastro/astro.build/blob/main/.prettierignore",
+    "git_url": "https://api.github.com/repos/withastro/astro.build/git/blobs/b6edc9f6c294a5d6ee5ad1b36171616a5b147d5a",
+    "download_url": "https://raw.githubusercontent.com/withastro/astro.build/main/.prettierignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/withastro/astro.build/contents/.prettierignore?ref=main",
+      "git": "https://api.github.com/repos/withastro/astro.build/git/blobs/b6edc9f6c294a5d6ee5ad1b36171616a5b147d5a",
+      "html": "https://github.com/withastro/astro.build/blob/main/.prettierignore"
+    }
+  },
+  {
+    "name": ".vscode",
+    "path": ".vscode",
+    "sha": "90972331311ecfda98ac1d30c399eae7cb4dfc1b",
+    "size": 0,
+    "url": "https://api.github.com/repos/withastro/astro.build/contents/.vscode?ref=main",
+    "html_url": "https://github.com/withastro/astro.build/tree/main/.vscode",
+    "git_url": "https://api.github.com/repos/withastro/astro.build/git/trees/90972331311ecfda98ac1d30c399eae7cb4dfc1b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/withastro/astro.build/contents/.vscode?ref=main",
+      "git": "https://api.github.com/repos/withastro/astro.build/git/trees/90972331311ecfda98ac1d30c399eae7cb4dfc1b",
+      "html": "https://github.com/withastro/astro.build/tree/main/.vscode"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "1841ef70195540ce4de11dee83b7420ff773085e",
+    "size": 2240,
+    "url": "https://api.github.com/repos/withastro/astro.build/contents/README.md?ref=main",
+    "html_url": "https://github.com/withastro/astro.build/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/withastro/astro.build/git/blobs/1841ef70195540ce4de11dee83b7420ff773085e",
+    "download_url": "https://raw.githubusercontent.com/withastro/astro.build/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/withastro/astro.build/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/withastro/astro.build/git/blobs/1841ef70195540ce4de11dee83b7420ff773085e",
+      "html": "https://github.com/withastro/astro.build/blob/main/README.md"
+    }
+  },
+  {
+    "name": "astro.config.mjs",
+    "path": "astro.config.mjs",
+    "sha": "19ae2c8cd4f174d2f0444f422edb36112d80e6ab",
+    "size": 1578,
+    "url": "https://api.github.com/repos/withastro/astro.build/contents/astro.config.mjs?ref=main",
+    "html_url": "https://github.com/withastro/astro.build/blob/main/astro.config.mjs",
+    "git_url": "https://api.github.com/repos/withastro/astro.build/git/blobs/19ae2c8cd4f174d2f0444f422edb36112d80e6ab",
+    "download_url": "https://raw.githubusercontent.com/withastro/astro.build/main/astro.config.mjs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/withastro/astro.build/contents/astro.config.mjs?ref=main",
+      "git": "https://api.github.com/repos/withastro/astro.build/git/blobs/19ae2c8cd4f174d2f0444f422edb36112d80e6ab",
+      "html": "https://github.com/withastro/astro.build/blob/main/astro.config.mjs"
+    }
+  },
+  {
+    "name": "biome.json",
+    "path": "biome.json",
+    "sha": "8310850f261f6e04fc009eb7a2745dff25600fdc",
+    "size": 1545,
+    "url": "https://api.github.com/repos/withastro/astro.build/contents/biome.json?ref=main",
+    "html_url": "https://github.com/withastro/astro.build/blob/main/biome.json",
+    "git_url": "https://api.github.com/repos/withastro/astro.build/git/blobs/8310850f261f6e04fc009eb7a2745dff25600fdc",
+    "download_url": "https://raw.githubusercontent.com/withastro/astro.build/main/biome.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/withastro/astro.build/contents/biome.json?ref=main",
+      "git": "https://api.github.com/repos/withastro/astro.build/git/blobs/8310850f261f6e04fc009eb7a2745dff25600fdc",
+      "html": "https://github.com/withastro/astro.build/blob/main/biome.json"
+    }
+  },
+  {
+    "name": "houston.theme.json",
+    "path": "houston.theme.json",
+    "sha": "3c4aa233d7c91f181f92e787af7f6dafd879252e",
+    "size": 51899,
+    "url": "https://api.github.com/repos/withastro/astro.build/contents/houston.theme.json?ref=main",
+    "html_url": "https://github.com/withastro/astro.build/blob/main/houston.theme.json",
+    "git_url": "https://api.github.com/repos/withastro/astro.build/git/blobs/3c4aa233d7c91f181f92e787af7f6dafd879252e",
+    "download_url": "https://raw.githubusercontent.com/withastro/astro.build/main/houston.theme.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/withastro/astro.build/contents/houston.theme.json?ref=main",
+      "git": "https://api.github.com/repos/withastro/astro.build/git/blobs/3c4aa233d7c91f181f92e787af7f6dafd879252e",
+      "html": "https://github.com/withastro/astro.build/blob/main/houston.theme.json"
+    }
+  },
+  {
+    "name": "netlify.toml",
+    "path": "netlify.toml",
+    "sha": "1c1507f824c0b2442b585df0e15e79dcfa7bfcfb",
+    "size": 384,
+    "url": "https://api.github.com/repos/withastro/astro.build/contents/netlify.toml?ref=main",
+    "html_url": "https://github.com/withastro/astro.build/blob/main/netlify.toml",
+    "git_url": "https://api.github.com/repos/withastro/astro.build/git/blobs/1c1507f824c0b2442b585df0e15e79dcfa7bfcfb",
+    "download_url": "https://raw.githubusercontent.com/withastro/astro.build/main/netlify.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/withastro/astro.build/contents/netlify.toml?ref=main",
+      "git": "https://api.github.com/repos/withastro/astro.build/git/blobs/1c1507f824c0b2442b585df0e15e79dcfa7bfcfb",
+      "html": "https://github.com/withastro/astro.build/blob/main/netlify.toml"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "7094164a8a30ecd6a2af5426608bd9a19a22048c",
+    "size": 2036,
+    "url": "https://api.github.com/repos/withastro/astro.build/contents/package.json?ref=main",
+    "html_url": "https://github.com/withastro/astro.build/blob/main/package.json",
+    "git_url": "https://api.github.com/repos/withastro/astro.build/git/blobs/7094164a8a30ecd6a2af5426608bd9a19a22048c",
+    "download_url": "https://raw.githubusercontent.com/withastro/astro.build/main/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/withastro/astro.build/contents/package.json?ref=main",
+      "git": "https://api.github.com/repos/withastro/astro.build/git/blobs/7094164a8a30ecd6a2af5426608bd9a19a22048c",
+      "html": "https://github.com/withastro/astro.build/blob/main/package.json"
+    }
+  },
+  {
+    "name": "patches",
+    "path": "patches",
+    "sha": "41f0c5fc58e6021a0a2bbafb6c1e8dd5aed8c31a",
+    "size": 0,
+    "url": "https://api.github.com/repos/withastro/astro.build/contents/patches?ref=main",
+    "html_url": "https://github.com/withastro/astro.build/tree/main/patches",
+    "git_url": "https://api.github.com/repos/withastro/astro.build/git/trees/41f0c5fc58e6021a0a2bbafb6c1e8dd5aed8c31a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/withastro/astro.build/contents/patches?ref=main",
+      "git": "https://api.github.com/repos/withastro/astro.build/git/trees/41f0c5fc58e6021a0a2bbafb6c1e8dd5aed8c31a",
+      "html": "https://github.com/withastro/astro.build/tree/main/patches"
+    }
+  },
+  {
+    "name": "pnpm-lock.yaml",
+    "path": "pnpm-lock.yaml",
+    "sha": "7272cc533a09e3f25898ecb2f8551619e66fde70",
+    "size": 371976,
+    "url": "https://api.github.com/repos/withastro/astro.build/contents/pnpm-lock.yaml?ref=main",
+    "html_url": "https://github.com/withastro/astro.build/blob/main/pnpm-lock.yaml",
+    "git_url": "https://api.github.com/repos/withastro/astro.build/git/blobs/7272cc533a09e3f25898ecb2f8551619e66fde70",
+    "download_url": "https://raw.githubusercontent.com/withastro/astro.build/main/pnpm-lock.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/withastro/astro.build/contents/pnpm-lock.yaml?ref=main",
+      "git": "https://api.github.com/repos/withastro/astro.build/git/blobs/7272cc533a09e3f25898ecb2f8551619e66fde70",
+      "html": "https://github.com/withastro/astro.build/blob/main/pnpm-lock.yaml"
+    }
+  },
+  {
+    "name": "prettier.config.js",
+    "path": "prettier.config.js",
+    "sha": "ec228e8940985afaa18a469bdcc9acc75ac28da2",
+    "size": 454,
+    "url": "https://api.github.com/repos/withastro/astro.build/contents/prettier.config.js?ref=main",
+    "html_url": "https://github.com/withastro/astro.build/blob/main/prettier.config.js",
+    "git_url": "https://api.github.com/repos/withastro/astro.build/git/blobs/ec228e8940985afaa18a469bdcc9acc75ac28da2",
+    "download_url": "https://raw.githubusercontent.com/withastro/astro.build/main/prettier.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/withastro/astro.build/contents/prettier.config.js?ref=main",
+      "git": "https://api.github.com/repos/withastro/astro.build/git/blobs/ec228e8940985afaa18a469bdcc9acc75ac28da2",
+      "html": "https://github.com/withastro/astro.build/blob/main/prettier.config.js"
+    }
+  },
+  {
+    "name": "public",
+    "path": "public",
+    "sha": "215b58ca88200eea3ca86094cab5a441df169c33",
+    "size": 0,
+    "url": "https://api.github.com/repos/withastro/astro.build/contents/public?ref=main",
+    "html_url": "https://github.com/withastro/astro.build/tree/main/public",
+    "git_url": "https://api.github.com/repos/withastro/astro.build/git/trees/215b58ca88200eea3ca86094cab5a441df169c33",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/withastro/astro.build/contents/public?ref=main",
+      "git": "https://api.github.com/repos/withastro/astro.build/git/trees/215b58ca88200eea3ca86094cab5a441df169c33",
+      "html": "https://github.com/withastro/astro.build/tree/main/public"
+    }
+  },
+  {
+    "name": "scripts",
+    "path": "scripts",
+    "sha": "93e8b9eacfbf2926d4f16b00fb3b176b9c7ba088",
+    "size": 0,
+    "url": "https://api.github.com/repos/withastro/astro.build/contents/scripts?ref=main",
+    "html_url": "https://github.com/withastro/astro.build/tree/main/scripts",
+    "git_url": "https://api.github.com/repos/withastro/astro.build/git/trees/93e8b9eacfbf2926d4f16b00fb3b176b9c7ba088",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/withastro/astro.build/contents/scripts?ref=main",
+      "git": "https://api.github.com/repos/withastro/astro.build/git/trees/93e8b9eacfbf2926d4f16b00fb3b176b9c7ba088",
+      "html": "https://github.com/withastro/astro.build/tree/main/scripts"
+    }
+  },
+  {
+    "name": "src",
+    "path": "src",
+    "sha": "91c2267969820511dd691709eb3498deda5d9c93",
+    "size": 0,
+    "url": "https://api.github.com/repos/withastro/astro.build/contents/src?ref=main",
+    "html_url": "https://github.com/withastro/astro.build/tree/main/src",
+    "git_url": "https://api.github.com/repos/withastro/astro.build/git/trees/91c2267969820511dd691709eb3498deda5d9c93",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/withastro/astro.build/contents/src?ref=main",
+      "git": "https://api.github.com/repos/withastro/astro.build/git/trees/91c2267969820511dd691709eb3498deda5d9c93",
+      "html": "https://github.com/withastro/astro.build/tree/main/src"
+    }
+  },
+  {
+    "name": "tailwind.config.ts",
+    "path": "tailwind.config.ts",
+    "sha": "c52e3b05065bde97f96e31b1dc7b30c2a22513f6",
+    "size": 8640,
+    "url": "https://api.github.com/repos/withastro/astro.build/contents/tailwind.config.ts?ref=main",
+    "html_url": "https://github.com/withastro/astro.build/blob/main/tailwind.config.ts",
+    "git_url": "https://api.github.com/repos/withastro/astro.build/git/blobs/c52e3b05065bde97f96e31b1dc7b30c2a22513f6",
+    "download_url": "https://raw.githubusercontent.com/withastro/astro.build/main/tailwind.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/withastro/astro.build/contents/tailwind.config.ts?ref=main",
+      "git": "https://api.github.com/repos/withastro/astro.build/git/blobs/c52e3b05065bde97f96e31b1dc7b30c2a22513f6",
+      "html": "https://github.com/withastro/astro.build/blob/main/tailwind.config.ts"
+    }
+  },
+  {
+    "name": "tsconfig.json",
+    "path": "tsconfig.json",
+    "sha": "165dbb1f5a4d85ffdf9c53cfc012863597cdfc81",
+    "size": 195,
+    "url": "https://api.github.com/repos/withastro/astro.build/contents/tsconfig.json?ref=main",
+    "html_url": "https://github.com/withastro/astro.build/blob/main/tsconfig.json",
+    "git_url": "https://api.github.com/repos/withastro/astro.build/git/blobs/165dbb1f5a4d85ffdf9c53cfc012863597cdfc81",
+    "download_url": "https://raw.githubusercontent.com/withastro/astro.build/main/tsconfig.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/withastro/astro.build/contents/tsconfig.json?ref=main",
+      "git": "https://api.github.com/repos/withastro/astro.build/git/blobs/165dbb1f5a4d85ffdf9c53cfc012863597cdfc81",
+      "html": "https://github.com/withastro/astro.build/blob/main/tsconfig.json"
+    }
+  }
+]

@@ -1,0 +1,370 @@
+[
+  {
+    "name": ".devcontainer",
+    "path": ".devcontainer",
+    "sha": "ca66a4ca1cf723f275cd818a24e868520230810e",
+    "size": 0,
+    "url": "https://api.github.com/repos/cli/cli/contents/.devcontainer?ref=trunk",
+    "html_url": "https://github.com/cli/cli/tree/trunk/.devcontainer",
+    "git_url": "https://api.github.com/repos/cli/cli/git/trees/ca66a4ca1cf723f275cd818a24e868520230810e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cli/cli/contents/.devcontainer?ref=trunk",
+      "git": "https://api.github.com/repos/cli/cli/git/trees/ca66a4ca1cf723f275cd818a24e868520230810e",
+      "html": "https://github.com/cli/cli/tree/trunk/.devcontainer"
+    }
+  },
+  {
+    "name": ".gitattributes",
+    "path": ".gitattributes",
+    "sha": "ae5a2bc30c01b036362d14da3e03a823c63302a8",
+    "size": 43,
+    "url": "https://api.github.com/repos/cli/cli/contents/.gitattributes?ref=trunk",
+    "html_url": "https://github.com/cli/cli/blob/trunk/.gitattributes",
+    "git_url": "https://api.github.com/repos/cli/cli/git/blobs/ae5a2bc30c01b036362d14da3e03a823c63302a8",
+    "download_url": "https://raw.githubusercontent.com/cli/cli/trunk/.gitattributes",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cli/cli/contents/.gitattributes?ref=trunk",
+      "git": "https://api.github.com/repos/cli/cli/git/blobs/ae5a2bc30c01b036362d14da3e03a823c63302a8",
+      "html": "https://github.com/cli/cli/blob/trunk/.gitattributes"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "f5d94dbcf1dcc46f7472063df35d6afd09570aea",
+    "size": 0,
+    "url": "https://api.github.com/repos/cli/cli/contents/.github?ref=trunk",
+    "html_url": "https://github.com/cli/cli/tree/trunk/.github",
+    "git_url": "https://api.github.com/repos/cli/cli/git/trees/f5d94dbcf1dcc46f7472063df35d6afd09570aea",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cli/cli/contents/.github?ref=trunk",
+      "git": "https://api.github.com/repos/cli/cli/git/trees/f5d94dbcf1dcc46f7472063df35d6afd09570aea",
+      "html": "https://github.com/cli/cli/tree/trunk/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "b82a00c727480ee48af30c2346c3d61ffdfb9459",
+    "size": 499,
+    "url": "https://api.github.com/repos/cli/cli/contents/.gitignore?ref=trunk",
+    "html_url": "https://github.com/cli/cli/blob/trunk/.gitignore",
+    "git_url": "https://api.github.com/repos/cli/cli/git/blobs/b82a00c727480ee48af30c2346c3d61ffdfb9459",
+    "download_url": "https://raw.githubusercontent.com/cli/cli/trunk/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cli/cli/contents/.gitignore?ref=trunk",
+      "git": "https://api.github.com/repos/cli/cli/git/blobs/b82a00c727480ee48af30c2346c3d61ffdfb9459",
+      "html": "https://github.com/cli/cli/blob/trunk/.gitignore"
+    }
+  },
+  {
+    "name": ".golangci.yml",
+    "path": ".golangci.yml",
+    "sha": "932a4b4384b40cf263525397e2c9672b5fde4361",
+    "size": 2403,
+    "url": "https://api.github.com/repos/cli/cli/contents/.golangci.yml?ref=trunk",
+    "html_url": "https://github.com/cli/cli/blob/trunk/.golangci.yml",
+    "git_url": "https://api.github.com/repos/cli/cli/git/blobs/932a4b4384b40cf263525397e2c9672b5fde4361",
+    "download_url": "https://raw.githubusercontent.com/cli/cli/trunk/.golangci.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cli/cli/contents/.golangci.yml?ref=trunk",
+      "git": "https://api.github.com/repos/cli/cli/git/blobs/932a4b4384b40cf263525397e2c9672b5fde4361",
+      "html": "https://github.com/cli/cli/blob/trunk/.golangci.yml"
+    }
+  },
+  {
+    "name": ".goreleaser.yml",
+    "path": ".goreleaser.yml",
+    "sha": "b264b58e86cb7aefeefa59fa8deab8b77ba9af95",
+    "size": 3546,
+    "url": "https://api.github.com/repos/cli/cli/contents/.goreleaser.yml?ref=trunk",
+    "html_url": "https://github.com/cli/cli/blob/trunk/.goreleaser.yml",
+    "git_url": "https://api.github.com/repos/cli/cli/git/blobs/b264b58e86cb7aefeefa59fa8deab8b77ba9af95",
+    "download_url": "https://raw.githubusercontent.com/cli/cli/trunk/.goreleaser.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cli/cli/contents/.goreleaser.yml?ref=trunk",
+      "git": "https://api.github.com/repos/cli/cli/git/blobs/b264b58e86cb7aefeefa59fa8deab8b77ba9af95",
+      "html": "https://github.com/cli/cli/blob/trunk/.goreleaser.yml"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "b6a58a9572cbd7e4550f8205a9c4fd199cd442f2",
+    "size": 1068,
+    "url": "https://api.github.com/repos/cli/cli/contents/LICENSE?ref=trunk",
+    "html_url": "https://github.com/cli/cli/blob/trunk/LICENSE",
+    "git_url": "https://api.github.com/repos/cli/cli/git/blobs/b6a58a9572cbd7e4550f8205a9c4fd199cd442f2",
+    "download_url": "https://raw.githubusercontent.com/cli/cli/trunk/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cli/cli/contents/LICENSE?ref=trunk",
+      "git": "https://api.github.com/repos/cli/cli/git/blobs/b6a58a9572cbd7e4550f8205a9c4fd199cd442f2",
+      "html": "https://github.com/cli/cli/blob/trunk/LICENSE"
+    }
+  },
+  {
+    "name": "Makefile",
+    "path": "Makefile",
+    "sha": "4efdbfbed1b88b11cddd31e8d3eb33fab65b0940",
+    "size": 3550,
+    "url": "https://api.github.com/repos/cli/cli/contents/Makefile?ref=trunk",
+    "html_url": "https://github.com/cli/cli/blob/trunk/Makefile",
+    "git_url": "https://api.github.com/repos/cli/cli/git/blobs/4efdbfbed1b88b11cddd31e8d3eb33fab65b0940",
+    "download_url": "https://raw.githubusercontent.com/cli/cli/trunk/Makefile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cli/cli/contents/Makefile?ref=trunk",
+      "git": "https://api.github.com/repos/cli/cli/git/blobs/4efdbfbed1b88b11cddd31e8d3eb33fab65b0940",
+      "html": "https://github.com/cli/cli/blob/trunk/Makefile"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "2fc58968f8c80ef40f59a0138f9748d9442566f1",
+    "size": 5368,
+    "url": "https://api.github.com/repos/cli/cli/contents/README.md?ref=trunk",
+    "html_url": "https://github.com/cli/cli/blob/trunk/README.md",
+    "git_url": "https://api.github.com/repos/cli/cli/git/blobs/2fc58968f8c80ef40f59a0138f9748d9442566f1",
+    "download_url": "https://raw.githubusercontent.com/cli/cli/trunk/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cli/cli/contents/README.md?ref=trunk",
+      "git": "https://api.github.com/repos/cli/cli/git/blobs/2fc58968f8c80ef40f59a0138f9748d9442566f1",
+      "html": "https://github.com/cli/cli/blob/trunk/README.md"
+    }
+  },
+  {
+    "name": "acceptance",
+    "path": "acceptance",
+    "sha": "b9c4fe18d0509d71cd1c537a50262f814021e5b4",
+    "size": 0,
+    "url": "https://api.github.com/repos/cli/cli/contents/acceptance?ref=trunk",
+    "html_url": "https://github.com/cli/cli/tree/trunk/acceptance",
+    "git_url": "https://api.github.com/repos/cli/cli/git/trees/b9c4fe18d0509d71cd1c537a50262f814021e5b4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cli/cli/contents/acceptance?ref=trunk",
+      "git": "https://api.github.com/repos/cli/cli/git/trees/b9c4fe18d0509d71cd1c537a50262f814021e5b4",
+      "html": "https://github.com/cli/cli/tree/trunk/acceptance"
+    }
+  },
+  {
+    "name": "api",
+    "path": "api",
+    "sha": "cdeaf93d8b1d5b03eda645a9abf688db45bbb14b",
+    "size": 0,
+    "url": "https://api.github.com/repos/cli/cli/contents/api?ref=trunk",
+    "html_url": "https://github.com/cli/cli/tree/trunk/api",
+    "git_url": "https://api.github.com/repos/cli/cli/git/trees/cdeaf93d8b1d5b03eda645a9abf688db45bbb14b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cli/cli/contents/api?ref=trunk",
+      "git": "https://api.github.com/repos/cli/cli/git/trees/cdeaf93d8b1d5b03eda645a9abf688db45bbb14b",
+      "html": "https://github.com/cli/cli/tree/trunk/api"
+    }
+  },
+  {
+    "name": "build",
+    "path": "build",
+    "sha": "536a17d5ef051cce44b6e58b376c7c3c6681c537",
+    "size": 0,
+    "url": "https://api.github.com/repos/cli/cli/contents/build?ref=trunk",
+    "html_url": "https://github.com/cli/cli/tree/trunk/build",
+    "git_url": "https://api.github.com/repos/cli/cli/git/trees/536a17d5ef051cce44b6e58b376c7c3c6681c537",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cli/cli/contents/build?ref=trunk",
+      "git": "https://api.github.com/repos/cli/cli/git/trees/536a17d5ef051cce44b6e58b376c7c3c6681c537",
+      "html": "https://github.com/cli/cli/tree/trunk/build"
+    }
+  },
+  {
+    "name": "cmd",
+    "path": "cmd",
+    "sha": "49fb1e9428865e51ece090771bbfdfe361145f36",
+    "size": 0,
+    "url": "https://api.github.com/repos/cli/cli/contents/cmd?ref=trunk",
+    "html_url": "https://github.com/cli/cli/tree/trunk/cmd",
+    "git_url": "https://api.github.com/repos/cli/cli/git/trees/49fb1e9428865e51ece090771bbfdfe361145f36",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cli/cli/contents/cmd?ref=trunk",
+      "git": "https://api.github.com/repos/cli/cli/git/trees/49fb1e9428865e51ece090771bbfdfe361145f36",
+      "html": "https://github.com/cli/cli/tree/trunk/cmd"
+    }
+  },
+  {
+    "name": "context",
+    "path": "context",
+    "sha": "19e85389b441343a0d00d3bc50efe1ecca5db64a",
+    "size": 0,
+    "url": "https://api.github.com/repos/cli/cli/contents/context?ref=trunk",
+    "html_url": "https://github.com/cli/cli/tree/trunk/context",
+    "git_url": "https://api.github.com/repos/cli/cli/git/trees/19e85389b441343a0d00d3bc50efe1ecca5db64a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cli/cli/contents/context?ref=trunk",
+      "git": "https://api.github.com/repos/cli/cli/git/trees/19e85389b441343a0d00d3bc50efe1ecca5db64a",
+      "html": "https://github.com/cli/cli/tree/trunk/context"
+    }
+  },
+  {
+    "name": "docs",
+    "path": "docs",
+    "sha": "06334698b34360cd45cd02cc6cf06946b58bc223",
+    "size": 0,
+    "url": "https://api.github.com/repos/cli/cli/contents/docs?ref=trunk",
+    "html_url": "https://github.com/cli/cli/tree/trunk/docs",
+    "git_url": "https://api.github.com/repos/cli/cli/git/trees/06334698b34360cd45cd02cc6cf06946b58bc223",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cli/cli/contents/docs?ref=trunk",
+      "git": "https://api.github.com/repos/cli/cli/git/trees/06334698b34360cd45cd02cc6cf06946b58bc223",
+      "html": "https://github.com/cli/cli/tree/trunk/docs"
+    }
+  },
+  {
+    "name": "git",
+    "path": "git",
+    "sha": "d1ee0389999c3170f33af350d90ad6fd87c83b4e",
+    "size": 0,
+    "url": "https://api.github.com/repos/cli/cli/contents/git?ref=trunk",
+    "html_url": "https://github.com/cli/cli/tree/trunk/git",
+    "git_url": "https://api.github.com/repos/cli/cli/git/trees/d1ee0389999c3170f33af350d90ad6fd87c83b4e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cli/cli/contents/git?ref=trunk",
+      "git": "https://api.github.com/repos/cli/cli/git/trees/d1ee0389999c3170f33af350d90ad6fd87c83b4e",
+      "html": "https://github.com/cli/cli/tree/trunk/git"
+    }
+  },
+  {
+    "name": "go.mod",
+    "path": "go.mod",
+    "sha": "a9c86a672d05329a79cb136e2361c62d25fc1e08",
+    "size": 9164,
+    "url": "https://api.github.com/repos/cli/cli/contents/go.mod?ref=trunk",
+    "html_url": "https://github.com/cli/cli/blob/trunk/go.mod",
+    "git_url": "https://api.github.com/repos/cli/cli/git/blobs/a9c86a672d05329a79cb136e2361c62d25fc1e08",
+    "download_url": "https://raw.githubusercontent.com/cli/cli/trunk/go.mod",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cli/cli/contents/go.mod?ref=trunk",
+      "git": "https://api.github.com/repos/cli/cli/git/blobs/a9c86a672d05329a79cb136e2361c62d25fc1e08",
+      "html": "https://github.com/cli/cli/blob/trunk/go.mod"
+    }
+  },
+  {
+    "name": "go.sum",
+    "path": "go.sum",
+    "sha": "e4c39bd3a928ede62fa0587f6bebab47d20f3309",
+    "size": 62594,
+    "url": "https://api.github.com/repos/cli/cli/contents/go.sum?ref=trunk",
+    "html_url": "https://github.com/cli/cli/blob/trunk/go.sum",
+    "git_url": "https://api.github.com/repos/cli/cli/git/blobs/e4c39bd3a928ede62fa0587f6bebab47d20f3309",
+    "download_url": "https://raw.githubusercontent.com/cli/cli/trunk/go.sum",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cli/cli/contents/go.sum?ref=trunk",
+      "git": "https://api.github.com/repos/cli/cli/git/blobs/e4c39bd3a928ede62fa0587f6bebab47d20f3309",
+      "html": "https://github.com/cli/cli/blob/trunk/go.sum"
+    }
+  },
+  {
+    "name": "internal",
+    "path": "internal",
+    "sha": "b91f6d3654f22ccc528e035a2b3ad63662298ce4",
+    "size": 0,
+    "url": "https://api.github.com/repos/cli/cli/contents/internal?ref=trunk",
+    "html_url": "https://github.com/cli/cli/tree/trunk/internal",
+    "git_url": "https://api.github.com/repos/cli/cli/git/trees/b91f6d3654f22ccc528e035a2b3ad63662298ce4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cli/cli/contents/internal?ref=trunk",
+      "git": "https://api.github.com/repos/cli/cli/git/trees/b91f6d3654f22ccc528e035a2b3ad63662298ce4",
+      "html": "https://github.com/cli/cli/tree/trunk/internal"
+    }
+  },
+  {
+    "name": "pkg",
+    "path": "pkg",
+    "sha": "9393476fd00404dfe09eaf8546ff94080e9d4581",
+    "size": 0,
+    "url": "https://api.github.com/repos/cli/cli/contents/pkg?ref=trunk",
+    "html_url": "https://github.com/cli/cli/tree/trunk/pkg",
+    "git_url": "https://api.github.com/repos/cli/cli/git/trees/9393476fd00404dfe09eaf8546ff94080e9d4581",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cli/cli/contents/pkg?ref=trunk",
+      "git": "https://api.github.com/repos/cli/cli/git/trees/9393476fd00404dfe09eaf8546ff94080e9d4581",
+      "html": "https://github.com/cli/cli/tree/trunk/pkg"
+    }
+  },
+  {
+    "name": "script",
+    "path": "script",
+    "sha": "18c2dc20e77bc6e71305d88eff69efc51e19dac2",
+    "size": 0,
+    "url": "https://api.github.com/repos/cli/cli/contents/script?ref=trunk",
+    "html_url": "https://github.com/cli/cli/tree/trunk/script",
+    "git_url": "https://api.github.com/repos/cli/cli/git/trees/18c2dc20e77bc6e71305d88eff69efc51e19dac2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cli/cli/contents/script?ref=trunk",
+      "git": "https://api.github.com/repos/cli/cli/git/trees/18c2dc20e77bc6e71305d88eff69efc51e19dac2",
+      "html": "https://github.com/cli/cli/tree/trunk/script"
+    }
+  },
+  {
+    "name": "test",
+    "path": "test",
+    "sha": "116d5e1d15778cb2257cffe827ad6bea726d4f52",
+    "size": 0,
+    "url": "https://api.github.com/repos/cli/cli/contents/test?ref=trunk",
+    "html_url": "https://github.com/cli/cli/tree/trunk/test",
+    "git_url": "https://api.github.com/repos/cli/cli/git/trees/116d5e1d15778cb2257cffe827ad6bea726d4f52",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cli/cli/contents/test?ref=trunk",
+      "git": "https://api.github.com/repos/cli/cli/git/trees/116d5e1d15778cb2257cffe827ad6bea726d4f52",
+      "html": "https://github.com/cli/cli/tree/trunk/test"
+    }
+  },
+  {
+    "name": "utils",
+    "path": "utils",
+    "sha": "ba802efc3400966ee76799ada101b3b03b9c9177",
+    "size": 0,
+    "url": "https://api.github.com/repos/cli/cli/contents/utils?ref=trunk",
+    "html_url": "https://github.com/cli/cli/tree/trunk/utils",
+    "git_url": "https://api.github.com/repos/cli/cli/git/trees/ba802efc3400966ee76799ada101b3b03b9c9177",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cli/cli/contents/utils?ref=trunk",
+      "git": "https://api.github.com/repos/cli/cli/git/trees/ba802efc3400966ee76799ada101b3b03b9c9177",
+      "html": "https://github.com/cli/cli/tree/trunk/utils"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "package.json",
+  "path": "package.json",
+  "sha": "9298afd5b76b8961671432471ff08e800fa253e6",
+  "size": 637,
+  "url": "https://api.github.com/repos/sveltejs/realworld/contents/package.json?ref=master",
+  "html_url": "https://github.com/sveltejs/realworld/blob/master/package.json",
+  "git_url": "https://api.github.com/repos/sveltejs/realworld/git/blobs/9298afd5b76b8961671432471ff08e800fa253e6",
+  "download_url": "https://raw.githubusercontent.com/sveltejs/realworld/master/package.json",
+  "type": "file",
+  "content": "ewoJIm5hbWUiOiAicmVhbHdvcmxkLnN2ZWx0ZS5kZXYiLAoJInZlcnNpb24i\nOiAiMS4wLjEtbmV4dC4wIiwKCSJwcml2YXRlIjogdHJ1ZSwKCSJsaWNlbnNl\nIjogIk1JVCIsCgkidHlwZSI6ICJtb2R1bGUiLAoJInNjcmlwdHMiOiB7CgkJ\nImRldiI6ICJ2aXRlIGRldiIsCgkJImJ1aWxkIjogInZpdGUgYnVpbGQiLAoJ\nCSJwcmV2aWV3IjogInZpdGUgcHJldmlldyIsCgkJImxpbnQiOiAicHJldHRp\nZXIgLS1jaGVjayAuIiwKCQkiZm9ybWF0IjogInByZXR0aWVyIC0td3JpdGUg\nLiIKCX0sCgkiZGV2RGVwZW5kZW5jaWVzIjogewoJCSJAc3ZlbHRlanMvYWRh\ncHRlci12ZXJjZWwiOiAiXjYuMy4yIiwKCQkiQHN2ZWx0ZWpzL2tpdCI6ICJe\nMi41Mi4yIiwKCQkiQHN2ZWx0ZWpzL3ZpdGUtcGx1Z2luLXN2ZWx0ZSI6ICJe\nNi4yLjEiLAoJCSJtYXJrZWQiOiAiXjE2LjQuMSIsCgkJInByZXR0aWVyIjog\nIl4zLjYuMiIsCgkJInByZXR0aWVyLXBsdWdpbi1zdmVsdGUiOiAiXjMuNC4w\nIiwKCQkic2FuaXRpemUtaHRtbCI6ICJeMi4xNy4wIiwKCQkic3ZlbHRlIjog\nIl41LjUzLjUiLAoJCSJ0eXBlc2NyaXB0IjogIl41LjkuMyIsCgkJInZpdGUi\nOiAiXjcuMS4xMiIKCX0sCgkicGFja2FnZU1hbmFnZXIiOiAicG5wbUAxMC4y\nMC4wIgp9Cg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/sveltejs/realworld/contents/package.json?ref=master",
+    "git": "https://api.github.com/repos/sveltejs/realworld/git/blobs/9298afd5b76b8961671432471ff08e800fa253e6",
+    "html": "https://github.com/sveltejs/realworld/blob/master/package.json"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "remix.config.js",
+  "path": "remix.config.js",
+  "sha": "457709942de5ba72d4c03ce6b5a0c4c386e3bd55",
+  "size": 198,
+  "url": "https://api.github.com/repos/sawirricardo/remix-realworld/contents/remix.config.js?ref=main",
+  "html_url": "https://github.com/sawirricardo/remix-realworld/blob/main/remix.config.js",
+  "git_url": "https://api.github.com/repos/sawirricardo/remix-realworld/git/blobs/457709942de5ba72d4c03ce6b5a0c4c386e3bd55",
+  "download_url": "https://raw.githubusercontent.com/sawirricardo/remix-realworld/main/remix.config.js",
+  "type": "file",
+  "content": "LyoqCiAqIEB0eXBlIHtpbXBvcnQoJ0ByZW1peC1ydW4vZGV2JykuQXBwQ29u\nZmlnfQogKi8KbW9kdWxlLmV4cG9ydHMgPSB7CiAgY2FjaGVEaXJlY3Rvcnk6\nICIuL25vZGVfbW9kdWxlcy8uY2FjaGUvcmVtaXgiLAogIGlnbm9yZWRSb3V0\nZUZpbGVzOiBbIioqLy4qIiwgIioqLyouY3NzIiwgIioqLyoudGVzdC57anMs\nanN4LHRzLHRzeH0iXSwKfTsK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/sawirricardo/remix-realworld/contents/remix.config.js?ref=main",
+    "git": "https://api.github.com/repos/sawirricardo/remix-realworld/git/blobs/457709942de5ba72d4c03ce6b5a0c4c386e3bd55",
+    "html": "https://github.com/sawirricardo/remix-realworld/blob/main/remix.config.js"
+  }
+}

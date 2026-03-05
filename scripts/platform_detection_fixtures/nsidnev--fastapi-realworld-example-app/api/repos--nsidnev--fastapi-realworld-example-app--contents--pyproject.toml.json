@@ -1,0 +1,18 @@
+{
+  "name": "pyproject.toml",
+  "path": "pyproject.toml",
+  "sha": "74e5183cfe40fddebf5ca60998c2418d0162f9cc",
+  "size": 1526,
+  "url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/pyproject.toml?ref=master",
+  "html_url": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/pyproject.toml",
+  "git_url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/74e5183cfe40fddebf5ca60998c2418d0162f9cc",
+  "download_url": "https://raw.githubusercontent.com/nsidnev/fastapi-realworld-example-app/master/pyproject.toml",
+  "type": "file",
+  "content": "W3Rvb2wucG9ldHJ5XQpuYW1lID0gImZhc3RhcGktcmVhbHdvcmxkLWV4YW1w\nbGUtYXBwIgp2ZXJzaW9uID0gIjAuMC4wIgpkZXNjcmlwdGlvbiA9ICJCYWNr\nZW5kIGxvZ2ljIGltcGxlbWVudGF0aW9uIGZvciBodHRwczovL2dpdGh1Yi5j\nb20vZ290aGlua3N0ZXIvcmVhbHdvcmxkIHdpdGggYXdlc29tZSBGYXN0QVBJ\nIgphdXRob3JzID0gWyJOaWsgU2lkbmV2IDxzaWRuZXYubmlja0BnbWFpbC5j\nb20+Il0KbGljZW5zZSA9ICJNSVQiCgpbdG9vbC5wb2V0cnkuZGVwZW5kZW5j\naWVzXQpweXRob24gPSAiXjMuOSIKdXZpY29ybiA9ICJeMC4xOC4yIgpmYXN0\nYXBpID0gIl4wLjc5LjEiCnB5ZGFudGljID0geyB2ZXJzaW9uID0gIl4xLjki\nLCBleHRyYXMgPSBbImVtYWlsIiwgImRvdGVudiJdIH0KcGFzc2xpYiA9IHsg\ndmVyc2lvbiA9ICJeMS43IiwgZXh0cmFzID0gWyJiY3J5cHQiXSB9CnB5and0\nID0gIl4yLjQiCmRhdGFiYXNlcyA9ICJeMC42LjEiCmFzeW5jcGcgPSAiXjAu\nMjYuMCIKcHN5Y29wZzItYmluYXJ5ID0gIl4yLjkuMyIKYWlvc3FsID0gIl42\nLjIiCnB5cGlrYSA9ICJeMC40OC45IgphbGVtYmljID0gIl4xLjgiCnB5dGhv\nbi1zbHVnaWZ5ID0gIl42LjEiClVuaWRlY29kZSA9ICJeMS4zIgpsb2d1cnUg\nPSAiXjAuNi4wIgoKW3Rvb2wucG9ldHJ5LmRldi1kZXBlbmRlbmNpZXNdCmJs\nYWNrID0gIl4yMi42LjAiCmlzb3J0ID0gIl41LjEwIgphdXRvZmxha2UgPSAi\nXjEuNCIKd2VtYWtlLXB5dGhvbi1zdHlsZWd1aWRlID0gIl4wLjE2LjEiCm15\ncHkgPSAiXjAuOTcxIgpmbGFrZTgtZml4bWUgPSAiXjEuMSIKcHl0ZXN0ID0g\nIl43LjEiCnB5dGVzdC1jb3YgPSAiXjMuMCIKcHl0ZXN0LWFzeW5jaW8gPSAi\nXjAuMTkuMCIKcHl0ZXN0LWVudiA9ICJeMC42LjIiCnB5dGVzdC14ZGlzdCA9\nICJeMi40LjAiCmh0dHB4ID0gIl4wLjIzLjAiCmFzZ2ktbGlmZXNwYW4gPSAi\nXjEuMC4xIgoKW3Rvb2wuaXNvcnRdCnByb2ZpbGUgPSAiYmxhY2siCnNyY19w\nYXRocyA9IFsiYXBwIiwgInRlc3RzIl0KY29tYmluZV9hc19pbXBvcnRzID0g\ndHJ1ZQoKW3Rvb2wucHl0ZXN0LmluaV9vcHRpb25zXQp0ZXN0cGF0aHMgPSAi\ndGVzdHMiCmZpbHRlcndhcm5pbmdzID0gImVycm9yIgphZGRvcHRzID0gJycn\nCiAgLS1zdHJpY3QtbWFya2VycwogIC0tdGI9c2hvcnQKICAtLWNvdj1hcHAK\nICAtLWNvdj10ZXN0cwogIC0tY292LWJyYW5jaAogIC0tY292LXJlcG9ydD10\nZXJtLW1pc3NpbmcKICAtLWNvdi1yZXBvcnQ9aHRtbAogIC0tY292LXJlcG9y\ndD14bWwKICAtLW5vLWNvdi1vbi1mYWlsCiAgLS1jb3YtZmFpbC11bmRlcj0x\nMDAKICAtLW51bXByb2Nlc3Nlcz1hdXRvCiAgLS1hc3luY2lvLW1vZGU9YXV0\nbwonJycKZW52ID0gWwogICJTRUNSRVRfS0VZPXNlY3JldCIsCiAgIk1BWF9D\nT05ORUNUSU9OU19DT1VOVD0xIiwKICAiTUlOX0NPTk5FQ1RJT05TX0NPVU5U\nPTEiCl0KCltidWlsZC1zeXN0ZW1dCnJlcXVpcmVzID0gWyJwb2V0cnk+PTEu\nMCJdCmJ1aWxkLWJhY2tlbmQgPSAicG9ldHJ5Lm1hc29ucnkuYXBpIgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/pyproject.toml?ref=master",
+    "git": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/74e5183cfe40fddebf5ca60998c2418d0162f9cc",
+    "html": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/pyproject.toml"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "resources.qrc",
+  "path": "resources.qrc",
+  "sha": "15bc6fa041aba743383fab07f1c1695eb11bb4ab",
+  "size": 233,
+  "url": "https://api.github.com/repos/Qv2ray/Qv2ray/contents/resources.qrc?ref=dev",
+  "html_url": "https://github.com/Qv2ray/Qv2ray/blob/dev/resources.qrc",
+  "git_url": "https://api.github.com/repos/Qv2ray/Qv2ray/git/blobs/15bc6fa041aba743383fab07f1c1695eb11bb4ab",
+  "download_url": "https://raw.githubusercontent.com/Qv2ray/Qv2ray/dev/resources.qrc",
+  "type": "file",
+  "content": "PFJDQz4KICAgIDxxcmVzb3VyY2UgcHJlZml4PSIvIj4KICAgICAgICA8Zmls\nZT5hc3NldHMvaWNvbnMvcXYycmF5LmljbnM8L2ZpbGU+CiAgICAgICAgPGZp\nbGU+YXNzZXRzL2ljb25zL3F2MnJheS5pY288L2ZpbGU+CiAgICAgICAgPGZp\nbGU+YXNzZXRzL2ljb25zL3F2MnJheS5wbmc8L2ZpbGU+CiAgICAgICAgPGZp\nbGU+YXNzZXRzL2NyZWRpdC5odG1sPC9maWxlPgogICAgPC9xcmVzb3VyY2U+\nCjwvUkNDPgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/Qv2ray/Qv2ray/contents/resources.qrc?ref=dev",
+    "git": "https://api.github.com/repos/Qv2ray/Qv2ray/git/blobs/15bc6fa041aba743383fab07f1c1695eb11bb4ab",
+    "html": "https://github.com/Qv2ray/Qv2ray/blob/dev/resources.qrc"
+  }
+}

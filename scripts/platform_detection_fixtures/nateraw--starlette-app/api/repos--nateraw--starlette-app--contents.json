@@ -1,0 +1,146 @@
+[
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "56f922f8857bdda1e338d7f1d3c4d303ae30bd54",
+    "size": 0,
+    "url": "https://api.github.com/repos/nateraw/starlette-app/contents/.github?ref=main",
+    "html_url": "https://github.com/nateraw/starlette-app/tree/main/.github",
+    "git_url": "https://api.github.com/repos/nateraw/starlette-app/git/trees/56f922f8857bdda1e338d7f1d3c4d303ae30bd54",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nateraw/starlette-app/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/nateraw/starlette-app/git/trees/56f922f8857bdda1e338d7f1d3c4d303ae30bd54",
+      "html": "https://github.com/nateraw/starlette-app/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "3e8993f28e7d52eb29a1bd62920c38f82cb5b7b7",
+    "size": 1809,
+    "url": "https://api.github.com/repos/nateraw/starlette-app/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/nateraw/starlette-app/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/nateraw/starlette-app/git/blobs/3e8993f28e7d52eb29a1bd62920c38f82cb5b7b7",
+    "download_url": "https://raw.githubusercontent.com/nateraw/starlette-app/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nateraw/starlette-app/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/nateraw/starlette-app/git/blobs/3e8993f28e7d52eb29a1bd62920c38f82cb5b7b7",
+      "html": "https://github.com/nateraw/starlette-app/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": "Dockerfile",
+    "path": "Dockerfile",
+    "sha": "39091020f59692849dcc63153f1c0281b17f0105",
+    "size": 1188,
+    "url": "https://api.github.com/repos/nateraw/starlette-app/contents/Dockerfile?ref=main",
+    "html_url": "https://github.com/nateraw/starlette-app/blob/main/Dockerfile",
+    "git_url": "https://api.github.com/repos/nateraw/starlette-app/git/blobs/39091020f59692849dcc63153f1c0281b17f0105",
+    "download_url": "https://raw.githubusercontent.com/nateraw/starlette-app/main/Dockerfile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nateraw/starlette-app/contents/Dockerfile?ref=main",
+      "git": "https://api.github.com/repos/nateraw/starlette-app/git/blobs/39091020f59692849dcc63153f1c0281b17f0105",
+      "html": "https://github.com/nateraw/starlette-app/blob/main/Dockerfile"
+    }
+  },
+  {
+    "name": "Makefile",
+    "path": "Makefile",
+    "sha": "01fb0a857292d50816657e46a7e4dd16763e3d2f",
+    "size": 388,
+    "url": "https://api.github.com/repos/nateraw/starlette-app/contents/Makefile?ref=main",
+    "html_url": "https://github.com/nateraw/starlette-app/blob/main/Makefile",
+    "git_url": "https://api.github.com/repos/nateraw/starlette-app/git/blobs/01fb0a857292d50816657e46a7e4dd16763e3d2f",
+    "download_url": "https://raw.githubusercontent.com/nateraw/starlette-app/main/Makefile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nateraw/starlette-app/contents/Makefile?ref=main",
+      "git": "https://api.github.com/repos/nateraw/starlette-app/git/blobs/01fb0a857292d50816657e46a7e4dd16763e3d2f",
+      "html": "https://github.com/nateraw/starlette-app/blob/main/Makefile"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "646d2a643a023ad05bfc493264a8652eb38f7d4f",
+    "size": 162,
+    "url": "https://api.github.com/repos/nateraw/starlette-app/contents/README.md?ref=main",
+    "html_url": "https://github.com/nateraw/starlette-app/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/nateraw/starlette-app/git/blobs/646d2a643a023ad05bfc493264a8652eb38f7d4f",
+    "download_url": "https://raw.githubusercontent.com/nateraw/starlette-app/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nateraw/starlette-app/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/nateraw/starlette-app/git/blobs/646d2a643a023ad05bfc493264a8652eb38f7d4f",
+      "html": "https://github.com/nateraw/starlette-app/blob/main/README.md"
+    }
+  },
+  {
+    "name": "app",
+    "path": "app",
+    "sha": "e48340f2cfc8c799abf4d114ddbb92eb6f1ad6b9",
+    "size": 0,
+    "url": "https://api.github.com/repos/nateraw/starlette-app/contents/app?ref=main",
+    "html_url": "https://github.com/nateraw/starlette-app/tree/main/app",
+    "git_url": "https://api.github.com/repos/nateraw/starlette-app/git/trees/e48340f2cfc8c799abf4d114ddbb92eb6f1ad6b9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nateraw/starlette-app/contents/app?ref=main",
+      "git": "https://api.github.com/repos/nateraw/starlette-app/git/trees/e48340f2cfc8c799abf4d114ddbb92eb6f1ad6b9",
+      "html": "https://github.com/nateraw/starlette-app/tree/main/app"
+    }
+  },
+  {
+    "name": "prestart.sh",
+    "path": "prestart.sh",
+    "sha": "fdcc34b4f90ee89695a9d67d75755e2c567c9501",
+    "size": 19,
+    "url": "https://api.github.com/repos/nateraw/starlette-app/contents/prestart.sh?ref=main",
+    "html_url": "https://github.com/nateraw/starlette-app/blob/main/prestart.sh",
+    "git_url": "https://api.github.com/repos/nateraw/starlette-app/git/blobs/fdcc34b4f90ee89695a9d67d75755e2c567c9501",
+    "download_url": "https://raw.githubusercontent.com/nateraw/starlette-app/main/prestart.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nateraw/starlette-app/contents/prestart.sh?ref=main",
+      "git": "https://api.github.com/repos/nateraw/starlette-app/git/blobs/fdcc34b4f90ee89695a9d67d75755e2c567c9501",
+      "html": "https://github.com/nateraw/starlette-app/blob/main/prestart.sh"
+    }
+  },
+  {
+    "name": "requirements.txt",
+    "path": "requirements.txt",
+    "sha": "61b3fd61baab8fde6701cc4ff877127198e283d9",
+    "size": 78,
+    "url": "https://api.github.com/repos/nateraw/starlette-app/contents/requirements.txt?ref=main",
+    "html_url": "https://github.com/nateraw/starlette-app/blob/main/requirements.txt",
+    "git_url": "https://api.github.com/repos/nateraw/starlette-app/git/blobs/61b3fd61baab8fde6701cc4ff877127198e283d9",
+    "download_url": "https://raw.githubusercontent.com/nateraw/starlette-app/main/requirements.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nateraw/starlette-app/contents/requirements.txt?ref=main",
+      "git": "https://api.github.com/repos/nateraw/starlette-app/git/blobs/61b3fd61baab8fde6701cc4ff877127198e283d9",
+      "html": "https://github.com/nateraw/starlette-app/blob/main/requirements.txt"
+    }
+  },
+  {
+    "name": "tests",
+    "path": "tests",
+    "sha": "832bf6341084c56c604645f83f3adb1d19d8efac",
+    "size": 0,
+    "url": "https://api.github.com/repos/nateraw/starlette-app/contents/tests?ref=main",
+    "html_url": "https://github.com/nateraw/starlette-app/tree/main/tests",
+    "git_url": "https://api.github.com/repos/nateraw/starlette-app/git/trees/832bf6341084c56c604645f83f3adb1d19d8efac",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nateraw/starlette-app/contents/tests?ref=main",
+      "git": "https://api.github.com/repos/nateraw/starlette-app/git/trees/832bf6341084c56c604645f83f3adb1d19d8efac",
+      "html": "https://github.com/nateraw/starlette-app/tree/main/tests"
+    }
+  }
+]

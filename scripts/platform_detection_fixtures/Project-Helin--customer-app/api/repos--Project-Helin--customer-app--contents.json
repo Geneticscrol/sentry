@@ -1,0 +1,562 @@
+[
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "ef8f73407f68086bb66affec2f036f9d31d944d2",
+    "size": 388,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/ef8f73407f68086bb66affec2f036f9d31d944d2",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/ef8f73407f68086bb66affec2f036f9d31d944d2",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": "AuthenticationPage.xaml",
+    "path": "AuthenticationPage.xaml",
+    "sha": "912251d4f0f3bbff6c8e18dcace4cceef575ed41",
+    "size": 263,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/AuthenticationPage.xaml?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/AuthenticationPage.xaml",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/912251d4f0f3bbff6c8e18dcace4cceef575ed41",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/AuthenticationPage.xaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/AuthenticationPage.xaml?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/912251d4f0f3bbff6c8e18dcace4cceef575ed41",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/AuthenticationPage.xaml"
+    }
+  },
+  {
+    "name": "AuthenticationPage.xaml.cs",
+    "path": "AuthenticationPage.xaml.cs",
+    "sha": "e955d272fde767c879189d74219db135cec786a7",
+    "size": 344,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/AuthenticationPage.xaml.cs?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/AuthenticationPage.xaml.cs",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/e955d272fde767c879189d74219db135cec786a7",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/AuthenticationPage.xaml.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/AuthenticationPage.xaml.cs?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/e955d272fde767c879189d74219db135cec786a7",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/AuthenticationPage.xaml.cs"
+    }
+  },
+  {
+    "name": "CartPage.xaml",
+    "path": "CartPage.xaml",
+    "sha": "609a1326ffd2707fc0b98f2e50bfa8aacae698fd",
+    "size": 253,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/CartPage.xaml?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/CartPage.xaml",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/609a1326ffd2707fc0b98f2e50bfa8aacae698fd",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/CartPage.xaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/CartPage.xaml?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/609a1326ffd2707fc0b98f2e50bfa8aacae698fd",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/CartPage.xaml"
+    }
+  },
+  {
+    "name": "CartPage.xaml.cs",
+    "path": "CartPage.xaml.cs",
+    "sha": "8d0616d52554f6d58863f950f20de85bedb7f934",
+    "size": 242,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/CartPage.xaml.cs?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/CartPage.xaml.cs",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/8d0616d52554f6d58863f950f20de85bedb7f934",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/CartPage.xaml.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/CartPage.xaml.cs?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/8d0616d52554f6d58863f950f20de85bedb7f934",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/CartPage.xaml.cs"
+    }
+  },
+  {
+    "name": "Constants.cs",
+    "path": "Constants.cs",
+    "sha": "77201bc26ec51390e98b34337bd0fd807ea03cd0",
+    "size": 2065,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/Constants.cs?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/Constants.cs",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/77201bc26ec51390e98b34337bd0fd807ea03cd0",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/Constants.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/Constants.cs?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/77201bc26ec51390e98b34337bd0fd807ea03cd0",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/Constants.cs"
+    }
+  },
+  {
+    "name": "Droid",
+    "path": "Droid",
+    "sha": "88f70d7db3e0fda118cec5051523e7fb96e5ece1",
+    "size": 0,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/Droid?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/tree/master/Droid",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/trees/88f70d7db3e0fda118cec5051523e7fb96e5ece1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/Droid?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/trees/88f70d7db3e0fda118cec5051523e7fb96e5ece1",
+      "html": "https://github.com/Project-Helin/customer-app/tree/master/Droid"
+    }
+  },
+  {
+    "name": "Dto",
+    "path": "Dto",
+    "sha": "2324829635ec3d602794808d78e0367bfa01fcc0",
+    "size": 0,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/Dto?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/tree/master/Dto",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/trees/2324829635ec3d602794808d78e0367bfa01fcc0",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/Dto?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/trees/2324829635ec3d602794808d78e0367bfa01fcc0",
+      "html": "https://github.com/Project-Helin/customer-app/tree/master/Dto"
+    }
+  },
+  {
+    "name": "KeyConstants.cs",
+    "path": "KeyConstants.cs",
+    "sha": "80ceeb3aa1a5c05e4852e18a059627cde7442c8b",
+    "size": 457,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/KeyConstants.cs?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/KeyConstants.cs",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/80ceeb3aa1a5c05e4852e18a059627cde7442c8b",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/KeyConstants.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/KeyConstants.cs?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/80ceeb3aa1a5c05e4852e18a059627cde7442c8b",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/KeyConstants.cs"
+    }
+  },
+  {
+    "name": "KeyConstantsDefault.cs",
+    "path": "KeyConstantsDefault.cs",
+    "sha": "02c7ba9b75f3bff79d864e408fc10a605d92d5d2",
+    "size": 376,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/KeyConstantsDefault.cs?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/KeyConstantsDefault.cs",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/02c7ba9b75f3bff79d864e408fc10a605d92d5d2",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/KeyConstantsDefault.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/KeyConstantsDefault.cs?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/02c7ba9b75f3bff79d864e408fc10a605d92d5d2",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/KeyConstantsDefault.cs"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "fd15360e06f4cba4a4cadcd4ff45cb37dfb885ff",
+    "size": 1080,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/LICENSE?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/LICENSE",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/fd15360e06f4cba4a4cadcd4ff45cb37dfb885ff",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/LICENSE?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/fd15360e06f4cba4a4cadcd4ff45cb37dfb885ff",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "MainPage.xaml",
+    "path": "MainPage.xaml",
+    "sha": "9b337ba7f38becae74226291d5c7fb52df163224",
+    "size": 1083,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/MainPage.xaml?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/MainPage.xaml",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/9b337ba7f38becae74226291d5c7fb52df163224",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/MainPage.xaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/MainPage.xaml?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/9b337ba7f38becae74226291d5c7fb52df163224",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/MainPage.xaml"
+    }
+  },
+  {
+    "name": "MainPage.xaml.cs",
+    "path": "MainPage.xaml.cs",
+    "sha": "ccb7f5993ba023f1e05a47b3cbe996340f8bdb00",
+    "size": 1419,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/MainPage.xaml.cs?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/MainPage.xaml.cs",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/ccb7f5993ba023f1e05a47b3cbe996340f8bdb00",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/MainPage.xaml.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/MainPage.xaml.cs?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/ccb7f5993ba023f1e05a47b3cbe996340f8bdb00",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/MainPage.xaml.cs"
+    }
+  },
+  {
+    "name": "MapWithRoute.cs",
+    "path": "MapWithRoute.cs",
+    "sha": "5f840b716d8285f3c7ec1cafee269ca52955ce70",
+    "size": 1125,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/MapWithRoute.cs?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/MapWithRoute.cs",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/5f840b716d8285f3c7ec1cafee269ca52955ce70",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/MapWithRoute.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/MapWithRoute.cs?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/5f840b716d8285f3c7ec1cafee269ca52955ce70",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/MapWithRoute.cs"
+    }
+  },
+  {
+    "name": "MissionListPage.xaml",
+    "path": "MissionListPage.xaml",
+    "sha": "99fef0915e14eebab44bed1a2b965796b47c6dda",
+    "size": 807,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/MissionListPage.xaml?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/MissionListPage.xaml",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/99fef0915e14eebab44bed1a2b965796b47c6dda",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/MissionListPage.xaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/MissionListPage.xaml?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/99fef0915e14eebab44bed1a2b965796b47c6dda",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/MissionListPage.xaml"
+    }
+  },
+  {
+    "name": "MissionListPage.xaml.cs",
+    "path": "MissionListPage.xaml.cs",
+    "sha": "d2146fb4e22b849afbe1810bebdeecf900fb009f",
+    "size": 1027,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/MissionListPage.xaml.cs?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/MissionListPage.xaml.cs",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/d2146fb4e22b849afbe1810bebdeecf900fb009f",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/MissionListPage.xaml.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/MissionListPage.xaml.cs?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/d2146fb4e22b849afbe1810bebdeecf900fb009f",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/MissionListPage.xaml.cs"
+    }
+  },
+  {
+    "name": "MissionPage.xaml",
+    "path": "MissionPage.xaml",
+    "sha": "c3fe68cb43daf12cf69c885010483d0ca6e0a336",
+    "size": 502,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/MissionPage.xaml?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/MissionPage.xaml",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/c3fe68cb43daf12cf69c885010483d0ca6e0a336",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/MissionPage.xaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/MissionPage.xaml?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/c3fe68cb43daf12cf69c885010483d0ca6e0a336",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/MissionPage.xaml"
+    }
+  },
+  {
+    "name": "MissionPage.xaml.cs",
+    "path": "MissionPage.xaml.cs",
+    "sha": "e9f530adf50f0385abdf58cd7b46a4a313e239d4",
+    "size": 2721,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/MissionPage.xaml.cs?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/MissionPage.xaml.cs",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/e9f530adf50f0385abdf58cd7b46a4a313e239d4",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/MissionPage.xaml.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/MissionPage.xaml.cs?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/e9f530adf50f0385abdf58cd7b46a4a313e239d4",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/MissionPage.xaml.cs"
+    }
+  },
+  {
+    "name": "OrderConfirmPage.cs",
+    "path": "OrderConfirmPage.cs",
+    "sha": "494708603fd0cce38d2b1e9226d068bb1defbe07",
+    "size": 1873,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/OrderConfirmPage.cs?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/OrderConfirmPage.cs",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/494708603fd0cce38d2b1e9226d068bb1defbe07",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/OrderConfirmPage.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/OrderConfirmPage.cs?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/494708603fd0cce38d2b1e9226d068bb1defbe07",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/OrderConfirmPage.cs"
+    }
+  },
+  {
+    "name": "OrderConfirmPage.xaml",
+    "path": "OrderConfirmPage.xaml",
+    "sha": "96e6770973cfc95d15a79195e7af8e434d629e72",
+    "size": 1040,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/OrderConfirmPage.xaml?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/OrderConfirmPage.xaml",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/96e6770973cfc95d15a79195e7af8e434d629e72",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/OrderConfirmPage.xaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/OrderConfirmPage.xaml?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/96e6770973cfc95d15a79195e7af8e434d629e72",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/OrderConfirmPage.xaml"
+    }
+  },
+  {
+    "name": "OrderConfirmPage.xaml.cs",
+    "path": "OrderConfirmPage.xaml.cs",
+    "sha": "ac1680c8288ca2d63697aef5b811bbaf362db60e",
+    "size": 4158,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/OrderConfirmPage.xaml.cs?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/OrderConfirmPage.xaml.cs",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/ac1680c8288ca2d63697aef5b811bbaf362db60e",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/OrderConfirmPage.xaml.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/OrderConfirmPage.xaml.cs?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/ac1680c8288ca2d63697aef5b811bbaf362db60e",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/OrderConfirmPage.xaml.cs"
+    }
+  },
+  {
+    "name": "OrderDetailPage.cs",
+    "path": "OrderDetailPage.cs",
+    "sha": "3fcd14b066aae249f0f6f6aa9fb339d4bbab2c35",
+    "size": 750,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/OrderDetailPage.cs?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/OrderDetailPage.cs",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/3fcd14b066aae249f0f6f6aa9fb339d4bbab2c35",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/OrderDetailPage.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/OrderDetailPage.cs?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/3fcd14b066aae249f0f6f6aa9fb339d4bbab2c35",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/OrderDetailPage.cs"
+    }
+  },
+  {
+    "name": "OrderListPage.xaml",
+    "path": "OrderListPage.xaml",
+    "sha": "8f6786558f08b5f20ef205ca64a10d661521a7d9",
+    "size": 896,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/OrderListPage.xaml?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/OrderListPage.xaml",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/8f6786558f08b5f20ef205ca64a10d661521a7d9",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/OrderListPage.xaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/OrderListPage.xaml?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/8f6786558f08b5f20ef205ca64a10d661521a7d9",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/OrderListPage.xaml"
+    }
+  },
+  {
+    "name": "OrderListPage.xaml.cs",
+    "path": "OrderListPage.xaml.cs",
+    "sha": "3858e5f635c28357383eaaf9f481a86108c2d5e6",
+    "size": 1156,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/OrderListPage.xaml.cs?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/OrderListPage.xaml.cs",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/3858e5f635c28357383eaaf9f481a86108c2d5e6",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/OrderListPage.xaml.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/OrderListPage.xaml.cs?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/3858e5f635c28357383eaaf9f481a86108c2d5e6",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/OrderListPage.xaml.cs"
+    }
+  },
+  {
+    "name": "ProductListPage.xaml",
+    "path": "ProductListPage.xaml",
+    "sha": "e4d7832a5954a8477002419317b68a9651ae6b03",
+    "size": 1460,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/ProductListPage.xaml?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/ProductListPage.xaml",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/e4d7832a5954a8477002419317b68a9651ae6b03",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/ProductListPage.xaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/ProductListPage.xaml?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/e4d7832a5954a8477002419317b68a9651ae6b03",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/ProductListPage.xaml"
+    }
+  },
+  {
+    "name": "ProductListPage.xaml.cs",
+    "path": "ProductListPage.xaml.cs",
+    "sha": "e600f466f7656d41cceb2b3474b74b5ecbc7a068",
+    "size": 3626,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/ProductListPage.xaml.cs?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/ProductListPage.xaml.cs",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/e600f466f7656d41cceb2b3474b74b5ecbc7a068",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/ProductListPage.xaml.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/ProductListPage.xaml.cs?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/e600f466f7656d41cceb2b3474b74b5ecbc7a068",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/ProductListPage.xaml.cs"
+    }
+  },
+  {
+    "name": "Properties",
+    "path": "Properties",
+    "sha": "c31076f3fceacb129ebee3eeb6cd1c6294601734",
+    "size": 0,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/Properties?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/tree/master/Properties",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/trees/c31076f3fceacb129ebee3eeb6cd1c6294601734",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/Properties?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/trees/c31076f3fceacb129ebee3eeb6cd1c6294601734",
+      "html": "https://github.com/Project-Helin/customer-app/tree/master/Properties"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "f74853632f581c031cec0dc4f0c4113849c707c2",
+    "size": 248,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/README.md?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/f74853632f581c031cec0dc4f0c4113849c707c2",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/f74853632f581c031cec0dc4f0c4113849c707c2",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/README.md"
+    }
+  },
+  {
+    "name": "Service",
+    "path": "Service",
+    "sha": "3ab29178e88f8252c97d0ff0487508e7a34d84a2",
+    "size": 0,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/Service?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/tree/master/Service",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/trees/3ab29178e88f8252c97d0ff0487508e7a34d84a2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/Service?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/trees/3ab29178e88f8252c97d0ff0487508e7a34d84a2",
+      "html": "https://github.com/Project-Helin/customer-app/tree/master/Service"
+    }
+  },
+  {
+    "name": "Settings.cs",
+    "path": "Settings.cs",
+    "sha": "88a5261dac355aab5bdcde1b5e17a48e891affb2",
+    "size": 358,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/Settings.cs?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/Settings.cs",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/88a5261dac355aab5bdcde1b5e17a48e891affb2",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/Settings.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/Settings.cs?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/88a5261dac355aab5bdcde1b5e17a48e891affb2",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/Settings.cs"
+    }
+  },
+  {
+    "name": "app.cs",
+    "path": "app.cs",
+    "sha": "32209b6dc79f7a65c4b84f9689c7eac29c82f34d",
+    "size": 1060,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/app.cs?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/app.cs",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/32209b6dc79f7a65c4b84f9689c7eac29c82f34d",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/app.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/app.cs?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/32209b6dc79f7a65c4b84f9689c7eac29c82f34d",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/app.cs"
+    }
+  },
+  {
+    "name": "customer-app.csproj",
+    "path": "customer-app.csproj",
+    "sha": "38745e849c1c1f762785d0391d1f67c558cd466a",
+    "size": 10180,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/customer-app.csproj?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/customer-app.csproj",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/38745e849c1c1f762785d0391d1f67c558cd466a",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/customer-app.csproj",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/customer-app.csproj?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/38745e849c1c1f762785d0391d1f67c558cd466a",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/customer-app.csproj"
+    }
+  },
+  {
+    "name": "customer-app.sln",
+    "path": "customer-app.sln",
+    "sha": "d3eb4485b99682c3bfe1a0252da5451147e3edcd",
+    "size": 4086,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/customer-app.sln?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/customer-app.sln",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/d3eb4485b99682c3bfe1a0252da5451147e3edcd",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/customer-app.sln",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/customer-app.sln?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/d3eb4485b99682c3bfe1a0252da5451147e3edcd",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/customer-app.sln"
+    }
+  },
+  {
+    "name": "iOS",
+    "path": "iOS",
+    "sha": "0a0caa8f051a1dbd6fb2e33d3bb8bd952eb2a7f1",
+    "size": 0,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/iOS?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/tree/master/iOS",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/trees/0a0caa8f051a1dbd6fb2e33d3bb8bd952eb2a7f1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/iOS?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/trees/0a0caa8f051a1dbd6fb2e33d3bb8bd952eb2a7f1",
+      "html": "https://github.com/Project-Helin/customer-app/tree/master/iOS"
+    }
+  },
+  {
+    "name": "packages.config",
+    "path": "packages.config",
+    "sha": "89629867a9e0271ebf28ff44c61db5c752ed911f",
+    "size": 2109,
+    "url": "https://api.github.com/repos/Project-Helin/customer-app/contents/packages.config?ref=master",
+    "html_url": "https://github.com/Project-Helin/customer-app/blob/master/packages.config",
+    "git_url": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/89629867a9e0271ebf28ff44c61db5c752ed911f",
+    "download_url": "https://raw.githubusercontent.com/Project-Helin/customer-app/master/packages.config",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Project-Helin/customer-app/contents/packages.config?ref=master",
+      "git": "https://api.github.com/repos/Project-Helin/customer-app/git/blobs/89629867a9e0271ebf28ff44c61db5c752ed911f",
+      "html": "https://github.com/Project-Helin/customer-app/blob/master/packages.config"
+    }
+  }
+]

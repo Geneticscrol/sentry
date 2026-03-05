@@ -1,0 +1,18 @@
+{
+  "name": "package.json",
+  "path": "package.json",
+  "sha": "7686b29586f7b1a00e10b0b8f01c5aaf031cf55c",
+  "size": 414,
+  "url": "https://api.github.com/repos/laravel/laravel/contents/package.json?ref=12.x",
+  "html_url": "https://github.com/laravel/laravel/blob/12.x/package.json",
+  "git_url": "https://api.github.com/repos/laravel/laravel/git/blobs/7686b29586f7b1a00e10b0b8f01c5aaf031cf55c",
+  "download_url": "https://raw.githubusercontent.com/laravel/laravel/12.x/package.json",
+  "type": "file",
+  "content": "ewogICAgIiRzY2hlbWEiOiAiaHR0cHM6Ly93d3cuc2NoZW1hc3RvcmUub3Jn\nL3BhY2thZ2UuanNvbiIsCiAgICAicHJpdmF0ZSI6IHRydWUsCiAgICAidHlw\nZSI6ICJtb2R1bGUiLAogICAgInNjcmlwdHMiOiB7CiAgICAgICAgImJ1aWxk\nIjogInZpdGUgYnVpbGQiLAogICAgICAgICJkZXYiOiAidml0ZSIKICAgIH0s\nCiAgICAiZGV2RGVwZW5kZW5jaWVzIjogewogICAgICAgICJAdGFpbHdpbmRj\nc3Mvdml0ZSI6ICJeNC4wLjAiLAogICAgICAgICJheGlvcyI6ICJeMS4xMS4w\nIiwKICAgICAgICAiY29uY3VycmVudGx5IjogIl45LjAuMSIsCiAgICAgICAg\nImxhcmF2ZWwtdml0ZS1wbHVnaW4iOiAiXjIuMC4wIiwKICAgICAgICAidGFp\nbHdpbmRjc3MiOiAiXjQuMC4wIiwKICAgICAgICAidml0ZSI6ICJeNy4wLjci\nCiAgICB9Cn0K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/laravel/laravel/contents/package.json?ref=12.x",
+    "git": "https://api.github.com/repos/laravel/laravel/git/blobs/7686b29586f7b1a00e10b0b8f01c5aaf031cf55c",
+    "html": "https://github.com/laravel/laravel/blob/12.x/package.json"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Dockerfile",
+  "path": "Dockerfile",
+  "sha": "ffa6f28d53ece5d0b2a8481920b3cf318bae5d63",
+  "size": 225,
+  "url": "https://api.github.com/repos/jellydn/elysia-demo-app/contents/Dockerfile?ref=main",
+  "html_url": "https://github.com/jellydn/elysia-demo-app/blob/main/Dockerfile",
+  "git_url": "https://api.github.com/repos/jellydn/elysia-demo-app/git/blobs/ffa6f28d53ece5d0b2a8481920b3cf318bae5d63",
+  "download_url": "https://raw.githubusercontent.com/jellydn/elysia-demo-app/main/Dockerfile",
+  "type": "file",
+  "content": "RlJPTSBvdmVuL2J1bgoKV09SS0RJUiAvYXBwCgpDT1BZIHBhY2thZ2UuanNv\nbiAuCkNPUFkgd2ViIHdlYgpDT1BZIGJ1bi5sb2NrYiAuCgpSVU4gYnVuIGlu\nc3RhbGwKCkNPUFkgc2VydmVyIHNlcnZlcgpDT1BZIHRzY29uZmlnLmpzb24g\nLgpDT1BZIHB1YmxpYyBwdWJsaWMKCkVOViBOT0RFX0VOViBwcm9kdWN0aW9u\nCkNNRCBbImJ1biIsICJzZXJ2ZXIvaW5kZXgudHMiXQoKRVhQT1NFIDMwMDAK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/jellydn/elysia-demo-app/contents/Dockerfile?ref=main",
+    "git": "https://api.github.com/repos/jellydn/elysia-demo-app/git/blobs/ffa6f28d53ece5d0b2a8481920b3cf318bae5d63",
+    "html": "https://github.com/jellydn/elysia-demo-app/blob/main/Dockerfile"
+  }
+}

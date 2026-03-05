@@ -1,0 +1,354 @@
+[
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "c5d9ca6bbd7e43a10a0fcfd7148bd775eaef8c11",
+    "size": 0,
+    "url": "https://api.github.com/repos/solidjs/solid-docs/contents/.github?ref=main",
+    "html_url": "https://github.com/solidjs/solid-docs/tree/main/.github",
+    "git_url": "https://api.github.com/repos/solidjs/solid-docs/git/trees/c5d9ca6bbd7e43a10a0fcfd7148bd775eaef8c11",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-docs/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-docs/git/trees/c5d9ca6bbd7e43a10a0fcfd7148bd775eaef8c11",
+      "html": "https://github.com/solidjs/solid-docs/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "a5a615dcc77883ed80f21f37157bc7f307b4f9b7",
+    "size": 528,
+    "url": "https://api.github.com/repos/solidjs/solid-docs/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/solidjs/solid-docs/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/a5a615dcc77883ed80f21f37157bc7f307b4f9b7",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-docs/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-docs/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/a5a615dcc77883ed80f21f37157bc7f307b4f9b7",
+      "html": "https://github.com/solidjs/solid-docs/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".kodiak.toml",
+    "path": ".kodiak.toml",
+    "sha": "814b570720ce9d199f18f0fc4dd80d3d8c95e3f5",
+    "size": 515,
+    "url": "https://api.github.com/repos/solidjs/solid-docs/contents/.kodiak.toml?ref=main",
+    "html_url": "https://github.com/solidjs/solid-docs/blob/main/.kodiak.toml",
+    "git_url": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/814b570720ce9d199f18f0fc4dd80d3d8c95e3f5",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-docs/main/.kodiak.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-docs/contents/.kodiak.toml?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/814b570720ce9d199f18f0fc4dd80d3d8c95e3f5",
+      "html": "https://github.com/solidjs/solid-docs/blob/main/.kodiak.toml"
+    }
+  },
+  {
+    "name": ".prettierignore",
+    "path": ".prettierignore",
+    "sha": "97ea5f25024f85472a78d3d4e075df0507c5bfb3",
+    "size": 37,
+    "url": "https://api.github.com/repos/solidjs/solid-docs/contents/.prettierignore?ref=main",
+    "html_url": "https://github.com/solidjs/solid-docs/blob/main/.prettierignore",
+    "git_url": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/97ea5f25024f85472a78d3d4e075df0507c5bfb3",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-docs/main/.prettierignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-docs/contents/.prettierignore?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/97ea5f25024f85472a78d3d4e075df0507c5bfb3",
+      "html": "https://github.com/solidjs/solid-docs/blob/main/.prettierignore"
+    }
+  },
+  {
+    "name": ".prettierrc",
+    "path": ".prettierrc",
+    "sha": "1d91c6a999b9189c51849e2a0fc2416e7b0179fc",
+    "size": 146,
+    "url": "https://api.github.com/repos/solidjs/solid-docs/contents/.prettierrc?ref=main",
+    "html_url": "https://github.com/solidjs/solid-docs/blob/main/.prettierrc",
+    "git_url": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/1d91c6a999b9189c51849e2a0fc2416e7b0179fc",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-docs/main/.prettierrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-docs/contents/.prettierrc?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/1d91c6a999b9189c51849e2a0fc2416e7b0179fc",
+      "html": "https://github.com/solidjs/solid-docs/blob/main/.prettierrc"
+    }
+  },
+  {
+    "name": "CONTRIBUTING.md",
+    "path": "CONTRIBUTING.md",
+    "sha": "26b11b8c7d6bfd8d9cd313f3e42576ddc65f64ad",
+    "size": 10987,
+    "url": "https://api.github.com/repos/solidjs/solid-docs/contents/CONTRIBUTING.md?ref=main",
+    "html_url": "https://github.com/solidjs/solid-docs/blob/main/CONTRIBUTING.md",
+    "git_url": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/26b11b8c7d6bfd8d9cd313f3e42576ddc65f64ad",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-docs/main/CONTRIBUTING.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-docs/contents/CONTRIBUTING.md?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/26b11b8c7d6bfd8d9cd313f3e42576ddc65f64ad",
+      "html": "https://github.com/solidjs/solid-docs/blob/main/CONTRIBUTING.md"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "04cb6e1eb1ca029b951c9a24c01187611a845102",
+    "size": 3955,
+    "url": "https://api.github.com/repos/solidjs/solid-docs/contents/README.md?ref=main",
+    "html_url": "https://github.com/solidjs/solid-docs/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/04cb6e1eb1ca029b951c9a24c01187611a845102",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-docs/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-docs/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/04cb6e1eb1ca029b951c9a24c01187611a845102",
+      "html": "https://github.com/solidjs/solid-docs/blob/main/README.md"
+    }
+  },
+  {
+    "name": "WRITING.md",
+    "path": "WRITING.md",
+    "sha": "5fe3c75ecbbb8c00667f08ac9a7c8e5dd81bde66",
+    "size": 18321,
+    "url": "https://api.github.com/repos/solidjs/solid-docs/contents/WRITING.md?ref=main",
+    "html_url": "https://github.com/solidjs/solid-docs/blob/main/WRITING.md",
+    "git_url": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/5fe3c75ecbbb8c00667f08ac9a7c8e5dd81bde66",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-docs/main/WRITING.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-docs/contents/WRITING.md?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/5fe3c75ecbbb8c00667f08ac9a7c8e5dd81bde66",
+      "html": "https://github.com/solidjs/solid-docs/blob/main/WRITING.md"
+    }
+  },
+  {
+    "name": "app.config.ts",
+    "path": "app.config.ts",
+    "sha": "3313de2304d5542f3f67c1ed6a86c4b9df373d56",
+    "size": 5194,
+    "url": "https://api.github.com/repos/solidjs/solid-docs/contents/app.config.ts?ref=main",
+    "html_url": "https://github.com/solidjs/solid-docs/blob/main/app.config.ts",
+    "git_url": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/3313de2304d5542f3f67c1ed6a86c4b9df373d56",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-docs/main/app.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-docs/contents/app.config.ts?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/3313de2304d5542f3f67c1ed6a86c4b9df373d56",
+      "html": "https://github.com/solidjs/solid-docs/blob/main/app.config.ts"
+    }
+  },
+  {
+    "name": "env.d.ts",
+    "path": "env.d.ts",
+    "sha": "eaa53030d67833d0ed3004a9f1fd225d23ce12f1",
+    "size": 624,
+    "url": "https://api.github.com/repos/solidjs/solid-docs/contents/env.d.ts?ref=main",
+    "html_url": "https://github.com/solidjs/solid-docs/blob/main/env.d.ts",
+    "git_url": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/eaa53030d67833d0ed3004a9f1fd225d23ce12f1",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-docs/main/env.d.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-docs/contents/env.d.ts?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/eaa53030d67833d0ed3004a9f1fd225d23ce12f1",
+      "html": "https://github.com/solidjs/solid-docs/blob/main/env.d.ts"
+    }
+  },
+  {
+    "name": "eslint.config.ts",
+    "path": "eslint.config.ts",
+    "sha": "6497c04d0e3e693ff300c5f359fce54f190bd583",
+    "size": 1117,
+    "url": "https://api.github.com/repos/solidjs/solid-docs/contents/eslint.config.ts?ref=main",
+    "html_url": "https://github.com/solidjs/solid-docs/blob/main/eslint.config.ts",
+    "git_url": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/6497c04d0e3e693ff300c5f359fce54f190bd583",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-docs/main/eslint.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-docs/contents/eslint.config.ts?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/6497c04d0e3e693ff300c5f359fce54f190bd583",
+      "html": "https://github.com/solidjs/solid-docs/blob/main/eslint.config.ts"
+    }
+  },
+  {
+    "name": "global.d.ts",
+    "path": "global.d.ts",
+    "sha": "fd182f46af53c11c8a90aa21c2e8f1e929115f95",
+    "size": 585,
+    "url": "https://api.github.com/repos/solidjs/solid-docs/contents/global.d.ts?ref=main",
+    "html_url": "https://github.com/solidjs/solid-docs/blob/main/global.d.ts",
+    "git_url": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/fd182f46af53c11c8a90aa21c2e8f1e929115f95",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-docs/main/global.d.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-docs/contents/global.d.ts?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/fd182f46af53c11c8a90aa21c2e8f1e929115f95",
+      "html": "https://github.com/solidjs/solid-docs/blob/main/global.d.ts"
+    }
+  },
+  {
+    "name": "netlify.toml",
+    "path": "netlify.toml",
+    "sha": "2258bfc2118accc5a3df9315747ed8ded45cfa10",
+    "size": 27,
+    "url": "https://api.github.com/repos/solidjs/solid-docs/contents/netlify.toml?ref=main",
+    "html_url": "https://github.com/solidjs/solid-docs/blob/main/netlify.toml",
+    "git_url": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/2258bfc2118accc5a3df9315747ed8ded45cfa10",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-docs/main/netlify.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-docs/contents/netlify.toml?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/2258bfc2118accc5a3df9315747ed8ded45cfa10",
+      "html": "https://github.com/solidjs/solid-docs/blob/main/netlify.toml"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "f072f14c2464a1030f19f54e6bc7adfdef57f614",
+    "size": 1918,
+    "url": "https://api.github.com/repos/solidjs/solid-docs/contents/package.json?ref=main",
+    "html_url": "https://github.com/solidjs/solid-docs/blob/main/package.json",
+    "git_url": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/f072f14c2464a1030f19f54e6bc7adfdef57f614",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-docs/main/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-docs/contents/package.json?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/f072f14c2464a1030f19f54e6bc7adfdef57f614",
+      "html": "https://github.com/solidjs/solid-docs/blob/main/package.json"
+    }
+  },
+  {
+    "name": "pnpm-lock.yaml",
+    "path": "pnpm-lock.yaml",
+    "sha": "c163cdedda4d2b105bf647ed90a8d90446c35429",
+    "size": 362246,
+    "url": "https://api.github.com/repos/solidjs/solid-docs/contents/pnpm-lock.yaml?ref=main",
+    "html_url": "https://github.com/solidjs/solid-docs/blob/main/pnpm-lock.yaml",
+    "git_url": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/c163cdedda4d2b105bf647ed90a8d90446c35429",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-docs/main/pnpm-lock.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-docs/contents/pnpm-lock.yaml?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/c163cdedda4d2b105bf647ed90a8d90446c35429",
+      "html": "https://github.com/solidjs/solid-docs/blob/main/pnpm-lock.yaml"
+    }
+  },
+  {
+    "name": "pnpm-workspace.yaml",
+    "path": "pnpm-workspace.yaml",
+    "sha": "38971698f4640a10e615510825d4aabdce617c2a",
+    "size": 117,
+    "url": "https://api.github.com/repos/solidjs/solid-docs/contents/pnpm-workspace.yaml?ref=main",
+    "html_url": "https://github.com/solidjs/solid-docs/blob/main/pnpm-workspace.yaml",
+    "git_url": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/38971698f4640a10e615510825d4aabdce617c2a",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-docs/main/pnpm-workspace.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-docs/contents/pnpm-workspace.yaml?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/38971698f4640a10e615510825d4aabdce617c2a",
+      "html": "https://github.com/solidjs/solid-docs/blob/main/pnpm-workspace.yaml"
+    }
+  },
+  {
+    "name": "postcss.config.js",
+    "path": "postcss.config.js",
+    "sha": "c841f15a50946a53f03303c64854ba0433c59a56",
+    "size": 104,
+    "url": "https://api.github.com/repos/solidjs/solid-docs/contents/postcss.config.js?ref=main",
+    "html_url": "https://github.com/solidjs/solid-docs/blob/main/postcss.config.js",
+    "git_url": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/c841f15a50946a53f03303c64854ba0433c59a56",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-docs/main/postcss.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-docs/contents/postcss.config.js?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/c841f15a50946a53f03303c64854ba0433c59a56",
+      "html": "https://github.com/solidjs/solid-docs/blob/main/postcss.config.js"
+    }
+  },
+  {
+    "name": "public",
+    "path": "public",
+    "sha": "0f459a42b0780116fefa9b8d3b118d980c555048",
+    "size": 0,
+    "url": "https://api.github.com/repos/solidjs/solid-docs/contents/public?ref=main",
+    "html_url": "https://github.com/solidjs/solid-docs/tree/main/public",
+    "git_url": "https://api.github.com/repos/solidjs/solid-docs/git/trees/0f459a42b0780116fefa9b8d3b118d980c555048",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-docs/contents/public?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-docs/git/trees/0f459a42b0780116fefa9b8d3b118d980c555048",
+      "html": "https://github.com/solidjs/solid-docs/tree/main/public"
+    }
+  },
+  {
+    "name": "scripts",
+    "path": "scripts",
+    "sha": "0fc695364fb2b9d997a3170a3a821175cd2a0ade",
+    "size": 0,
+    "url": "https://api.github.com/repos/solidjs/solid-docs/contents/scripts?ref=main",
+    "html_url": "https://github.com/solidjs/solid-docs/tree/main/scripts",
+    "git_url": "https://api.github.com/repos/solidjs/solid-docs/git/trees/0fc695364fb2b9d997a3170a3a821175cd2a0ade",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-docs/contents/scripts?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-docs/git/trees/0fc695364fb2b9d997a3170a3a821175cd2a0ade",
+      "html": "https://github.com/solidjs/solid-docs/tree/main/scripts"
+    }
+  },
+  {
+    "name": "src",
+    "path": "src",
+    "sha": "1aa969177f49ee76600ece17e2c6e53c255e1001",
+    "size": 0,
+    "url": "https://api.github.com/repos/solidjs/solid-docs/contents/src?ref=main",
+    "html_url": "https://github.com/solidjs/solid-docs/tree/main/src",
+    "git_url": "https://api.github.com/repos/solidjs/solid-docs/git/trees/1aa969177f49ee76600ece17e2c6e53c255e1001",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-docs/contents/src?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-docs/git/trees/1aa969177f49ee76600ece17e2c6e53c255e1001",
+      "html": "https://github.com/solidjs/solid-docs/tree/main/src"
+    }
+  },
+  {
+    "name": "tailwind.config.ts",
+    "path": "tailwind.config.ts",
+    "sha": "8a6248f4c2f69330a38fb5161d8d0c6da99947ba",
+    "size": 1203,
+    "url": "https://api.github.com/repos/solidjs/solid-docs/contents/tailwind.config.ts?ref=main",
+    "html_url": "https://github.com/solidjs/solid-docs/blob/main/tailwind.config.ts",
+    "git_url": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/8a6248f4c2f69330a38fb5161d8d0c6da99947ba",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-docs/main/tailwind.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-docs/contents/tailwind.config.ts?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/8a6248f4c2f69330a38fb5161d8d0c6da99947ba",
+      "html": "https://github.com/solidjs/solid-docs/blob/main/tailwind.config.ts"
+    }
+  },
+  {
+    "name": "tsconfig.json",
+    "path": "tsconfig.json",
+    "sha": "473f1525be7fc6a6c666d09c098ccaef03e14e0c",
+    "size": 385,
+    "url": "https://api.github.com/repos/solidjs/solid-docs/contents/tsconfig.json?ref=main",
+    "html_url": "https://github.com/solidjs/solid-docs/blob/main/tsconfig.json",
+    "git_url": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/473f1525be7fc6a6c666d09c098ccaef03e14e0c",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-docs/main/tsconfig.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-docs/contents/tsconfig.json?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-docs/git/blobs/473f1525be7fc6a6c666d09c098ccaef03e14e0c",
+      "html": "https://github.com/solidjs/solid-docs/blob/main/tsconfig.json"
+    }
+  }
+]

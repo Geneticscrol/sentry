@@ -1,0 +1,18 @@
+{
+  "name": "package.json",
+  "path": "package.json",
+  "sha": "8a6010a11fc9a28447f31632ab219af384717656",
+  "size": 1335,
+  "url": "https://api.github.com/repos/openfoodfacts/openfoodfacts-cordova-app/contents/package.json?ref=develop",
+  "html_url": "https://github.com/openfoodfacts/openfoodfacts-cordova-app/blob/develop/package.json",
+  "git_url": "https://api.github.com/repos/openfoodfacts/openfoodfacts-cordova-app/git/blobs/8a6010a11fc9a28447f31632ab219af384717656",
+  "download_url": "https://raw.githubusercontent.com/openfoodfacts/openfoodfacts-cordova-app/develop/package.json",
+  "type": "file",
+  "content": "ewogICJuYW1lIjogIm9wZW5mb29kZmFjdHMtY29yZG92YS1hcHAiLAogICJ2\nZXJzaW9uIjogIjEuMC4wIiwKICAiZGVzY3JpcHRpb24iOiAiQ29sbGFib3Jh\ndGl2ZSBkYXRhYmFzZSBvZiBmb29kIHByb2R1Y3RzIiwKICAibWFpbiI6ICJ3\nd3cvaW5kZXguaHRtbCIsCiAgInNjcmlwdHMiOiB7CiAgICAidGVzdCI6ICJl\nY2hvIFwiRXJyb3I6IG5vIHRlc3Qgc3BlY2lmaWVkXCIgJiYgZXhpdCAxIgog\nIH0sCiAgInJlcG9zaXRvcnkiOiB7CiAgICAidHlwZSI6ICJnaXQiLAogICAg\nInVybCI6ICJodHRwczovL2dpdGh1Yi5jb20vb3BlbmZvb2RmYWN0cy9vcGVu\nZm9vZGZhY3RzLWNvcmRvdmEtYXBwLmdpdCIKICB9LAogICJhdXRob3IiOiAi\nT3BlbiBGb29kIEZhY3RzIiwKICAibGljZW5zZSI6ICJBcGFjaGUiLAogICJi\ndWdzIjogewogICAgInVybCI6ICJodHRwczovL2dpdGh1Yi5jb20vb3BlbmZv\nb2RmYWN0cy9vcGVuZm9vZGZhY3RzLWNvcmRvdmEtYXBwL2lzc3VlcyIKICB9\nLAogICJob21lcGFnZSI6ICJodHRwczovL2dpdGh1Yi5jb20vb3BlbmZvb2Rm\nYWN0cy9vcGVuZm9vZGZhY3RzLWNvcmRvdmEtYXBwIiwKICAiZGVwZW5kZW5j\naWVzIjogewogICAgImNvcmRvdmEtYW5kcm9pZCI6ICJeMTQuMC4xIiwKICAg\nICJjb3Jkb3ZhLWJyb3dzZXIiOiAiXjcuMC4wIiwKICAgICJjb3Jkb3ZhLWlv\ncyI6ICJeNy4xLjEiLAogICAgImNvcmRvdmEtcGx1Z2luLWNhbWVyYSI6ICJe\nOC4wLjAiLAogICAgImNvcmRvdmEtcGx1Z2luLWZpbGUiOiAiXjguMS4zIiwK\nICAgICJjb3Jkb3ZhLXBsdWdpbi1zdGF0dXNiYXIiOiAiXjQuMC4wIiwKICAg\nICJjb3Jkb3ZhLXBsdWdpbi10dHMiOiAiXjAuMi4zIiwKICAgICJjb3Jkb3Zh\nLXBsdWdpbi13aGl0ZWxpc3QiOiAiXjEuMy41IiwKICAgICJwaG9uZWdhcC1w\nbHVnaW4tYmFyY29kZXNjYW5uZXIiOiAiXjguMS4wIgogIH0sCiAgImNvcmRv\ndmEiOiB7CiAgICAicGx1Z2lucyI6IHsKICAgICAgImNvcmRvdmEtcGx1Z2lu\nLXdoaXRlbGlzdCI6IHt9LAogICAgICAicGhvbmVnYXAtcGx1Z2luLWJhcmNv\nZGVzY2FubmVyIjogewogICAgICAgICJDQU1FUkFfVVNBR0VfREVTQ1JJUFRJ\nT04iOiAiU2Nhbm5pbmcgcHJvZHVjdHMgYW5kIHRha2luZyBwaG90b3MiCiAg\nICAgIH0sCiAgICAgICJjb3Jkb3ZhLXBsdWdpbi10dHMiOiB7fSwKICAgICAg\nImNvcmRvdmEtcGx1Z2luLWNhbWVyYSI6IHt9LAogICAgICAiY29yZG92YS1w\nbHVnaW4tZmlsZSI6IHt9LAogICAgICAiY29yZG92YS1wbHVnaW4tc3RhdHVz\nYmFyIjoge30KICAgIH0sCiAgICAicGxhdGZvcm1zIjogWwogICAgICAiYnJv\nd3NlciIsCiAgICAgICJpb3MiCiAgICBdCiAgfQp9\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/openfoodfacts/openfoodfacts-cordova-app/contents/package.json?ref=develop",
+    "git": "https://api.github.com/repos/openfoodfacts/openfoodfacts-cordova-app/git/blobs/8a6010a11fc9a28447f31632ab219af384717656",
+    "html": "https://github.com/openfoodfacts/openfoodfacts-cordova-app/blob/develop/package.json"
+  }
+}

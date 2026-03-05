@@ -1,0 +1,402 @@
+[
+  {
+    "name": ".gitattributes",
+    "path": ".gitattributes",
+    "sha": "1ff0c423042b46cb1d617b81efb715defbe8054d",
+    "size": 2518,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/.gitattributes?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/blob/master/.gitattributes",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/blobs/1ff0c423042b46cb1d617b81efb715defbe8054d",
+    "download_url": "https://raw.githubusercontent.com/behl1anmol/Todo.me/master/.gitattributes",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/.gitattributes?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/blobs/1ff0c423042b46cb1d617b81efb715defbe8054d",
+      "html": "https://github.com/behl1anmol/Todo.me/blob/master/.gitattributes"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "394ac4a1d702e1e6128b2627767ebbe3a278db2d",
+    "size": 6260,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/blobs/394ac4a1d702e1e6128b2627767ebbe3a278db2d",
+    "download_url": "https://raw.githubusercontent.com/behl1anmol/Todo.me/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/blobs/394ac4a1d702e1e6128b2627767ebbe3a278db2d",
+      "html": "https://github.com/behl1anmol/Todo.me/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": "App.xaml",
+    "path": "App.xaml",
+    "sha": "b7d33beae739dd434be93cfeff9b8334f57770de",
+    "size": 654,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/App.xaml?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/blob/master/App.xaml",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/blobs/b7d33beae739dd434be93cfeff9b8334f57770de",
+    "download_url": "https://raw.githubusercontent.com/behl1anmol/Todo.me/master/App.xaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/App.xaml?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/blobs/b7d33beae739dd434be93cfeff9b8334f57770de",
+      "html": "https://github.com/behl1anmol/Todo.me/blob/master/App.xaml"
+    }
+  },
+  {
+    "name": "App.xaml.cs",
+    "path": "App.xaml.cs",
+    "sha": "5f6b8896134c18c9ccb2340909970d1a0d924f38",
+    "size": 1326,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/App.xaml.cs?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/blob/master/App.xaml.cs",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/blobs/5f6b8896134c18c9ccb2340909970d1a0d924f38",
+    "download_url": "https://raw.githubusercontent.com/behl1anmol/Todo.me/master/App.xaml.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/App.xaml.cs?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/blobs/5f6b8896134c18c9ccb2340909970d1a0d924f38",
+      "html": "https://github.com/behl1anmol/Todo.me/blob/master/App.xaml.cs"
+    }
+  },
+  {
+    "name": "AppShell.xaml",
+    "path": "AppShell.xaml",
+    "sha": "615d1b47720f97f6759a1b0fe3f19954affad7b5",
+    "size": 1125,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/AppShell.xaml?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/blob/master/AppShell.xaml",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/blobs/615d1b47720f97f6759a1b0fe3f19954affad7b5",
+    "download_url": "https://raw.githubusercontent.com/behl1anmol/Todo.me/master/AppShell.xaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/AppShell.xaml?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/blobs/615d1b47720f97f6759a1b0fe3f19954affad7b5",
+      "html": "https://github.com/behl1anmol/Todo.me/blob/master/AppShell.xaml"
+    }
+  },
+  {
+    "name": "AppShell.xaml.cs",
+    "path": "AppShell.xaml.cs",
+    "sha": "8cacb6fbe1c5b0fca3bf8e688fe9fac099625b46",
+    "size": 115,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/AppShell.xaml.cs?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/blob/master/AppShell.xaml.cs",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/blobs/8cacb6fbe1c5b0fca3bf8e688fe9fac099625b46",
+    "download_url": "https://raw.githubusercontent.com/behl1anmol/Todo.me/master/AppShell.xaml.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/AppShell.xaml.cs?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/blobs/8cacb6fbe1c5b0fca3bf8e688fe9fac099625b46",
+      "html": "https://github.com/behl1anmol/Todo.me/blob/master/AppShell.xaml.cs"
+    }
+  },
+  {
+    "name": "Behaviour",
+    "path": "Behaviour",
+    "sha": "9b7fcce70e0c0468ddc1b4903e0c109b5b333a50",
+    "size": 0,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Behaviour?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/tree/master/Behaviour",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/9b7fcce70e0c0468ddc1b4903e0c109b5b333a50",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Behaviour?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/9b7fcce70e0c0468ddc1b4903e0c109b5b333a50",
+      "html": "https://github.com/behl1anmol/Todo.me/tree/master/Behaviour"
+    }
+  },
+  {
+    "name": "Context",
+    "path": "Context",
+    "sha": "97fb75a9b5268a24330b0687c1377c3cab49f8ba",
+    "size": 0,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Context?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/tree/master/Context",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/97fb75a9b5268a24330b0687c1377c3cab49f8ba",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Context?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/97fb75a9b5268a24330b0687c1377c3cab49f8ba",
+      "html": "https://github.com/behl1anmol/Todo.me/tree/master/Context"
+    }
+  },
+  {
+    "name": "Contracts",
+    "path": "Contracts",
+    "sha": "261b5766f873fb97ba37258ce447eaf629a4705e",
+    "size": 0,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Contracts?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/tree/master/Contracts",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/261b5766f873fb97ba37258ce447eaf629a4705e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Contracts?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/261b5766f873fb97ba37258ce447eaf629a4705e",
+      "html": "https://github.com/behl1anmol/Todo.me/tree/master/Contracts"
+    }
+  },
+  {
+    "name": "Extensions",
+    "path": "Extensions",
+    "sha": "751c4996bd1d76bc03a7e6fbc177d5270ac3d746",
+    "size": 0,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Extensions?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/tree/master/Extensions",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/751c4996bd1d76bc03a7e6fbc177d5270ac3d746",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Extensions?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/751c4996bd1d76bc03a7e6fbc177d5270ac3d746",
+      "html": "https://github.com/behl1anmol/Todo.me/tree/master/Extensions"
+    }
+  },
+  {
+    "name": "GlobalUsing.cs",
+    "path": "GlobalUsing.cs",
+    "sha": "d1e255d8272d26e4e4cbc4f4a0625418600f6e56",
+    "size": 543,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/GlobalUsing.cs?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/blob/master/GlobalUsing.cs",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/blobs/d1e255d8272d26e4e4cbc4f4a0625418600f6e56",
+    "download_url": "https://raw.githubusercontent.com/behl1anmol/Todo.me/master/GlobalUsing.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/GlobalUsing.cs?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/blobs/d1e255d8272d26e4e4cbc4f4a0625418600f6e56",
+      "html": "https://github.com/behl1anmol/Todo.me/blob/master/GlobalUsing.cs"
+    }
+  },
+  {
+    "name": "MauiProgram.cs",
+    "path": "MauiProgram.cs",
+    "sha": "3007302c7fc8fc6d1bbdad98821e52ae71fe2ca3",
+    "size": 1639,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/MauiProgram.cs?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/blob/master/MauiProgram.cs",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/blobs/3007302c7fc8fc6d1bbdad98821e52ae71fe2ca3",
+    "download_url": "https://raw.githubusercontent.com/behl1anmol/Todo.me/master/MauiProgram.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/MauiProgram.cs?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/blobs/3007302c7fc8fc6d1bbdad98821e52ae71fe2ca3",
+      "html": "https://github.com/behl1anmol/Todo.me/blob/master/MauiProgram.cs"
+    }
+  },
+  {
+    "name": "Model",
+    "path": "Model",
+    "sha": "d5c0eb7d4eacd260018e876beec00401aebefcbc",
+    "size": 0,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Model?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/tree/master/Model",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/d5c0eb7d4eacd260018e876beec00401aebefcbc",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Model?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/d5c0eb7d4eacd260018e876beec00401aebefcbc",
+      "html": "https://github.com/behl1anmol/Todo.me/tree/master/Model"
+    }
+  },
+  {
+    "name": "Platforms",
+    "path": "Platforms",
+    "sha": "6a1ebf8c466384b5f3468afdd09f32ed1be1a3d9",
+    "size": 0,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Platforms?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/tree/master/Platforms",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/6a1ebf8c466384b5f3468afdd09f32ed1be1a3d9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Platforms?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/6a1ebf8c466384b5f3468afdd09f32ed1be1a3d9",
+      "html": "https://github.com/behl1anmol/Todo.me/tree/master/Platforms"
+    }
+  },
+  {
+    "name": "Properties",
+    "path": "Properties",
+    "sha": "c82b375058ad1bc283d6698e35937590e37c85ed",
+    "size": 0,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Properties?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/tree/master/Properties",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/c82b375058ad1bc283d6698e35937590e37c85ed",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Properties?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/c82b375058ad1bc283d6698e35937590e37c85ed",
+      "html": "https://github.com/behl1anmol/Todo.me/tree/master/Properties"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "c4064e99087a16929021cc1b427d8396410d3027",
+    "size": 1058,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/README.md?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/blobs/c4064e99087a16929021cc1b427d8396410d3027",
+    "download_url": "https://raw.githubusercontent.com/behl1anmol/Todo.me/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/blobs/c4064e99087a16929021cc1b427d8396410d3027",
+      "html": "https://github.com/behl1anmol/Todo.me/blob/master/README.md"
+    }
+  },
+  {
+    "name": "Repository",
+    "path": "Repository",
+    "sha": "b9e68be45722ddd50c0488d43e83241280e08b47",
+    "size": 0,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Repository?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/tree/master/Repository",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/b9e68be45722ddd50c0488d43e83241280e08b47",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Repository?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/b9e68be45722ddd50c0488d43e83241280e08b47",
+      "html": "https://github.com/behl1anmol/Todo.me/tree/master/Repository"
+    }
+  },
+  {
+    "name": "Resources",
+    "path": "Resources",
+    "sha": "4eada778703591d9a6e3ed3497a3cd2cf362444f",
+    "size": 0,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Resources?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/tree/master/Resources",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/4eada778703591d9a6e3ed3497a3cd2cf362444f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Resources?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/4eada778703591d9a6e3ed3497a3cd2cf362444f",
+      "html": "https://github.com/behl1anmol/Todo.me/tree/master/Resources"
+    }
+  },
+  {
+    "name": "Screenshots",
+    "path": "Screenshots",
+    "sha": "3aae0f0f1e20866826c9ce232d0933a1b99c0024",
+    "size": 0,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Screenshots?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/tree/master/Screenshots",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/3aae0f0f1e20866826c9ce232d0933a1b99c0024",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Screenshots?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/3aae0f0f1e20866826c9ce232d0933a1b99c0024",
+      "html": "https://github.com/behl1anmol/Todo.me/tree/master/Screenshots"
+    }
+  },
+  {
+    "name": "Services",
+    "path": "Services",
+    "sha": "a3a10f213eca917bb6b5b88b90e82493785d7c4f",
+    "size": 0,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Services?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/tree/master/Services",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/a3a10f213eca917bb6b5b88b90e82493785d7c4f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Services?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/a3a10f213eca917bb6b5b88b90e82493785d7c4f",
+      "html": "https://github.com/behl1anmol/Todo.me/tree/master/Services"
+    }
+  },
+  {
+    "name": "Todo.me.csproj",
+    "path": "Todo.me.csproj",
+    "sha": "b5071d3dff56bd11119c09f7567dc0b94ac5f1aa",
+    "size": 5677,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Todo.me.csproj?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/blob/master/Todo.me.csproj",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/blobs/b5071d3dff56bd11119c09f7567dc0b94ac5f1aa",
+    "download_url": "https://raw.githubusercontent.com/behl1anmol/Todo.me/master/Todo.me.csproj",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Todo.me.csproj?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/blobs/b5071d3dff56bd11119c09f7567dc0b94ac5f1aa",
+      "html": "https://github.com/behl1anmol/Todo.me/blob/master/Todo.me.csproj"
+    }
+  },
+  {
+    "name": "Todo.me.sln",
+    "path": "Todo.me.sln",
+    "sha": "c1e951dbe936886c07f699bba7865180890cd312",
+    "size": 1258,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Todo.me.sln?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/blob/master/Todo.me.sln",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/blobs/c1e951dbe936886c07f699bba7865180890cd312",
+    "download_url": "https://raw.githubusercontent.com/behl1anmol/Todo.me/master/Todo.me.sln",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/Todo.me.sln?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/blobs/c1e951dbe936886c07f699bba7865180890cd312",
+      "html": "https://github.com/behl1anmol/Todo.me/blob/master/Todo.me.sln"
+    }
+  },
+  {
+    "name": "View",
+    "path": "View",
+    "sha": "e01e21b20f5be498992137bc92f1966c4fd1798f",
+    "size": 0,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/View?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/tree/master/View",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/e01e21b20f5be498992137bc92f1966c4fd1798f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/View?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/e01e21b20f5be498992137bc92f1966c4fd1798f",
+      "html": "https://github.com/behl1anmol/Todo.me/tree/master/View"
+    }
+  },
+  {
+    "name": "ViewModel",
+    "path": "ViewModel",
+    "sha": "643397942b9b8869d86c920903ed07552d50edfb",
+    "size": 0,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/ViewModel?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/tree/master/ViewModel",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/643397942b9b8869d86c920903ed07552d50edfb",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/ViewModel?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/trees/643397942b9b8869d86c920903ed07552d50edfb",
+      "html": "https://github.com/behl1anmol/Todo.me/tree/master/ViewModel"
+    }
+  },
+  {
+    "name": "azure-pipelines.yml",
+    "path": "azure-pipelines.yml",
+    "sha": "b5207d0f27a8f76a19fa0362be493746dc9c4bb1",
+    "size": 2993,
+    "url": "https://api.github.com/repos/behl1anmol/Todo.me/contents/azure-pipelines.yml?ref=master",
+    "html_url": "https://github.com/behl1anmol/Todo.me/blob/master/azure-pipelines.yml",
+    "git_url": "https://api.github.com/repos/behl1anmol/Todo.me/git/blobs/b5207d0f27a8f76a19fa0362be493746dc9c4bb1",
+    "download_url": "https://raw.githubusercontent.com/behl1anmol/Todo.me/master/azure-pipelines.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/behl1anmol/Todo.me/contents/azure-pipelines.yml?ref=master",
+      "git": "https://api.github.com/repos/behl1anmol/Todo.me/git/blobs/b5207d0f27a8f76a19fa0362be493746dc9c4bb1",
+      "html": "https://github.com/behl1anmol/Todo.me/blob/master/azure-pipelines.yml"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "pubspec.yaml",
+  "path": "pubspec.yaml",
+  "sha": "74ac78883c18621add230df2e34d3b39d2a21e0a",
+  "size": 1124,
+  "url": "https://api.github.com/repos/sass/dart-sass/contents/pubspec.yaml?ref=main",
+  "html_url": "https://github.com/sass/dart-sass/blob/main/pubspec.yaml",
+  "git_url": "https://api.github.com/repos/sass/dart-sass/git/blobs/74ac78883c18621add230df2e34d3b39d2a21e0a",
+  "download_url": "https://raw.githubusercontent.com/sass/dart-sass/main/pubspec.yaml",
+  "type": "file",
+  "content": "bmFtZTogc2Fzcwp2ZXJzaW9uOiAxLjk4LjAtZGV2CmRlc2NyaXB0aW9uOiBB\nIFNhc3MgaW1wbGVtZW50YXRpb24gaW4gRGFydC4KaG9tZXBhZ2U6IGh0dHBz\nOi8vZ2l0aHViLmNvbS9zYXNzL2RhcnQtc2FzcwoKZXhlY3V0YWJsZXM6CiAg\nZGFydC1zYXNzOiBzYXNzCiAgc2Fzczogc2FzcwoKZW52aXJvbm1lbnQ6CiAg\nc2RrOiAiPj0zLjYuMCA8NC4wLjAiCgpkZXBlbmRlbmNpZXM6CiAgYXJnczog\nXjIuMC4wCiAgYXN5bmM6IF4yLjUuMAogIGNoYXJjb2RlOiBeMS4yLjAKICBj\nbGlfcGtnOiBeMi4xMS4wCiAgY2xpX3JlcGw6IF4wLjIuMQogIGNvbGxlY3Rp\nb246IF4xLjE2LjAKICBodHRwOiBeMS4xLjAKICBqczogXjAuNi4zCiAgbWV0\nYTogXjEuMy4wCiAgbmF0aXZlX3N5bmNocm9uaXphdGlvbjogXjAuMy4wCiAg\nbm9kZV9pbnRlcm9wOiBeMi4yLjAKICBwYWNrYWdlX2NvbmZpZzogXjIuMC4w\nCiAgcGF0aDogXjEuOC4wCiAgcG9vbDogXjEuNS4xCiAgcHJvdG9idWY6ICI+\nPTQuMC4wIDw3LjAuMCIKICBwdWJfc2VtdmVyOiBeMi4wLjAKICBzb3VyY2Vf\nbWFwczogXjAuMTAuMTAKICBzb3VyY2Vfc3BhbjogXjEuMTAuMAogIHN0YWNr\nX3RyYWNlOiBeMS4xMC4wCiAgc3RyZWFtX2NoYW5uZWw6IF4yLjEuMAogIHN0\ncmVhbV90cmFuc2Zvcm06IF4yLjAuMAogIHN0cmluZ19zY2FubmVyOiBeMS4z\nLjAKICB0ZXJtX2dseXBoOiBeMS4yLjAKICB0eXBlZF9kYXRhOiBeMS4xLjAK\nICB3YXRjaGVyOiBeMS4wLjAKCmRldl9kZXBlbmRlbmNpZXM6CiAgYW5hbHl6\nZXI6ICI+PTYuOC4wIDwxMS4wLjAiCiAgYXJjaGl2ZTogIj49My4xLjIgPDUu\nMC4wIgogIGNyeXB0bzogXjMuMC4wCiAgZGFydGRvYzogIj49OC4wLjE0IDwx\nMC4wLjAiCiAgZ3JpbmRlcjogXjAuOS4wCiAgbm9kZV9wcmVhbWJsZTogXjIu\nMC4yCiAgbGludHM6ICI+PTQuMC4wIDw3LjAuMCIKICBwcm90b2NfcGx1Z2lu\nOiAiPj0yMi4wLjEgPDI2LjAuMCIKICBwdWJfYXBpX2NsaWVudDogIj49Mi4x\nLjEgPDQuMC4wIgogIHB1YnNwZWNfcGFyc2U6IF4xLjMuMAogIHRlc3Q6IF4x\nLjE2LjcKICB0ZXN0X2Rlc2NyaXB0b3I6IF4yLjAuMAogIHRlc3RfcHJvY2Vz\nczogXjIuMC4wCiAgeWFtbDogXjMuMS4wCiAgY2xpX3V0aWw6IF4wLjQuMAo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/sass/dart-sass/contents/pubspec.yaml?ref=main",
+    "git": "https://api.github.com/repos/sass/dart-sass/git/blobs/74ac78883c18621add230df2e34d3b39d2a21e0a",
+    "html": "https://github.com/sass/dart-sass/blob/main/pubspec.yaml"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "AWSLambdaCSharp.csproj",
+  "path": "AWSLambdaCSharp.csproj",
+  "sha": "610d49736c57f0376a5610294035b0d46d8c035c",
+  "size": 635,
+  "url": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/contents/AWSLambdaCSharp.csproj?ref=master",
+  "html_url": "https://github.com/mcasperson/AWSLambdaCSharp/blob/master/AWSLambdaCSharp.csproj",
+  "git_url": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/git/blobs/610d49736c57f0376a5610294035b0d46d8c035c",
+  "download_url": "https://raw.githubusercontent.com/mcasperson/AWSLambdaCSharp/master/AWSLambdaCSharp.csproj",
+  "type": "file",
+  "content": "77u/PFByb2plY3QgU2RrPSJNaWNyb3NvZnQuTkVULlNkayI+DQoNCiAgPFBy\nb3BlcnR5R3JvdXA+DQogICAgPFRhcmdldEZyYW1ld29yaz5uZXRjb3JlYXBw\nMi4wPC9UYXJnZXRGcmFtZXdvcms+DQogICAgPEFzc2VtYmx5TmFtZT5DbG91\nZEd1aWRlczwvQXNzZW1ibHlOYW1lPg0KICAgIDxSb290TmFtZXNwYWNlPkNs\nb3VkR3VpZGVzPC9Sb290TmFtZXNwYWNlPg0KICA8L1Byb3BlcnR5R3JvdXA+\nDQogIA0KICA8UHJvcGVydHlHcm91cD4NCiAgICA8R2VuZXJhdGVSdW50aW1l\nQ29uZmlndXJhdGlvbkZpbGVzPnRydWU8L0dlbmVyYXRlUnVudGltZUNvbmZp\nZ3VyYXRpb25GaWxlcz4NCiAgPC9Qcm9wZXJ0eUdyb3VwPg0KDQogIDxJdGVt\nR3JvdXA+DQogICAgPFBhY2thZ2VSZWZlcmVuY2UgSW5jbHVkZT0iQW1hem9u\nLkxhbWJkYS5BUElHYXRld2F5RXZlbnRzIiBWZXJzaW9uPSIxLjMuMCIgLz4N\nCiAgICA8UGFja2FnZVJlZmVyZW5jZSBJbmNsdWRlPSJBbWF6b24uTGFtYmRh\nLlNlcmlhbGl6YXRpb24uSnNvbiIgVmVyc2lvbj0iMS43LjAiIC8+DQogICAg\nPFBhY2thZ2VSZWZlcmVuY2UgSW5jbHVkZT0iTmV3dG9uc29mdC5Kc29uIiBW\nZXJzaW9uPSIxMi4wLjMiIC8+DQogIDwvSXRlbUdyb3VwPg0KDQo8L1Byb2pl\nY3Q+DQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/contents/AWSLambdaCSharp.csproj?ref=master",
+    "git": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/git/blobs/610d49736c57f0376a5610294035b0d46d8c035c",
+    "html": "https://github.com/mcasperson/AWSLambdaCSharp/blob/master/AWSLambdaCSharp.csproj"
+  }
+}

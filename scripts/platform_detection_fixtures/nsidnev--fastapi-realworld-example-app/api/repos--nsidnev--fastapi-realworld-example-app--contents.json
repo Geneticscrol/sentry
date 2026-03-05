@@ -1,0 +1,258 @@
+[
+  {
+    "name": ".dockerignore",
+    "path": ".dockerignore",
+    "sha": "71a0fe62515e912f74dc167571653f272648c02a",
+    "size": 205,
+    "url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/.dockerignore?ref=master",
+    "html_url": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/.dockerignore",
+    "git_url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/71a0fe62515e912f74dc167571653f272648c02a",
+    "download_url": "https://raw.githubusercontent.com/nsidnev/fastapi-realworld-example-app/master/.dockerignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/.dockerignore?ref=master",
+      "git": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/71a0fe62515e912f74dc167571653f272648c02a",
+      "html": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/.dockerignore"
+    }
+  },
+  {
+    "name": ".env.example",
+    "path": ".env.example",
+    "sha": "34e9932b1e80bef283ea8026432e21b0de5ddeee",
+    "size": 92,
+    "url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/.env.example?ref=master",
+    "html_url": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/.env.example",
+    "git_url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/34e9932b1e80bef283ea8026432e21b0de5ddeee",
+    "download_url": "https://raw.githubusercontent.com/nsidnev/fastapi-realworld-example-app/master/.env.example",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/.env.example?ref=master",
+      "git": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/34e9932b1e80bef283ea8026432e21b0de5ddeee",
+      "html": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/.env.example"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "b567575a0dc79cbe71d750e7abae28a9bf358ea4",
+    "size": 0,
+    "url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/.github?ref=master",
+    "html_url": "https://github.com/nsidnev/fastapi-realworld-example-app/tree/master/.github",
+    "git_url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/trees/b567575a0dc79cbe71d750e7abae28a9bf358ea4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/.github?ref=master",
+      "git": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/trees/b567575a0dc79cbe71d750e7abae28a9bf358ea4",
+      "html": "https://github.com/nsidnev/fastapi-realworld-example-app/tree/master/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "ab61e76f2b23941190b6c8da82acb7b33c9656b5",
+    "size": 1245,
+    "url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/ab61e76f2b23941190b6c8da82acb7b33c9656b5",
+    "download_url": "https://raw.githubusercontent.com/nsidnev/fastapi-realworld-example-app/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/ab61e76f2b23941190b6c8da82acb7b33c9656b5",
+      "html": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": "Dockerfile",
+    "path": "Dockerfile",
+    "sha": "2caa8404ebf55b2756377ce3d50c6fb8a7dfa533",
+    "size": 461,
+    "url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/Dockerfile?ref=master",
+    "html_url": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/Dockerfile",
+    "git_url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/2caa8404ebf55b2756377ce3d50c6fb8a7dfa533",
+    "download_url": "https://raw.githubusercontent.com/nsidnev/fastapi-realworld-example-app/master/Dockerfile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/Dockerfile?ref=master",
+      "git": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/2caa8404ebf55b2756377ce3d50c6fb8a7dfa533",
+      "html": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/Dockerfile"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "c33674bb4c345484ac71c98193ecf7a1d9440289",
+    "size": 1066,
+    "url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/LICENSE?ref=master",
+    "html_url": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/LICENSE",
+    "git_url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/c33674bb4c345484ac71c98193ecf7a1d9440289",
+    "download_url": "https://raw.githubusercontent.com/nsidnev/fastapi-realworld-example-app/master/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/LICENSE?ref=master",
+      "git": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/c33674bb4c345484ac71c98193ecf7a1d9440289",
+      "html": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "README.rst",
+    "path": "README.rst",
+    "sha": "b84e137cb98e69c0dfaede2a4b357f75b4e1b109",
+    "size": 7665,
+    "url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/README.rst?ref=master",
+    "html_url": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/README.rst",
+    "git_url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/b84e137cb98e69c0dfaede2a4b357f75b4e1b109",
+    "download_url": "https://raw.githubusercontent.com/nsidnev/fastapi-realworld-example-app/master/README.rst",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/README.rst?ref=master",
+      "git": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/b84e137cb98e69c0dfaede2a4b357f75b4e1b109",
+      "html": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/README.rst"
+    }
+  },
+  {
+    "name": "alembic.ini",
+    "path": "alembic.ini",
+    "sha": "2c43e60bcc227110aa5aadd2905942d93c39cd70",
+    "size": 526,
+    "url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/alembic.ini?ref=master",
+    "html_url": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/alembic.ini",
+    "git_url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/2c43e60bcc227110aa5aadd2905942d93c39cd70",
+    "download_url": "https://raw.githubusercontent.com/nsidnev/fastapi-realworld-example-app/master/alembic.ini",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/alembic.ini?ref=master",
+      "git": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/2c43e60bcc227110aa5aadd2905942d93c39cd70",
+      "html": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/alembic.ini"
+    }
+  },
+  {
+    "name": "app",
+    "path": "app",
+    "sha": "b8830ed85ad56932b7d5635894d85c943451c308",
+    "size": 0,
+    "url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/app?ref=master",
+    "html_url": "https://github.com/nsidnev/fastapi-realworld-example-app/tree/master/app",
+    "git_url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/trees/b8830ed85ad56932b7d5635894d85c943451c308",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/app?ref=master",
+      "git": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/trees/b8830ed85ad56932b7d5635894d85c943451c308",
+      "html": "https://github.com/nsidnev/fastapi-realworld-example-app/tree/master/app"
+    }
+  },
+  {
+    "name": "docker-compose.yml",
+    "path": "docker-compose.yml",
+    "sha": "cb35ad1d57e7d611022b98eee7dfe9681eb4ea40",
+    "size": 400,
+    "url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/docker-compose.yml?ref=master",
+    "html_url": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/docker-compose.yml",
+    "git_url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/cb35ad1d57e7d611022b98eee7dfe9681eb4ea40",
+    "download_url": "https://raw.githubusercontent.com/nsidnev/fastapi-realworld-example-app/master/docker-compose.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/docker-compose.yml?ref=master",
+      "git": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/cb35ad1d57e7d611022b98eee7dfe9681eb4ea40",
+      "html": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/docker-compose.yml"
+    }
+  },
+  {
+    "name": "poetry.lock",
+    "path": "poetry.lock",
+    "sha": "97240428884c4b0d18f2343716ca3093aedcc0c1",
+    "size": 127345,
+    "url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/poetry.lock?ref=master",
+    "html_url": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/poetry.lock",
+    "git_url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/97240428884c4b0d18f2343716ca3093aedcc0c1",
+    "download_url": "https://raw.githubusercontent.com/nsidnev/fastapi-realworld-example-app/master/poetry.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/poetry.lock?ref=master",
+      "git": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/97240428884c4b0d18f2343716ca3093aedcc0c1",
+      "html": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/poetry.lock"
+    }
+  },
+  {
+    "name": "postman",
+    "path": "postman",
+    "sha": "dadc1523f865577083e3dabf11e2eaead365e37c",
+    "size": 0,
+    "url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/postman?ref=master",
+    "html_url": "https://github.com/nsidnev/fastapi-realworld-example-app/tree/master/postman",
+    "git_url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/trees/dadc1523f865577083e3dabf11e2eaead365e37c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/postman?ref=master",
+      "git": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/trees/dadc1523f865577083e3dabf11e2eaead365e37c",
+      "html": "https://github.com/nsidnev/fastapi-realworld-example-app/tree/master/postman"
+    }
+  },
+  {
+    "name": "pyproject.toml",
+    "path": "pyproject.toml",
+    "sha": "74e5183cfe40fddebf5ca60998c2418d0162f9cc",
+    "size": 1526,
+    "url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/pyproject.toml?ref=master",
+    "html_url": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/pyproject.toml",
+    "git_url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/74e5183cfe40fddebf5ca60998c2418d0162f9cc",
+    "download_url": "https://raw.githubusercontent.com/nsidnev/fastapi-realworld-example-app/master/pyproject.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/pyproject.toml?ref=master",
+      "git": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/74e5183cfe40fddebf5ca60998c2418d0162f9cc",
+      "html": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/pyproject.toml"
+    }
+  },
+  {
+    "name": "scripts",
+    "path": "scripts",
+    "sha": "3a4520d2b9c1ace62e51625c0e3df4d1d31e3792",
+    "size": 0,
+    "url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/scripts?ref=master",
+    "html_url": "https://github.com/nsidnev/fastapi-realworld-example-app/tree/master/scripts",
+    "git_url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/trees/3a4520d2b9c1ace62e51625c0e3df4d1d31e3792",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/scripts?ref=master",
+      "git": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/trees/3a4520d2b9c1ace62e51625c0e3df4d1d31e3792",
+      "html": "https://github.com/nsidnev/fastapi-realworld-example-app/tree/master/scripts"
+    }
+  },
+  {
+    "name": "setup.cfg",
+    "path": "setup.cfg",
+    "sha": "c880ac565277a7539bf66ff111a8cdfe704fa6ee",
+    "size": 1994,
+    "url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/setup.cfg?ref=master",
+    "html_url": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/setup.cfg",
+    "git_url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/c880ac565277a7539bf66ff111a8cdfe704fa6ee",
+    "download_url": "https://raw.githubusercontent.com/nsidnev/fastapi-realworld-example-app/master/setup.cfg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/setup.cfg?ref=master",
+      "git": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/blobs/c880ac565277a7539bf66ff111a8cdfe704fa6ee",
+      "html": "https://github.com/nsidnev/fastapi-realworld-example-app/blob/master/setup.cfg"
+    }
+  },
+  {
+    "name": "tests",
+    "path": "tests",
+    "sha": "1e9633ab354a9492ff5df89ef003b9dc1d7817ae",
+    "size": 0,
+    "url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/tests?ref=master",
+    "html_url": "https://github.com/nsidnev/fastapi-realworld-example-app/tree/master/tests",
+    "git_url": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/trees/1e9633ab354a9492ff5df89ef003b9dc1d7817ae",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/contents/tests?ref=master",
+      "git": "https://api.github.com/repos/nsidnev/fastapi-realworld-example-app/git/trees/1e9633ab354a9492ff5df89ef003b9dc1d7817ae",
+      "html": "https://github.com/nsidnev/fastapi-realworld-example-app/tree/master/tests"
+    }
+  }
+]

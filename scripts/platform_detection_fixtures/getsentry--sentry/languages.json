@@ -1,0 +1,16 @@
+{
+  "Python": 55692420,
+  "TypeScript": 41931747,
+  "MDX": 366651,
+  "HTML": 302839,
+  "Less": 171450,
+  "JavaScript": 120871,
+  "Lua": 84488,
+  "PEG.js": 21557,
+  "Shell": 18541,
+  "EJS": 14816,
+  "Go Template": 14187,
+  "Makefile": 7864,
+  "Dockerfile": 3717,
+  "Ruby": 763
+}

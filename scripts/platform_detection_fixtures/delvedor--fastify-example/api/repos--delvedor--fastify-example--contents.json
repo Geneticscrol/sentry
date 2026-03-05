@@ -1,0 +1,274 @@
+[
+  {
+    "name": ".env.template",
+    "path": ".env.template",
+    "sha": "6c8e231927ad047072ae72f24af71ea581e01f55",
+    "size": 126,
+    "url": "https://api.github.com/repos/delvedor/fastify-example/contents/.env.template?ref=main",
+    "html_url": "https://github.com/delvedor/fastify-example/blob/main/.env.template",
+    "git_url": "https://api.github.com/repos/delvedor/fastify-example/git/blobs/6c8e231927ad047072ae72f24af71ea581e01f55",
+    "download_url": "https://raw.githubusercontent.com/delvedor/fastify-example/main/.env.template",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/delvedor/fastify-example/contents/.env.template?ref=main",
+      "git": "https://api.github.com/repos/delvedor/fastify-example/git/blobs/6c8e231927ad047072ae72f24af71ea581e01f55",
+      "html": "https://github.com/delvedor/fastify-example/blob/main/.env.template"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "6437b51c4df5a89e1da7235caa7bf0c57b68c15d",
+    "size": 0,
+    "url": "https://api.github.com/repos/delvedor/fastify-example/contents/.github?ref=main",
+    "html_url": "https://github.com/delvedor/fastify-example/tree/main/.github",
+    "git_url": "https://api.github.com/repos/delvedor/fastify-example/git/trees/6437b51c4df5a89e1da7235caa7bf0c57b68c15d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/delvedor/fastify-example/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/delvedor/fastify-example/git/trees/6437b51c4df5a89e1da7235caa7bf0c57b68c15d",
+      "html": "https://github.com/delvedor/fastify-example/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "ffb318cdc3109b7a1044090fe37717875314d9e1",
+    "size": 1668,
+    "url": "https://api.github.com/repos/delvedor/fastify-example/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/delvedor/fastify-example/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/delvedor/fastify-example/git/blobs/ffb318cdc3109b7a1044090fe37717875314d9e1",
+    "download_url": "https://raw.githubusercontent.com/delvedor/fastify-example/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/delvedor/fastify-example/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/delvedor/fastify-example/git/blobs/ffb318cdc3109b7a1044090fe37717875314d9e1",
+      "html": "https://github.com/delvedor/fastify-example/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "0fc19877c9d0e39bd3c0c90dec604870e4e82fca",
+    "size": 11348,
+    "url": "https://api.github.com/repos/delvedor/fastify-example/contents/LICENSE?ref=main",
+    "html_url": "https://github.com/delvedor/fastify-example/blob/main/LICENSE",
+    "git_url": "https://api.github.com/repos/delvedor/fastify-example/git/blobs/0fc19877c9d0e39bd3c0c90dec604870e4e82fca",
+    "download_url": "https://raw.githubusercontent.com/delvedor/fastify-example/main/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/delvedor/fastify-example/contents/LICENSE?ref=main",
+      "git": "https://api.github.com/repos/delvedor/fastify-example/git/blobs/0fc19877c9d0e39bd3c0c90dec604870e4e82fca",
+      "html": "https://github.com/delvedor/fastify-example/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "6642b8af94b3ad02ec0e0a70fee9394d0fb28930",
+    "size": 6942,
+    "url": "https://api.github.com/repos/delvedor/fastify-example/contents/README.md?ref=main",
+    "html_url": "https://github.com/delvedor/fastify-example/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/delvedor/fastify-example/git/blobs/6642b8af94b3ad02ec0e0a70fee9394d0fb28930",
+    "download_url": "https://raw.githubusercontent.com/delvedor/fastify-example/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/delvedor/fastify-example/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/delvedor/fastify-example/git/blobs/6642b8af94b3ad02ec0e0a70fee9394d0fb28930",
+      "html": "https://github.com/delvedor/fastify-example/blob/main/README.md"
+    }
+  },
+  {
+    "name": "app.js",
+    "path": "app.js",
+    "sha": "03b07e3be5d0c29bb5a36ad249e5ec9203457cec",
+    "size": 3105,
+    "url": "https://api.github.com/repos/delvedor/fastify-example/contents/app.js?ref=main",
+    "html_url": "https://github.com/delvedor/fastify-example/blob/main/app.js",
+    "git_url": "https://api.github.com/repos/delvedor/fastify-example/git/blobs/03b07e3be5d0c29bb5a36ad249e5ec9203457cec",
+    "download_url": "https://raw.githubusercontent.com/delvedor/fastify-example/main/app.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/delvedor/fastify-example/contents/app.js?ref=main",
+      "git": "https://api.github.com/repos/delvedor/fastify-example/git/blobs/03b07e3be5d0c29bb5a36ad249e5ec9203457cec",
+      "html": "https://github.com/delvedor/fastify-example/blob/main/app.js"
+    }
+  },
+  {
+    "name": "deploy-recipes",
+    "path": "deploy-recipes",
+    "sha": "b3955971b69e89805633a1ea05c9bffd1e3e0f33",
+    "size": 0,
+    "url": "https://api.github.com/repos/delvedor/fastify-example/contents/deploy-recipes?ref=main",
+    "html_url": "https://github.com/delvedor/fastify-example/tree/main/deploy-recipes",
+    "git_url": "https://api.github.com/repos/delvedor/fastify-example/git/trees/b3955971b69e89805633a1ea05c9bffd1e3e0f33",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/delvedor/fastify-example/contents/deploy-recipes?ref=main",
+      "git": "https://api.github.com/repos/delvedor/fastify-example/git/trees/b3955971b69e89805633a1ea05c9bffd1e3e0f33",
+      "html": "https://github.com/delvedor/fastify-example/tree/main/deploy-recipes"
+    }
+  },
+  {
+    "name": "package-lock.json",
+    "path": "package-lock.json",
+    "sha": "bc5643e302ddca0f60670deb5e060ae4857eb31c",
+    "size": 553179,
+    "url": "https://api.github.com/repos/delvedor/fastify-example/contents/package-lock.json?ref=main",
+    "html_url": "https://github.com/delvedor/fastify-example/blob/main/package-lock.json",
+    "git_url": "https://api.github.com/repos/delvedor/fastify-example/git/blobs/bc5643e302ddca0f60670deb5e060ae4857eb31c",
+    "download_url": "https://raw.githubusercontent.com/delvedor/fastify-example/main/package-lock.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/delvedor/fastify-example/contents/package-lock.json?ref=main",
+      "git": "https://api.github.com/repos/delvedor/fastify-example/git/blobs/bc5643e302ddca0f60670deb5e060ae4857eb31c",
+      "html": "https://github.com/delvedor/fastify-example/blob/main/package-lock.json"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "d9b2a102fbeee032aa284caaa5054866201d506f",
+    "size": 2211,
+    "url": "https://api.github.com/repos/delvedor/fastify-example/contents/package.json?ref=main",
+    "html_url": "https://github.com/delvedor/fastify-example/blob/main/package.json",
+    "git_url": "https://api.github.com/repos/delvedor/fastify-example/git/blobs/d9b2a102fbeee032aa284caaa5054866201d506f",
+    "download_url": "https://raw.githubusercontent.com/delvedor/fastify-example/main/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/delvedor/fastify-example/contents/package.json?ref=main",
+      "git": "https://api.github.com/repos/delvedor/fastify-example/git/blobs/d9b2a102fbeee032aa284caaa5054866201d506f",
+      "html": "https://github.com/delvedor/fastify-example/blob/main/package.json"
+    }
+  },
+  {
+    "name": "plugins",
+    "path": "plugins",
+    "sha": "6c12812896af6ecfc72dd93ecae0ea0e7afa652b",
+    "size": 0,
+    "url": "https://api.github.com/repos/delvedor/fastify-example/contents/plugins?ref=main",
+    "html_url": "https://github.com/delvedor/fastify-example/tree/main/plugins",
+    "git_url": "https://api.github.com/repos/delvedor/fastify-example/git/trees/6c12812896af6ecfc72dd93ecae0ea0e7afa652b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/delvedor/fastify-example/contents/plugins?ref=main",
+      "git": "https://api.github.com/repos/delvedor/fastify-example/git/trees/6c12812896af6ecfc72dd93ecae0ea0e7afa652b",
+      "html": "https://github.com/delvedor/fastify-example/tree/main/plugins"
+    }
+  },
+  {
+    "name": "public",
+    "path": "public",
+    "sha": "fda8b0369799119176e18b418f7b22f4a97bf1e5",
+    "size": 0,
+    "url": "https://api.github.com/repos/delvedor/fastify-example/contents/public?ref=main",
+    "html_url": "https://github.com/delvedor/fastify-example/tree/main/public",
+    "git_url": "https://api.github.com/repos/delvedor/fastify-example/git/trees/fda8b0369799119176e18b418f7b22f4a97bf1e5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/delvedor/fastify-example/contents/public?ref=main",
+      "git": "https://api.github.com/repos/delvedor/fastify-example/git/trees/fda8b0369799119176e18b418f7b22f4a97bf1e5",
+      "html": "https://github.com/delvedor/fastify-example/tree/main/public"
+    }
+  },
+  {
+    "name": "rollup.config.js",
+    "path": "rollup.config.js",
+    "sha": "a6f525fd9acad73dc5beabd0f7099415f7963b0b",
+    "size": 1760,
+    "url": "https://api.github.com/repos/delvedor/fastify-example/contents/rollup.config.js?ref=main",
+    "html_url": "https://github.com/delvedor/fastify-example/blob/main/rollup.config.js",
+    "git_url": "https://api.github.com/repos/delvedor/fastify-example/git/blobs/a6f525fd9acad73dc5beabd0f7099415f7963b0b",
+    "download_url": "https://raw.githubusercontent.com/delvedor/fastify-example/main/rollup.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/delvedor/fastify-example/contents/rollup.config.js?ref=main",
+      "git": "https://api.github.com/repos/delvedor/fastify-example/git/blobs/a6f525fd9acad73dc5beabd0f7099415f7963b0b",
+      "html": "https://github.com/delvedor/fastify-example/blob/main/rollup.config.js"
+    }
+  },
+  {
+    "name": "routes",
+    "path": "routes",
+    "sha": "17a31b585c4d21e9d86e31b7ae85d7001891ffe6",
+    "size": 0,
+    "url": "https://api.github.com/repos/delvedor/fastify-example/contents/routes?ref=main",
+    "html_url": "https://github.com/delvedor/fastify-example/tree/main/routes",
+    "git_url": "https://api.github.com/repos/delvedor/fastify-example/git/trees/17a31b585c4d21e9d86e31b7ae85d7001891ffe6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/delvedor/fastify-example/contents/routes?ref=main",
+      "git": "https://api.github.com/repos/delvedor/fastify-example/git/trees/17a31b585c4d21e9d86e31b7ae85d7001891ffe6",
+      "html": "https://github.com/delvedor/fastify-example/tree/main/routes"
+    }
+  },
+  {
+    "name": "scripts",
+    "path": "scripts",
+    "sha": "8df449f040b0af0c85b548ebb9ecfbcb892a6395",
+    "size": 0,
+    "url": "https://api.github.com/repos/delvedor/fastify-example/contents/scripts?ref=main",
+    "html_url": "https://github.com/delvedor/fastify-example/tree/main/scripts",
+    "git_url": "https://api.github.com/repos/delvedor/fastify-example/git/trees/8df449f040b0af0c85b548ebb9ecfbcb892a6395",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/delvedor/fastify-example/contents/scripts?ref=main",
+      "git": "https://api.github.com/repos/delvedor/fastify-example/git/trees/8df449f040b0af0c85b548ebb9ecfbcb892a6395",
+      "html": "https://github.com/delvedor/fastify-example/tree/main/scripts"
+    }
+  },
+  {
+    "name": "structure.png",
+    "path": "structure.png",
+    "sha": "b13eb935225ab314506c863921c6bbb42bb5ce84",
+    "size": 119252,
+    "url": "https://api.github.com/repos/delvedor/fastify-example/contents/structure.png?ref=main",
+    "html_url": "https://github.com/delvedor/fastify-example/blob/main/structure.png",
+    "git_url": "https://api.github.com/repos/delvedor/fastify-example/git/blobs/b13eb935225ab314506c863921c6bbb42bb5ce84",
+    "download_url": "https://raw.githubusercontent.com/delvedor/fastify-example/main/structure.png",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/delvedor/fastify-example/contents/structure.png?ref=main",
+      "git": "https://api.github.com/repos/delvedor/fastify-example/git/blobs/b13eb935225ab314506c863921c6bbb42bb5ce84",
+      "html": "https://github.com/delvedor/fastify-example/blob/main/structure.png"
+    }
+  },
+  {
+    "name": "test",
+    "path": "test",
+    "sha": "2a28354c4fd30b5fa24e31ceff50d28872795405",
+    "size": 0,
+    "url": "https://api.github.com/repos/delvedor/fastify-example/contents/test?ref=main",
+    "html_url": "https://github.com/delvedor/fastify-example/tree/main/test",
+    "git_url": "https://api.github.com/repos/delvedor/fastify-example/git/trees/2a28354c4fd30b5fa24e31ceff50d28872795405",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/delvedor/fastify-example/contents/test?ref=main",
+      "git": "https://api.github.com/repos/delvedor/fastify-example/git/trees/2a28354c4fd30b5fa24e31ceff50d28872795405",
+      "html": "https://github.com/delvedor/fastify-example/tree/main/test"
+    }
+  },
+  {
+    "name": "ui",
+    "path": "ui",
+    "sha": "58e904c5e5dd4e57cdbbc28a3c375223a2dd570d",
+    "size": 0,
+    "url": "https://api.github.com/repos/delvedor/fastify-example/contents/ui?ref=main",
+    "html_url": "https://github.com/delvedor/fastify-example/tree/main/ui",
+    "git_url": "https://api.github.com/repos/delvedor/fastify-example/git/trees/58e904c5e5dd4e57cdbbc28a3c375223a2dd570d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/delvedor/fastify-example/contents/ui?ref=main",
+      "git": "https://api.github.com/repos/delvedor/fastify-example/git/trees/58e904c5e5dd4e57cdbbc28a3c375223a2dd570d",
+      "html": "https://github.com/delvedor/fastify-example/tree/main/ui"
+    }
+  }
+]

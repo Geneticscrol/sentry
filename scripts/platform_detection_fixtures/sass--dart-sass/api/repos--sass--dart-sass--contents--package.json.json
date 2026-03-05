@@ -1,0 +1,18 @@
+{
+  "name": "package.json",
+  "path": "package.json",
+  "sha": "0eb2cbfa9e99fdc13cd98fc7b6d891a7e09912d2",
+  "size": 398,
+  "url": "https://api.github.com/repos/sass/dart-sass/contents/package.json?ref=main",
+  "html_url": "https://github.com/sass/dart-sass/blob/main/package.json",
+  "git_url": "https://api.github.com/repos/sass/dart-sass/git/blobs/0eb2cbfa9e99fdc13cd98fc7b6d891a7e09912d2",
+  "download_url": "https://raw.githubusercontent.com/sass/dart-sass/main/package.json",
+  "type": "file",
+  "content": "ewogICIvLyI6IFsKICAgICJUaGlzIGlzbid0IHRoZSBvZmZpY2lhbCBwYWNr\nYWdlLmpzb24gZm9yIERhcnQgU2Fzcy4gSXQncyBqdXN0IHVzZWQgdG8gIiwK\nICAgICJpbnN0YWxsIGRlcGVuZGVuY2llcyB1c2VkIGZvciB0ZXN0aW5nIHRo\nZSBOb2RlIEFQSS4gSXQgZGVmaW5lcyBhIHBhY2thZ2UiLAogICAgIm5hbWUg\ndG8gZW5hYmxlIEdpdEh1YidzIGRlcGVuZGVuY3kgZ3JhcGggdHJhY2tpbmcu\nIgogIF0sCiAgIm5hbWUiOiAic2FzcyIsCiAgImRldkRlcGVuZGVuY2llcyI6\nIHsKICAgICJAcGFyY2VsL3dhdGNoZXIiOiAiXjIuNC4xIiwKICAgICJjaG9r\naWRhciI6ICJeNC4wLjAiLAogICAgImltbXV0YWJsZSI6ICJeNS4wLjIiLAog\nICAgImludGVyY2VwdC1zdGRvdXQiOiAiXjAuMS4yIgogIH0KfQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/sass/dart-sass/contents/package.json?ref=main",
+    "git": "https://api.github.com/repos/sass/dart-sass/git/blobs/0eb2cbfa9e99fdc13cd98fc7b6d891a7e09912d2",
+    "html": "https://github.com/sass/dart-sass/blob/main/package.json"
+  }
+}

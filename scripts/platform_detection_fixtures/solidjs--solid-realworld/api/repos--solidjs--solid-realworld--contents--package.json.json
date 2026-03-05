@@ -1,0 +1,18 @@
+{
+  "name": "package.json",
+  "path": "package.json",
+  "sha": "29e4d470faecdbf4b05333895a250a40f739e5d1",
+  "size": 1235,
+  "url": "https://api.github.com/repos/solidjs/solid-realworld/contents/package.json?ref=main",
+  "html_url": "https://github.com/solidjs/solid-realworld/blob/main/package.json",
+  "git_url": "https://api.github.com/repos/solidjs/solid-realworld/git/blobs/29e4d470faecdbf4b05333895a250a40f739e5d1",
+  "download_url": "https://raw.githubusercontent.com/solidjs/solid-realworld/main/package.json",
+  "type": "file",
+  "content": "ew0KICAibmFtZSI6ICJzb2xpZC1yZWFsd29ybGQiLA0KICAidmVyc2lvbiI6\nICIwLjAuMCIsDQogICJkZXNjcmlwdGlvbiI6ICJBIFNvbGlkIEltcGxlbWVu\ndGF0aW9uIG9mIHRoZSBSZWFsd29ybGQgRXhhbXBsZSBBcHAiLA0KICAibWFp\nbiI6ICJwdWJsaWMvaW5kZXguanMiLA0KICAic2NyaXB0cyI6IHsNCiAgICAi\nc3RhcnQiOiAic2VydmUgcHVibGljIC1sIDUwMDAgLXMgJiByb2xsdXAgLXcg\nLWMiLA0KICAgICJidWlsZCI6ICJyb2xsdXAgLWMgLS1lbnZpcm9ubWVudCBw\ncm9kdWN0aW9uIiwNCiAgICAidGVzdCI6ICJ0ZXN0Ig0KICB9LA0KICAicmVw\nb3NpdG9yeSI6IHsNCiAgICAidHlwZSI6ICJnaXQiLA0KICAgICJ1cmwiOiAi\nZ2l0K2h0dHBzOi8vZ2l0aHViLmNvbS9zb2xpZGpzL3NvbGlkLXJlYWx3b3Js\nZC5naXQiDQogIH0sDQogICJrZXl3b3JkcyI6IFsNCiAgICAiU29saWQiLA0K\nICAgICJSZWFsd29ybGQiLA0KICAgICJleGFtcGxlIg0KICBdLA0KICAiYXV0\naG9yIjogIlJ5YW4gQ2FybmlhdG8iLA0KICAibGljZW5zZSI6ICJNSVQiLA0K\nICAiYnVncyI6IHsNCiAgICAidXJsIjogImh0dHBzOi8vZ2l0aHViLmNvbS9z\nb2xpZGpzL3NvbGlkLXJlYWx3b3JsZC9pc3N1ZXMiDQogIH0sDQogICJob21l\ncGFnZSI6ICJodHRwczovL2dpdGh1Yi5jb20vc29saWRqcy9zb2xpZC1yZWFs\nd29ybGQjcmVhZG1lIiwNCiAgImRlcGVuZGVuY2llcyI6IHsNCiAgICAibWFy\na2VkIjogIl4wLjguMCIsDQogICAgInNvbGlkLWpzIjogIl4xLjMuMyINCiAg\nfSwNCiAgImRldkRlcGVuZGVuY2llcyI6IHsNCiAgICAiQGJhYmVsL2NvcmUi\nOiAiNy4xMi4xMyIsDQogICAgIkBiYWJlbC9wbHVnaW4tcHJvcG9zYWwtb3B0\naW9uYWwtY2hhaW5pbmciOiAiNy4xMi4xMyIsDQogICAgIkBiYWJlbC9wbHVn\naW4tc3ludGF4LWR5bmFtaWMtaW1wb3J0IjogIjcuOC4zIiwNCiAgICAiQHJv\nbGx1cC9wbHVnaW4tYmFiZWwiOiAiNS4yLjAiLA0KICAgICJAcm9sbHVwL3Bs\ndWdpbi1jb21tb25qcyI6ICIyMS4wLjAiLA0KICAgICJAcm9sbHVwL3BsdWdp\nbi1ub2RlLXJlc29sdmUiOiAiMTMuMC41IiwNCiAgICAiYmFiZWwtcHJlc2V0\nLXNvbGlkIjogIl4xLjMuMiIsDQogICAgInJvbGx1cCI6ICIyLjUyLjMiLA0K\nICAgICJyb2xsdXAtcGx1Z2luLWRlbGV0ZSI6ICJeMi4wLjAiLA0KICAgICJy\nb2xsdXAtcGx1Z2luLXRlcnNlciI6ICJeNy4wLjAiLA0KICAgICJzZXJ2ZSI6\nICJeMTEuMy4yIg0KICB9DQp9DQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/solidjs/solid-realworld/contents/package.json?ref=main",
+    "git": "https://api.github.com/repos/solidjs/solid-realworld/git/blobs/29e4d470faecdbf4b05333895a250a40f739e5d1",
+    "html": "https://github.com/solidjs/solid-realworld/blob/main/package.json"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": ".nvmrc",
+  "path": ".nvmrc",
+  "sha": "ae0e6a25cbc655bf305c7b6ebb9ca6da039e714d",
+  "size": 9,
+  "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/.nvmrc?ref=main",
+  "html_url": "https://github.com/TanStack/tanstack.com/blob/main/.nvmrc",
+  "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/ae0e6a25cbc655bf305c7b6ebb9ca6da039e714d",
+  "download_url": "https://raw.githubusercontent.com/TanStack/tanstack.com/main/.nvmrc",
+  "type": "file",
+  "content": "djIwLjE5LjYK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/.nvmrc?ref=main",
+    "git": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/ae0e6a25cbc655bf305c7b6ebb9ca6da039e714d",
+    "html": "https://github.com/TanStack/tanstack.com/blob/main/.nvmrc"
+  }
+}

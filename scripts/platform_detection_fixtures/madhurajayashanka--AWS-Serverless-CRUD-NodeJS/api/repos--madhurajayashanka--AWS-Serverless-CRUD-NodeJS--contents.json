@@ -1,0 +1,98 @@
+[
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "2b48c8bd543436041a56e581935ba2cd16e57648",
+    "size": 86,
+    "url": "https://api.github.com/repos/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/git/blobs/2b48c8bd543436041a56e581935ba2cd16e57648",
+    "download_url": "https://raw.githubusercontent.com/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/git/blobs/2b48c8bd543436041a56e581935ba2cd16e57648",
+      "html": "https://github.com/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "e1dfe88c7d0f6160dd6a7a5b00c799a32ff3ea3e",
+    "size": 1799,
+    "url": "https://api.github.com/repos/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/contents/README.md?ref=main",
+    "html_url": "https://github.com/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/git/blobs/e1dfe88c7d0f6160dd6a7a5b00c799a32ff3ea3e",
+    "download_url": "https://raw.githubusercontent.com/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/git/blobs/e1dfe88c7d0f6160dd6a7a5b00c799a32ff3ea3e",
+      "html": "https://github.com/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/blob/main/README.md"
+    }
+  },
+  {
+    "name": "handler.js",
+    "path": "handler.js",
+    "sha": "6a2413dd957e4bfac9042488bc9a530c1dc047cb",
+    "size": 2536,
+    "url": "https://api.github.com/repos/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/contents/handler.js?ref=main",
+    "html_url": "https://github.com/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/blob/main/handler.js",
+    "git_url": "https://api.github.com/repos/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/git/blobs/6a2413dd957e4bfac9042488bc9a530c1dc047cb",
+    "download_url": "https://raw.githubusercontent.com/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/main/handler.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/contents/handler.js?ref=main",
+      "git": "https://api.github.com/repos/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/git/blobs/6a2413dd957e4bfac9042488bc9a530c1dc047cb",
+      "html": "https://github.com/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/blob/main/handler.js"
+    }
+  },
+  {
+    "name": "package-lock.json",
+    "path": "package-lock.json",
+    "sha": "f580f56df6279070eecbdfbc60b4965087e76c65",
+    "size": 13301,
+    "url": "https://api.github.com/repos/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/contents/package-lock.json?ref=main",
+    "html_url": "https://github.com/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/blob/main/package-lock.json",
+    "git_url": "https://api.github.com/repos/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/git/blobs/f580f56df6279070eecbdfbc60b4965087e76c65",
+    "download_url": "https://raw.githubusercontent.com/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/main/package-lock.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/contents/package-lock.json?ref=main",
+      "git": "https://api.github.com/repos/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/git/blobs/f580f56df6279070eecbdfbc60b4965087e76c65",
+      "html": "https://github.com/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/blob/main/package-lock.json"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "50b47eae0798117f28692b25b0b33486dfe9b793",
+    "size": 324,
+    "url": "https://api.github.com/repos/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/contents/package.json?ref=main",
+    "html_url": "https://github.com/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/blob/main/package.json",
+    "git_url": "https://api.github.com/repos/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/git/blobs/50b47eae0798117f28692b25b0b33486dfe9b793",
+    "download_url": "https://raw.githubusercontent.com/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/main/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/contents/package.json?ref=main",
+      "git": "https://api.github.com/repos/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/git/blobs/50b47eae0798117f28692b25b0b33486dfe9b793",
+      "html": "https://github.com/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/blob/main/package.json"
+    }
+  },
+  {
+    "name": "serverless.yml",
+    "path": "serverless.yml",
+    "sha": "3a029fce2b64768f9fe5dcf2f2f83add3814381a",
+    "size": 1978,
+    "url": "https://api.github.com/repos/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/contents/serverless.yml?ref=main",
+    "html_url": "https://github.com/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/blob/main/serverless.yml",
+    "git_url": "https://api.github.com/repos/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/git/blobs/3a029fce2b64768f9fe5dcf2f2f83add3814381a",
+    "download_url": "https://raw.githubusercontent.com/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/main/serverless.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/contents/serverless.yml?ref=main",
+      "git": "https://api.github.com/repos/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/git/blobs/3a029fce2b64768f9fe5dcf2f2f83add3814381a",
+      "html": "https://github.com/madhurajayashanka/AWS-Serverless-CRUD-NodeJS/blob/main/serverless.yml"
+    }
+  }
+]

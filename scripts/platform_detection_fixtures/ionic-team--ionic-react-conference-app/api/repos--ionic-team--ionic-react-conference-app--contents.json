@@ -1,0 +1,370 @@
+[
+  {
+    "name": ".editorconfig",
+    "path": ".editorconfig",
+    "sha": "82da0b16e750c37dec6150e2a2242f2d7133ea8e",
+    "size": 243,
+    "url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/.editorconfig?ref=main",
+    "html_url": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/.editorconfig",
+    "git_url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/82da0b16e750c37dec6150e2a2242f2d7133ea8e",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/ionic-react-conference-app/main/.editorconfig",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/.editorconfig?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/82da0b16e750c37dec6150e2a2242f2d7133ea8e",
+      "html": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/.editorconfig"
+    }
+  },
+  {
+    "name": ".firebaserc",
+    "path": ".firebaserc",
+    "sha": "711741d5d3df4554bcd9e3878922f87a28a181f8",
+    "size": 68,
+    "url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/.firebaserc?ref=main",
+    "html_url": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/.firebaserc",
+    "git_url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/711741d5d3df4554bcd9e3878922f87a28a181f8",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/ionic-react-conference-app/main/.firebaserc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/.firebaserc?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/711741d5d3df4554bcd9e3878922f87a28a181f8",
+      "html": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/.firebaserc"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "0bad13e43b3c823218cef672e1f635d8c8c152a6",
+    "size": 0,
+    "url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/.github?ref=main",
+    "html_url": "https://github.com/ionic-team/ionic-react-conference-app/tree/main/.github",
+    "git_url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/trees/0bad13e43b3c823218cef672e1f635d8c8c152a6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/trees/0bad13e43b3c823218cef672e1f635d8c8c152a6",
+      "html": "https://github.com/ionic-team/ionic-react-conference-app/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "516dc4d6d0eb159425880b426d55f458f2e9c4f3",
+    "size": 1189,
+    "url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/516dc4d6d0eb159425880b426d55f458f2e9c4f3",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/ionic-react-conference-app/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/516dc4d6d0eb159425880b426d55f458f2e9c4f3",
+      "html": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".netlify",
+    "path": ".netlify",
+    "sha": "972715f63def6942d771906d3d2ba2b6d8e97c45",
+    "size": 0,
+    "url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/.netlify?ref=main",
+    "html_url": "https://github.com/ionic-team/ionic-react-conference-app/tree/main/.netlify",
+    "git_url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/trees/972715f63def6942d771906d3d2ba2b6d8e97c45",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/.netlify?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/trees/972715f63def6942d771906d3d2ba2b6d8e97c45",
+      "html": "https://github.com/ionic-team/ionic-react-conference-app/tree/main/.netlify"
+    }
+  },
+  {
+    "name": ".prettierrc",
+    "path": ".prettierrc",
+    "sha": "c3e03287bee927cedcb4b333e8103a50024a96ef",
+    "size": 68,
+    "url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/.prettierrc?ref=main",
+    "html_url": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/.prettierrc",
+    "git_url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/c3e03287bee927cedcb4b333e8103a50024a96ef",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/ionic-react-conference-app/main/.prettierrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/.prettierrc?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/c3e03287bee927cedcb4b333e8103a50024a96ef",
+      "html": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/.prettierrc"
+    }
+  },
+  {
+    "name": ".vscode",
+    "path": ".vscode",
+    "sha": "b5c800947f452cbed8dab7f58b5513414a1b607d",
+    "size": 0,
+    "url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/.vscode?ref=main",
+    "html_url": "https://github.com/ionic-team/ionic-react-conference-app/tree/main/.vscode",
+    "git_url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/trees/b5c800947f452cbed8dab7f58b5513414a1b607d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/.vscode?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/trees/b5c800947f452cbed8dab7f58b5513414a1b607d",
+      "html": "https://github.com/ionic-team/ionic-react-conference-app/tree/main/.vscode"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "623c70a833cec1aa73e7bbd62552ff17bb5cf8e7",
+    "size": 1090,
+    "url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/LICENSE?ref=main",
+    "html_url": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/LICENSE",
+    "git_url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/623c70a833cec1aa73e7bbd62552ff17bb5cf8e7",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/ionic-react-conference-app/main/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/LICENSE?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/623c70a833cec1aa73e7bbd62552ff17bb5cf8e7",
+      "html": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "7a24529973ef63c133841753bfbde39963a0c137",
+    "size": 2271,
+    "url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/README.md?ref=main",
+    "html_url": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/7a24529973ef63c133841753bfbde39963a0c137",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/ionic-react-conference-app/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/7a24529973ef63c133841753bfbde39963a0c137",
+      "html": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/README.md"
+    }
+  },
+  {
+    "name": "android",
+    "path": "android",
+    "sha": "94a38cd91ee156108a62ab8e15ab716b45e9362e",
+    "size": 0,
+    "url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/android?ref=main",
+    "html_url": "https://github.com/ionic-team/ionic-react-conference-app/tree/main/android",
+    "git_url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/trees/94a38cd91ee156108a62ab8e15ab716b45e9362e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/android?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/trees/94a38cd91ee156108a62ab8e15ab716b45e9362e",
+      "html": "https://github.com/ionic-team/ionic-react-conference-app/tree/main/android"
+    }
+  },
+  {
+    "name": "capacitor.config.json",
+    "path": "capacitor.config.json",
+    "sha": "0f2dd5f1d6229cbb43ba59d5c55bfa87f765cfb1",
+    "size": 166,
+    "url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/capacitor.config.json?ref=main",
+    "html_url": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/capacitor.config.json",
+    "git_url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/0f2dd5f1d6229cbb43ba59d5c55bfa87f765cfb1",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/ionic-react-conference-app/main/capacitor.config.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/capacitor.config.json?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/0f2dd5f1d6229cbb43ba59d5c55bfa87f765cfb1",
+      "html": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/capacitor.config.json"
+    }
+  },
+  {
+    "name": "firebase.json",
+    "path": "firebase.json",
+    "sha": "49a74df1783c03023c110271b1d9ba694c0b2a08",
+    "size": 550,
+    "url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/firebase.json?ref=main",
+    "html_url": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/firebase.json",
+    "git_url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/49a74df1783c03023c110271b1d9ba694c0b2a08",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/ionic-react-conference-app/main/firebase.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/firebase.json?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/49a74df1783c03023c110271b1d9ba694c0b2a08",
+      "html": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/firebase.json"
+    }
+  },
+  {
+    "name": "index.html",
+    "path": "index.html",
+    "sha": "805b1052a06c589af2315ce26643154cfb38324e",
+    "size": 860,
+    "url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/index.html?ref=main",
+    "html_url": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/index.html",
+    "git_url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/805b1052a06c589af2315ce26643154cfb38324e",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/ionic-react-conference-app/main/index.html",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/index.html?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/805b1052a06c589af2315ce26643154cfb38324e",
+      "html": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/index.html"
+    }
+  },
+  {
+    "name": "ionic.config.json",
+    "path": "ionic.config.json",
+    "sha": "f610198b033b2e1437a5409e1bd96214c77c642a",
+    "size": 107,
+    "url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/ionic.config.json?ref=main",
+    "html_url": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/ionic.config.json",
+    "git_url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/f610198b033b2e1437a5409e1bd96214c77c642a",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/ionic-react-conference-app/main/ionic.config.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/ionic.config.json?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/f610198b033b2e1437a5409e1bd96214c77c642a",
+      "html": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/ionic.config.json"
+    }
+  },
+  {
+    "name": "ios",
+    "path": "ios",
+    "sha": "827e0bc174aa7d1f97fdc10993261893c02dcd3e",
+    "size": 0,
+    "url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/ios?ref=main",
+    "html_url": "https://github.com/ionic-team/ionic-react-conference-app/tree/main/ios",
+    "git_url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/trees/827e0bc174aa7d1f97fdc10993261893c02dcd3e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/ios?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/trees/827e0bc174aa7d1f97fdc10993261893c02dcd3e",
+      "html": "https://github.com/ionic-team/ionic-react-conference-app/tree/main/ios"
+    }
+  },
+  {
+    "name": "package-lock.json",
+    "path": "package-lock.json",
+    "sha": "27cb72ca651908c666c8e85e6f76b5fe57203655",
+    "size": 176883,
+    "url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/package-lock.json?ref=main",
+    "html_url": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/package-lock.json",
+    "git_url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/27cb72ca651908c666c8e85e6f76b5fe57203655",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/ionic-react-conference-app/main/package-lock.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/package-lock.json?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/27cb72ca651908c666c8e85e6f76b5fe57203655",
+      "html": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/package-lock.json"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "f42270c9b83674cf4cd5ae2157c2549c07480a81",
+    "size": 1873,
+    "url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/package.json?ref=main",
+    "html_url": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/package.json",
+    "git_url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/f42270c9b83674cf4cd5ae2157c2549c07480a81",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/ionic-react-conference-app/main/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/package.json?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/f42270c9b83674cf4cd5ae2157c2549c07480a81",
+      "html": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/package.json"
+    }
+  },
+  {
+    "name": "public",
+    "path": "public",
+    "sha": "781fe1a258c17a4a61a094d37072610ac6579320",
+    "size": 0,
+    "url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/public?ref=main",
+    "html_url": "https://github.com/ionic-team/ionic-react-conference-app/tree/main/public",
+    "git_url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/trees/781fe1a258c17a4a61a094d37072610ac6579320",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/public?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/trees/781fe1a258c17a4a61a094d37072610ac6579320",
+      "html": "https://github.com/ionic-team/ionic-react-conference-app/tree/main/public"
+    }
+  },
+  {
+    "name": "src",
+    "path": "src",
+    "sha": "19ca86c5fdfe0fdfce0308e8a371c4da4273e166",
+    "size": 0,
+    "url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/src?ref=main",
+    "html_url": "https://github.com/ionic-team/ionic-react-conference-app/tree/main/src",
+    "git_url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/trees/19ca86c5fdfe0fdfce0308e8a371c4da4273e166",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/src?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/trees/19ca86c5fdfe0fdfce0308e8a371c4da4273e166",
+      "html": "https://github.com/ionic-team/ionic-react-conference-app/tree/main/src"
+    }
+  },
+  {
+    "name": "tsconfig.json",
+    "path": "tsconfig.json",
+    "sha": "3d0a51a86e202419758206adb6effe775229ba38",
+    "size": 559,
+    "url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/tsconfig.json?ref=main",
+    "html_url": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/tsconfig.json",
+    "git_url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/3d0a51a86e202419758206adb6effe775229ba38",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/ionic-react-conference-app/main/tsconfig.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/tsconfig.json?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/3d0a51a86e202419758206adb6effe775229ba38",
+      "html": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/tsconfig.json"
+    }
+  },
+  {
+    "name": "tsconfig.node.json",
+    "path": "tsconfig.node.json",
+    "sha": "9d31e2aed93c876bc048cf2f863cb2a847c901e8",
+    "size": 184,
+    "url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/tsconfig.node.json?ref=main",
+    "html_url": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/tsconfig.node.json",
+    "git_url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/9d31e2aed93c876bc048cf2f863cb2a847c901e8",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/ionic-react-conference-app/main/tsconfig.node.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/tsconfig.node.json?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/9d31e2aed93c876bc048cf2f863cb2a847c901e8",
+      "html": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/tsconfig.node.json"
+    }
+  },
+  {
+    "name": "vercel.json",
+    "path": "vercel.json",
+    "sha": "6a9264870df8a25faf0e9c9c0389853a075f05f0",
+    "size": 70,
+    "url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/vercel.json?ref=main",
+    "html_url": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/vercel.json",
+    "git_url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/6a9264870df8a25faf0e9c9c0389853a075f05f0",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/ionic-react-conference-app/main/vercel.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/vercel.json?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/6a9264870df8a25faf0e9c9c0389853a075f05f0",
+      "html": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/vercel.json"
+    }
+  },
+  {
+    "name": "vite.config.ts",
+    "path": "vite.config.ts",
+    "sha": "68a89113a8cf07ced4fe20073b4dc2573678549f",
+    "size": 385,
+    "url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/vite.config.ts?ref=main",
+    "html_url": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/vite.config.ts",
+    "git_url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/68a89113a8cf07ced4fe20073b4dc2573678549f",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/ionic-react-conference-app/main/vite.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/vite.config.ts?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/68a89113a8cf07ced4fe20073b4dc2573678549f",
+      "html": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/vite.config.ts"
+    }
+  }
+]

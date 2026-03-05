@@ -1,0 +1,482 @@
+[
+  {
+    "name": ".agents",
+    "path": ".agents",
+    "sha": "8c61c92445d71f71363c12a8c4eb7022c30e749a",
+    "size": 0,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/.agents?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/tree/main/.agents",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/trees/8c61c92445d71f71363c12a8c4eb7022c30e749a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/.agents?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/trees/8c61c92445d71f71363c12a8c4eb7022c30e749a",
+      "html": "https://github.com/TanStack/tanstack.com/tree/main/.agents"
+    }
+  },
+  {
+    "name": ".claude",
+    "path": ".claude",
+    "sha": "47d56c284b76d134acc4ac7f8a22672ee402946d",
+    "size": 0,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/.claude?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/tree/main/.claude",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/trees/47d56c284b76d134acc4ac7f8a22672ee402946d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/.claude?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/trees/47d56c284b76d134acc4ac7f8a22672ee402946d",
+      "html": "https://github.com/TanStack/tanstack.com/tree/main/.claude"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "123048230db7a483228514bb92de253c9ea37c04",
+    "size": 0,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/.github?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/tree/main/.github",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/trees/123048230db7a483228514bb92de253c9ea37c04",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/trees/123048230db7a483228514bb92de253c9ea37c04",
+      "html": "https://github.com/TanStack/tanstack.com/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "0f36f54fae4f5c18bcc4b32c9b77ac0dc4f5495f",
+    "size": 412,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/0f36f54fae4f5c18bcc4b32c9b77ac0dc4f5495f",
+    "download_url": "https://raw.githubusercontent.com/TanStack/tanstack.com/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/0f36f54fae4f5c18bcc4b32c9b77ac0dc4f5495f",
+      "html": "https://github.com/TanStack/tanstack.com/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".husky",
+    "path": ".husky",
+    "sha": "c4b6b1aa34ab629f69d4a2eb3ea6242363596884",
+    "size": 0,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/.husky?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/tree/main/.husky",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/trees/c4b6b1aa34ab629f69d4a2eb3ea6242363596884",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/.husky?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/trees/c4b6b1aa34ab629f69d4a2eb3ea6242363596884",
+      "html": "https://github.com/TanStack/tanstack.com/tree/main/.husky"
+    }
+  },
+  {
+    "name": ".nvmrc",
+    "path": ".nvmrc",
+    "sha": "ae0e6a25cbc655bf305c7b6ebb9ca6da039e714d",
+    "size": 9,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/.nvmrc?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/blob/main/.nvmrc",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/ae0e6a25cbc655bf305c7b6ebb9ca6da039e714d",
+    "download_url": "https://raw.githubusercontent.com/TanStack/tanstack.com/main/.nvmrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/.nvmrc?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/ae0e6a25cbc655bf305c7b6ebb9ca6da039e714d",
+      "html": "https://github.com/TanStack/tanstack.com/blob/main/.nvmrc"
+    }
+  },
+  {
+    "name": ".prettierignore",
+    "path": ".prettierignore",
+    "sha": "48a895e6ee8b8f4c7ac191137c2b672b9b46b554",
+    "size": 181,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/.prettierignore?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/blob/main/.prettierignore",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/48a895e6ee8b8f4c7ac191137c2b672b9b46b554",
+    "download_url": "https://raw.githubusercontent.com/TanStack/tanstack.com/main/.prettierignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/.prettierignore?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/48a895e6ee8b8f4c7ac191137c2b672b9b46b554",
+      "html": "https://github.com/TanStack/tanstack.com/blob/main/.prettierignore"
+    }
+  },
+  {
+    "name": ".prettierrc",
+    "path": ".prettierrc",
+    "sha": "e3b414c7e09059b54efe16afa3519e065ca33675",
+    "size": 69,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/.prettierrc?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/blob/main/.prettierrc",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/e3b414c7e09059b54efe16afa3519e065ca33675",
+    "download_url": "https://raw.githubusercontent.com/TanStack/tanstack.com/main/.prettierrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/.prettierrc?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/e3b414c7e09059b54efe16afa3519e065ca33675",
+      "html": "https://github.com/TanStack/tanstack.com/blob/main/.prettierrc"
+    }
+  },
+  {
+    "name": "AGENTS.md",
+    "path": "AGENTS.md",
+    "sha": "49055565ed46ebf401339cd44676f2637b882b64",
+    "size": 16,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/AGENTS.md?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/blob/main/AGENTS.md",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/49055565ed46ebf401339cd44676f2637b882b64",
+    "download_url": "https://raw.githubusercontent.com/TanStack/tanstack.com/main/AGENTS.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/AGENTS.md?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/49055565ed46ebf401339cd44676f2637b882b64",
+      "html": "https://github.com/TanStack/tanstack.com/blob/main/AGENTS.md"
+    }
+  },
+  {
+    "name": "CLAUDE.md",
+    "path": "CLAUDE.md",
+    "sha": "49055565ed46ebf401339cd44676f2637b882b64",
+    "size": 16,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/CLAUDE.md?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/blob/main/CLAUDE.md",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/49055565ed46ebf401339cd44676f2637b882b64",
+    "download_url": "https://raw.githubusercontent.com/TanStack/tanstack.com/main/CLAUDE.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/CLAUDE.md?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/49055565ed46ebf401339cd44676f2637b882b64",
+      "html": "https://github.com/TanStack/tanstack.com/blob/main/CLAUDE.md"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "90cba4aac1ee187935a30e6a1325f0e68a91bd79",
+    "size": 2133,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/README.md?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/90cba4aac1ee187935a30e6a1325f0e68a91bd79",
+    "download_url": "https://raw.githubusercontent.com/TanStack/tanstack.com/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/90cba4aac1ee187935a30e6a1325f0e68a91bd79",
+      "html": "https://github.com/TanStack/tanstack.com/blob/main/README.md"
+    }
+  },
+  {
+    "name": "content-collections.ts",
+    "path": "content-collections.ts",
+    "sha": "1ef0f4a109bea8191b60314494ccd892c5432e58",
+    "size": 934,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/content-collections.ts?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/blob/main/content-collections.ts",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/1ef0f4a109bea8191b60314494ccd892c5432e58",
+    "download_url": "https://raw.githubusercontent.com/TanStack/tanstack.com/main/content-collections.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/content-collections.ts?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/1ef0f4a109bea8191b60314494ccd892c5432e58",
+      "html": "https://github.com/TanStack/tanstack.com/blob/main/content-collections.ts"
+    }
+  },
+  {
+    "name": "docs",
+    "path": "docs",
+    "sha": "379b074448ea8637b1dbd26da82e40540be6840b",
+    "size": 0,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/docs?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/tree/main/docs",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/trees/379b074448ea8637b1dbd26da82e40540be6840b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/docs?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/trees/379b074448ea8637b1dbd26da82e40540be6840b",
+      "html": "https://github.com/TanStack/tanstack.com/tree/main/docs"
+    }
+  },
+  {
+    "name": "drizzle.config.ts",
+    "path": "drizzle.config.ts",
+    "sha": "bf351e642b4b4697f60a71dff96a07eefdf9d1b4",
+    "size": 227,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/drizzle.config.ts?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/blob/main/drizzle.config.ts",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/bf351e642b4b4697f60a71dff96a07eefdf9d1b4",
+    "download_url": "https://raw.githubusercontent.com/TanStack/tanstack.com/main/drizzle.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/drizzle.config.ts?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/bf351e642b4b4697f60a71dff96a07eefdf9d1b4",
+      "html": "https://github.com/TanStack/tanstack.com/blob/main/drizzle.config.ts"
+    }
+  },
+  {
+    "name": "eslint.config.mjs",
+    "path": "eslint.config.mjs",
+    "sha": "dc98466a77c218d8dc3e92f880a6191d31b6ae50",
+    "size": 1620,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/eslint.config.mjs?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/blob/main/eslint.config.mjs",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/dc98466a77c218d8dc3e92f880a6191d31b6ae50",
+    "download_url": "https://raw.githubusercontent.com/TanStack/tanstack.com/main/eslint.config.mjs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/eslint.config.mjs?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/dc98466a77c218d8dc3e92f880a6191d31b6ae50",
+      "html": "https://github.com/TanStack/tanstack.com/blob/main/eslint.config.mjs"
+    }
+  },
+  {
+    "name": "media",
+    "path": "media",
+    "sha": "298e61f6acc533f5d61b16d2bae203a3cdd4ff17",
+    "size": 0,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/media?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/tree/main/media",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/trees/298e61f6acc533f5d61b16d2bae203a3cdd4ff17",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/media?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/trees/298e61f6acc533f5d61b16d2bae203a3cdd4ff17",
+      "html": "https://github.com/TanStack/tanstack.com/tree/main/media"
+    }
+  },
+  {
+    "name": "netlify.toml",
+    "path": "netlify.toml",
+    "sha": "841bed99ef762845187e7210d1ec24e691f7fb67",
+    "size": 1054,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/netlify.toml?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/blob/main/netlify.toml",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/841bed99ef762845187e7210d1ec24e691f7fb67",
+    "download_url": "https://raw.githubusercontent.com/TanStack/tanstack.com/main/netlify.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/netlify.toml?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/841bed99ef762845187e7210d1ec24e691f7fb67",
+      "html": "https://github.com/TanStack/tanstack.com/blob/main/netlify.toml"
+    }
+  },
+  {
+    "name": "netlify",
+    "path": "netlify",
+    "sha": "c66df160937eedce77a5bab7dab9b7349e1baf71",
+    "size": 0,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/netlify?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/tree/main/netlify",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/trees/c66df160937eedce77a5bab7dab9b7349e1baf71",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/netlify?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/trees/c66df160937eedce77a5bab7dab9b7349e1baf71",
+      "html": "https://github.com/TanStack/tanstack.com/tree/main/netlify"
+    }
+  },
+  {
+    "name": "opencode.json",
+    "path": "opencode.json",
+    "sha": "77341dd590e0108aef38f528a00240d000a65e6f",
+    "size": 310,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/opencode.json?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/blob/main/opencode.json",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/77341dd590e0108aef38f528a00240d000a65e6f",
+    "download_url": "https://raw.githubusercontent.com/TanStack/tanstack.com/main/opencode.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/opencode.json?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/77341dd590e0108aef38f528a00240d000a65e6f",
+      "html": "https://github.com/TanStack/tanstack.com/blob/main/opencode.json"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "0728b69c2d0ab4b5b2bf830bdc636b926d6db998",
+    "size": 5269,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/package.json?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/blob/main/package.json",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/0728b69c2d0ab4b5b2bf830bdc636b926d6db998",
+    "download_url": "https://raw.githubusercontent.com/TanStack/tanstack.com/main/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/package.json?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/0728b69c2d0ab4b5b2bf830bdc636b926d6db998",
+      "html": "https://github.com/TanStack/tanstack.com/blob/main/package.json"
+    }
+  },
+  {
+    "name": "playwright.config.ts",
+    "path": "playwright.config.ts",
+    "sha": "b99535f740353767a19c5d3078ef6cda52a7114f",
+    "size": 675,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/playwright.config.ts?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/blob/main/playwright.config.ts",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/b99535f740353767a19c5d3078ef6cda52a7114f",
+    "download_url": "https://raw.githubusercontent.com/TanStack/tanstack.com/main/playwright.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/playwright.config.ts?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/b99535f740353767a19c5d3078ef6cda52a7114f",
+      "html": "https://github.com/TanStack/tanstack.com/blob/main/playwright.config.ts"
+    }
+  },
+  {
+    "name": "pnpm-lock.yaml",
+    "path": "pnpm-lock.yaml",
+    "sha": "4e5892f8b093eb5ba014b9ecf16630c4cc19590b",
+    "size": 594643,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/pnpm-lock.yaml?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/blob/main/pnpm-lock.yaml",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/4e5892f8b093eb5ba014b9ecf16630c4cc19590b",
+    "download_url": "https://raw.githubusercontent.com/TanStack/tanstack.com/main/pnpm-lock.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/pnpm-lock.yaml?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/4e5892f8b093eb5ba014b9ecf16630c4cc19590b",
+      "html": "https://github.com/TanStack/tanstack.com/blob/main/pnpm-lock.yaml"
+    }
+  },
+  {
+    "name": "public",
+    "path": "public",
+    "sha": "009fbae99fe29be5af4b9a7e1c6add2991283aff",
+    "size": 0,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/public?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/tree/main/public",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/trees/009fbae99fe29be5af4b9a7e1c6add2991283aff",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/public?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/trees/009fbae99fe29be5af4b9a7e1c6add2991283aff",
+      "html": "https://github.com/TanStack/tanstack.com/tree/main/public"
+    }
+  },
+  {
+    "name": "scripts",
+    "path": "scripts",
+    "sha": "5184f76d7c5014663ae37be240f29384c31a133f",
+    "size": 0,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/scripts?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/tree/main/scripts",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/trees/5184f76d7c5014663ae37be240f29384c31a133f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/scripts?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/trees/5184f76d7c5014663ae37be240f29384c31a133f",
+      "html": "https://github.com/TanStack/tanstack.com/tree/main/scripts"
+    }
+  },
+  {
+    "name": "src",
+    "path": "src",
+    "sha": "42a026846927f4c447dac8ddd7e0c9ea1fe8b4e0",
+    "size": 0,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/src?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/tree/main/src",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/trees/42a026846927f4c447dac8ddd7e0c9ea1fe8b4e0",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/src?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/trees/42a026846927f4c447dac8ddd7e0c9ea1fe8b4e0",
+      "html": "https://github.com/TanStack/tanstack.com/tree/main/src"
+    }
+  },
+  {
+    "name": "tanstack-docs-config.schema.json",
+    "path": "tanstack-docs-config.schema.json",
+    "sha": "18d02309a01ef3ac0f90cbd5005b57fabdb4db90",
+    "size": 3164,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/tanstack-docs-config.schema.json?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/blob/main/tanstack-docs-config.schema.json",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/18d02309a01ef3ac0f90cbd5005b57fabdb4db90",
+    "download_url": "https://raw.githubusercontent.com/TanStack/tanstack.com/main/tanstack-docs-config.schema.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/tanstack-docs-config.schema.json?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/18d02309a01ef3ac0f90cbd5005b57fabdb4db90",
+      "html": "https://github.com/TanStack/tanstack.com/blob/main/tanstack-docs-config.schema.json"
+    }
+  },
+  {
+    "name": "tests",
+    "path": "tests",
+    "sha": "0c63ea76d5a4a9b378458d32872a717e8bbd2c3f",
+    "size": 0,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/tests?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/tree/main/tests",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/trees/0c63ea76d5a4a9b378458d32872a717e8bbd2c3f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/tests?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/trees/0c63ea76d5a4a9b378458d32872a717e8bbd2c3f",
+      "html": "https://github.com/TanStack/tanstack.com/tree/main/tests"
+    }
+  },
+  {
+    "name": "tsconfig.json",
+    "path": "tsconfig.json",
+    "sha": "8b647d48860501cd862b39d375f05abed68d35be",
+    "size": 790,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/tsconfig.json?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/blob/main/tsconfig.json",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/8b647d48860501cd862b39d375f05abed68d35be",
+    "download_url": "https://raw.githubusercontent.com/TanStack/tanstack.com/main/tsconfig.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/tsconfig.json?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/8b647d48860501cd862b39d375f05abed68d35be",
+      "html": "https://github.com/TanStack/tanstack.com/blob/main/tsconfig.json"
+    }
+  },
+  {
+    "name": "tsr.config.json",
+    "path": "tsr.config.json",
+    "sha": "9577888fb44302a22d2f360e1ec91b1f999f4225",
+    "size": 139,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/tsr.config.json?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/blob/main/tsr.config.json",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/9577888fb44302a22d2f360e1ec91b1f999f4225",
+    "download_url": "https://raw.githubusercontent.com/TanStack/tanstack.com/main/tsr.config.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/tsr.config.json?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/9577888fb44302a22d2f360e1ec91b1f999f4225",
+      "html": "https://github.com/TanStack/tanstack.com/blob/main/tsr.config.json"
+    }
+  },
+  {
+    "name": "vite.config.ts",
+    "path": "vite.config.ts",
+    "sha": "31a7a1cf53785c28ee296d52a172151c52f37009",
+    "size": 3887,
+    "url": "https://api.github.com/repos/TanStack/tanstack.com/contents/vite.config.ts?ref=main",
+    "html_url": "https://github.com/TanStack/tanstack.com/blob/main/vite.config.ts",
+    "git_url": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/31a7a1cf53785c28ee296d52a172151c52f37009",
+    "download_url": "https://raw.githubusercontent.com/TanStack/tanstack.com/main/vite.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/TanStack/tanstack.com/contents/vite.config.ts?ref=main",
+      "git": "https://api.github.com/repos/TanStack/tanstack.com/git/blobs/31a7a1cf53785c28ee296d52a172151c52f37009",
+      "html": "https://github.com/TanStack/tanstack.com/blob/main/vite.config.ts"
+    }
+  }
+]

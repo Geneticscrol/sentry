@@ -1,0 +1,786 @@
+[
+  {
+    "name": ".asf.yaml",
+    "path": ".asf.yaml",
+    "sha": "536402bd8d4a32d57127cbfa466ed4589061cbcb",
+    "size": 1651,
+    "url": "https://api.github.com/repos/apache/kafka/contents/.asf.yaml?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/blob/trunk/.asf.yaml",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/blobs/536402bd8d4a32d57127cbfa466ed4589061cbcb",
+    "download_url": "https://raw.githubusercontent.com/apache/kafka/trunk/.asf.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/.asf.yaml?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/blobs/536402bd8d4a32d57127cbfa466ed4589061cbcb",
+      "html": "https://github.com/apache/kafka/blob/trunk/.asf.yaml"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "6d7147a07f9dbd95411af4152d6b5298c0f7c8d6",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/.github?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/.github",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/6d7147a07f9dbd95411af4152d6b5298c0f7c8d6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/.github?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/6d7147a07f9dbd95411af4152d6b5298c0f7c8d6",
+      "html": "https://github.com/apache/kafka/tree/trunk/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "1ab8b010c2f284a4a39fd8fd29054b1a07c9be88",
+    "size": 718,
+    "url": "https://api.github.com/repos/apache/kafka/contents/.gitignore?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/blob/trunk/.gitignore",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/blobs/1ab8b010c2f284a4a39fd8fd29054b1a07c9be88",
+    "download_url": "https://raw.githubusercontent.com/apache/kafka/trunk/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/.gitignore?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/blobs/1ab8b010c2f284a4a39fd8fd29054b1a07c9be88",
+      "html": "https://github.com/apache/kafka/blob/trunk/.gitignore"
+    }
+  },
+  {
+    "name": "CONTRIBUTING.md",
+    "path": "CONTRIBUTING.md",
+    "sha": "07fd85711e005a13734353cf17ad36a44a9069d4",
+    "size": 720,
+    "url": "https://api.github.com/repos/apache/kafka/contents/CONTRIBUTING.md?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/blob/trunk/CONTRIBUTING.md",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/blobs/07fd85711e005a13734353cf17ad36a44a9069d4",
+    "download_url": "https://raw.githubusercontent.com/apache/kafka/trunk/CONTRIBUTING.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/CONTRIBUTING.md?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/blobs/07fd85711e005a13734353cf17ad36a44a9069d4",
+      "html": "https://github.com/apache/kafka/blob/trunk/CONTRIBUTING.md"
+    }
+  },
+  {
+    "name": "HEADER",
+    "path": "HEADER",
+    "sha": "8853bce32647998e4044f571503c2c5d2615a88d",
+    "size": 754,
+    "url": "https://api.github.com/repos/apache/kafka/contents/HEADER?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/blob/trunk/HEADER",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/blobs/8853bce32647998e4044f571503c2c5d2615a88d",
+    "download_url": "https://raw.githubusercontent.com/apache/kafka/trunk/HEADER",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/HEADER?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/blobs/8853bce32647998e4044f571503c2c5d2615a88d",
+      "html": "https://github.com/apache/kafka/blob/trunk/HEADER"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "d645695673349e3947e8e5ae42332d0ac3164cd7",
+    "size": 11358,
+    "url": "https://api.github.com/repos/apache/kafka/contents/LICENSE?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/blob/trunk/LICENSE",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/blobs/d645695673349e3947e8e5ae42332d0ac3164cd7",
+    "download_url": "https://raw.githubusercontent.com/apache/kafka/trunk/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/LICENSE?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/blobs/d645695673349e3947e8e5ae42332d0ac3164cd7",
+      "html": "https://github.com/apache/kafka/blob/trunk/LICENSE"
+    }
+  },
+  {
+    "name": "LICENSE-binary",
+    "path": "LICENSE-binary",
+    "sha": "7a4efd4782f02f59529b6c03bb26f624ece63a9e",
+    "size": 14686,
+    "url": "https://api.github.com/repos/apache/kafka/contents/LICENSE-binary?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/blob/trunk/LICENSE-binary",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/blobs/7a4efd4782f02f59529b6c03bb26f624ece63a9e",
+    "download_url": "https://raw.githubusercontent.com/apache/kafka/trunk/LICENSE-binary",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/LICENSE-binary?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/blobs/7a4efd4782f02f59529b6c03bb26f624ece63a9e",
+      "html": "https://github.com/apache/kafka/blob/trunk/LICENSE-binary"
+    }
+  },
+  {
+    "name": "NOTICE",
+    "path": "NOTICE",
+    "sha": "301c99863fdf76181216ed5dcb966faa12729511",
+    "size": 886,
+    "url": "https://api.github.com/repos/apache/kafka/contents/NOTICE?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/blob/trunk/NOTICE",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/blobs/301c99863fdf76181216ed5dcb966faa12729511",
+    "download_url": "https://raw.githubusercontent.com/apache/kafka/trunk/NOTICE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/NOTICE?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/blobs/301c99863fdf76181216ed5dcb966faa12729511",
+      "html": "https://github.com/apache/kafka/blob/trunk/NOTICE"
+    }
+  },
+  {
+    "name": "NOTICE-binary",
+    "path": "NOTICE-binary",
+    "sha": "54a5ffe7856c1fb2bd8e217d4d6397d4455d148b",
+    "size": 26348,
+    "url": "https://api.github.com/repos/apache/kafka/contents/NOTICE-binary?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/blob/trunk/NOTICE-binary",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/blobs/54a5ffe7856c1fb2bd8e217d4d6397d4455d148b",
+    "download_url": "https://raw.githubusercontent.com/apache/kafka/trunk/NOTICE-binary",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/NOTICE-binary?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/blobs/54a5ffe7856c1fb2bd8e217d4d6397d4455d148b",
+      "html": "https://github.com/apache/kafka/blob/trunk/NOTICE-binary"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "c67f34b9e9a798bd569e6e92b13588b21048587c",
+    "size": 14672,
+    "url": "https://api.github.com/repos/apache/kafka/contents/README.md?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/blob/trunk/README.md",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/blobs/c67f34b9e9a798bd569e6e92b13588b21048587c",
+    "download_url": "https://raw.githubusercontent.com/apache/kafka/trunk/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/README.md?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/blobs/c67f34b9e9a798bd569e6e92b13588b21048587c",
+      "html": "https://github.com/apache/kafka/blob/trunk/README.md"
+    }
+  },
+  {
+    "name": "Vagrantfile",
+    "path": "Vagrantfile",
+    "sha": "3a6b5a5afe1d99c2726b09ce2ae4512224b8b87f",
+    "size": 8268,
+    "url": "https://api.github.com/repos/apache/kafka/contents/Vagrantfile?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/blob/trunk/Vagrantfile",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/blobs/3a6b5a5afe1d99c2726b09ce2ae4512224b8b87f",
+    "download_url": "https://raw.githubusercontent.com/apache/kafka/trunk/Vagrantfile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/Vagrantfile?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/blobs/3a6b5a5afe1d99c2726b09ce2ae4512224b8b87f",
+      "html": "https://github.com/apache/kafka/blob/trunk/Vagrantfile"
+    }
+  },
+  {
+    "name": "bin",
+    "path": "bin",
+    "sha": "9796f2c67345fb4a9bcbe5a57154d136fb8a9d70",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/bin?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/bin",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/9796f2c67345fb4a9bcbe5a57154d136fb8a9d70",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/bin?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/9796f2c67345fb4a9bcbe5a57154d136fb8a9d70",
+      "html": "https://github.com/apache/kafka/tree/trunk/bin"
+    }
+  },
+  {
+    "name": "build.gradle",
+    "path": "build.gradle",
+    "sha": "770e9ec069ec45d7f859061fb8e8c12afd99b2be",
+    "size": 131634,
+    "url": "https://api.github.com/repos/apache/kafka/contents/build.gradle?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/blob/trunk/build.gradle",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/blobs/770e9ec069ec45d7f859061fb8e8c12afd99b2be",
+    "download_url": "https://raw.githubusercontent.com/apache/kafka/trunk/build.gradle",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/build.gradle?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/blobs/770e9ec069ec45d7f859061fb8e8c12afd99b2be",
+      "html": "https://github.com/apache/kafka/blob/trunk/build.gradle"
+    }
+  },
+  {
+    "name": "checkstyle",
+    "path": "checkstyle",
+    "sha": "a0038ed907f155f7fdabf9b743e3e7817b9dfecd",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/checkstyle?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/checkstyle",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/a0038ed907f155f7fdabf9b743e3e7817b9dfecd",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/checkstyle?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/a0038ed907f155f7fdabf9b743e3e7817b9dfecd",
+      "html": "https://github.com/apache/kafka/tree/trunk/checkstyle"
+    }
+  },
+  {
+    "name": "clients",
+    "path": "clients",
+    "sha": "afca414123cf1bbbffa1d5c1dd505d5e0e5af8e7",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/clients?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/clients",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/afca414123cf1bbbffa1d5c1dd505d5e0e5af8e7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/clients?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/afca414123cf1bbbffa1d5c1dd505d5e0e5af8e7",
+      "html": "https://github.com/apache/kafka/tree/trunk/clients"
+    }
+  },
+  {
+    "name": "committer-tools",
+    "path": "committer-tools",
+    "sha": "d50cf713348e144fb2b47246bf936c1b3502433c",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/committer-tools?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/committer-tools",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/d50cf713348e144fb2b47246bf936c1b3502433c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/committer-tools?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/d50cf713348e144fb2b47246bf936c1b3502433c",
+      "html": "https://github.com/apache/kafka/tree/trunk/committer-tools"
+    }
+  },
+  {
+    "name": "config",
+    "path": "config",
+    "sha": "da8fa4294c1e1c6270717315991658642377e7d2",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/config?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/config",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/da8fa4294c1e1c6270717315991658642377e7d2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/config?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/da8fa4294c1e1c6270717315991658642377e7d2",
+      "html": "https://github.com/apache/kafka/tree/trunk/config"
+    }
+  },
+  {
+    "name": "connect",
+    "path": "connect",
+    "sha": "cf0b6cb5efab9c2fa1a626c8bca8dd70225dde47",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/connect?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/connect",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/cf0b6cb5efab9c2fa1a626c8bca8dd70225dde47",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/connect?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/cf0b6cb5efab9c2fa1a626c8bca8dd70225dde47",
+      "html": "https://github.com/apache/kafka/tree/trunk/connect"
+    }
+  },
+  {
+    "name": "coordinator-common",
+    "path": "coordinator-common",
+    "sha": "6317040744e74a3780a7fa13ed9902ce945db817",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/coordinator-common?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/coordinator-common",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/6317040744e74a3780a7fa13ed9902ce945db817",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/coordinator-common?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/6317040744e74a3780a7fa13ed9902ce945db817",
+      "html": "https://github.com/apache/kafka/tree/trunk/coordinator-common"
+    }
+  },
+  {
+    "name": "core",
+    "path": "core",
+    "sha": "14ff6e6de0e1de6711a39109cc1873d2915fecae",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/core?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/core",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/14ff6e6de0e1de6711a39109cc1873d2915fecae",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/core?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/14ff6e6de0e1de6711a39109cc1873d2915fecae",
+      "html": "https://github.com/apache/kafka/tree/trunk/core"
+    }
+  },
+  {
+    "name": "doap_Kafka.rdf",
+    "path": "doap_Kafka.rdf",
+    "sha": "8dc76559a480459cdbc136c679e0c8b73b31332e",
+    "size": 3084,
+    "url": "https://api.github.com/repos/apache/kafka/contents/doap_Kafka.rdf?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/blob/trunk/doap_Kafka.rdf",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/blobs/8dc76559a480459cdbc136c679e0c8b73b31332e",
+    "download_url": "https://raw.githubusercontent.com/apache/kafka/trunk/doap_Kafka.rdf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/doap_Kafka.rdf?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/blobs/8dc76559a480459cdbc136c679e0c8b73b31332e",
+      "html": "https://github.com/apache/kafka/blob/trunk/doap_Kafka.rdf"
+    }
+  },
+  {
+    "name": "docker",
+    "path": "docker",
+    "sha": "72fb6f9af41babdd5d4e0787e253bb6324315188",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/docker?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/docker",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/72fb6f9af41babdd5d4e0787e253bb6324315188",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/docker?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/72fb6f9af41babdd5d4e0787e253bb6324315188",
+      "html": "https://github.com/apache/kafka/tree/trunk/docker"
+    }
+  },
+  {
+    "name": "docs",
+    "path": "docs",
+    "sha": "1ad0fe50e0fd3cebbff3e67200e369da9ba8da2f",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/docs?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/docs",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/1ad0fe50e0fd3cebbff3e67200e369da9ba8da2f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/docs?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/1ad0fe50e0fd3cebbff3e67200e369da9ba8da2f",
+      "html": "https://github.com/apache/kafka/tree/trunk/docs"
+    }
+  },
+  {
+    "name": "examples",
+    "path": "examples",
+    "sha": "43add68138030f23acc0713120f50dbd672a4231",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/examples?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/examples",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/43add68138030f23acc0713120f50dbd672a4231",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/examples?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/43add68138030f23acc0713120f50dbd672a4231",
+      "html": "https://github.com/apache/kafka/tree/trunk/examples"
+    }
+  },
+  {
+    "name": "generator",
+    "path": "generator",
+    "sha": "65b728cec8de70996a23e689b25e9e923c0cc05c",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/generator?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/generator",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/65b728cec8de70996a23e689b25e9e923c0cc05c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/generator?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/65b728cec8de70996a23e689b25e9e923c0cc05c",
+      "html": "https://github.com/apache/kafka/tree/trunk/generator"
+    }
+  },
+  {
+    "name": "gradle.properties",
+    "path": "gradle.properties",
+    "sha": "72afec1a567bf026b0583aea0e939d419992caa0",
+    "size": 1049,
+    "url": "https://api.github.com/repos/apache/kafka/contents/gradle.properties?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/blob/trunk/gradle.properties",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/blobs/72afec1a567bf026b0583aea0e939d419992caa0",
+    "download_url": "https://raw.githubusercontent.com/apache/kafka/trunk/gradle.properties",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/gradle.properties?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/blobs/72afec1a567bf026b0583aea0e939d419992caa0",
+      "html": "https://github.com/apache/kafka/blob/trunk/gradle.properties"
+    }
+  },
+  {
+    "name": "gradle",
+    "path": "gradle",
+    "sha": "23d94dd45415a686e373f162881d7f911cd57bb9",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/gradle?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/gradle",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/23d94dd45415a686e373f162881d7f911cd57bb9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/gradle?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/23d94dd45415a686e373f162881d7f911cd57bb9",
+      "html": "https://github.com/apache/kafka/tree/trunk/gradle"
+    }
+  },
+  {
+    "name": "gradlew",
+    "path": "gradlew",
+    "sha": "1a976af80256b68eec7a8c4d7bd73cc1eb2d89a3",
+    "size": 10206,
+    "url": "https://api.github.com/repos/apache/kafka/contents/gradlew?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/blob/trunk/gradlew",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/blobs/1a976af80256b68eec7a8c4d7bd73cc1eb2d89a3",
+    "download_url": "https://raw.githubusercontent.com/apache/kafka/trunk/gradlew",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/gradlew?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/blobs/1a976af80256b68eec7a8c4d7bd73cc1eb2d89a3",
+      "html": "https://github.com/apache/kafka/blob/trunk/gradlew"
+    }
+  },
+  {
+    "name": "gradlewAll",
+    "path": "gradlewAll",
+    "sha": "21d6d7b7525723c4a56c3cefe53cc5a07c006990",
+    "size": 1269,
+    "url": "https://api.github.com/repos/apache/kafka/contents/gradlewAll?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/blob/trunk/gradlewAll",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/blobs/21d6d7b7525723c4a56c3cefe53cc5a07c006990",
+    "download_url": "https://raw.githubusercontent.com/apache/kafka/trunk/gradlewAll",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/gradlewAll?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/blobs/21d6d7b7525723c4a56c3cefe53cc5a07c006990",
+      "html": "https://github.com/apache/kafka/blob/trunk/gradlewAll"
+    }
+  },
+  {
+    "name": "group-coordinator",
+    "path": "group-coordinator",
+    "sha": "a035159a83544a00a422de8ce865ff686f178be0",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/group-coordinator?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/group-coordinator",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/a035159a83544a00a422de8ce865ff686f178be0",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/group-coordinator?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/a035159a83544a00a422de8ce865ff686f178be0",
+      "html": "https://github.com/apache/kafka/tree/trunk/group-coordinator"
+    }
+  },
+  {
+    "name": "jmh-benchmarks",
+    "path": "jmh-benchmarks",
+    "sha": "955790b4ad70d00f786fd9f1c5e383638fffbf47",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/jmh-benchmarks?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/jmh-benchmarks",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/955790b4ad70d00f786fd9f1c5e383638fffbf47",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/jmh-benchmarks?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/955790b4ad70d00f786fd9f1c5e383638fffbf47",
+      "html": "https://github.com/apache/kafka/tree/trunk/jmh-benchmarks"
+    }
+  },
+  {
+    "name": "licenses",
+    "path": "licenses",
+    "sha": "00ab176dedf15941bc2e04bf547b21a77e052c1a",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/licenses?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/licenses",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/00ab176dedf15941bc2e04bf547b21a77e052c1a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/licenses?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/00ab176dedf15941bc2e04bf547b21a77e052c1a",
+      "html": "https://github.com/apache/kafka/tree/trunk/licenses"
+    }
+  },
+  {
+    "name": "metadata",
+    "path": "metadata",
+    "sha": "3ab1733cbaa3f94069c694102962c874a046478c",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/metadata?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/metadata",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/3ab1733cbaa3f94069c694102962c874a046478c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/metadata?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/3ab1733cbaa3f94069c694102962c874a046478c",
+      "html": "https://github.com/apache/kafka/tree/trunk/metadata"
+    }
+  },
+  {
+    "name": "raft",
+    "path": "raft",
+    "sha": "f081ed0916cd9d650404475a93d805a6c37aad09",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/raft?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/raft",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/f081ed0916cd9d650404475a93d805a6c37aad09",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/raft?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/f081ed0916cd9d650404475a93d805a6c37aad09",
+      "html": "https://github.com/apache/kafka/tree/trunk/raft"
+    }
+  },
+  {
+    "name": "release",
+    "path": "release",
+    "sha": "047da72822802570bee4b4ffdb6b33fde29c7f70",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/release?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/release",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/047da72822802570bee4b4ffdb6b33fde29c7f70",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/release?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/047da72822802570bee4b4ffdb6b33fde29c7f70",
+      "html": "https://github.com/apache/kafka/tree/trunk/release"
+    }
+  },
+  {
+    "name": "server-common",
+    "path": "server-common",
+    "sha": "c2214c94c03e7e83793fbd23b00f8b7e00c50196",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/server-common?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/server-common",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/c2214c94c03e7e83793fbd23b00f8b7e00c50196",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/server-common?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/c2214c94c03e7e83793fbd23b00f8b7e00c50196",
+      "html": "https://github.com/apache/kafka/tree/trunk/server-common"
+    }
+  },
+  {
+    "name": "server",
+    "path": "server",
+    "sha": "a426eb9b6ec1d38875d52737d07c9ff5b43fa560",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/server?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/server",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/a426eb9b6ec1d38875d52737d07c9ff5b43fa560",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/server?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/a426eb9b6ec1d38875d52737d07c9ff5b43fa560",
+      "html": "https://github.com/apache/kafka/tree/trunk/server"
+    }
+  },
+  {
+    "name": "settings.gradle",
+    "path": "settings.gradle",
+    "sha": "7c37a046838d89aa11a7121ec1267974d5172664",
+    "size": 4116,
+    "url": "https://api.github.com/repos/apache/kafka/contents/settings.gradle?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/blob/trunk/settings.gradle",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/blobs/7c37a046838d89aa11a7121ec1267974d5172664",
+    "download_url": "https://raw.githubusercontent.com/apache/kafka/trunk/settings.gradle",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/settings.gradle?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/blobs/7c37a046838d89aa11a7121ec1267974d5172664",
+      "html": "https://github.com/apache/kafka/blob/trunk/settings.gradle"
+    }
+  },
+  {
+    "name": "share-coordinator",
+    "path": "share-coordinator",
+    "sha": "6cc630d320a4ee769ea9bd5e282c622bb3dfd432",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/share-coordinator?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/share-coordinator",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/6cc630d320a4ee769ea9bd5e282c622bb3dfd432",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/share-coordinator?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/6cc630d320a4ee769ea9bd5e282c622bb3dfd432",
+      "html": "https://github.com/apache/kafka/tree/trunk/share-coordinator"
+    }
+  },
+  {
+    "name": "shell",
+    "path": "shell",
+    "sha": "7385d2c1b5a3d892bfb0982bbc4ae22078a5c052",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/shell?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/shell",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/7385d2c1b5a3d892bfb0982bbc4ae22078a5c052",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/shell?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/7385d2c1b5a3d892bfb0982bbc4ae22078a5c052",
+      "html": "https://github.com/apache/kafka/tree/trunk/shell"
+    }
+  },
+  {
+    "name": "storage",
+    "path": "storage",
+    "sha": "4832f618a3db1c399aef2d1a5706f7d1eb9ea2d4",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/storage?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/storage",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/4832f618a3db1c399aef2d1a5706f7d1eb9ea2d4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/storage?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/4832f618a3db1c399aef2d1a5706f7d1eb9ea2d4",
+      "html": "https://github.com/apache/kafka/tree/trunk/storage"
+    }
+  },
+  {
+    "name": "streams",
+    "path": "streams",
+    "sha": "7cc473d8d740d8766e11fde30f8d5f5f0fbf4781",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/streams?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/streams",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/7cc473d8d740d8766e11fde30f8d5f5f0fbf4781",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/streams?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/7cc473d8d740d8766e11fde30f8d5f5f0fbf4781",
+      "html": "https://github.com/apache/kafka/tree/trunk/streams"
+    }
+  },
+  {
+    "name": "test-common",
+    "path": "test-common",
+    "sha": "e6cf36d72fd263f94b1355242846a3e3cadb1f81",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/test-common?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/test-common",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/e6cf36d72fd263f94b1355242846a3e3cadb1f81",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/test-common?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/e6cf36d72fd263f94b1355242846a3e3cadb1f81",
+      "html": "https://github.com/apache/kafka/tree/trunk/test-common"
+    }
+  },
+  {
+    "name": "tests",
+    "path": "tests",
+    "sha": "551a3a5c5eaf252a774d3c7256b57ef113b7c003",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/tests?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/tests",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/551a3a5c5eaf252a774d3c7256b57ef113b7c003",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/tests?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/551a3a5c5eaf252a774d3c7256b57ef113b7c003",
+      "html": "https://github.com/apache/kafka/tree/trunk/tests"
+    }
+  },
+  {
+    "name": "tools",
+    "path": "tools",
+    "sha": "3fdeca19fb0e8ab42c4b91ce89f3aba923a035e3",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/tools?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/tools",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/3fdeca19fb0e8ab42c4b91ce89f3aba923a035e3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/tools?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/3fdeca19fb0e8ab42c4b91ce89f3aba923a035e3",
+      "html": "https://github.com/apache/kafka/tree/trunk/tools"
+    }
+  },
+  {
+    "name": "transaction-coordinator",
+    "path": "transaction-coordinator",
+    "sha": "a802f5a476890074a248a2dd619449c38067ff28",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/transaction-coordinator?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/transaction-coordinator",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/a802f5a476890074a248a2dd619449c38067ff28",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/transaction-coordinator?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/a802f5a476890074a248a2dd619449c38067ff28",
+      "html": "https://github.com/apache/kafka/tree/trunk/transaction-coordinator"
+    }
+  },
+  {
+    "name": "trogdor",
+    "path": "trogdor",
+    "sha": "95839c953d6e33c6274e3ae31716fdb968e242d5",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/trogdor?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/trogdor",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/95839c953d6e33c6274e3ae31716fdb968e242d5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/trogdor?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/95839c953d6e33c6274e3ae31716fdb968e242d5",
+      "html": "https://github.com/apache/kafka/tree/trunk/trogdor"
+    }
+  },
+  {
+    "name": "vagrant",
+    "path": "vagrant",
+    "sha": "49eb40e2b250f62cafe96946c3943ceeea093f83",
+    "size": 0,
+    "url": "https://api.github.com/repos/apache/kafka/contents/vagrant?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/tree/trunk/vagrant",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/trees/49eb40e2b250f62cafe96946c3943ceeea093f83",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/vagrant?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/trees/49eb40e2b250f62cafe96946c3943ceeea093f83",
+      "html": "https://github.com/apache/kafka/tree/trunk/vagrant"
+    }
+  },
+  {
+    "name": "wrapper.gradle",
+    "path": "wrapper.gradle",
+    "sha": "8afb7e7af30ba6f8fff88c20552169a9bff308c3",
+    "size": 4891,
+    "url": "https://api.github.com/repos/apache/kafka/contents/wrapper.gradle?ref=trunk",
+    "html_url": "https://github.com/apache/kafka/blob/trunk/wrapper.gradle",
+    "git_url": "https://api.github.com/repos/apache/kafka/git/blobs/8afb7e7af30ba6f8fff88c20552169a9bff308c3",
+    "download_url": "https://raw.githubusercontent.com/apache/kafka/trunk/wrapper.gradle",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apache/kafka/contents/wrapper.gradle?ref=trunk",
+      "git": "https://api.github.com/repos/apache/kafka/git/blobs/8afb7e7af30ba6f8fff88c20552169a9bff308c3",
+      "html": "https://github.com/apache/kafka/blob/trunk/wrapper.gradle"
+    }
+  }
+]

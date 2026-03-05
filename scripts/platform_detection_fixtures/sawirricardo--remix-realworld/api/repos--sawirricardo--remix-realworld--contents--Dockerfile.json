@@ -1,0 +1,18 @@
+{
+  "name": "Dockerfile",
+  "path": "Dockerfile",
+  "sha": "21529d14e124fd89ead9695de103be7463bc2391",
+  "size": 1099,
+  "url": "https://api.github.com/repos/sawirricardo/remix-realworld/contents/Dockerfile?ref=main",
+  "html_url": "https://github.com/sawirricardo/remix-realworld/blob/main/Dockerfile",
+  "git_url": "https://api.github.com/repos/sawirricardo/remix-realworld/git/blobs/21529d14e124fd89ead9695de103be7463bc2391",
+  "download_url": "https://raw.githubusercontent.com/sawirricardo/remix-realworld/main/Dockerfile",
+  "type": "file",
+  "content": "IyBiYXNlIG5vZGUgaW1hZ2UKRlJPTSBub2RlOjE2LWJ1bGxzZXllLXNsaW0g\nYXMgYmFzZQoKIyBzZXQgZm9yIGJhc2UgYW5kIGFsbCBsYXllciB0aGF0IGlu\naGVyaXQgZnJvbSBpdApFTlYgTk9ERV9FTlYgcHJvZHVjdGlvbgoKIyBJbnN0\nYWxsIG9wZW5zc2wgZm9yIFByaXNtYQpSVU4gYXB0LWdldCB1cGRhdGUgJiYg\nYXB0LWdldCBpbnN0YWxsIC15IG9wZW5zc2wKCiMgSW5zdGFsbCBhbGwgbm9k\nZV9tb2R1bGVzLCBpbmNsdWRpbmcgZGV2IGRlcGVuZGVuY2llcwpGUk9NIGJh\nc2UgYXMgZGVwcwoKV09SS0RJUiAvbXlhcHAKCkFERCBwYWNrYWdlLmpzb24g\ncGFja2FnZS1sb2NrLmpzb24gLi8KUlVOIG5wbSBpbnN0YWxsIC0tcHJvZHVj\ndGlvbj1mYWxzZQoKIyBTZXR1cCBwcm9kdWN0aW9uIG5vZGVfbW9kdWxlcwpG\nUk9NIGJhc2UgYXMgcHJvZHVjdGlvbi1kZXBzCgpXT1JLRElSIC9teWFwcAoK\nQ09QWSAtLWZyb209ZGVwcyAvbXlhcHAvbm9kZV9tb2R1bGVzIC9teWFwcC9u\nb2RlX21vZHVsZXMKQUREIHBhY2thZ2UuanNvbiBwYWNrYWdlLWxvY2suanNv\nbiAuLwpSVU4gbnBtIHBydW5lIC0tcHJvZHVjdGlvbgoKIyBCdWlsZCB0aGUg\nYXBwCkZST00gYmFzZSBhcyBidWlsZAoKV09SS0RJUiAvbXlhcHAKCkNPUFkg\nLS1mcm9tPWRlcHMgL215YXBwL25vZGVfbW9kdWxlcyAvbXlhcHAvbm9kZV9t\nb2R1bGVzCgpBREQgcHJpc21hIC4KUlVOIG5weCBwcmlzbWEgZ2VuZXJhdGUK\nCkFERCAuIC4KUlVOIG5wbSBydW4gYnVpbGQKCiMgRmluYWxseSwgYnVpbGQg\ndGhlIHByb2R1Y3Rpb24gaW1hZ2Ugd2l0aCBtaW5pbWFsIGZvb3RwcmludApG\nUk9NIGJhc2UKCldPUktESVIgL215YXBwCgpDT1BZIC0tZnJvbT1wcm9kdWN0\naW9uLWRlcHMgL215YXBwL25vZGVfbW9kdWxlcyAvbXlhcHAvbm9kZV9tb2R1\nbGVzCkNPUFkgLS1mcm9tPWJ1aWxkIC9teWFwcC9ub2RlX21vZHVsZXMvLnBy\naXNtYSAvbXlhcHAvbm9kZV9tb2R1bGVzLy5wcmlzbWEKCkNPUFkgLS1mcm9t\nPWJ1aWxkIC9teWFwcC9idWlsZCAvbXlhcHAvYnVpbGQKQ09QWSAtLWZyb209\nYnVpbGQgL215YXBwL3B1YmxpYyAvbXlhcHAvcHVibGljCkFERCAuIC4KCkNN\nRCBbIm5wbSIsICJzdGFydCJdCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/sawirricardo/remix-realworld/contents/Dockerfile?ref=main",
+    "git": "https://api.github.com/repos/sawirricardo/remix-realworld/git/blobs/21529d14e124fd89ead9695de103be7463bc2391",
+    "html": "https://github.com/sawirricardo/remix-realworld/blob/main/Dockerfile"
+  }
+}

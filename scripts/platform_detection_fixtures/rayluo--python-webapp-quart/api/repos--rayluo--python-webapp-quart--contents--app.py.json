@@ -1,0 +1,18 @@
+{
+  "name": "app.py",
+  "path": "app.py",
+  "sha": "d6fd730be299e67ff18663212ffb1fa6149b5747",
+  "size": 1450,
+  "url": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/app.py?ref=main",
+  "html_url": "https://github.com/rayluo/python-webapp-quart/blob/main/app.py",
+  "git_url": "https://api.github.com/repos/rayluo/python-webapp-quart/git/blobs/d6fd730be299e67ff18663212ffb1fa6149b5747",
+  "download_url": "https://raw.githubusercontent.com/rayluo/python-webapp-quart/main/app.py",
+  "type": "file",
+  "content": "aW1wb3J0IG9zCmltcG9ydCBodHRweApmcm9tIHF1YXJ0IGltcG9ydCBRdWFy\ndCwgcmVuZGVyX3RlbXBsYXRlCmZyb20gYXV0aCBpbXBvcnQgYXV0aAoKCl9f\ndmVyc2lvbl9fID0gIjAuMi4wIiAgIyBUaGUgdmVyc2lvbiBvZiB0aGlzIHNh\nbXBsZSwgZm9yIHRyb3VibGVzaG9vdGluZyBwdXJwb3NlCgpkZWYgY3JlYXRl\nX2FwcCgpOgogICAgYXBwID0gUXVhcnQoX19uYW1lX18pCiAgICBhcHAuY29u\nZmlnWydTRVNTSU9OX1RZUEUnXSA9ICdyZWRpcycKICAgIGFwcC5jb25maWdb\nJ1NFU1NJT05fVVJJJ10gPSAncmVkaXM6Ly9sb2NhbGhvc3Q6NjM3OScgICMg\nQXNzdW1pbmcgeW91ciBSZWRpcyBzZXJ2ZXIgaXMgaGVyZQogICAgICAgICMg\nSW4gcHJvZHVjdGlvbiwgeW91ciB3ZWIgc2VydmVycyBzaGFsbCBzaGFyZSBv\nbmUgY2VudHJhbGl6ZWQgc2Vzc2lvbiBzdG9yYWdlCiAgICBhdXRoLmluaXRf\nYXBwKGFwcCkKCiAgICAjIyBZb3UgY291bGQgYWxzbyByZWdpc3RlciBhIGJs\ndWVwcmludCBoZXJlCiAgICAjYXBwLnJlZ2lzdGVyX2JsdWVwcmludChteV9t\nb2R1bGUuYnApCgogICAgcmV0dXJuIGFwcAoKYXBwID0gY3JlYXRlX2FwcCgp\nCgpAYXBwLnJvdXRlKCIvIikKQGF1dGgubG9naW5fcmVxdWlyZWQKYXN5bmMg\nZGVmIGluZGV4KCosIGNvbnRleHQpOgogICAgcmV0dXJuIGF3YWl0IHJlbmRl\ncl90ZW1wbGF0ZSgKICAgICAgICAnaW5kZXguaHRtbCcsCiAgICAgICAgdXNl\ncj1jb250ZXh0Wyd1c2VyJ10sCiAgICAgICAgZWRpdF9wcm9maWxlX3VybD1h\ndXRoLmdldF9lZGl0X3Byb2ZpbGVfdXJsKCksCiAgICAgICAgYXBpX2VuZHBv\naW50PW9zLmdldGVudigiRU5EUE9JTlQiKSwKICAgICAgICB0aXRsZT1mIlF1\nYXJ0IFdlYiBBcHAgU2FtcGxlIHZ7X192ZXJzaW9uX199IiwKICAgICkKCkBh\ncHAucm91dGUoIi9jYWxsX2FwaSIpCkBhdXRoLmxvZ2luX3JlcXVpcmVkKHNj\nb3Blcz1vcy5nZXRlbnYoIlNDT1BFIiwgIiIpLnNwbGl0KCkpCmFzeW5jIGRl\nZiBjYWxsX2FwaSgqLCBjb250ZXh0KToKICAgIGFzeW5jIHdpdGggaHR0cHgu\nQXN5bmNDbGllbnQoKSBhcyBjbGllbnQ6CiAgICAgICAgYXBpX3Jlc3VsdCA9\nIChhd2FpdCBjbGllbnQuZ2V0KCAgIyBVc2UgYWNjZXNzIHRva2VuIHRvIGNh\nbGwgYSB3ZWIgYXBpCiAgICAgICAgICAgIG9zLmdldGVudigiRU5EUE9JTlQi\nKSwKICAgICAgICAgICAgaGVhZGVycz17J0F1dGhvcml6YXRpb24nOiAnQmVh\ncmVyICcgKyBjb250ZXh0WydhY2Nlc3NfdG9rZW4nXX0sCiAgICAgICAgKSku\nanNvbigpIGlmIGNvbnRleHQuZ2V0KCdhY2Nlc3NfdG9rZW4nKSBlbHNlICJE\naWQgeW91IGZvcmdldCB0byBzZXQgdGhlIFNDT1BFIGVudmlyb25tZW50IHZh\ncmlhYmxlPyIKICAgIHJldHVybiBhd2FpdCByZW5kZXJfdGVtcGxhdGUoJ2Rp\nc3BsYXkuaHRtbCcsIHRpdGxlPSJBUEkgUmVzcG9uc2UiLCByZXN1bHQ9YXBp\nX3Jlc3VsdCkKCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/app.py?ref=main",
+    "git": "https://api.github.com/repos/rayluo/python-webapp-quart/git/blobs/d6fd730be299e67ff18663212ffb1fa6149b5747",
+    "html": "https://github.com/rayluo/python-webapp-quart/blob/main/app.py"
+  }
+}

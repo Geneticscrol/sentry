@@ -1,0 +1,18 @@
+{
+  "name": "Gemfile",
+  "path": "Gemfile",
+  "sha": "36c61482685e8714493358833c8997c0c3c0bd55",
+  "size": 831,
+  "url": "https://api.github.com/repos/artsy/eigen/contents/Gemfile?ref=main",
+  "html_url": "https://github.com/artsy/eigen/blob/main/Gemfile",
+  "git_url": "https://api.github.com/repos/artsy/eigen/git/blobs/36c61482685e8714493358833c8997c0c3c0bd55",
+  "download_url": "https://raw.githubusercontent.com/artsy/eigen/main/Gemfile",
+  "type": "file",
+  "content": "c291cmNlICdodHRwczovL3J1YnlnZW1zLm9yZycKCnJ1YnkgIj49IDIuNi4x\nMCIKCiMgRXhjbHVkZSBwcm9ibGVtYXRpYyB2ZXJzaW9ucyBvZiBhY3RpdmVz\ndXBwb3J0IHRoYXQgY2F1c2VzIGJ1aWxkIGZhaWx1cmVzLgpnZW0gJ2NvY29h\ncG9kcycsICcxLjE2LjInCmdlbSAnYWN0aXZlc3VwcG9ydCcsICc+PSA2LjEu\nNy41JywgJyE9IDcuMS4wJwpnZW0gJ3hjb2RlcHJvaicKCiMgU28gd2Uga25v\ndyBpZiB3ZSBuZWVkIHRvIHJ1biBgcG9kIGluc3RhbGxgCmdlbSAnY29jb2Fw\nb2RzLWNoZWNrJwpnZW0gJ2NvY29hcG9kcy1wYXRjaCcsICd+PiAxLjMuMCcK\nZ2VtICdkb3duJwpnZW0gJ2RvdGVudicKZ2VtICdqc29uJwoKIyBSdWJ5IDMu\nNC4wIGhhcyByZW1vdmVkIHNvbWUgbGlicmFyaWVzIGZyb20gdGhlIHN0YW5k\nYXJkIGxpYnJhcnkuCmdlbSAnYmlnZGVjaW1hbCcKZ2VtICdsb2dnZXInCmdl\nbSAnYmVuY2htYXJrJwpnZW0gJ211dGV4X20nCgpncm91cCA6ZGV2ZWxvcG1l\nbnQgZG8KICBnZW0gJ2xvd2Rvd24nICMgRm9yIGhhbmRsaW5nIG5vdGlmaWNh\ndGlvbnMgKyBjZXJ0cwplbmQKCmdyb3VwIDp0ZXN0IGRvCiAgZ2VtICd4Y29k\nZS1pbnN0YWxsJyAjIFRvIGVuc3VyZSB3ZSBoYXZlIHRoZSByaWdodCBTREsg\naW5zdGFsbGVkIGZvciBydW5uaW5nIHRlc3RzCiAgZ2VtICd4Y3ByZXR0eScg\nIyBNYWtlcyBDSSByZWFkYWJsZQplbmQKCnBsdWdpbnNfcGF0aCA9IEZpbGUu\nam9pbihGaWxlLmRpcm5hbWUoX19GSUxFX18pLCAnZmFzdGxhbmUnLCAnUGx1\nZ2luZmlsZScpCmV2YWxfZ2VtZmlsZShwbHVnaW5zX3BhdGgpIGlmIEZpbGUu\nZXhpc3Q/KHBsdWdpbnNfcGF0aCkK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/artsy/eigen/contents/Gemfile?ref=main",
+    "git": "https://api.github.com/repos/artsy/eigen/git/blobs/36c61482685e8714493358833c8997c0c3c0bd55",
+    "html": "https://github.com/artsy/eigen/blob/main/Gemfile"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "requirements.txt",
+  "path": "requirements.txt",
+  "sha": "68540b7ec19e379a2373c7abfb68dd8c8066e6ef",
+  "size": 241,
+  "url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/requirements.txt?ref=master",
+  "html_url": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/requirements.txt",
+  "git_url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/68540b7ec19e379a2373c7abfb68dd8c8066e6ef",
+  "download_url": "https://raw.githubusercontent.com/codefresh-contrib/python-flask-sample-app/master/requirements.txt",
+  "type": "file",
+  "content": "Y2xpY2s9PTcuMCAgICAgICAgICAgICAgICAjIHZpYSBmbGFzawpmbGFzaz09\nMS4xLjEgICAgICAgICAgICAgICMgdmlhIGZsYXNrciAoc2V0dXAucHkpCml0\nc2Rhbmdlcm91cz09MS4xLjAgICAgICAgIyB2aWEgZmxhc2sKamluamEyPT0y\nLjExLjEgICAgICAgICAgICAjIHZpYSBmbGFzawptYXJrdXBzYWZlPT0xLjEu\nMSAgICAgICAgICMgdmlhIGppbmphMgp3ZXJremV1Zz09MS4wLjAgICAgICAg\nICAgICMgdmlhIGZsYXNrCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/requirements.txt?ref=master",
+    "git": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/68540b7ec19e379a2373c7abfb68dd8c8066e6ef",
+    "html": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/requirements.txt"
+  }
+}

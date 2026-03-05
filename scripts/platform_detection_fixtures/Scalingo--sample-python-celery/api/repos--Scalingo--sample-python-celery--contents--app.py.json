@@ -1,0 +1,18 @@
+{
+  "name": "app.py",
+  "path": "app.py",
+  "sha": "87123f18fbd86f3724599f88e3e84b0fcbc36cb4",
+  "size": 535,
+  "url": "https://api.github.com/repos/Scalingo/sample-python-celery/contents/app.py?ref=master",
+  "html_url": "https://github.com/Scalingo/sample-python-celery/blob/master/app.py",
+  "git_url": "https://api.github.com/repos/Scalingo/sample-python-celery/git/blobs/87123f18fbd86f3724599f88e3e84b0fcbc36cb4",
+  "download_url": "https://raw.githubusercontent.com/Scalingo/sample-python-celery/master/app.py",
+  "type": "file",
+  "content": "aW1wb3J0IG9zCmZyb20gZmxhc2sgaW1wb3J0IEZsYXNrCmZyb20gZmxhc2sg\naW1wb3J0IHJlbmRlcl90ZW1wbGF0ZQpmcm9tIGZsYXNrIGltcG9ydCByZXF1\nZXN0CmZyb20gY2VsZXJ5IGltcG9ydCBDZWxlcnkKCmFwcCA9IEZsYXNrKF9f\nbmFtZV9fKQoKY2VsZXJ5ID0gQ2VsZXJ5KGFwcC5uYW1lLCBicm9rZXI9b3Mu\nZW52aXJvblsnUkVESVNfVVJMJ10pCmNlbGVyeS5jb25mLnVwZGF0ZShicm9r\nZXJfdXJsPW9zLmVudmlyb25bJ1JFRElTX1VSTCddLCByZXN1bHRfYmFja2Vu\nZD1vcy5lbnZpcm9uWydSRURJU19VUkwnXSkKCkBjZWxlcnkudGFzawpkZWYg\naGVsbG8obmFtZSk6CiAgICByZXR1cm4gIkhlbGxvICIrbmFtZQoKQGFwcC5y\nb3V0ZSgiLyIpCmRlZiByb290KCk6CiAgICBuYW1lID0gcmVxdWVzdC5hcmdz\nLmdldCgnbmFtZScsICdKb2huIERvZScpCiAgICByZXN1bHQgPSBoZWxsby5k\nZWxheShuYW1lKQogICAgcmVzdWx0LndhaXQoKQogICAgcmV0dXJuIHJlbmRl\ncl90ZW1wbGF0ZSgnaW5kZXguaHRtbCcsIGNlbGVyeT1yZXN1bHQpCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/Scalingo/sample-python-celery/contents/app.py?ref=master",
+    "git": "https://api.github.com/repos/Scalingo/sample-python-celery/git/blobs/87123f18fbd86f3724599f88e3e84b0fcbc36cb4",
+    "html": "https://github.com/Scalingo/sample-python-celery/blob/master/app.py"
+  }
+}

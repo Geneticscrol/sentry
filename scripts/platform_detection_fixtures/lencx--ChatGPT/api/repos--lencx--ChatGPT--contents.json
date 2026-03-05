@@ -1,0 +1,290 @@
+[
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "515498a2a3d14d86da67e947d255ebdd19c03f60",
+    "size": 269,
+    "url": "https://api.github.com/repos/lencx/ChatGPT/contents/.gitignore?ref=v2-dev",
+    "html_url": "https://github.com/lencx/ChatGPT/blob/v2-dev/.gitignore",
+    "git_url": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/515498a2a3d14d86da67e947d255ebdd19c03f60",
+    "download_url": "https://raw.githubusercontent.com/lencx/ChatGPT/v2-dev/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lencx/ChatGPT/contents/.gitignore?ref=v2-dev",
+      "git": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/515498a2a3d14d86da67e947d255ebdd19c03f60",
+      "html": "https://github.com/lencx/ChatGPT/blob/v2-dev/.gitignore"
+    }
+  },
+  {
+    "name": ".vscode",
+    "path": ".vscode",
+    "sha": "05335488aa68335b16859fef727a8232419c014a",
+    "size": 0,
+    "url": "https://api.github.com/repos/lencx/ChatGPT/contents/.vscode?ref=v2-dev",
+    "html_url": "https://github.com/lencx/ChatGPT/tree/v2-dev/.vscode",
+    "git_url": "https://api.github.com/repos/lencx/ChatGPT/git/trees/05335488aa68335b16859fef727a8232419c014a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/lencx/ChatGPT/contents/.vscode?ref=v2-dev",
+      "git": "https://api.github.com/repos/lencx/ChatGPT/git/trees/05335488aa68335b16859fef727a8232419c014a",
+      "html": "https://github.com/lencx/ChatGPT/tree/v2-dev/.vscode"
+    }
+  },
+  {
+    "name": "Cargo.lock",
+    "path": "Cargo.lock",
+    "sha": "7b81166758f89195d0e0e82dd4a2acf39522ad14",
+    "size": 124746,
+    "url": "https://api.github.com/repos/lencx/ChatGPT/contents/Cargo.lock?ref=v2-dev",
+    "html_url": "https://github.com/lencx/ChatGPT/blob/v2-dev/Cargo.lock",
+    "git_url": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/7b81166758f89195d0e0e82dd4a2acf39522ad14",
+    "download_url": "https://raw.githubusercontent.com/lencx/ChatGPT/v2-dev/Cargo.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lencx/ChatGPT/contents/Cargo.lock?ref=v2-dev",
+      "git": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/7b81166758f89195d0e0e82dd4a2acf39522ad14",
+      "html": "https://github.com/lencx/ChatGPT/blob/v2-dev/Cargo.lock"
+    }
+  },
+  {
+    "name": "Cargo.toml",
+    "path": "Cargo.toml",
+    "sha": "835df23b25c59933bb2044cd2e4e6cbe4697cbce",
+    "size": 231,
+    "url": "https://api.github.com/repos/lencx/ChatGPT/contents/Cargo.toml?ref=v2-dev",
+    "html_url": "https://github.com/lencx/ChatGPT/blob/v2-dev/Cargo.toml",
+    "git_url": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/835df23b25c59933bb2044cd2e4e6cbe4697cbce",
+    "download_url": "https://raw.githubusercontent.com/lencx/ChatGPT/v2-dev/Cargo.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lencx/ChatGPT/contents/Cargo.toml?ref=v2-dev",
+      "git": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/835df23b25c59933bb2044cd2e4e6cbe4697cbce",
+      "html": "https://github.com/lencx/ChatGPT/blob/v2-dev/Cargo.toml"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "0ff797cd7e0d3c8c0312d5a3ad8fd0563b9a7944",
+    "size": 1813,
+    "url": "https://api.github.com/repos/lencx/ChatGPT/contents/README.md?ref=v2-dev",
+    "html_url": "https://github.com/lencx/ChatGPT/blob/v2-dev/README.md",
+    "git_url": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/0ff797cd7e0d3c8c0312d5a3ad8fd0563b9a7944",
+    "download_url": "https://raw.githubusercontent.com/lencx/ChatGPT/v2-dev/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lencx/ChatGPT/contents/README.md?ref=v2-dev",
+      "git": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/0ff797cd7e0d3c8c0312d5a3ad8fd0563b9a7944",
+      "html": "https://github.com/lencx/ChatGPT/blob/v2-dev/README.md"
+    }
+  },
+  {
+    "name": "docs",
+    "path": "docs",
+    "sha": "22d98cbe7b1fb4abe412f24c430bdf4972d84234",
+    "size": 0,
+    "url": "https://api.github.com/repos/lencx/ChatGPT/contents/docs?ref=v2-dev",
+    "html_url": "https://github.com/lencx/ChatGPT/tree/v2-dev/docs",
+    "git_url": "https://api.github.com/repos/lencx/ChatGPT/git/trees/22d98cbe7b1fb4abe412f24c430bdf4972d84234",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/lencx/ChatGPT/contents/docs?ref=v2-dev",
+      "git": "https://api.github.com/repos/lencx/ChatGPT/git/trees/22d98cbe7b1fb4abe412f24c430bdf4972d84234",
+      "html": "https://github.com/lencx/ChatGPT/tree/v2-dev/docs"
+    }
+  },
+  {
+    "name": "index.html",
+    "path": "index.html",
+    "sha": "06c47f6ae2f461e9e7ce1a60940994354cfdbf00",
+    "size": 294,
+    "url": "https://api.github.com/repos/lencx/ChatGPT/contents/index.html?ref=v2-dev",
+    "html_url": "https://github.com/lencx/ChatGPT/blob/v2-dev/index.html",
+    "git_url": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/06c47f6ae2f461e9e7ce1a60940994354cfdbf00",
+    "download_url": "https://raw.githubusercontent.com/lencx/ChatGPT/v2-dev/index.html",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lencx/ChatGPT/contents/index.html?ref=v2-dev",
+      "git": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/06c47f6ae2f461e9e7ce1a60940994354cfdbf00",
+      "html": "https://github.com/lencx/ChatGPT/blob/v2-dev/index.html"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "be5a6187b3abe8a2e4b1683b38d6a0d78106812f",
+    "size": 990,
+    "url": "https://api.github.com/repos/lencx/ChatGPT/contents/package.json?ref=v2-dev",
+    "html_url": "https://github.com/lencx/ChatGPT/blob/v2-dev/package.json",
+    "git_url": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/be5a6187b3abe8a2e4b1683b38d6a0d78106812f",
+    "download_url": "https://raw.githubusercontent.com/lencx/ChatGPT/v2-dev/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lencx/ChatGPT/contents/package.json?ref=v2-dev",
+      "git": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/be5a6187b3abe8a2e4b1683b38d6a0d78106812f",
+      "html": "https://github.com/lencx/ChatGPT/blob/v2-dev/package.json"
+    }
+  },
+  {
+    "name": "pnpm-lock.yaml",
+    "path": "pnpm-lock.yaml",
+    "sha": "5e9eb82e301c6bab4ae51ee4fe67e97c0910b206",
+    "size": 70488,
+    "url": "https://api.github.com/repos/lencx/ChatGPT/contents/pnpm-lock.yaml?ref=v2-dev",
+    "html_url": "https://github.com/lencx/ChatGPT/blob/v2-dev/pnpm-lock.yaml",
+    "git_url": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/5e9eb82e301c6bab4ae51ee4fe67e97c0910b206",
+    "download_url": "https://raw.githubusercontent.com/lencx/ChatGPT/v2-dev/pnpm-lock.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lencx/ChatGPT/contents/pnpm-lock.yaml?ref=v2-dev",
+      "git": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/5e9eb82e301c6bab4ae51ee4fe67e97c0910b206",
+      "html": "https://github.com/lencx/ChatGPT/blob/v2-dev/pnpm-lock.yaml"
+    }
+  },
+  {
+    "name": "postcss.config.js",
+    "path": "postcss.config.js",
+    "sha": "e99ebc2c0e00cc37de4cefee2bf2a332abb73d8d",
+    "size": 79,
+    "url": "https://api.github.com/repos/lencx/ChatGPT/contents/postcss.config.js?ref=v2-dev",
+    "html_url": "https://github.com/lencx/ChatGPT/blob/v2-dev/postcss.config.js",
+    "git_url": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/e99ebc2c0e00cc37de4cefee2bf2a332abb73d8d",
+    "download_url": "https://raw.githubusercontent.com/lencx/ChatGPT/v2-dev/postcss.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lencx/ChatGPT/contents/postcss.config.js?ref=v2-dev",
+      "git": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/e99ebc2c0e00cc37de4cefee2bf2a332abb73d8d",
+      "html": "https://github.com/lencx/ChatGPT/blob/v2-dev/postcss.config.js"
+    }
+  },
+  {
+    "name": "public",
+    "path": "public",
+    "sha": "e51658d34fcd8e6d41786a30572d2e46e3946147",
+    "size": 0,
+    "url": "https://api.github.com/repos/lencx/ChatGPT/contents/public?ref=v2-dev",
+    "html_url": "https://github.com/lencx/ChatGPT/tree/v2-dev/public",
+    "git_url": "https://api.github.com/repos/lencx/ChatGPT/git/trees/e51658d34fcd8e6d41786a30572d2e46e3946147",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/lencx/ChatGPT/contents/public?ref=v2-dev",
+      "git": "https://api.github.com/repos/lencx/ChatGPT/git/trees/e51658d34fcd8e6d41786a30572d2e46e3946147",
+      "html": "https://github.com/lencx/ChatGPT/tree/v2-dev/public"
+    }
+  },
+  {
+    "name": "rustfmt.toml",
+    "path": "rustfmt.toml",
+    "sha": "21b886c2c4ef7362f83f0510671c75f44722e781",
+    "size": 333,
+    "url": "https://api.github.com/repos/lencx/ChatGPT/contents/rustfmt.toml?ref=v2-dev",
+    "html_url": "https://github.com/lencx/ChatGPT/blob/v2-dev/rustfmt.toml",
+    "git_url": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/21b886c2c4ef7362f83f0510671c75f44722e781",
+    "download_url": "https://raw.githubusercontent.com/lencx/ChatGPT/v2-dev/rustfmt.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lencx/ChatGPT/contents/rustfmt.toml?ref=v2-dev",
+      "git": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/21b886c2c4ef7362f83f0510671c75f44722e781",
+      "html": "https://github.com/lencx/ChatGPT/blob/v2-dev/rustfmt.toml"
+    }
+  },
+  {
+    "name": "src-tauri",
+    "path": "src-tauri",
+    "sha": "5fb24bb3e567d47c549d1cbfd0bcf0d8d8d58694",
+    "size": 0,
+    "url": "https://api.github.com/repos/lencx/ChatGPT/contents/src-tauri?ref=v2-dev",
+    "html_url": "https://github.com/lencx/ChatGPT/tree/v2-dev/src-tauri",
+    "git_url": "https://api.github.com/repos/lencx/ChatGPT/git/trees/5fb24bb3e567d47c549d1cbfd0bcf0d8d8d58694",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/lencx/ChatGPT/contents/src-tauri?ref=v2-dev",
+      "git": "https://api.github.com/repos/lencx/ChatGPT/git/trees/5fb24bb3e567d47c549d1cbfd0bcf0d8d8d58694",
+      "html": "https://github.com/lencx/ChatGPT/tree/v2-dev/src-tauri"
+    }
+  },
+  {
+    "name": "src",
+    "path": "src",
+    "sha": "7e4020dff182e776e4ef6d41bdb5c9ae38ff85dd",
+    "size": 0,
+    "url": "https://api.github.com/repos/lencx/ChatGPT/contents/src?ref=v2-dev",
+    "html_url": "https://github.com/lencx/ChatGPT/tree/v2-dev/src",
+    "git_url": "https://api.github.com/repos/lencx/ChatGPT/git/trees/7e4020dff182e776e4ef6d41bdb5c9ae38ff85dd",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/lencx/ChatGPT/contents/src?ref=v2-dev",
+      "git": "https://api.github.com/repos/lencx/ChatGPT/git/trees/7e4020dff182e776e4ef6d41bdb5c9ae38ff85dd",
+      "html": "https://github.com/lencx/ChatGPT/tree/v2-dev/src"
+    }
+  },
+  {
+    "name": "tailwind.config.js",
+    "path": "tailwind.config.js",
+    "sha": "2c29ca55e3a92e7d7f112b727fd79d67b7b75d0f",
+    "size": 461,
+    "url": "https://api.github.com/repos/lencx/ChatGPT/contents/tailwind.config.js?ref=v2-dev",
+    "html_url": "https://github.com/lencx/ChatGPT/blob/v2-dev/tailwind.config.js",
+    "git_url": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/2c29ca55e3a92e7d7f112b727fd79d67b7b75d0f",
+    "download_url": "https://raw.githubusercontent.com/lencx/ChatGPT/v2-dev/tailwind.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lencx/ChatGPT/contents/tailwind.config.js?ref=v2-dev",
+      "git": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/2c29ca55e3a92e7d7f112b727fd79d67b7b75d0f",
+      "html": "https://github.com/lencx/ChatGPT/blob/v2-dev/tailwind.config.js"
+    }
+  },
+  {
+    "name": "tsconfig.json",
+    "path": "tsconfig.json",
+    "sha": "acca54367b43d48d343e6caec9cecdcf113e3573",
+    "size": 891,
+    "url": "https://api.github.com/repos/lencx/ChatGPT/contents/tsconfig.json?ref=v2-dev",
+    "html_url": "https://github.com/lencx/ChatGPT/blob/v2-dev/tsconfig.json",
+    "git_url": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/acca54367b43d48d343e6caec9cecdcf113e3573",
+    "download_url": "https://raw.githubusercontent.com/lencx/ChatGPT/v2-dev/tsconfig.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lencx/ChatGPT/contents/tsconfig.json?ref=v2-dev",
+      "git": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/acca54367b43d48d343e6caec9cecdcf113e3573",
+      "html": "https://github.com/lencx/ChatGPT/blob/v2-dev/tsconfig.json"
+    }
+  },
+  {
+    "name": "tsconfig.node.json",
+    "path": "tsconfig.node.json",
+    "sha": "42872c59f5b01c9155864572bc2fbd5833a7406c",
+    "size": 213,
+    "url": "https://api.github.com/repos/lencx/ChatGPT/contents/tsconfig.node.json?ref=v2-dev",
+    "html_url": "https://github.com/lencx/ChatGPT/blob/v2-dev/tsconfig.node.json",
+    "git_url": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/42872c59f5b01c9155864572bc2fbd5833a7406c",
+    "download_url": "https://raw.githubusercontent.com/lencx/ChatGPT/v2-dev/tsconfig.node.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lencx/ChatGPT/contents/tsconfig.node.json?ref=v2-dev",
+      "git": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/42872c59f5b01c9155864572bc2fbd5833a7406c",
+      "html": "https://github.com/lencx/ChatGPT/blob/v2-dev/tsconfig.node.json"
+    }
+  },
+  {
+    "name": "vite.config.ts",
+    "path": "vite.config.ts",
+    "sha": "3e90ebd2cf8d541db4d189d2b38c40243786d6de",
+    "size": 655,
+    "url": "https://api.github.com/repos/lencx/ChatGPT/contents/vite.config.ts?ref=v2-dev",
+    "html_url": "https://github.com/lencx/ChatGPT/blob/v2-dev/vite.config.ts",
+    "git_url": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/3e90ebd2cf8d541db4d189d2b38c40243786d6de",
+    "download_url": "https://raw.githubusercontent.com/lencx/ChatGPT/v2-dev/vite.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lencx/ChatGPT/contents/vite.config.ts?ref=v2-dev",
+      "git": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/3e90ebd2cf8d541db4d189d2b38c40243786d6de",
+      "html": "https://github.com/lencx/ChatGPT/blob/v2-dev/vite.config.ts"
+    }
+  }
+]

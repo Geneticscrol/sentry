@@ -1,0 +1,18 @@
+{
+  "name": ".nvmrc",
+  "path": ".nvmrc",
+  "sha": "493319d27c4269529ee484f28a5db931e81132b9",
+  "size": 8,
+  "url": "https://api.github.com/repos/gothinkster/ember-realworld/contents/.nvmrc?ref=master",
+  "html_url": "https://github.com/gothinkster/ember-realworld/blob/master/.nvmrc",
+  "git_url": "https://api.github.com/repos/gothinkster/ember-realworld/git/blobs/493319d27c4269529ee484f28a5db931e81132b9",
+  "download_url": "https://raw.githubusercontent.com/gothinkster/ember-realworld/master/.nvmrc",
+  "type": "file",
+  "content": "MTIuMTYuMwo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/gothinkster/ember-realworld/contents/.nvmrc?ref=master",
+    "git": "https://api.github.com/repos/gothinkster/ember-realworld/git/blobs/493319d27c4269529ee484f28a5db931e81132b9",
+    "html": "https://github.com/gothinkster/ember-realworld/blob/master/.nvmrc"
+  }
+}

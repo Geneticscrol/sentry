@@ -1,0 +1,18 @@
+{
+  "name": ".nvmrc",
+  "path": ".nvmrc",
+  "sha": "25bf17fc5aaabd17402e77a2b16f95fbea7310d2",
+  "size": 2,
+  "url": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.nvmrc?ref=master",
+  "html_url": "https://github.com/conventional-changelog/commitlint/blob/master/.nvmrc",
+  "git_url": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/25bf17fc5aaabd17402e77a2b16f95fbea7310d2",
+  "download_url": "https://raw.githubusercontent.com/conventional-changelog/commitlint/master/.nvmrc",
+  "type": "file",
+  "content": "MTg=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/conventional-changelog/commitlint/contents/.nvmrc?ref=master",
+    "git": "https://api.github.com/repos/conventional-changelog/commitlint/git/blobs/25bf17fc5aaabd17402e77a2b16f95fbea7310d2",
+    "html": "https://github.com/conventional-changelog/commitlint/blob/master/.nvmrc"
+  }
+}

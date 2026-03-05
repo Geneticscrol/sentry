@@ -1,0 +1,402 @@
+[
+  {
+    "name": ".deepsource.toml",
+    "path": ".deepsource.toml",
+    "sha": "900fdbf879a2b66c162e5eb7b6ea1516779c7ffb",
+    "size": 257,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/.deepsource.toml?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/blob/develop/.deepsource.toml",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/900fdbf879a2b66c162e5eb7b6ea1516779c7ffb",
+    "download_url": "https://raw.githubusercontent.com/JioTV-Go/jiotv_go/develop/.deepsource.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/.deepsource.toml?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/900fdbf879a2b66c162e5eb7b6ea1516779c7ffb",
+      "html": "https://github.com/JioTV-Go/jiotv_go/blob/develop/.deepsource.toml"
+    }
+  },
+  {
+    "name": ".devcontainer",
+    "path": ".devcontainer",
+    "sha": "1d4616899b2b6eb549f44a563a713f6a9f8fe2c3",
+    "size": 0,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/.devcontainer?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/tree/develop/.devcontainer",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/trees/1d4616899b2b6eb549f44a563a713f6a9f8fe2c3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/.devcontainer?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/trees/1d4616899b2b6eb549f44a563a713f6a9f8fe2c3",
+      "html": "https://github.com/JioTV-Go/jiotv_go/tree/develop/.devcontainer"
+    }
+  },
+  {
+    "name": ".dockerignore",
+    "path": ".dockerignore",
+    "sha": "b8451836a6cf969d4fb08af19019aa986f40398e",
+    "size": 747,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/.dockerignore?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/blob/develop/.dockerignore",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/b8451836a6cf969d4fb08af19019aa986f40398e",
+    "download_url": "https://raw.githubusercontent.com/JioTV-Go/jiotv_go/develop/.dockerignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/.dockerignore?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/b8451836a6cf969d4fb08af19019aa986f40398e",
+      "html": "https://github.com/JioTV-Go/jiotv_go/blob/develop/.dockerignore"
+    }
+  },
+  {
+    "name": ".gitattributes",
+    "path": ".gitattributes",
+    "sha": "d23446e8f18c867df763646f3d7bd00e7375d9f7",
+    "size": 74,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/.gitattributes?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/blob/develop/.gitattributes",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/d23446e8f18c867df763646f3d7bd00e7375d9f7",
+    "download_url": "https://raw.githubusercontent.com/JioTV-Go/jiotv_go/develop/.gitattributes",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/.gitattributes?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/d23446e8f18c867df763646f3d7bd00e7375d9f7",
+      "html": "https://github.com/JioTV-Go/jiotv_go/blob/develop/.gitattributes"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "e39474bb7adfb0d7b4801876007f2d6bbacdb07c",
+    "size": 0,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/.github?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/tree/develop/.github",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/trees/e39474bb7adfb0d7b4801876007f2d6bbacdb07c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/.github?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/trees/e39474bb7adfb0d7b4801876007f2d6bbacdb07c",
+      "html": "https://github.com/JioTV-Go/jiotv_go/tree/develop/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "236f14a8a88794488bfb43918feb0013d1dd17e8",
+    "size": 891,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/.gitignore?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/blob/develop/.gitignore",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/236f14a8a88794488bfb43918feb0013d1dd17e8",
+    "download_url": "https://raw.githubusercontent.com/JioTV-Go/jiotv_go/develop/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/.gitignore?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/236f14a8a88794488bfb43918feb0013d1dd17e8",
+      "html": "https://github.com/JioTV-Go/jiotv_go/blob/develop/.gitignore"
+    }
+  },
+  {
+    "name": ".vscode",
+    "path": ".vscode",
+    "sha": "dd21517483c6c7b98d30c10077850c7af74aebdf",
+    "size": 0,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/.vscode?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/tree/develop/.vscode",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/trees/dd21517483c6c7b98d30c10077850c7af74aebdf",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/.vscode?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/trees/dd21517483c6c7b98d30c10077850c7af74aebdf",
+      "html": "https://github.com/JioTV-Go/jiotv_go/tree/develop/.vscode"
+    }
+  },
+  {
+    "name": "CODE_OF_CONDUCT.md",
+    "path": "CODE_OF_CONDUCT.md",
+    "sha": "a24f19974044d5d9e05b038be9f8f3383d50336a",
+    "size": 5234,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/CODE_OF_CONDUCT.md?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/blob/develop/CODE_OF_CONDUCT.md",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/a24f19974044d5d9e05b038be9f8f3383d50336a",
+    "download_url": "https://raw.githubusercontent.com/JioTV-Go/jiotv_go/develop/CODE_OF_CONDUCT.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/CODE_OF_CONDUCT.md?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/a24f19974044d5d9e05b038be9f8f3383d50336a",
+      "html": "https://github.com/JioTV-Go/jiotv_go/blob/develop/CODE_OF_CONDUCT.md"
+    }
+  },
+  {
+    "name": "CONTRIBUTING.md",
+    "path": "CONTRIBUTING.md",
+    "sha": "c49bb7c77508ddb76749431b0a65ec1bfc38b05c",
+    "size": 3734,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/CONTRIBUTING.md?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/blob/develop/CONTRIBUTING.md",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/c49bb7c77508ddb76749431b0a65ec1bfc38b05c",
+    "download_url": "https://raw.githubusercontent.com/JioTV-Go/jiotv_go/develop/CONTRIBUTING.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/CONTRIBUTING.md?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/c49bb7c77508ddb76749431b0a65ec1bfc38b05c",
+      "html": "https://github.com/JioTV-Go/jiotv_go/blob/develop/CONTRIBUTING.md"
+    }
+  },
+  {
+    "name": "Dockerfile",
+    "path": "Dockerfile",
+    "sha": "2a8cdd7c693fa83f3cd454dd65ef5c5e859cdf6e",
+    "size": 1134,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/Dockerfile?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/blob/develop/Dockerfile",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/2a8cdd7c693fa83f3cd454dd65ef5c5e859cdf6e",
+    "download_url": "https://raw.githubusercontent.com/JioTV-Go/jiotv_go/develop/Dockerfile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/Dockerfile?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/2a8cdd7c693fa83f3cd454dd65ef5c5e859cdf6e",
+      "html": "https://github.com/JioTV-Go/jiotv_go/blob/develop/Dockerfile"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "d22fda5f828375109a1e566acd24a896cae77b11",
+    "size": 18021,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/LICENSE?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/blob/develop/LICENSE",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/d22fda5f828375109a1e566acd24a896cae77b11",
+    "download_url": "https://raw.githubusercontent.com/JioTV-Go/jiotv_go/develop/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/LICENSE?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/d22fda5f828375109a1e566acd24a896cae77b11",
+      "html": "https://github.com/JioTV-Go/jiotv_go/blob/develop/LICENSE"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "e72a948da02473828a44fb806deadaf3a9470a38",
+    "size": 4200,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/README.md?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/blob/develop/README.md",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/e72a948da02473828a44fb806deadaf3a9470a38",
+    "download_url": "https://raw.githubusercontent.com/JioTV-Go/jiotv_go/develop/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/README.md?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/e72a948da02473828a44fb806deadaf3a9470a38",
+      "html": "https://github.com/JioTV-Go/jiotv_go/blob/develop/README.md"
+    }
+  },
+  {
+    "name": "VERSION",
+    "path": "VERSION",
+    "sha": "fb201f7029b83456a5d80c433641f14b9e90eae8",
+    "size": 8,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/VERSION?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/blob/develop/VERSION",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/fb201f7029b83456a5d80c433641f14b9e90eae8",
+    "download_url": "https://raw.githubusercontent.com/JioTV-Go/jiotv_go/develop/VERSION",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/VERSION?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/fb201f7029b83456a5d80c433641f14b9e90eae8",
+      "html": "https://github.com/JioTV-Go/jiotv_go/blob/develop/VERSION"
+    }
+  },
+  {
+    "name": "cmd",
+    "path": "cmd",
+    "sha": "2457861d5fbf06ec48ae95cd0b3a11cc8b25d532",
+    "size": 0,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/cmd?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/tree/develop/cmd",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/trees/2457861d5fbf06ec48ae95cd0b3a11cc8b25d532",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/cmd?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/trees/2457861d5fbf06ec48ae95cd0b3a11cc8b25d532",
+      "html": "https://github.com/JioTV-Go/jiotv_go/tree/develop/cmd"
+    }
+  },
+  {
+    "name": "configs",
+    "path": "configs",
+    "sha": "8b46a7413f0b35e3f198a8677f049b94eda9a0cd",
+    "size": 0,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/configs?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/tree/develop/configs",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/trees/8b46a7413f0b35e3f198a8677f049b94eda9a0cd",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/configs?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/trees/8b46a7413f0b35e3f198a8677f049b94eda9a0cd",
+      "html": "https://github.com/JioTV-Go/jiotv_go/tree/develop/configs"
+    }
+  },
+  {
+    "name": "dev.Dockerfile",
+    "path": "dev.Dockerfile",
+    "sha": "789f450f52b3d62cf48f7df9e5f7a38a2f850313",
+    "size": 471,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/dev.Dockerfile?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/blob/develop/dev.Dockerfile",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/789f450f52b3d62cf48f7df9e5f7a38a2f850313",
+    "download_url": "https://raw.githubusercontent.com/JioTV-Go/jiotv_go/develop/dev.Dockerfile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/dev.Dockerfile?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/789f450f52b3d62cf48f7df9e5f7a38a2f850313",
+      "html": "https://github.com/JioTV-Go/jiotv_go/blob/develop/dev.Dockerfile"
+    }
+  },
+  {
+    "name": "docker-compose.yml",
+    "path": "docker-compose.yml",
+    "sha": "54b25b8735c8856410a7cdfc6f96e6b50e7aa299",
+    "size": 250,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/docker-compose.yml?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/blob/develop/docker-compose.yml",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/54b25b8735c8856410a7cdfc6f96e6b50e7aa299",
+    "download_url": "https://raw.githubusercontent.com/JioTV-Go/jiotv_go/develop/docker-compose.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/docker-compose.yml?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/54b25b8735c8856410a7cdfc6f96e6b50e7aa299",
+      "html": "https://github.com/JioTV-Go/jiotv_go/blob/develop/docker-compose.yml"
+    }
+  },
+  {
+    "name": "docs",
+    "path": "docs",
+    "sha": "2f1d1fe65425a40dd29caf7e35018c1dbcae275f",
+    "size": 0,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/docs?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/tree/develop/docs",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/trees/2f1d1fe65425a40dd29caf7e35018c1dbcae275f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/docs?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/trees/2f1d1fe65425a40dd29caf7e35018c1dbcae275f",
+      "html": "https://github.com/JioTV-Go/jiotv_go/tree/develop/docs"
+    }
+  },
+  {
+    "name": "go.mod",
+    "path": "go.mod",
+    "sha": "0f699d1f4332af93a0be985d4643371acba874d3",
+    "size": 1651,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/go.mod?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/blob/develop/go.mod",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/0f699d1f4332af93a0be985d4643371acba874d3",
+    "download_url": "https://raw.githubusercontent.com/JioTV-Go/jiotv_go/develop/go.mod",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/go.mod?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/0f699d1f4332af93a0be985d4643371acba874d3",
+      "html": "https://github.com/JioTV-Go/jiotv_go/blob/develop/go.mod"
+    }
+  },
+  {
+    "name": "go.sum",
+    "path": "go.sum",
+    "sha": "a3f02ae89b04fc16f62e65c492958526814a8342",
+    "size": 7033,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/go.sum?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/blob/develop/go.sum",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/a3f02ae89b04fc16f62e65c492958526814a8342",
+    "download_url": "https://raw.githubusercontent.com/JioTV-Go/jiotv_go/develop/go.sum",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/go.sum?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/a3f02ae89b04fc16f62e65c492958526814a8342",
+      "html": "https://github.com/JioTV-Go/jiotv_go/blob/develop/go.sum"
+    }
+  },
+  {
+    "name": "internal",
+    "path": "internal",
+    "sha": "e37aa412e1e3c0486908493c8184a010ba7f549e",
+    "size": 0,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/internal?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/tree/develop/internal",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/trees/e37aa412e1e3c0486908493c8184a010ba7f549e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/internal?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/trees/e37aa412e1e3c0486908493c8184a010ba7f549e",
+      "html": "https://github.com/JioTV-Go/jiotv_go/tree/develop/internal"
+    }
+  },
+  {
+    "name": "main.go",
+    "path": "main.go",
+    "sha": "9f4c11496d830e8c894907a329a4fa05288a8d3b",
+    "size": 7548,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/main.go?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/blob/develop/main.go",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/9f4c11496d830e8c894907a329a4fa05288a8d3b",
+    "download_url": "https://raw.githubusercontent.com/JioTV-Go/jiotv_go/develop/main.go",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/main.go?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/9f4c11496d830e8c894907a329a4fa05288a8d3b",
+      "html": "https://github.com/JioTV-Go/jiotv_go/blob/develop/main.go"
+    }
+  },
+  {
+    "name": "pkg",
+    "path": "pkg",
+    "sha": "1f945c381eaf8c3adf824fd347774fc882bd0bef",
+    "size": 0,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/pkg?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/tree/develop/pkg",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/trees/1f945c381eaf8c3adf824fd347774fc882bd0bef",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/pkg?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/trees/1f945c381eaf8c3adf824fd347774fc882bd0bef",
+      "html": "https://github.com/JioTV-Go/jiotv_go/tree/develop/pkg"
+    }
+  },
+  {
+    "name": "scripts",
+    "path": "scripts",
+    "sha": "055572472994498d1ff7b2bc255b5f1d6829ed0a",
+    "size": 0,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/scripts?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/tree/develop/scripts",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/trees/055572472994498d1ff7b2bc255b5f1d6829ed0a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/scripts?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/trees/055572472994498d1ff7b2bc255b5f1d6829ed0a",
+      "html": "https://github.com/JioTV-Go/jiotv_go/tree/develop/scripts"
+    }
+  },
+  {
+    "name": "web",
+    "path": "web",
+    "sha": "36a9d53ac7344f9bef33f6439f0e2d86952e6b7c",
+    "size": 0,
+    "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/web?ref=develop",
+    "html_url": "https://github.com/JioTV-Go/jiotv_go/tree/develop/web",
+    "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/trees/36a9d53ac7344f9bef33f6439f0e2d86952e6b7c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/web?ref=develop",
+      "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/trees/36a9d53ac7344f9bef33f6439f0e2d86952e6b7c",
+      "html": "https://github.com/JioTV-Go/jiotv_go/tree/develop/web"
+    }
+  }
+]

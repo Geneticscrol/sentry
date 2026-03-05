@@ -1,0 +1,18 @@
+{
+  "name": "svelte.config.js",
+  "path": "svelte.config.js",
+  "sha": "36cc4ccf03557e360b31d6aa8a68b793f841342e",
+  "size": 209,
+  "url": "https://api.github.com/repos/sveltejs/realworld/contents/svelte.config.js?ref=master",
+  "html_url": "https://github.com/sveltejs/realworld/blob/master/svelte.config.js",
+  "git_url": "https://api.github.com/repos/sveltejs/realworld/git/blobs/36cc4ccf03557e360b31d6aa8a68b793f841342e",
+  "download_url": "https://raw.githubusercontent.com/sveltejs/realworld/master/svelte.config.js",
+  "type": "file",
+  "content": "aW1wb3J0IGFkYXB0ZXIgZnJvbSAnQHN2ZWx0ZWpzL2FkYXB0ZXItdmVyY2Vs\nJzsKCi8qKiBAdHlwZSB7aW1wb3J0KCdAc3ZlbHRlanMva2l0JykuQ29uZmln\nfSAqLwpjb25zdCBjb25maWcgPSB7Cgljb21waWxlck9wdGlvbnM6IHsKCQly\ndW5lczogdHJ1ZQoJfSwKCWtpdDogewoJCWFkYXB0ZXI6IGFkYXB0ZXIoKQoJ\nfQp9OwoKZXhwb3J0IGRlZmF1bHQgY29uZmlnOwo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/sveltejs/realworld/contents/svelte.config.js?ref=master",
+    "git": "https://api.github.com/repos/sveltejs/realworld/git/blobs/36cc4ccf03557e360b31d6aa8a68b793f841342e",
+    "html": "https://github.com/sveltejs/realworld/blob/master/svelte.config.js"
+  }
+}

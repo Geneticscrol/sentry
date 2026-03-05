@@ -1,0 +1,18 @@
+{
+  "name": "package.json",
+  "path": "package.json",
+  "sha": "c070dfcc54e8fe803800bcd2da762bdb19dbb1d6",
+  "size": 1456,
+  "url": "https://api.github.com/repos/gothinkster/vue-realworld-example-app/contents/package.json?ref=master",
+  "html_url": "https://github.com/gothinkster/vue-realworld-example-app/blob/master/package.json",
+  "git_url": "https://api.github.com/repos/gothinkster/vue-realworld-example-app/git/blobs/c070dfcc54e8fe803800bcd2da762bdb19dbb1d6",
+  "download_url": "https://raw.githubusercontent.com/gothinkster/vue-realworld-example-app/master/package.json",
+  "type": "file",
+  "content": "ewogICJhdXRob3IiOiAiRW1tYW51ZWwgVmlsc2JvbCA8ZW1tYW51ZWxAdmls\nc2JvbC5jb20+IiwKICAiZGVwZW5kZW5jaWVzIjogewogICAgImF4aW9zIjog\nIl4wLjE5LjAiLAogICAgImRhdGUtZm5zIjogIl4xLjMwLjEiLAogICAgIm1h\ncmtlZCI6ICJeMC43LjAiLAogICAgInJlZ2lzdGVyLXNlcnZpY2Utd29ya2Vy\nIjogIl4xLjYuMiIsCiAgICAidnVlIjogIl4yLjYuMTAiLAogICAgInZ1ZS1h\neGlvcyI6ICJeMi4xLjQiLAogICAgInZ1ZS1yb3V0ZXIiOiAiXjMuMS4zIiwK\nICAgICJ2dWV4IjogIl4zLjEuMSIKICB9LAogICJkZXNjcmlwdGlvbiI6ICJU\nb2RvTVZDIGZvciB0aGUgUmVhbFdvcmxk4oSiIiwKICAiZGV2RGVwZW5kZW5j\naWVzIjogewogICAgIkBiYWJlbC9jb3JlIjogIl43LjYuMiIsCiAgICAiQGJh\nYmVsL3ByZXNldC1lbnYiOiAiXjcuNi4yIiwKICAgICJAdnVlL2NsaS1wbHVn\naW4tYmFiZWwiOiAiXjMuMTIuMCIsCiAgICAiQHZ1ZS9jbGktcGx1Z2luLWVz\nbGludCI6ICJeMy4xMC4wIiwKICAgICJAdnVlL2NsaS1wbHVnaW4tcHdhIjog\nIl4zLjEwLjAiLAogICAgIkB2dWUvY2xpLXBsdWdpbi11bml0LWplc3QiOiAi\nXjMuMTAuMCIsCiAgICAiQHZ1ZS9jbGktc2VydmljZSI6ICJeMy4xMC4wIiwK\nICAgICJAdnVlL2VzbGludC1jb25maWctcHJldHRpZXIiOiAiXjQuMC4xIiwK\nICAgICJAdnVlL3Rlc3QtdXRpbHMiOiAiXjEuMC4wLWJldGEuMjkiLAogICAg\nImJhYmVsLWNvcmUiOiAiNy4wLjAtYnJpZGdlLjAiLAogICAgImJhYmVsLWpl\nc3QiOiAiXjI0LjkuMCIsCiAgICAiY3Jvc3MtZW52IjogIl42LjAuMyIsCiAg\nICAibGludC1zdGFnZWQiOiAiXjguMi4xIiwKICAgICJub2RlLXNhc3MiOiAi\nXjQuMTIuMCIsCiAgICAibnljIjogIl4xNC4xLjEiLAogICAgInNhc3MtbG9h\nZGVyIjogIl43LjEuMCIsCiAgICAidnVlLXRlbXBsYXRlLWNvbXBpbGVyIjog\nIl4yLjYuMTAiCiAgfSwKICAiZ2l0SG9va3MiOiB7CiAgICAicHJlLWNvbW1p\ndCI6ICJsaW50LXN0YWdlZCIKICB9LAogICJsaW50LXN0YWdlZCI6IHsKICAg\nICIqLmpzIjogWwogICAgICAidnVlLWNsaS1zZXJ2aWNlIGxpbnQiLAogICAg\nICAiZ2l0IGFkZCIKICAgIF0sCiAgICAiKi52dWUiOiBbCiAgICAgICJ2dWUt\nY2xpLXNlcnZpY2UgbGludCIsCiAgICAgICJnaXQgYWRkIgogICAgXQogIH0s\nCiAgIm5hbWUiOiAicmVhbHdvcmxkLXZ1ZSIsCiAgInNjcmlwdHMiOiB7CiAg\nICAiYnVpbGQiOiAiY3Jvc3MtZW52IEJBQkVMX0VOVj1kZXYgdnVlLWNsaS1z\nZXJ2aWNlIGJ1aWxkIiwKICAgICJsaW50IjogInZ1ZS1jbGktc2VydmljZSBs\naW50IiwKICAgICJzZXJ2ZSI6ICJjcm9zcy1lbnYgQkFCRUxfRU5WPWRldiB2\ndWUtY2xpLXNlcnZpY2Ugc2VydmUiLAogICAgInRlc3QiOiAiY3Jvc3MtZW52\nIEJBQkVMX0VOVj10ZXN0IGplc3QgLS1jb3ZlcmFnZSIKICB9LAogICJ2ZXJz\naW9uIjogIjAuMS4wIgp9Cg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/gothinkster/vue-realworld-example-app/contents/package.json?ref=master",
+    "git": "https://api.github.com/repos/gothinkster/vue-realworld-example-app/git/blobs/c070dfcc54e8fe803800bcd2da762bdb19dbb1d6",
+    "html": "https://github.com/gothinkster/vue-realworld-example-app/blob/master/package.json"
+  }
+}

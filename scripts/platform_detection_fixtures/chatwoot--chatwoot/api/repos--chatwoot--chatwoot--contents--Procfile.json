@@ -1,0 +1,18 @@
+{
+  "name": "Procfile",
+  "path": "Procfile",
+  "sha": "f281f018a1091db117eedc14c9464cb760be39f1",
+  "size": 283,
+  "url": "https://api.github.com/repos/chatwoot/chatwoot/contents/Procfile?ref=develop",
+  "html_url": "https://github.com/chatwoot/chatwoot/blob/develop/Procfile",
+  "git_url": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/f281f018a1091db117eedc14c9464cb760be39f1",
+  "download_url": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/Procfile",
+  "type": "file",
+  "content": "cmVsZWFzZTogUE9TVEdSRVNfU1RBVEVNRU5UX1RJTUVPVVQ9NjAwcyBidW5k\nbGUgZXhlYyByYWlscyBkYjpjaGF0d29vdF9wcmVwYXJlICYmIGVjaG8gJFNP\nVVJDRV9WRVJTSU9OID4gLmdpdF9zaGEKd2ViOiBidW5kbGUgZXhlYyByYWls\ncyBpcF9sb29rdXA6c2V0dXAgJiYgYmluL3JhaWxzIHNlcnZlciAtcCAkUE9S\nVCAtZSAkUkFJTFNfRU5WCndvcmtlcjogYnVuZGxlIGV4ZWMgcmFpbHMgaXBf\nbG9va3VwOnNldHVwICYmIGJ1bmRsZSBleGVjIHNpZGVraXEgLUMgY29uZmln\nL3NpZGVraXEueW1sCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/chatwoot/chatwoot/contents/Procfile?ref=develop",
+    "git": "https://api.github.com/repos/chatwoot/chatwoot/git/blobs/f281f018a1091db117eedc14c9464cb760be39f1",
+    "html": "https://github.com/chatwoot/chatwoot/blob/develop/Procfile"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "pyproject.toml",
+  "path": "pyproject.toml",
+  "sha": "62f59b67fe729b38e3a0f3330eaac4065243b141",
+  "size": 318,
+  "url": "https://api.github.com/repos/alysivji/falcon-batteries-included/contents/pyproject.toml?ref=master",
+  "html_url": "https://github.com/alysivji/falcon-batteries-included/blob/master/pyproject.toml",
+  "git_url": "https://api.github.com/repos/alysivji/falcon-batteries-included/git/blobs/62f59b67fe729b38e3a0f3330eaac4065243b141",
+  "download_url": "https://raw.githubusercontent.com/alysivji/falcon-batteries-included/master/pyproject.toml",
+  "type": "file",
+  "content": "W3Rvb2wuYmxhY2tdCmxpbmUtbGVuZ3RoID0gODgKcHkzNiA9IHRydWUKaW5j\nbHVkZSA9ICdcLnB5aT8kJwpleGNsdWRlID0gJycnCi8oCiAgICBcLmdpdAog\nIHwgXC5oZwogIHwgXC5teXB5X2NhY2hlCiAgfCBcLnRveAogIHwgXC52ZW52\nCiAgfCBfYnVpbGQKICB8IGJ1Y2stb3V0CiAgfCBidWlsZAogIHwgZGlzdAoK\nICAjIFRoZSBmb2xsb3dpbmcgYXJlIHNwZWNpZmljIHRvIEJsYWNrLCB5b3Ug\ncHJvYmFibHkgZG9uJ3Qgd2FudCB0aG9zZS4KICB8IGJsaWIydG8zCiAgfCB0\nZXN0cy9kYXRhCgogICMgVXNlciBhZGRlZAogIHwgbWlncmF0aW9ucwopLwon\nJycK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/alysivji/falcon-batteries-included/contents/pyproject.toml?ref=master",
+    "git": "https://api.github.com/repos/alysivji/falcon-batteries-included/git/blobs/62f59b67fe729b38e3a0f3330eaac4065243b141",
+    "html": "https://github.com/alysivji/falcon-batteries-included/blob/master/pyproject.toml"
+  }
+}

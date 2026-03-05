@@ -1,0 +1,162 @@
+[
+  {
+    "name": ".gitattributes",
+    "path": ".gitattributes",
+    "sha": "35a7bf1c76dc62758d76bcbdfb3c902aad572e9e",
+    "size": 2146,
+    "url": "https://api.github.com/repos/Unity-Technologies/FPSSample/contents/.gitattributes?ref=master",
+    "html_url": "https://github.com/Unity-Technologies/FPSSample/blob/master/.gitattributes",
+    "git_url": "https://api.github.com/repos/Unity-Technologies/FPSSample/git/blobs/35a7bf1c76dc62758d76bcbdfb3c902aad572e9e",
+    "download_url": "https://raw.githubusercontent.com/Unity-Technologies/FPSSample/master/.gitattributes",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Unity-Technologies/FPSSample/contents/.gitattributes?ref=master",
+      "git": "https://api.github.com/repos/Unity-Technologies/FPSSample/git/blobs/35a7bf1c76dc62758d76bcbdfb3c902aad572e9e",
+      "html": "https://github.com/Unity-Technologies/FPSSample/blob/master/.gitattributes"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "4d13fe0929764f908dc576d9ac30fa12d077ce99",
+    "size": 180,
+    "url": "https://api.github.com/repos/Unity-Technologies/FPSSample/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/Unity-Technologies/FPSSample/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/Unity-Technologies/FPSSample/git/blobs/4d13fe0929764f908dc576d9ac30fa12d077ce99",
+    "download_url": "https://raw.githubusercontent.com/Unity-Technologies/FPSSample/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Unity-Technologies/FPSSample/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/Unity-Technologies/FPSSample/git/blobs/4d13fe0929764f908dc576d9ac30fa12d077ce99",
+      "html": "https://github.com/Unity-Technologies/FPSSample/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": "Assets",
+    "path": "Assets",
+    "sha": "9d1bbad6f895aedabf01fc21a4c87b1eea2b0a72",
+    "size": 0,
+    "url": "https://api.github.com/repos/Unity-Technologies/FPSSample/contents/Assets?ref=master",
+    "html_url": "https://github.com/Unity-Technologies/FPSSample/tree/master/Assets",
+    "git_url": "https://api.github.com/repos/Unity-Technologies/FPSSample/git/trees/9d1bbad6f895aedabf01fc21a4c87b1eea2b0a72",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Unity-Technologies/FPSSample/contents/Assets?ref=master",
+      "git": "https://api.github.com/repos/Unity-Technologies/FPSSample/git/trees/9d1bbad6f895aedabf01fc21a4c87b1eea2b0a72",
+      "html": "https://github.com/Unity-Technologies/FPSSample/tree/master/Assets"
+    }
+  },
+  {
+    "name": "CHANGELOG.md",
+    "path": "CHANGELOG.md",
+    "sha": "cd7c3e70916bdef7b5b14aa88b8e1d20b628d0ee",
+    "size": 10063,
+    "url": "https://api.github.com/repos/Unity-Technologies/FPSSample/contents/CHANGELOG.md?ref=master",
+    "html_url": "https://github.com/Unity-Technologies/FPSSample/blob/master/CHANGELOG.md",
+    "git_url": "https://api.github.com/repos/Unity-Technologies/FPSSample/git/blobs/cd7c3e70916bdef7b5b14aa88b8e1d20b628d0ee",
+    "download_url": "https://raw.githubusercontent.com/Unity-Technologies/FPSSample/master/CHANGELOG.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Unity-Technologies/FPSSample/contents/CHANGELOG.md?ref=master",
+      "git": "https://api.github.com/repos/Unity-Technologies/FPSSample/git/blobs/cd7c3e70916bdef7b5b14aa88b8e1d20b628d0ee",
+      "html": "https://github.com/Unity-Technologies/FPSSample/blob/master/CHANGELOG.md"
+    }
+  },
+  {
+    "name": "CONTRIBUTING.md",
+    "path": "CONTRIBUTING.md",
+    "sha": "eea4bc516188609e06adaac12ffff13e77d1aa71",
+    "size": 844,
+    "url": "https://api.github.com/repos/Unity-Technologies/FPSSample/contents/CONTRIBUTING.md?ref=master",
+    "html_url": "https://github.com/Unity-Technologies/FPSSample/blob/master/CONTRIBUTING.md",
+    "git_url": "https://api.github.com/repos/Unity-Technologies/FPSSample/git/blobs/eea4bc516188609e06adaac12ffff13e77d1aa71",
+    "download_url": "https://raw.githubusercontent.com/Unity-Technologies/FPSSample/master/CONTRIBUTING.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Unity-Technologies/FPSSample/contents/CONTRIBUTING.md?ref=master",
+      "git": "https://api.github.com/repos/Unity-Technologies/FPSSample/git/blobs/eea4bc516188609e06adaac12ffff13e77d1aa71",
+      "html": "https://github.com/Unity-Technologies/FPSSample/blob/master/CONTRIBUTING.md"
+    }
+  },
+  {
+    "name": "Documentation",
+    "path": "Documentation",
+    "sha": "eea849df7667a79ea2731d36b49c067005a6bfac",
+    "size": 0,
+    "url": "https://api.github.com/repos/Unity-Technologies/FPSSample/contents/Documentation?ref=master",
+    "html_url": "https://github.com/Unity-Technologies/FPSSample/tree/master/Documentation",
+    "git_url": "https://api.github.com/repos/Unity-Technologies/FPSSample/git/trees/eea849df7667a79ea2731d36b49c067005a6bfac",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Unity-Technologies/FPSSample/contents/Documentation?ref=master",
+      "git": "https://api.github.com/repos/Unity-Technologies/FPSSample/git/trees/eea849df7667a79ea2731d36b49c067005a6bfac",
+      "html": "https://github.com/Unity-Technologies/FPSSample/tree/master/Documentation"
+    }
+  },
+  {
+    "name": "LICENSE.md",
+    "path": "LICENSE.md",
+    "sha": "a7b7d556d999b0b47270f1cea8af953cf2852662",
+    "size": 460,
+    "url": "https://api.github.com/repos/Unity-Technologies/FPSSample/contents/LICENSE.md?ref=master",
+    "html_url": "https://github.com/Unity-Technologies/FPSSample/blob/master/LICENSE.md",
+    "git_url": "https://api.github.com/repos/Unity-Technologies/FPSSample/git/blobs/a7b7d556d999b0b47270f1cea8af953cf2852662",
+    "download_url": "https://raw.githubusercontent.com/Unity-Technologies/FPSSample/master/LICENSE.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Unity-Technologies/FPSSample/contents/LICENSE.md?ref=master",
+      "git": "https://api.github.com/repos/Unity-Technologies/FPSSample/git/blobs/a7b7d556d999b0b47270f1cea8af953cf2852662",
+      "html": "https://github.com/Unity-Technologies/FPSSample/blob/master/LICENSE.md"
+    }
+  },
+  {
+    "name": "Packages",
+    "path": "Packages",
+    "sha": "3eb4879422f407b15b3539505bc525c44eeb15be",
+    "size": 0,
+    "url": "https://api.github.com/repos/Unity-Technologies/FPSSample/contents/Packages?ref=master",
+    "html_url": "https://github.com/Unity-Technologies/FPSSample/tree/master/Packages",
+    "git_url": "https://api.github.com/repos/Unity-Technologies/FPSSample/git/trees/3eb4879422f407b15b3539505bc525c44eeb15be",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Unity-Technologies/FPSSample/contents/Packages?ref=master",
+      "git": "https://api.github.com/repos/Unity-Technologies/FPSSample/git/trees/3eb4879422f407b15b3539505bc525c44eeb15be",
+      "html": "https://github.com/Unity-Technologies/FPSSample/tree/master/Packages"
+    }
+  },
+  {
+    "name": "ProjectSettings",
+    "path": "ProjectSettings",
+    "sha": "f4c40a7325e6f9c99b19aaa279dac809f232a208",
+    "size": 0,
+    "url": "https://api.github.com/repos/Unity-Technologies/FPSSample/contents/ProjectSettings?ref=master",
+    "html_url": "https://github.com/Unity-Technologies/FPSSample/tree/master/ProjectSettings",
+    "git_url": "https://api.github.com/repos/Unity-Technologies/FPSSample/git/trees/f4c40a7325e6f9c99b19aaa279dac809f232a208",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Unity-Technologies/FPSSample/contents/ProjectSettings?ref=master",
+      "git": "https://api.github.com/repos/Unity-Technologies/FPSSample/git/trees/f4c40a7325e6f9c99b19aaa279dac809f232a208",
+      "html": "https://github.com/Unity-Technologies/FPSSample/tree/master/ProjectSettings"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "90d629012197b470513b3ccbfa0940404b9fde16",
+    "size": 6697,
+    "url": "https://api.github.com/repos/Unity-Technologies/FPSSample/contents/README.md?ref=master",
+    "html_url": "https://github.com/Unity-Technologies/FPSSample/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/Unity-Technologies/FPSSample/git/blobs/90d629012197b470513b3ccbfa0940404b9fde16",
+    "download_url": "https://raw.githubusercontent.com/Unity-Technologies/FPSSample/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Unity-Technologies/FPSSample/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/Unity-Technologies/FPSSample/git/blobs/90d629012197b470513b3ccbfa0940404b9fde16",
+      "html": "https://github.com/Unity-Technologies/FPSSample/blob/master/README.md"
+    }
+  }
+]

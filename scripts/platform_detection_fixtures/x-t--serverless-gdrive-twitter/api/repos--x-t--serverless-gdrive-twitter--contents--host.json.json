@@ -1,0 +1,18 @@
+{
+  "name": "host.json",
+  "path": "host.json",
+  "sha": "6ab664374ff11d08a643cb44853d9f6b4d8acb94",
+  "size": 289,
+  "url": "https://api.github.com/repos/x-t/serverless-gdrive-twitter/contents/host.json?ref=main",
+  "html_url": "https://github.com/x-t/serverless-gdrive-twitter/blob/main/host.json",
+  "git_url": "https://api.github.com/repos/x-t/serverless-gdrive-twitter/git/blobs/6ab664374ff11d08a643cb44853d9f6b4d8acb94",
+  "download_url": "https://raw.githubusercontent.com/x-t/serverless-gdrive-twitter/main/host.json",
+  "type": "file",
+  "content": "ewogICJ2ZXJzaW9uIjogIjIuMCIsCiAgImxvZ2dpbmciOiB7CiAgICAiYXBw\nbGljYXRpb25JbnNpZ2h0cyI6IHsKICAgICAgInNhbXBsaW5nU2V0dGluZ3Mi\nOiB7CiAgICAgICAgImlzRW5hYmxlZCI6IHRydWUsCiAgICAgICAgImV4Y2x1\nZGVkVHlwZXMiOiAiUmVxdWVzdCIKICAgICAgfQogICAgfQogIH0sCiAgImV4\ndGVuc2lvbkJ1bmRsZSI6IHsKICAgICJpZCI6ICJNaWNyb3NvZnQuQXp1cmUu\nRnVuY3Rpb25zLkV4dGVuc2lvbkJ1bmRsZSIsCiAgICAidmVyc2lvbiI6ICJb\nMS4qLCAyLjAuMCkiCiAgfQp9Cg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/x-t/serverless-gdrive-twitter/contents/host.json?ref=main",
+    "git": "https://api.github.com/repos/x-t/serverless-gdrive-twitter/git/blobs/6ab664374ff11d08a643cb44853d9f6b4d8acb94",
+    "html": "https://github.com/x-t/serverless-gdrive-twitter/blob/main/host.json"
+  }
+}

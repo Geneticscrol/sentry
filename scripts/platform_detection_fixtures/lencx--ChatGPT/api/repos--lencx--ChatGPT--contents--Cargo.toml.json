@@ -1,0 +1,18 @@
+{
+  "name": "Cargo.toml",
+  "path": "Cargo.toml",
+  "sha": "835df23b25c59933bb2044cd2e4e6cbe4697cbce",
+  "size": 231,
+  "url": "https://api.github.com/repos/lencx/ChatGPT/contents/Cargo.toml?ref=v2-dev",
+  "html_url": "https://github.com/lencx/ChatGPT/blob/v2-dev/Cargo.toml",
+  "git_url": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/835df23b25c59933bb2044cd2e4e6cbe4697cbce",
+  "download_url": "https://raw.githubusercontent.com/lencx/ChatGPT/v2-dev/Cargo.toml",
+  "type": "file",
+  "content": "W3dvcmtzcGFjZV0KcmVzb2x2ZXIgPSAiMiIKbWVtYmVycyA9IFsic3JjLXRh\ndXJpIl0KCiMgaHR0cHM6Ly92Mi50YXVyaS5hcHAvdGVzdC93ZWJkcml2ZXIv\nZXhhbXBsZS8jYWRkaW5nLXRhdXJpLXRvLXRoZS1jYXJnby1wcm9qZWN0Cltw\ncm9maWxlLnJlbGVhc2VdCmluY3JlbWVudGFsID0gZmFsc2UKY29kZWdlbi11\nbml0cyA9IDEKcGFuaWMgPSAiYWJvcnQiCm9wdC1sZXZlbCA9ICJzIgpsdG8g\nPSB0cnVl\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/lencx/ChatGPT/contents/Cargo.toml?ref=v2-dev",
+    "git": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/835df23b25c59933bb2044cd2e4e6cbe4697cbce",
+    "html": "https://github.com/lencx/ChatGPT/blob/v2-dev/Cargo.toml"
+  }
+}

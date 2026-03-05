@@ -1,0 +1,18 @@
+{
+  "name": "package.json",
+  "path": "package.json",
+  "sha": "3d542b31676db4c7b54944f82b9471afaa8869d5",
+  "size": 1344,
+  "url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/package.json?ref=main",
+  "html_url": "https://github.com/devinivy/hapipal-realworld-example-app/blob/main/package.json",
+  "git_url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/blobs/3d542b31676db4c7b54944f82b9471afaa8869d5",
+  "download_url": "https://raw.githubusercontent.com/devinivy/hapipal-realworld-example-app/main/package.json",
+  "type": "file",
+  "content": "ewogICJuYW1lIjogImhhcGlwYWwtcmVhbHdvcmxkLWV4YW1wbGUtYXBwIiwK\nICAidmVyc2lvbiI6ICIwLjAuMCIsCiAgImRlc2NyaXB0aW9uIjogIkV4ZW1w\nbGFyeSByZWFsIHdvcmxkIGFwcGxpY2F0aW9uIGJ1aWx0IHdpdGggaGFwaSBw\nYWwiLAogICJhdXRob3IiOiAiRGV2aW4gSXZ5IDxkZXZpbkBiaWdyb29tc3R1\nZGlvcy5jb20+IiwKICAibGljZW5zZSI6ICJNSVQiLAogICJtYWluIjogImxp\nYi9pbmRleC5qcyIsCiAgImVuZ2luZXMiOiB7CiAgICAibm9kZSI6ICIxMi54\nLngiCiAgfSwKICAiZGlyZWN0b3JpZXMiOiB7CiAgICAibGliIjogImxpYiIs\nCiAgICAidGVzdCI6ICJ0ZXN0IgogIH0sCiAgInNjcmlwdHMiOiB7CiAgICAi\nc3RhcnQiOiAibm9kZSBzZXJ2ZXIiLAogICAgInRlc3QiOiAibGFiIC1hIEBo\nYXBpL2NvZGUgLUwiLAogICAgImxpbnQiOiAiZXNsaW50IC4iCiAgfSwKICAi\nZGVwZW5kZW5jaWVzIjogewogICAgIkBoYXBpL2Jvb20iOiAiOS54LngiLAog\nICAgIkBoYXBpL2JvdW5jZSI6ICIyLngueCIsCiAgICAiQGhhcGkvZ2x1ZSI6\nICI4LngueCIsCiAgICAiQGhhcGkvaGFwaSI6ICIyMC54LngiLAogICAgIkBo\nYXBpL2hvZWsiOiAiOS54LngiLAogICAgIkBoYXBpL2p3dCI6ICIyLngueCIs\nCiAgICAiQGhhcGlwYWwvYXZvY2F0IjogIjMueC54IiwKICAgICJAaGFwaXBh\nbC9jb25maWRlbmNlIjogIjYueC54IiwKICAgICJAaGFwaXBhbC9oYXV0ZS1j\nb3V0dXJlIjogIjQueC54IiwKICAgICJAaGFwaXBhbC9zY2htZXJ2aWNlIjog\nIjIueC54IiwKICAgICJAaGFwaXBhbC9zY2h3aWZ0eSI6ICI2LngueCIsCiAg\nICAiQGhhcGlwYWwvdG95cyI6ICIzLngueCIsCiAgICAiZG90ZW52IjogIjgu\neC54IiwKICAgICJleGl0aW5nIjogIjYueC54IiwKICAgICJqb2kiOiAiMTcu\neC54IiwKICAgICJrbmV4IjogIjAuMjEueCIsCiAgICAib2JqZWN0aW9uIjog\nIjIueC54IiwKICAgICJyYW5kb21zdHJpbmciOiAiMS54LngiLAogICAgInNl\nY3VyZS1wYXNzd29yZCI6ICI0LngueCIsCiAgICAic2x1Z2lmeSI6ICIxLngu\neCIsCiAgICAic3FsaXRlMyI6ICI1LngueCIKICB9LAogICJkZXZEZXBlbmRl\nbmNpZXMiOiB7CiAgICAiQGhhcGkvY29kZSI6ICI4LngueCIsCiAgICAiQGhh\ncGkvZXNsaW50LWNvbmZpZy1oYXBpIjogIjEzLngueCIsCiAgICAiQGhhcGkv\nZXNsaW50LXBsdWdpbi1oYXBpIjogIjQueC54IiwKICAgICJAaGFwaS9sYWIi\nOiAiMjQueC54IiwKICAgICJAaGFwaXBhbC9ocGFsIjogIjMueC54IiwKICAg\nICJAaGFwaXBhbC9ocGFsLWRlYnVnIjogIjIueC54IiwKICAgICJlc2xpbnQi\nOiAiNy54LngiLAogICAgIm5ld21hbiI6ICI1LngueCIKICB9Cn0K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/package.json?ref=main",
+    "git": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/blobs/3d542b31676db4c7b54944f82b9471afaa8869d5",
+    "html": "https://github.com/devinivy/hapipal-realworld-example-app/blob/main/package.json"
+  }
+}

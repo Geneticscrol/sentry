@@ -1,0 +1,18 @@
+{
+  "name": "package.json",
+  "path": "package.json",
+  "sha": "ef3f6d4c48c0fa110b15482cc40e78adf6dd2b2d",
+  "size": 513,
+  "url": "https://api.github.com/repos/joeyworld/realworld-serverless-python/contents/package.json?ref=master",
+  "html_url": "https://github.com/joeyworld/realworld-serverless-python/blob/master/package.json",
+  "git_url": "https://api.github.com/repos/joeyworld/realworld-serverless-python/git/blobs/ef3f6d4c48c0fa110b15482cc40e78adf6dd2b2d",
+  "download_url": "https://raw.githubusercontent.com/joeyworld/realworld-serverless-python/master/package.json",
+  "type": "file",
+  "content": "ewogICJuYW1lIjogInJlYWx3b3JsZCIsCiAgInZlcnNpb24iOiAiMS4wLjAi\nLAogICJkZXNjcmlwdGlvbiI6ICJSZWFsd29ybGQgZXhhbXBsZSBhcHAgc2Vy\ndmVybGVzcyBweXRob24gaW1wbGVtZW50YXRpb24iLAogICJtYWluIjogImlu\nZGV4LmpzIiwKICAic2NyaXB0cyI6IHsKICAgICJ0ZXN0IjogInB5dGhvbiAt\nbSB1bml0dGVzdCBhcGkvKiovdGVzdHMucHkgLS12ZXJib3NlIC0tbG9jYWxz\nIgogIH0sCiAgImtleXdvcmRzIjogWwogICAgIlJlYWx3b3JsZCBleGFtcGxl\nIGFwcCIsCiAgICAiQ29uZHVpdCIsCiAgICAiQVdTIExhbWJkYSIsCiAgICAi\nUHl0aG9uIiwKICAgICJTZXJ2ZXJsZXNzIgogIF0sCiAgImF1dGhvciI6ICJn\neXVrZWJveCAoQnllb25nIEd5dSBDaG9pKSIsCiAgImxpY2Vuc2UiOiAiTUlU\nIiwKICAiZGV2RGVwZW5kZW5jaWVzIjogewogICAgInNlcnZlcmxlc3MiOiAi\nXjEuMjYuMSIsCiAgICAic2VydmVybGVzcy1weXRob24tcmVxdWlyZW1lbnRz\nIjogIl40LjAuMSIKICB9Cn0K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/joeyworld/realworld-serverless-python/contents/package.json?ref=master",
+    "git": "https://api.github.com/repos/joeyworld/realworld-serverless-python/git/blobs/ef3f6d4c48c0fa110b15482cc40e78adf6dd2b2d",
+    "html": "https://github.com/joeyworld/realworld-serverless-python/blob/master/package.json"
+  }
+}

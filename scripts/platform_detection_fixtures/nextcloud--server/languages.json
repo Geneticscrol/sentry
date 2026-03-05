@@ -1,0 +1,14 @@
+{
+  "PHP": 24140380,
+  "JavaScript": 14568137,
+  "Vue": 1562710,
+  "TypeScript": 1330919,
+  "Gherkin": 524904,
+  "SCSS": 124979,
+  "Shell": 85061,
+  "HTML": 63139,
+  "CSS": 18618,
+  "Dockerfile": 3494,
+  "Nix": 3144,
+  "Makefile": 501
+}

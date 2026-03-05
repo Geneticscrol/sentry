@@ -1,0 +1,18 @@
+{
+  "name": "setup.cfg",
+  "path": "setup.cfg",
+  "sha": "3e47794efad94150bf7bcdfd0e81d266acda6fb2",
+  "size": 149,
+  "url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/setup.cfg?ref=master",
+  "html_url": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/setup.cfg",
+  "git_url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/3e47794efad94150bf7bcdfd0e81d266acda6fb2",
+  "download_url": "https://raw.githubusercontent.com/codefresh-contrib/python-flask-sample-app/master/setup.cfg",
+  "type": "file",
+  "content": "W21ldGFkYXRhXQpsaWNlbnNlX2ZpbGUgPSBMSUNFTlNFCgpbYmRpc3Rfd2hl\nZWxdCnVuaXZlcnNhbCA9IFRydWUKClt0b29sOnB5dGVzdF0KdGVzdHBhdGhz\nID0gdGVzdHMKCltjb3ZlcmFnZTpydW5dCmJyYW5jaCA9IFRydWUKc291cmNl\nID0KICAgIGZsYXNrcgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/setup.cfg?ref=master",
+    "git": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/3e47794efad94150bf7bcdfd0e81d266acda6fb2",
+    "html": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/setup.cfg"
+  }
+}

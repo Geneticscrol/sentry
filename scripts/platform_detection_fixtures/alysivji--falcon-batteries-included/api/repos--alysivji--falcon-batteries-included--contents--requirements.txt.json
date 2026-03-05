@@ -1,0 +1,18 @@
+{
+  "name": "requirements.txt",
+  "path": "requirements.txt",
+  "sha": "2db0f6c5a5d3796e87ccede7cbead492341da74b",
+  "size": 298,
+  "url": "https://api.github.com/repos/alysivji/falcon-batteries-included/contents/requirements.txt?ref=master",
+  "html_url": "https://github.com/alysivji/falcon-batteries-included/blob/master/requirements.txt",
+  "git_url": "https://api.github.com/repos/alysivji/falcon-batteries-included/git/blobs/2db0f6c5a5d3796e87ccede7cbead492341da74b",
+  "download_url": "https://raw.githubusercontent.com/alysivji/falcon-batteries-included/master/requirements.txt",
+  "type": "file",
+  "content": "YWxlbWJpYz09MS4wLjAKYXBpc3BlYz09My4wLjAKYmNyeXB0PT0zLjEuNApl\nbGFzdGljc2VhcmNoPT02LjMuMApmYWxjb24tYXBpc3BlYz09MC4zLjAKZmFs\nY29uLWF1dGg9PTEuMS4wCmZhbGNvbj09MS40LjEKZ3VuaWNvcm49PTE5Ljku\nMAptYXJzaG1hbGxvdz09My4yLjAKcGFzc2xpYj09MS43LjEKcHN5Y29wZzIt\nYmluYXJ5PT0yLjcuNQpyZWRpcz09Mi4xMC42CnJxLXNjaGVkdWxlcj09MC44\nLjMKcnE9PTAuMTIuMApTUUxBbGNoZW15LVdyYXBwZXI9PTEuOS4xClNRTEFs\nY2hlbXk9PTEuMy44CndlYmFyZ3M9PTUuNS4xCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/alysivji/falcon-batteries-included/contents/requirements.txt?ref=master",
+    "git": "https://api.github.com/repos/alysivji/falcon-batteries-included/git/blobs/2db0f6c5a5d3796e87ccede7cbead492341da74b",
+    "html": "https://github.com/alysivji/falcon-batteries-included/blob/master/requirements.txt"
+  }
+}

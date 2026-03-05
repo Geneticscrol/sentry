@@ -1,0 +1,290 @@
+[
+  {
+    "name": ".eslintrc.js",
+    "path": ".eslintrc.js",
+    "sha": "025f2522dffbd9a03cc1ee959b03de5ec2412a32",
+    "size": 350,
+    "url": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/.eslintrc.js?ref=main",
+    "html_url": "https://github.com/ionic-team/capacitor-testapp/blob/main/.eslintrc.js",
+    "git_url": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/blobs/025f2522dffbd9a03cc1ee959b03de5ec2412a32",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/capacitor-testapp/main/.eslintrc.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/.eslintrc.js?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/blobs/025f2522dffbd9a03cc1ee959b03de5ec2412a32",
+      "html": "https://github.com/ionic-team/capacitor-testapp/blob/main/.eslintrc.js"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "6e4b020f5d7699cb6c19f7e7c9fdced753f98a55",
+    "size": 0,
+    "url": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/.github?ref=main",
+    "html_url": "https://github.com/ionic-team/capacitor-testapp/tree/main/.github",
+    "git_url": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/trees/6e4b020f5d7699cb6c19f7e7c9fdced753f98a55",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/trees/6e4b020f5d7699cb6c19f7e7c9fdced753f98a55",
+      "html": "https://github.com/ionic-team/capacitor-testapp/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "1c1d3e1c1595254e30bf02fbddf526092c71de8e",
+    "size": 346,
+    "url": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/ionic-team/capacitor-testapp/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/blobs/1c1d3e1c1595254e30bf02fbddf526092c71de8e",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/capacitor-testapp/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/blobs/1c1d3e1c1595254e30bf02fbddf526092c71de8e",
+      "html": "https://github.com/ionic-team/capacitor-testapp/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".prettierrc",
+    "path": ".prettierrc",
+    "sha": "1804edc04a5976f8723d339142446a5e677067f7",
+    "size": 106,
+    "url": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/.prettierrc?ref=main",
+    "html_url": "https://github.com/ionic-team/capacitor-testapp/blob/main/.prettierrc",
+    "git_url": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/blobs/1804edc04a5976f8723d339142446a5e677067f7",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/capacitor-testapp/main/.prettierrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/.prettierrc?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/blobs/1804edc04a5976f8723d339142446a5e677067f7",
+      "html": "https://github.com/ionic-team/capacitor-testapp/blob/main/.prettierrc"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "b02c660ab377ccc8bdc9cfd42e08defe608d36e9",
+    "size": 1753,
+    "url": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/README.md?ref=main",
+    "html_url": "https://github.com/ionic-team/capacitor-testapp/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/blobs/b02c660ab377ccc8bdc9cfd42e08defe608d36e9",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/capacitor-testapp/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/blobs/b02c660ab377ccc8bdc9cfd42e08defe608d36e9",
+      "html": "https://github.com/ionic-team/capacitor-testapp/blob/main/README.md"
+    }
+  },
+  {
+    "name": "android",
+    "path": "android",
+    "sha": "32792a6548953be3cbf85cbaaca50c8a53bee9ec",
+    "size": 0,
+    "url": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/android?ref=main",
+    "html_url": "https://github.com/ionic-team/capacitor-testapp/tree/main/android",
+    "git_url": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/trees/32792a6548953be3cbf85cbaaca50c8a53bee9ec",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/android?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/trees/32792a6548953be3cbf85cbaaca50c8a53bee9ec",
+      "html": "https://github.com/ionic-team/capacitor-testapp/tree/main/android"
+    }
+  },
+  {
+    "name": "capacitor.config.ts",
+    "path": "capacitor.config.ts",
+    "sha": "3c39150034525a1c9140008fea3662b148ce00a1",
+    "size": 727,
+    "url": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/capacitor.config.ts?ref=main",
+    "html_url": "https://github.com/ionic-team/capacitor-testapp/blob/main/capacitor.config.ts",
+    "git_url": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/blobs/3c39150034525a1c9140008fea3662b148ce00a1",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/capacitor-testapp/main/capacitor.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/capacitor.config.ts?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/blobs/3c39150034525a1c9140008fea3662b148ce00a1",
+      "html": "https://github.com/ionic-team/capacitor-testapp/blob/main/capacitor.config.ts"
+    }
+  },
+  {
+    "name": "index.html",
+    "path": "index.html",
+    "sha": "ce4f0ce713e637c61ef6a8cf20de8539b0a8cf5c",
+    "size": 973,
+    "url": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/index.html?ref=main",
+    "html_url": "https://github.com/ionic-team/capacitor-testapp/blob/main/index.html",
+    "git_url": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/blobs/ce4f0ce713e637c61ef6a8cf20de8539b0a8cf5c",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/capacitor-testapp/main/index.html",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/index.html?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/blobs/ce4f0ce713e637c61ef6a8cf20de8539b0a8cf5c",
+      "html": "https://github.com/ionic-team/capacitor-testapp/blob/main/index.html"
+    }
+  },
+  {
+    "name": "ionic.config.json",
+    "path": "ionic.config.json",
+    "sha": "7d8db42d81c90c6843ac5df0d630aef23bbb0b97",
+    "size": 103,
+    "url": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/ionic.config.json?ref=main",
+    "html_url": "https://github.com/ionic-team/capacitor-testapp/blob/main/ionic.config.json",
+    "git_url": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/blobs/7d8db42d81c90c6843ac5df0d630aef23bbb0b97",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/capacitor-testapp/main/ionic.config.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/ionic.config.json?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/blobs/7d8db42d81c90c6843ac5df0d630aef23bbb0b97",
+      "html": "https://github.com/ionic-team/capacitor-testapp/blob/main/ionic.config.json"
+    }
+  },
+  {
+    "name": "ios",
+    "path": "ios",
+    "sha": "756a706234473b3b6d9dc1c37ea16fbafe4ce83b",
+    "size": 0,
+    "url": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/ios?ref=main",
+    "html_url": "https://github.com/ionic-team/capacitor-testapp/tree/main/ios",
+    "git_url": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/trees/756a706234473b3b6d9dc1c37ea16fbafe4ce83b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/ios?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/trees/756a706234473b3b6d9dc1c37ea16fbafe4ce83b",
+      "html": "https://github.com/ionic-team/capacitor-testapp/tree/main/ios"
+    }
+  },
+  {
+    "name": "package-lock.json",
+    "path": "package-lock.json",
+    "sha": "400d067a21d65fe10435c001f5fd17128357969c",
+    "size": 340542,
+    "url": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/package-lock.json?ref=main",
+    "html_url": "https://github.com/ionic-team/capacitor-testapp/blob/main/package-lock.json",
+    "git_url": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/blobs/400d067a21d65fe10435c001f5fd17128357969c",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/capacitor-testapp/main/package-lock.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/package-lock.json?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/blobs/400d067a21d65fe10435c001f5fd17128357969c",
+      "html": "https://github.com/ionic-team/capacitor-testapp/blob/main/package-lock.json"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "c01319f94d7fc7124f15af73779d980107f4b48e",
+    "size": 2770,
+    "url": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/package.json?ref=main",
+    "html_url": "https://github.com/ionic-team/capacitor-testapp/blob/main/package.json",
+    "git_url": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/blobs/c01319f94d7fc7124f15af73779d980107f4b48e",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/capacitor-testapp/main/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/package.json?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/blobs/c01319f94d7fc7124f15af73779d980107f4b48e",
+      "html": "https://github.com/ionic-team/capacitor-testapp/blob/main/package.json"
+    }
+  },
+  {
+    "name": "public",
+    "path": "public",
+    "sha": "44a1b3d7c43cd79d34bb2c7e02993a005902d3d3",
+    "size": 0,
+    "url": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/public?ref=main",
+    "html_url": "https://github.com/ionic-team/capacitor-testapp/tree/main/public",
+    "git_url": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/trees/44a1b3d7c43cd79d34bb2c7e02993a005902d3d3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/public?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/trees/44a1b3d7c43cd79d34bb2c7e02993a005902d3d3",
+      "html": "https://github.com/ionic-team/capacitor-testapp/tree/main/public"
+    }
+  },
+  {
+    "name": "scripts",
+    "path": "scripts",
+    "sha": "2633167b0525bf62902726a9e658ec53501e4dd3",
+    "size": 0,
+    "url": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/scripts?ref=main",
+    "html_url": "https://github.com/ionic-team/capacitor-testapp/tree/main/scripts",
+    "git_url": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/trees/2633167b0525bf62902726a9e658ec53501e4dd3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/scripts?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/trees/2633167b0525bf62902726a9e658ec53501e4dd3",
+      "html": "https://github.com/ionic-team/capacitor-testapp/tree/main/scripts"
+    }
+  },
+  {
+    "name": "src",
+    "path": "src",
+    "sha": "788d1be6bd7814a97804d580f6095da24d9220b6",
+    "size": 0,
+    "url": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/src?ref=main",
+    "html_url": "https://github.com/ionic-team/capacitor-testapp/tree/main/src",
+    "git_url": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/trees/788d1be6bd7814a97804d580f6095da24d9220b6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/src?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/trees/788d1be6bd7814a97804d580f6095da24d9220b6",
+      "html": "https://github.com/ionic-team/capacitor-testapp/tree/main/src"
+    }
+  },
+  {
+    "name": "tsconfig.json",
+    "path": "tsconfig.json",
+    "sha": "adc6d16fc8021beb2087d66ec4aa1c5aeabacd59",
+    "size": 608,
+    "url": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/tsconfig.json?ref=main",
+    "html_url": "https://github.com/ionic-team/capacitor-testapp/blob/main/tsconfig.json",
+    "git_url": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/blobs/adc6d16fc8021beb2087d66ec4aa1c5aeabacd59",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/capacitor-testapp/main/tsconfig.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/tsconfig.json?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/blobs/adc6d16fc8021beb2087d66ec4aa1c5aeabacd59",
+      "html": "https://github.com/ionic-team/capacitor-testapp/blob/main/tsconfig.json"
+    }
+  },
+  {
+    "name": "tsconfig.node.json",
+    "path": "tsconfig.node.json",
+    "sha": "aac0ce5ab9dc634d5be280d8a834bdf576604981",
+    "size": 183,
+    "url": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/tsconfig.node.json?ref=main",
+    "html_url": "https://github.com/ionic-team/capacitor-testapp/blob/main/tsconfig.node.json",
+    "git_url": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/blobs/aac0ce5ab9dc634d5be280d8a834bdf576604981",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/capacitor-testapp/main/tsconfig.node.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/tsconfig.node.json?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/blobs/aac0ce5ab9dc634d5be280d8a834bdf576604981",
+      "html": "https://github.com/ionic-team/capacitor-testapp/blob/main/tsconfig.node.json"
+    }
+  },
+  {
+    "name": "vite.config.ts",
+    "path": "vite.config.ts",
+    "sha": "3c1999e3d291176dec565673dd68bf14ae35f043",
+    "size": 227,
+    "url": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/vite.config.ts?ref=main",
+    "html_url": "https://github.com/ionic-team/capacitor-testapp/blob/main/vite.config.ts",
+    "git_url": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/blobs/3c1999e3d291176dec565673dd68bf14ae35f043",
+    "download_url": "https://raw.githubusercontent.com/ionic-team/capacitor-testapp/main/vite.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionic-team/capacitor-testapp/contents/vite.config.ts?ref=main",
+      "git": "https://api.github.com/repos/ionic-team/capacitor-testapp/git/blobs/3c1999e3d291176dec565673dd68bf14ae35f043",
+      "html": "https://github.com/ionic-team/capacitor-testapp/blob/main/vite.config.ts"
+    }
+  }
+]

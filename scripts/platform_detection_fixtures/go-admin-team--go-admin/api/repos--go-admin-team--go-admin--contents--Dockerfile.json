@@ -1,0 +1,18 @@
+{
+  "name": "Dockerfile",
+  "path": "Dockerfile",
+  "sha": "fb3e023ddf6204aa2ca0d121568225d19d4cc785",
+  "size": 482,
+  "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/Dockerfile?ref=master",
+  "html_url": "https://github.com/go-admin-team/go-admin/blob/master/Dockerfile",
+  "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/fb3e023ddf6204aa2ca0d121568225d19d4cc785",
+  "download_url": "https://raw.githubusercontent.com/go-admin-team/go-admin/master/Dockerfile",
+  "type": "file",
+  "content": "RlJPTSBhbHBpbmUKCiMgRU5WIEdPUFJPWFkgaHR0cHM6Ly9nb3Byb3h5LmNu\nLwoKUlVOIHNlZCAtaSAncy9kbC1jZG4uYWxwaW5lbGludXgub3JnL21pcnJv\ncnMudXN0Yy5lZHUuY24vZycgL2V0Yy9hcGsvcmVwb3NpdG9yaWVzCgpSVU4g\nYXBrIHVwZGF0ZSAtLW5vLWNhY2hlClJVTiBhcGsgYWRkIC0tdXBkYXRlIGdj\nYyBnKysgbGliYzYtY29tcGF0ClJVTiBhcGsgYWRkIC0tbm8tY2FjaGUgY2Et\nY2VydGlmaWNhdGVzClJVTiBhcGsgYWRkIC0tbm8tY2FjaGUgdHpkYXRhCkVO\nViBUWiBBc2lhL1NoYW5naGFpCgpDT1BZIC4vbWFpbiAvbWFpbgpDT1BZIC4v\nY29uZmlnL3NldHRpbmdzLmRlbW8ueW1sIC9jb25maWcvc2V0dGluZ3MueW1s\nCkNPUFkgLi9nby1hZG1pbi1kYi5kYiAvZ28tYWRtaW4tZGIuZGIKRVhQT1NF\nIDgwMDAKUlVOICBjaG1vZCAreCAvbWFpbgpDTUQgWyIvbWFpbiIsInNlcnZl\nciIsIi1jIiwgIi9jb25maWcvc2V0dGluZ3MueW1sIl0=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/Dockerfile?ref=master",
+    "git": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/fb3e023ddf6204aa2ca0d121568225d19d4cc785",
+    "html": "https://github.com/go-admin-team/go-admin/blob/master/Dockerfile"
+  }
+}

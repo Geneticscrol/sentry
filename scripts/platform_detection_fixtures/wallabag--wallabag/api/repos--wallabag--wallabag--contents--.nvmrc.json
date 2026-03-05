@@ -1,0 +1,18 @@
+{
+  "name": ".nvmrc",
+  "path": ".nvmrc",
+  "sha": "209e3ef4b6247ce746048d5711befda46206d235",
+  "size": 3,
+  "url": "https://api.github.com/repos/wallabag/wallabag/contents/.nvmrc?ref=master",
+  "html_url": "https://github.com/wallabag/wallabag/blob/master/.nvmrc",
+  "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/209e3ef4b6247ce746048d5711befda46206d235",
+  "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/.nvmrc",
+  "type": "file",
+  "content": "MjAK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/wallabag/wallabag/contents/.nvmrc?ref=master",
+    "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/209e3ef4b6247ce746048d5711befda46206d235",
+    "html": "https://github.com/wallabag/wallabag/blob/master/.nvmrc"
+  }
+}

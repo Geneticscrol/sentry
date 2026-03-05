@@ -1,0 +1,450 @@
+[
+  {
+    "name": ".editorconfig",
+    "path": ".editorconfig",
+    "sha": "007463b4d189b95bc250c8ad3b9b13a1f37ccfce",
+    "size": 188,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/.editorconfig?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/blob/main/.editorconfig",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/007463b4d189b95bc250c8ad3b9b13a1f37ccfce",
+    "download_url": "https://raw.githubusercontent.com/nuxt/nuxt.com/main/.editorconfig",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/.editorconfig?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/007463b4d189b95bc250c8ad3b9b13a1f37ccfce",
+      "html": "https://github.com/nuxt/nuxt.com/blob/main/.editorconfig"
+    }
+  },
+  {
+    "name": ".env.example",
+    "path": ".env.example",
+    "sha": "f8eab353f4482e164d9368f849a596374c5f0e2b",
+    "size": 1510,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/.env.example?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/blob/main/.env.example",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/f8eab353f4482e164d9368f849a596374c5f0e2b",
+    "download_url": "https://raw.githubusercontent.com/nuxt/nuxt.com/main/.env.example",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/.env.example?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/f8eab353f4482e164d9368f849a596374c5f0e2b",
+      "html": "https://github.com/nuxt/nuxt.com/blob/main/.env.example"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "983cfa6b51f8a3fa443d76bd4dd4c44c2e00a08e",
+    "size": 0,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/.github?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/tree/main/.github",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/trees/983cfa6b51f8a3fa443d76bd4dd4c44c2e00a08e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/trees/983cfa6b51f8a3fa443d76bd4dd4c44c2e00a08e",
+      "html": "https://github.com/nuxt/nuxt.com/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "9f7c9b6b4df303a599a19e4a5c46bcbfe46b251b",
+    "size": 216,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/9f7c9b6b4df303a599a19e4a5c46bcbfe46b251b",
+    "download_url": "https://raw.githubusercontent.com/nuxt/nuxt.com/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/9f7c9b6b4df303a599a19e4a5c46bcbfe46b251b",
+      "html": "https://github.com/nuxt/nuxt.com/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".mcp.json",
+    "path": ".mcp.json",
+    "sha": "30e97994b6e8a4b79fb320a94aca4ad6ed102ef3",
+    "size": 276,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/.mcp.json?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/blob/main/.mcp.json",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/30e97994b6e8a4b79fb320a94aca4ad6ed102ef3",
+    "download_url": "https://raw.githubusercontent.com/nuxt/nuxt.com/main/.mcp.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/.mcp.json?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/30e97994b6e8a4b79fb320a94aca4ad6ed102ef3",
+      "html": "https://github.com/nuxt/nuxt.com/blob/main/.mcp.json"
+    }
+  },
+  {
+    "name": ".npmrc",
+    "path": ".npmrc",
+    "sha": "cf040424558522ecc923a4af98c29f3dca95e888",
+    "size": 53,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/.npmrc?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/blob/main/.npmrc",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/cf040424558522ecc923a4af98c29f3dca95e888",
+    "download_url": "https://raw.githubusercontent.com/nuxt/nuxt.com/main/.npmrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/.npmrc?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/cf040424558522ecc923a4af98c29f3dca95e888",
+      "html": "https://github.com/nuxt/nuxt.com/blob/main/.npmrc"
+    }
+  },
+  {
+    "name": ".nuxtrc",
+    "path": ".nuxtrc",
+    "sha": "1e1fe8339e9a5e1751b08865a30db838873480d9",
+    "size": 31,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/.nuxtrc?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/blob/main/.nuxtrc",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/1e1fe8339e9a5e1751b08865a30db838873480d9",
+    "download_url": "https://raw.githubusercontent.com/nuxt/nuxt.com/main/.nuxtrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/.nuxtrc?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/1e1fe8339e9a5e1751b08865a30db838873480d9",
+      "html": "https://github.com/nuxt/nuxt.com/blob/main/.nuxtrc"
+    }
+  },
+  {
+    "name": "CODEOWNERS",
+    "path": "CODEOWNERS",
+    "sha": "c33643bc2a0291ca96db399c5180afbde99a251b",
+    "size": 23,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/CODEOWNERS?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/blob/main/CODEOWNERS",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/c33643bc2a0291ca96db399c5180afbde99a251b",
+    "download_url": "https://raw.githubusercontent.com/nuxt/nuxt.com/main/CODEOWNERS",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/CODEOWNERS?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/c33643bc2a0291ca96db399c5180afbde99a251b",
+      "html": "https://github.com/nuxt/nuxt.com/blob/main/CODEOWNERS"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "ed4a5f529fd08193d8aa74b1e566cded4085939f",
+    "size": 1070,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/LICENSE?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/blob/main/LICENSE",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/ed4a5f529fd08193d8aa74b1e566cded4085939f",
+    "download_url": "https://raw.githubusercontent.com/nuxt/nuxt.com/main/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/LICENSE?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/ed4a5f529fd08193d8aa74b1e566cded4085939f",
+      "html": "https://github.com/nuxt/nuxt.com/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "9428ece31b0ff929fa0795ee834cd855812917b0",
+    "size": 2517,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/README.md?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/9428ece31b0ff929fa0795ee834cd855812917b0",
+    "download_url": "https://raw.githubusercontent.com/nuxt/nuxt.com/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/9428ece31b0ff929fa0795ee834cd855812917b0",
+      "html": "https://github.com/nuxt/nuxt.com/blob/main/README.md"
+    }
+  },
+  {
+    "name": "app",
+    "path": "app",
+    "sha": "e720ef6fbbfe8bae8786fdfd55b5aa6a0f58fe71",
+    "size": 0,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/app?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/tree/main/app",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/trees/e720ef6fbbfe8bae8786fdfd55b5aa6a0f58fe71",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/app?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/trees/e720ef6fbbfe8bae8786fdfd55b5aa6a0f58fe71",
+      "html": "https://github.com/nuxt/nuxt.com/tree/main/app"
+    }
+  },
+  {
+    "name": "content.config.ts",
+    "path": "content.config.ts",
+    "sha": "2240c86d5364f45b00a49ab6588660b840db6854",
+    "size": 12723,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/content.config.ts?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/blob/main/content.config.ts",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/2240c86d5364f45b00a49ab6588660b840db6854",
+    "download_url": "https://raw.githubusercontent.com/nuxt/nuxt.com/main/content.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/content.config.ts?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/2240c86d5364f45b00a49ab6588660b840db6854",
+      "html": "https://github.com/nuxt/nuxt.com/blob/main/content.config.ts"
+    }
+  },
+  {
+    "name": "content",
+    "path": "content",
+    "sha": "21b9421b7bea595ffad319f685c0ef19ad544cc0",
+    "size": 0,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/content?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/tree/main/content",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/trees/21b9421b7bea595ffad319f685c0ef19ad544cc0",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/content?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/trees/21b9421b7bea595ffad319f685c0ef19ad544cc0",
+      "html": "https://github.com/nuxt/nuxt.com/tree/main/content"
+    }
+  },
+  {
+    "name": "eslint.config.mjs",
+    "path": "eslint.config.mjs",
+    "sha": "7844e44083d71cfeff0ddc7e2cecfabe3bae834e",
+    "size": 531,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/eslint.config.mjs?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/blob/main/eslint.config.mjs",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/7844e44083d71cfeff0ddc7e2cecfabe3bae834e",
+    "download_url": "https://raw.githubusercontent.com/nuxt/nuxt.com/main/eslint.config.mjs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/eslint.config.mjs?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/7844e44083d71cfeff0ddc7e2cecfabe3bae834e",
+      "html": "https://github.com/nuxt/nuxt.com/blob/main/eslint.config.mjs"
+    }
+  },
+  {
+    "name": "evalite.config.ts",
+    "path": "evalite.config.ts",
+    "sha": "fb65c13e6981c2a9ff0ab2950a025ccbbe8a84a7",
+    "size": 117,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/evalite.config.ts?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/blob/main/evalite.config.ts",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/fb65c13e6981c2a9ff0ab2950a025ccbbe8a84a7",
+    "download_url": "https://raw.githubusercontent.com/nuxt/nuxt.com/main/evalite.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/evalite.config.ts?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/fb65c13e6981c2a9ff0ab2950a025ccbbe8a84a7",
+      "html": "https://github.com/nuxt/nuxt.com/blob/main/evalite.config.ts"
+    }
+  },
+  {
+    "name": "helpers",
+    "path": "helpers",
+    "sha": "3a57e84d87fdee7cae1a5fe7e38c7382f7ba7278",
+    "size": 0,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/helpers?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/tree/main/helpers",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/trees/3a57e84d87fdee7cae1a5fe7e38c7382f7ba7278",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/helpers?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/trees/3a57e84d87fdee7cae1a5fe7e38c7382f7ba7278",
+      "html": "https://github.com/nuxt/nuxt.com/tree/main/helpers"
+    }
+  },
+  {
+    "name": "modules",
+    "path": "modules",
+    "sha": "f5b11a2c151c9a715fce8889c56538b111ac0abf",
+    "size": 0,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/modules?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/tree/main/modules",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/trees/f5b11a2c151c9a715fce8889c56538b111ac0abf",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/modules?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/trees/f5b11a2c151c9a715fce8889c56538b111ac0abf",
+      "html": "https://github.com/nuxt/nuxt.com/tree/main/modules"
+    }
+  },
+  {
+    "name": "nuxt.config.ts",
+    "path": "nuxt.config.ts",
+    "sha": "1cc3d0f4751887cc56a33b8aa2ed42246bbe1e6d",
+    "size": 35600,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/nuxt.config.ts?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/blob/main/nuxt.config.ts",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/1cc3d0f4751887cc56a33b8aa2ed42246bbe1e6d",
+    "download_url": "https://raw.githubusercontent.com/nuxt/nuxt.com/main/nuxt.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/nuxt.config.ts?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/1cc3d0f4751887cc56a33b8aa2ed42246bbe1e6d",
+      "html": "https://github.com/nuxt/nuxt.com/blob/main/nuxt.config.ts"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "f3964a3c780adb1ff788d6556825a7d2fd524c2a",
+    "size": 3495,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/package.json?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/blob/main/package.json",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/f3964a3c780adb1ff788d6556825a7d2fd524c2a",
+    "download_url": "https://raw.githubusercontent.com/nuxt/nuxt.com/main/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/package.json?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/f3964a3c780adb1ff788d6556825a7d2fd524c2a",
+      "html": "https://github.com/nuxt/nuxt.com/blob/main/package.json"
+    }
+  },
+  {
+    "name": "playwright.config.ts",
+    "path": "playwright.config.ts",
+    "sha": "272159cf6645205dad277260a810da280486a482",
+    "size": 368,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/playwright.config.ts?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/blob/main/playwright.config.ts",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/272159cf6645205dad277260a810da280486a482",
+    "download_url": "https://raw.githubusercontent.com/nuxt/nuxt.com/main/playwright.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/playwright.config.ts?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/272159cf6645205dad277260a810da280486a482",
+      "html": "https://github.com/nuxt/nuxt.com/blob/main/playwright.config.ts"
+    }
+  },
+  {
+    "name": "pnpm-lock.yaml",
+    "path": "pnpm-lock.yaml",
+    "sha": "f4e62297bdc7b1b1992624bd21e70f950652a527",
+    "size": 677667,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/pnpm-lock.yaml?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/blob/main/pnpm-lock.yaml",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/f4e62297bdc7b1b1992624bd21e70f950652a527",
+    "download_url": "https://raw.githubusercontent.com/nuxt/nuxt.com/main/pnpm-lock.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/pnpm-lock.yaml?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/f4e62297bdc7b1b1992624bd21e70f950652a527",
+      "html": "https://github.com/nuxt/nuxt.com/blob/main/pnpm-lock.yaml"
+    }
+  },
+  {
+    "name": "public",
+    "path": "public",
+    "sha": "04fa9d28e3104cca2e8b6377d3f14992fb24eee2",
+    "size": 0,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/public?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/tree/main/public",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/trees/04fa9d28e3104cca2e8b6377d3f14992fb24eee2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/public?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/trees/04fa9d28e3104cca2e8b6377d3f14992fb24eee2",
+      "html": "https://github.com/nuxt/nuxt.com/tree/main/public"
+    }
+  },
+  {
+    "name": "renovate.json",
+    "path": "renovate.json",
+    "sha": "09f78af772f87458ca3a1e0ed292e34ff3553f85",
+    "size": 253,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/renovate.json?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/blob/main/renovate.json",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/09f78af772f87458ca3a1e0ed292e34ff3553f85",
+    "download_url": "https://raw.githubusercontent.com/nuxt/nuxt.com/main/renovate.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/renovate.json?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/09f78af772f87458ca3a1e0ed292e34ff3553f85",
+      "html": "https://github.com/nuxt/nuxt.com/blob/main/renovate.json"
+    }
+  },
+  {
+    "name": "server",
+    "path": "server",
+    "sha": "e4d19210fccde2defdca2e38d4f28fa436a00bd1",
+    "size": 0,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/server?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/tree/main/server",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/trees/e4d19210fccde2defdca2e38d4f28fa436a00bd1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/server?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/trees/e4d19210fccde2defdca2e38d4f28fa436a00bd1",
+      "html": "https://github.com/nuxt/nuxt.com/tree/main/server"
+    }
+  },
+  {
+    "name": "shared",
+    "path": "shared",
+    "sha": "97537c590bacc792731230910d90e2a16057df21",
+    "size": 0,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/shared?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/tree/main/shared",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/trees/97537c590bacc792731230910d90e2a16057df21",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/shared?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/trees/97537c590bacc792731230910d90e2a16057df21",
+      "html": "https://github.com/nuxt/nuxt.com/tree/main/shared"
+    }
+  },
+  {
+    "name": "test",
+    "path": "test",
+    "sha": "c1443b4ae4932011862431bf195be1f1ef5c362f",
+    "size": 0,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/test?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/tree/main/test",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/trees/c1443b4ae4932011862431bf195be1f1ef5c362f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/test?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/trees/c1443b4ae4932011862431bf195be1f1ef5c362f",
+      "html": "https://github.com/nuxt/nuxt.com/tree/main/test"
+    }
+  },
+  {
+    "name": "tsconfig.json",
+    "path": "tsconfig.json",
+    "sha": "6ae5970c766b0c02fedcd33c651c8edc7c3459a4",
+    "size": 267,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/tsconfig.json?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/blob/main/tsconfig.json",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/6ae5970c766b0c02fedcd33c651c8edc7c3459a4",
+    "download_url": "https://raw.githubusercontent.com/nuxt/nuxt.com/main/tsconfig.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/tsconfig.json?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/6ae5970c766b0c02fedcd33c651c8edc7c3459a4",
+      "html": "https://github.com/nuxt/nuxt.com/blob/main/tsconfig.json"
+    }
+  },
+  {
+    "name": "vitest.config.ts",
+    "path": "vitest.config.ts",
+    "sha": "14bf348f27fce75abeabef0aecb658c707a9e749",
+    "size": 849,
+    "url": "https://api.github.com/repos/nuxt/nuxt.com/contents/vitest.config.ts?ref=main",
+    "html_url": "https://github.com/nuxt/nuxt.com/blob/main/vitest.config.ts",
+    "git_url": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/14bf348f27fce75abeabef0aecb658c707a9e749",
+    "download_url": "https://raw.githubusercontent.com/nuxt/nuxt.com/main/vitest.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nuxt/nuxt.com/contents/vitest.config.ts?ref=main",
+      "git": "https://api.github.com/repos/nuxt/nuxt.com/git/blobs/14bf348f27fce75abeabef0aecb658c707a9e749",
+      "html": "https://github.com/nuxt/nuxt.com/blob/main/vitest.config.ts"
+    }
+  }
+]

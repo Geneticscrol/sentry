@@ -1,0 +1,18 @@
+{
+  "name": ".nvmrc",
+  "path": ".nvmrc",
+  "sha": "d845d9d88db71e92ea1e8f50a4af89d49fecf2e3",
+  "size": 8,
+  "url": "https://api.github.com/repos/withastro/astro.build/contents/.nvmrc?ref=main",
+  "html_url": "https://github.com/withastro/astro.build/blob/main/.nvmrc",
+  "git_url": "https://api.github.com/repos/withastro/astro.build/git/blobs/d845d9d88db71e92ea1e8f50a4af89d49fecf2e3",
+  "download_url": "https://raw.githubusercontent.com/withastro/astro.build/main/.nvmrc",
+  "type": "file",
+  "content": "MjQuMTQuMAo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/withastro/astro.build/contents/.nvmrc?ref=main",
+    "git": "https://api.github.com/repos/withastro/astro.build/git/blobs/d845d9d88db71e92ea1e8f50a4af89d49fecf2e3",
+    "html": "https://github.com/withastro/astro.build/blob/main/.nvmrc"
+  }
+}

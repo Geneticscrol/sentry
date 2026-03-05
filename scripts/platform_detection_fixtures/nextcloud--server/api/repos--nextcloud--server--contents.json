@@ -1,0 +1,1282 @@
+[
+  {
+    "name": ".devcontainer",
+    "path": ".devcontainer",
+    "sha": "e835b044e5556111d9fc591a8b77a83c39d03fb3",
+    "size": 0,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/.devcontainer?ref=master",
+    "html_url": "https://github.com/nextcloud/server/tree/master/.devcontainer",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/trees/e835b044e5556111d9fc591a8b77a83c39d03fb3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/.devcontainer?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/trees/e835b044e5556111d9fc591a8b77a83c39d03fb3",
+      "html": "https://github.com/nextcloud/server/tree/master/.devcontainer"
+    }
+  },
+  {
+    "name": ".editorconfig",
+    "path": ".editorconfig",
+    "sha": "2f8e0750010d5e9a724451bf8f121e428ea06982",
+    "size": 594,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/.editorconfig?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/.editorconfig",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/2f8e0750010d5e9a724451bf8f121e428ea06982",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/.editorconfig",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/.editorconfig?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/2f8e0750010d5e9a724451bf8f121e428ea06982",
+      "html": "https://github.com/nextcloud/server/blob/master/.editorconfig"
+    }
+  },
+  {
+    "name": ".envrc",
+    "path": ".envrc",
+    "sha": "6f3f66b63d9b754ec096da2f956c6d3808cc1fb2",
+    "size": 66,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/.envrc?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/.envrc",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/6f3f66b63d9b754ec096da2f956c6d3808cc1fb2",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/.envrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/.envrc?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/6f3f66b63d9b754ec096da2f956c6d3808cc1fb2",
+      "html": "https://github.com/nextcloud/server/blob/master/.envrc"
+    }
+  },
+  {
+    "name": ".git-blame-ignore-revs",
+    "path": ".git-blame-ignore-revs",
+    "sha": "d0bcfe49579b7d86d3fffae7551e41a5dc0f7abb",
+    "size": 920,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/.git-blame-ignore-revs?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/.git-blame-ignore-revs",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/d0bcfe49579b7d86d3fffae7551e41a5dc0f7abb",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/.git-blame-ignore-revs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/.git-blame-ignore-revs?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/d0bcfe49579b7d86d3fffae7551e41a5dc0f7abb",
+      "html": "https://github.com/nextcloud/server/blob/master/.git-blame-ignore-revs"
+    }
+  },
+  {
+    "name": ".gitattributes",
+    "path": ".gitattributes",
+    "sha": "43e88480ee6b52fec5c475e23b79d2a07d0d2ec8",
+    "size": 221,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/.gitattributes?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/.gitattributes",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/43e88480ee6b52fec5c475e23b79d2a07d0d2ec8",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/.gitattributes",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/.gitattributes?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/43e88480ee6b52fec5c475e23b79d2a07d0d2ec8",
+      "html": "https://github.com/nextcloud/server/blob/master/.gitattributes"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "57eb97bcf3391cb0662a6391eeba4c76fe39cd78",
+    "size": 0,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/.github?ref=master",
+    "html_url": "https://github.com/nextcloud/server/tree/master/.github",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/trees/57eb97bcf3391cb0662a6391eeba4c76fe39cd78",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/.github?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/trees/57eb97bcf3391cb0662a6391eeba4c76fe39cd78",
+      "html": "https://github.com/nextcloud/server/tree/master/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "06cb1ac1eccfb9b96cc83b71b8ec61dd12f64103",
+    "size": 2925,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/06cb1ac1eccfb9b96cc83b71b8ec61dd12f64103",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/06cb1ac1eccfb9b96cc83b71b8ec61dd12f64103",
+      "html": "https://github.com/nextcloud/server/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": ".gitmodules",
+    "path": ".gitmodules",
+    "sha": "61195b5d6fd819ed2287c2781d5f99a8100d0db4",
+    "size": 249,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/.gitmodules?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/.gitmodules",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/61195b5d6fd819ed2287c2781d5f99a8100d0db4",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/.gitmodules",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/.gitmodules?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/61195b5d6fd819ed2287c2781d5f99a8100d0db4",
+      "html": "https://github.com/nextcloud/server/blob/master/.gitmodules"
+    }
+  },
+  {
+    "name": ".htaccess",
+    "path": ".htaccess",
+    "sha": "db4f32a1fbb4a62cf5929fe9102bf8fa42cbc99a",
+    "size": 7115,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/.htaccess?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/.htaccess",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/db4f32a1fbb4a62cf5929fe9102bf8fa42cbc99a",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/.htaccess",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/.htaccess?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/db4f32a1fbb4a62cf5929fe9102bf8fa42cbc99a",
+      "html": "https://github.com/nextcloud/server/blob/master/.htaccess"
+    }
+  },
+  {
+    "name": ".idea",
+    "path": ".idea",
+    "sha": "8a30a7f70fe05a8d2b42d9a9f862c31554be4170",
+    "size": 0,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/.idea?ref=master",
+    "html_url": "https://github.com/nextcloud/server/tree/master/.idea",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/trees/8a30a7f70fe05a8d2b42d9a9f862c31554be4170",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/.idea?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/trees/8a30a7f70fe05a8d2b42d9a9f862c31554be4170",
+      "html": "https://github.com/nextcloud/server/tree/master/.idea"
+    }
+  },
+  {
+    "name": ".jshintrc",
+    "path": ".jshintrc",
+    "sha": "a1802bb781f84592ac7a1576a60d6bf6f56f805c",
+    "size": 602,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/.jshintrc?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/.jshintrc",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/a1802bb781f84592ac7a1576a60d6bf6f56f805c",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/.jshintrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/.jshintrc?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/a1802bb781f84592ac7a1576a60d6bf6f56f805c",
+      "html": "https://github.com/nextcloud/server/blob/master/.jshintrc"
+    }
+  },
+  {
+    "name": ".mailmap",
+    "path": ".mailmap",
+    "sha": "5f95c49dcecea4aebed033399e0cdaa84704abd4",
+    "size": 21080,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/.mailmap?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/.mailmap",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/5f95c49dcecea4aebed033399e0cdaa84704abd4",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/.mailmap",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/.mailmap?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/5f95c49dcecea4aebed033399e0cdaa84704abd4",
+      "html": "https://github.com/nextcloud/server/blob/master/.mailmap"
+    }
+  },
+  {
+    "name": ".nextcloudignore",
+    "path": ".nextcloudignore",
+    "sha": "47253d2e8ddb353407ca100f75a8a6700afa08f3",
+    "size": 428,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/.nextcloudignore?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/.nextcloudignore",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/47253d2e8ddb353407ca100f75a8a6700afa08f3",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/.nextcloudignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/.nextcloudignore?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/47253d2e8ddb353407ca100f75a8a6700afa08f3",
+      "html": "https://github.com/nextcloud/server/blob/master/.nextcloudignore"
+    }
+  },
+  {
+    "name": ".npmignore",
+    "path": ".npmignore",
+    "sha": "26b15de67ea6de85b8cffcc34675f3989b626006",
+    "size": 13,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/.npmignore?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/.npmignore",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/26b15de67ea6de85b8cffcc34675f3989b626006",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/.npmignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/.npmignore?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/26b15de67ea6de85b8cffcc34675f3989b626006",
+      "html": "https://github.com/nextcloud/server/blob/master/.npmignore"
+    }
+  },
+  {
+    "name": ".php-cs-fixer.dist.php",
+    "path": ".php-cs-fixer.dist.php",
+    "sha": "3bef813c9ee211a89550a57d46fc085dc493099f",
+    "size": 1101,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/.php-cs-fixer.dist.php?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/.php-cs-fixer.dist.php",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/3bef813c9ee211a89550a57d46fc085dc493099f",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/.php-cs-fixer.dist.php",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/.php-cs-fixer.dist.php?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/3bef813c9ee211a89550a57d46fc085dc493099f",
+      "html": "https://github.com/nextcloud/server/blob/master/.php-cs-fixer.dist.php"
+    }
+  },
+  {
+    "name": ".pre-commit-config.yaml",
+    "path": ".pre-commit-config.yaml",
+    "sha": "4ba8662e88ecda450fa953e9a6ee73c03f5b4d9b",
+    "size": 603,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/.pre-commit-config.yaml?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/.pre-commit-config.yaml",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/4ba8662e88ecda450fa953e9a6ee73c03f5b4d9b",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/.pre-commit-config.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/.pre-commit-config.yaml?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/4ba8662e88ecda450fa953e9a6ee73c03f5b4d9b",
+      "html": "https://github.com/nextcloud/server/blob/master/.pre-commit-config.yaml"
+    }
+  },
+  {
+    "name": ".tag",
+    "path": ".tag",
+    "sha": "6828f88dcb0e88b8cd738ad6044ce74d7a9a13c8",
+    "size": 12,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/.tag?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/.tag",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/6828f88dcb0e88b8cd738ad6044ce74d7a9a13c8",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/.tag",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/.tag?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/6828f88dcb0e88b8cd738ad6044ce74d7a9a13c8",
+      "html": "https://github.com/nextcloud/server/blob/master/.tag"
+    }
+  },
+  {
+    "name": ".tx",
+    "path": ".tx",
+    "sha": "39431ea5217aec85dbe6e28efd67c2daca3478c0",
+    "size": 0,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/.tx?ref=master",
+    "html_url": "https://github.com/nextcloud/server/tree/master/.tx",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/trees/39431ea5217aec85dbe6e28efd67c2daca3478c0",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/.tx?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/trees/39431ea5217aec85dbe6e28efd67c2daca3478c0",
+      "html": "https://github.com/nextcloud/server/tree/master/.tx"
+    }
+  },
+  {
+    "name": ".user.ini",
+    "path": ".user.ini",
+    "sha": "e91cea5508df1a2c3780db67bd1ad7b9c52a6cfc",
+    "size": 306,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/.user.ini?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/.user.ini",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/e91cea5508df1a2c3780db67bd1ad7b9c52a6cfc",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/.user.ini",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/.user.ini?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/e91cea5508df1a2c3780db67bd1ad7b9c52a6cfc",
+      "html": "https://github.com/nextcloud/server/blob/master/.user.ini"
+    }
+  },
+  {
+    "name": "3rdparty",
+    "path": "3rdparty",
+    "sha": "34fdf0b083a7997d8884646c1e0d6255704a05a3",
+    "size": 0,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/3rdparty?ref=master",
+    "html_url": "https://github.com/nextcloud/3rdparty/tree/34fdf0b083a7997d8884646c1e0d6255704a05a3",
+    "git_url": "https://api.github.com/repos/nextcloud/3rdparty/git/trees/34fdf0b083a7997d8884646c1e0d6255704a05a3",
+    "download_url": null,
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/3rdparty?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/3rdparty/git/trees/34fdf0b083a7997d8884646c1e0d6255704a05a3",
+      "html": "https://github.com/nextcloud/3rdparty/tree/34fdf0b083a7997d8884646c1e0d6255704a05a3"
+    }
+  },
+  {
+    "name": "AUTHORS",
+    "path": "AUTHORS",
+    "sha": "fe478401fddb41a2fb90c274952310ceecb90704",
+    "size": 26339,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/AUTHORS?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/AUTHORS",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/fe478401fddb41a2fb90c274952310ceecb90704",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/AUTHORS",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/AUTHORS?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/fe478401fddb41a2fb90c274952310ceecb90704",
+      "html": "https://github.com/nextcloud/server/blob/master/AUTHORS"
+    }
+  },
+  {
+    "name": "CHANGELOG.md",
+    "path": "CHANGELOG.md",
+    "sha": "4c81217cf51f3021665dc86e7952e87b9d6581f0",
+    "size": 241,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/CHANGELOG.md?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/CHANGELOG.md",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/4c81217cf51f3021665dc86e7952e87b9d6581f0",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/CHANGELOG.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/CHANGELOG.md?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/4c81217cf51f3021665dc86e7952e87b9d6581f0",
+      "html": "https://github.com/nextcloud/server/blob/master/CHANGELOG.md"
+    }
+  },
+  {
+    "name": "CODE_OF_CONDUCT.md",
+    "path": "CODE_OF_CONDUCT.md",
+    "sha": "fec85a598ed904aa3adec5773b63d31997e9d3c5",
+    "size": 1067,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/CODE_OF_CONDUCT.md?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/CODE_OF_CONDUCT.md",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/fec85a598ed904aa3adec5773b63d31997e9d3c5",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/CODE_OF_CONDUCT.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/CODE_OF_CONDUCT.md?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/fec85a598ed904aa3adec5773b63d31997e9d3c5",
+      "html": "https://github.com/nextcloud/server/blob/master/CODE_OF_CONDUCT.md"
+    }
+  },
+  {
+    "name": "COPYING",
+    "path": "COPYING",
+    "sha": "dba13ed2ddf783ee8118c6a581dbf75305f816a3",
+    "size": 34520,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/COPYING?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/COPYING",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/dba13ed2ddf783ee8118c6a581dbf75305f816a3",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/COPYING",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/COPYING?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/dba13ed2ddf783ee8118c6a581dbf75305f816a3",
+      "html": "https://github.com/nextcloud/server/blob/master/COPYING"
+    }
+  },
+  {
+    "name": "COPYING-README",
+    "path": "COPYING-README",
+    "sha": "8b41da4ec73efa7a06b9a053e9cb0e4d69806f3f",
+    "size": 697,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/COPYING-README?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/COPYING-README",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/8b41da4ec73efa7a06b9a053e9cb0e4d69806f3f",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/COPYING-README",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/COPYING-README?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/8b41da4ec73efa7a06b9a053e9cb0e4d69806f3f",
+      "html": "https://github.com/nextcloud/server/blob/master/COPYING-README"
+    }
+  },
+  {
+    "name": "DESIGN.md",
+    "path": "DESIGN.md",
+    "sha": "ebc522d9b3772de85be520497cfee3149839d02a",
+    "size": 1330,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/DESIGN.md?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/DESIGN.md",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/ebc522d9b3772de85be520497cfee3149839d02a",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/DESIGN.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/DESIGN.md?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/ebc522d9b3772de85be520497cfee3149839d02a",
+      "html": "https://github.com/nextcloud/server/blob/master/DESIGN.md"
+    }
+  },
+  {
+    "name": "LICENSES",
+    "path": "LICENSES",
+    "sha": "29479f7ebdea0ccb698930fc2d1d9adde2b80d21",
+    "size": 0,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/LICENSES?ref=master",
+    "html_url": "https://github.com/nextcloud/server/tree/master/LICENSES",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/trees/29479f7ebdea0ccb698930fc2d1d9adde2b80d21",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/LICENSES?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/trees/29479f7ebdea0ccb698930fc2d1d9adde2b80d21",
+      "html": "https://github.com/nextcloud/server/tree/master/LICENSES"
+    }
+  },
+  {
+    "name": "Makefile",
+    "path": "Makefile",
+    "sha": "e02f0d3813a8e43d7b8443de95c2a984c89dbf49",
+    "size": 501,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/Makefile?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/Makefile",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/e02f0d3813a8e43d7b8443de95c2a984c89dbf49",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/Makefile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/Makefile?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/e02f0d3813a8e43d7b8443de95c2a984c89dbf49",
+      "html": "https://github.com/nextcloud/server/blob/master/Makefile"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "c88668fa4a905b23464ef8882aad2756ae92a873",
+    "size": 6146,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/README.md?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/c88668fa4a905b23464ef8882aad2756ae92a873",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/c88668fa4a905b23464ef8882aad2756ae92a873",
+      "html": "https://github.com/nextcloud/server/blob/master/README.md"
+    }
+  },
+  {
+    "name": "REUSE.toml",
+    "path": "REUSE.toml",
+    "sha": "e1e801fbeba38ec7435328b9c803e1540a6ed4ab",
+    "size": 36893,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/REUSE.toml?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/REUSE.toml",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/e1e801fbeba38ec7435328b9c803e1540a6ed4ab",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/REUSE.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/REUSE.toml?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/e1e801fbeba38ec7435328b9c803e1540a6ed4ab",
+      "html": "https://github.com/nextcloud/server/blob/master/REUSE.toml"
+    }
+  },
+  {
+    "name": "SECURITY.md",
+    "path": "SECURITY.md",
+    "sha": "ad5309309d3fa83c3825a8dbe0b0d65fe0b2f698",
+    "size": 3096,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/SECURITY.md?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/SECURITY.md",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/ad5309309d3fa83c3825a8dbe0b0d65fe0b2f698",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/SECURITY.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/SECURITY.md?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/ad5309309d3fa83c3825a8dbe0b0d65fe0b2f698",
+      "html": "https://github.com/nextcloud/server/blob/master/SECURITY.md"
+    }
+  },
+  {
+    "name": "__mocks__",
+    "path": "__mocks__",
+    "sha": "4d8638b2ec2bb41df0515ce30fb7ce6c065571e3",
+    "size": 24,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/__mocks__?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/__mocks__",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/4d8638b2ec2bb41df0515ce30fb7ce6c065571e3",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/__mocks__",
+    "type": "symlink",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/__mocks__?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/4d8638b2ec2bb41df0515ce30fb7ce6c065571e3",
+      "html": "https://github.com/nextcloud/server/blob/master/__mocks__"
+    }
+  },
+  {
+    "name": "__tests__",
+    "path": "__tests__",
+    "sha": "10e14ddefa5530ceb1aa57d786a3fa51b80af9b3",
+    "size": 24,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/__tests__?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/__tests__",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/10e14ddefa5530ceb1aa57d786a3fa51b80af9b3",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/__tests__",
+    "type": "symlink",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/__tests__?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/10e14ddefa5530ceb1aa57d786a3fa51b80af9b3",
+      "html": "https://github.com/nextcloud/server/blob/master/__tests__"
+    }
+  },
+  {
+    "name": "apps",
+    "path": "apps",
+    "sha": "cf6984ddc21f1fadc3bdded1311da718852850d4",
+    "size": 0,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/apps?ref=master",
+    "html_url": "https://github.com/nextcloud/server/tree/master/apps",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/trees/cf6984ddc21f1fadc3bdded1311da718852850d4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/apps?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/trees/cf6984ddc21f1fadc3bdded1311da718852850d4",
+      "html": "https://github.com/nextcloud/server/tree/master/apps"
+    }
+  },
+  {
+    "name": "autotest-checkers.sh",
+    "path": "autotest-checkers.sh",
+    "sha": "cf810ce684ea429f42a989a5de9ae78e924fe6eb",
+    "size": 447,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/autotest-checkers.sh?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/autotest-checkers.sh",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/cf810ce684ea429f42a989a5de9ae78e924fe6eb",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/autotest-checkers.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/autotest-checkers.sh?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/cf810ce684ea429f42a989a5de9ae78e924fe6eb",
+      "html": "https://github.com/nextcloud/server/blob/master/autotest-checkers.sh"
+    }
+  },
+  {
+    "name": "autotest-external.sh",
+    "path": "autotest-external.sh",
+    "sha": "ba6354b26e12a703f6a4fda4232b295c940c4e88",
+    "size": 8430,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/autotest-external.sh?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/autotest-external.sh",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/ba6354b26e12a703f6a4fda4232b295c940c4e88",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/autotest-external.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/autotest-external.sh?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/ba6354b26e12a703f6a4fda4232b295c940c4e88",
+      "html": "https://github.com/nextcloud/server/blob/master/autotest-external.sh"
+    }
+  },
+  {
+    "name": "autotest.sh",
+    "path": "autotest.sh",
+    "sha": "bac67a768beec7dadce9186d39dd1940abe8adc2",
+    "size": 14241,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/autotest.sh?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/autotest.sh",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/bac67a768beec7dadce9186d39dd1940abe8adc2",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/autotest.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/autotest.sh?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/bac67a768beec7dadce9186d39dd1940abe8adc2",
+      "html": "https://github.com/nextcloud/server/blob/master/autotest.sh"
+    }
+  },
+  {
+    "name": "build",
+    "path": "build",
+    "sha": "10f0b525e963873fb8ff53ea77a00cf94b7daf6f",
+    "size": 0,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/build?ref=master",
+    "html_url": "https://github.com/nextcloud/server/tree/master/build",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/trees/10f0b525e963873fb8ff53ea77a00cf94b7daf6f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/build?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/trees/10f0b525e963873fb8ff53ea77a00cf94b7daf6f",
+      "html": "https://github.com/nextcloud/server/tree/master/build"
+    }
+  },
+  {
+    "name": "codecov.yml",
+    "path": "codecov.yml",
+    "sha": "20139e01114197037db009c096598b8347af7fec",
+    "size": 419,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/codecov.yml?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/codecov.yml",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/20139e01114197037db009c096598b8347af7fec",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/codecov.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/codecov.yml?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/20139e01114197037db009c096598b8347af7fec",
+      "html": "https://github.com/nextcloud/server/blob/master/codecov.yml"
+    }
+  },
+  {
+    "name": "composer.json",
+    "path": "composer.json",
+    "sha": "028a493b6f564d85c93252750e3509a250d517a5",
+    "size": 3699,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/composer.json?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/composer.json",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/028a493b6f564d85c93252750e3509a250d517a5",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/composer.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/composer.json?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/028a493b6f564d85c93252750e3509a250d517a5",
+      "html": "https://github.com/nextcloud/server/blob/master/composer.json"
+    }
+  },
+  {
+    "name": "composer.lock",
+    "path": "composer.lock",
+    "sha": "7301359b7585749fe8cae0e79cf2b68b7e36552a",
+    "size": 3453,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/composer.lock?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/composer.lock",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/7301359b7585749fe8cae0e79cf2b68b7e36552a",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/composer.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/composer.lock?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/7301359b7585749fe8cae0e79cf2b68b7e36552a",
+      "html": "https://github.com/nextcloud/server/blob/master/composer.lock"
+    }
+  },
+  {
+    "name": "config",
+    "path": "config",
+    "sha": "c3e19d3878e26741dad1924013d0372bd471ce53",
+    "size": 0,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/config?ref=master",
+    "html_url": "https://github.com/nextcloud/server/tree/master/config",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/trees/c3e19d3878e26741dad1924013d0372bd471ce53",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/config?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/trees/c3e19d3878e26741dad1924013d0372bd471ce53",
+      "html": "https://github.com/nextcloud/server/tree/master/config"
+    }
+  },
+  {
+    "name": "console.php",
+    "path": "console.php",
+    "sha": "b5a000e8873a0c0e8a0317fd357629086e369fa5",
+    "size": 4126,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/console.php?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/console.php",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/b5a000e8873a0c0e8a0317fd357629086e369fa5",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/console.php",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/console.php?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/b5a000e8873a0c0e8a0317fd357629086e369fa5",
+      "html": "https://github.com/nextcloud/server/blob/master/console.php"
+    }
+  },
+  {
+    "name": "contribute",
+    "path": "contribute",
+    "sha": "0e15f4433086dae67b580ce46751dbd3067c361a",
+    "size": 0,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/contribute?ref=master",
+    "html_url": "https://github.com/nextcloud/server/tree/master/contribute",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/trees/0e15f4433086dae67b580ce46751dbd3067c361a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/contribute?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/trees/0e15f4433086dae67b580ce46751dbd3067c361a",
+      "html": "https://github.com/nextcloud/server/tree/master/contribute"
+    }
+  },
+  {
+    "name": "core",
+    "path": "core",
+    "sha": "cd52d39b65f49aedeab08c53721780c05baf0879",
+    "size": 0,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/core?ref=master",
+    "html_url": "https://github.com/nextcloud/server/tree/master/core",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/trees/cd52d39b65f49aedeab08c53721780c05baf0879",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/core?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/trees/cd52d39b65f49aedeab08c53721780c05baf0879",
+      "html": "https://github.com/nextcloud/server/tree/master/core"
+    }
+  },
+  {
+    "name": "cron.php",
+    "path": "cron.php",
+    "sha": "f86d93b9a739e1bc6d3827f5e9979d29fa7d9de5",
+    "size": 1913,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/cron.php?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/cron.php",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/f86d93b9a739e1bc6d3827f5e9979d29fa7d9de5",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/cron.php",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/cron.php?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/f86d93b9a739e1bc6d3827f5e9979d29fa7d9de5",
+      "html": "https://github.com/nextcloud/server/blob/master/cron.php"
+    }
+  },
+  {
+    "name": "custom.d.ts",
+    "path": "custom.d.ts",
+    "sha": "fc3557fba65e1e3c1fad37e504e2992505356b04",
+    "size": 352,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/custom.d.ts?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/custom.d.ts",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/fc3557fba65e1e3c1fad37e504e2992505356b04",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/custom.d.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/custom.d.ts?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/fc3557fba65e1e3c1fad37e504e2992505356b04",
+      "html": "https://github.com/nextcloud/server/blob/master/custom.d.ts"
+    }
+  },
+  {
+    "name": "cypress.config.ts",
+    "path": "cypress.config.ts",
+    "sha": "00e48effa86880ab1b176ce8256f6e86842cbd14",
+    "size": 6703,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/cypress.config.ts?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/cypress.config.ts",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/00e48effa86880ab1b176ce8256f6e86842cbd14",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/cypress.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/cypress.config.ts?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/00e48effa86880ab1b176ce8256f6e86842cbd14",
+      "html": "https://github.com/nextcloud/server/blob/master/cypress.config.ts"
+    }
+  },
+  {
+    "name": "cypress",
+    "path": "cypress",
+    "sha": "5d82e5d742de179e805f2e8f4a44b03f46b6abb1",
+    "size": 0,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/cypress?ref=master",
+    "html_url": "https://github.com/nextcloud/server/tree/master/cypress",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/trees/5d82e5d742de179e805f2e8f4a44b03f46b6abb1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/cypress?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/trees/5d82e5d742de179e805f2e8f4a44b03f46b6abb1",
+      "html": "https://github.com/nextcloud/server/tree/master/cypress"
+    }
+  },
+  {
+    "name": "dist",
+    "path": "dist",
+    "sha": "a6c8858f186f64191e088a48831fbb0ec125895b",
+    "size": 0,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/dist?ref=master",
+    "html_url": "https://github.com/nextcloud/server/tree/master/dist",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/trees/a6c8858f186f64191e088a48831fbb0ec125895b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/dist?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/trees/a6c8858f186f64191e088a48831fbb0ec125895b",
+      "html": "https://github.com/nextcloud/server/tree/master/dist"
+    }
+  },
+  {
+    "name": "eslint.config.js",
+    "path": "eslint.config.js",
+    "sha": "ab6b15b605377dc7062270add07f9c330db27b54",
+    "size": 2358,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/eslint.config.js?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/eslint.config.js",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/ab6b15b605377dc7062270add07f9c330db27b54",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/eslint.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/eslint.config.js?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/ab6b15b605377dc7062270add07f9c330db27b54",
+      "html": "https://github.com/nextcloud/server/blob/master/eslint.config.js"
+    }
+  },
+  {
+    "name": "flake.lock",
+    "path": "flake.lock",
+    "sha": "ae0882bf340a3a986fc70ea636e650500ffa75d4",
+    "size": 5315,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/flake.lock?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/flake.lock",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/ae0882bf340a3a986fc70ea636e650500ffa75d4",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/flake.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/flake.lock?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/ae0882bf340a3a986fc70ea636e650500ffa75d4",
+      "html": "https://github.com/nextcloud/server/blob/master/flake.lock"
+    }
+  },
+  {
+    "name": "flake.nix",
+    "path": "flake.nix",
+    "sha": "5904394d61ccb5e4801f43b1216151ea95bd21a9",
+    "size": 3144,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/flake.nix?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/flake.nix",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/5904394d61ccb5e4801f43b1216151ea95bd21a9",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/flake.nix",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/flake.nix?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/5904394d61ccb5e4801f43b1216151ea95bd21a9",
+      "html": "https://github.com/nextcloud/server/blob/master/flake.nix"
+    }
+  },
+  {
+    "name": "index.html",
+    "path": "index.html",
+    "sha": "23b78438b59cf73bfa9361a680b1ecc6802bf97c",
+    "size": 331,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/index.html?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/index.html",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/23b78438b59cf73bfa9361a680b1ecc6802bf97c",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/index.html",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/index.html?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/23b78438b59cf73bfa9361a680b1ecc6802bf97c",
+      "html": "https://github.com/nextcloud/server/blob/master/index.html"
+    }
+  },
+  {
+    "name": "index.php",
+    "path": "index.php",
+    "sha": "b368462371d40c3f8de07fa17ef9f365b2ef8ef0",
+    "size": 3695,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/index.php?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/index.php",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/b368462371d40c3f8de07fa17ef9f365b2ef8ef0",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/index.php",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/index.php?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/b368462371d40c3f8de07fa17ef9f365b2ef8ef0",
+      "html": "https://github.com/nextcloud/server/blob/master/index.php"
+    }
+  },
+  {
+    "name": "lib",
+    "path": "lib",
+    "sha": "27528419198a2b8a694bd0c62ae707bafe12a33a",
+    "size": 0,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/lib?ref=master",
+    "html_url": "https://github.com/nextcloud/server/tree/master/lib",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/trees/27528419198a2b8a694bd0c62ae707bafe12a33a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/lib?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/trees/27528419198a2b8a694bd0c62ae707bafe12a33a",
+      "html": "https://github.com/nextcloud/server/tree/master/lib"
+    }
+  },
+  {
+    "name": "occ",
+    "path": "occ",
+    "sha": "b7cfe961bdee235db9289de8b442ede8b7d45d98",
+    "size": 596,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/occ?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/occ",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/b7cfe961bdee235db9289de8b442ede8b7d45d98",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/occ",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/occ?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/b7cfe961bdee235db9289de8b442ede8b7d45d98",
+      "html": "https://github.com/nextcloud/server/blob/master/occ"
+    }
+  },
+  {
+    "name": "ocs-provider",
+    "path": "ocs-provider",
+    "sha": "7b14fe53812c175f5834e73b3ef1e29b3e6b747a",
+    "size": 0,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/ocs-provider?ref=master",
+    "html_url": "https://github.com/nextcloud/server/tree/master/ocs-provider",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/trees/7b14fe53812c175f5834e73b3ef1e29b3e6b747a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/ocs-provider?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/trees/7b14fe53812c175f5834e73b3ef1e29b3e6b747a",
+      "html": "https://github.com/nextcloud/server/tree/master/ocs-provider"
+    }
+  },
+  {
+    "name": "ocs",
+    "path": "ocs",
+    "sha": "f14072bfee039e4948ae1db0cbaf331b5c36863a",
+    "size": 0,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/ocs?ref=master",
+    "html_url": "https://github.com/nextcloud/server/tree/master/ocs",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/trees/f14072bfee039e4948ae1db0cbaf331b5c36863a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/ocs?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/trees/f14072bfee039e4948ae1db0cbaf331b5c36863a",
+      "html": "https://github.com/nextcloud/server/tree/master/ocs"
+    }
+  },
+  {
+    "name": "openapi.json",
+    "path": "openapi.json",
+    "sha": "51be5472bbc5ab8f9d5385966d92b0ade391cf94",
+    "size": 1881856,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/openapi.json?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/openapi.json",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/51be5472bbc5ab8f9d5385966d92b0ade391cf94",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/openapi.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/openapi.json?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/51be5472bbc5ab8f9d5385966d92b0ade391cf94",
+      "html": "https://github.com/nextcloud/server/blob/master/openapi.json"
+    }
+  },
+  {
+    "name": "package-lock.json",
+    "path": "package-lock.json",
+    "sha": "1233b1e532c976922666edfa8f934326c0c4f0c5",
+    "size": 658619,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/package-lock.json?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/package-lock.json",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/1233b1e532c976922666edfa8f934326c0c4f0c5",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/package-lock.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/package-lock.json?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/1233b1e532c976922666edfa8f934326c0c4f0c5",
+      "html": "https://github.com/nextcloud/server/blob/master/package-lock.json"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "1a5fd077544b547b5d9a0758270dbe16dcc7ea16",
+    "size": 3922,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/package.json?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/package.json",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/1a5fd077544b547b5d9a0758270dbe16dcc7ea16",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/package.json?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/1a5fd077544b547b5d9a0758270dbe16dcc7ea16",
+      "html": "https://github.com/nextcloud/server/blob/master/package.json"
+    }
+  },
+  {
+    "name": "psalm-ncu.xml",
+    "path": "psalm-ncu.xml",
+    "sha": "f7577435b8893e845f85d18a95a2b0e68e58d3b1",
+    "size": 581,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/psalm-ncu.xml?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/psalm-ncu.xml",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/f7577435b8893e845f85d18a95a2b0e68e58d3b1",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/psalm-ncu.xml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/psalm-ncu.xml?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/f7577435b8893e845f85d18a95a2b0e68e58d3b1",
+      "html": "https://github.com/nextcloud/server/blob/master/psalm-ncu.xml"
+    }
+  },
+  {
+    "name": "psalm-ocp.xml",
+    "path": "psalm-ocp.xml",
+    "sha": "e49f7fd929b5066ecc3087b7db62b3c155ea4ab6",
+    "size": 955,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/psalm-ocp.xml?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/psalm-ocp.xml",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/e49f7fd929b5066ecc3087b7db62b3c155ea4ab6",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/psalm-ocp.xml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/psalm-ocp.xml?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/e49f7fd929b5066ecc3087b7db62b3c155ea4ab6",
+      "html": "https://github.com/nextcloud/server/blob/master/psalm-ocp.xml"
+    }
+  },
+  {
+    "name": "psalm-strict.xml",
+    "path": "psalm-strict.xml",
+    "sha": "23cd2081c0b70b2abc3c2c7d21448434ee80509e",
+    "size": 2406,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/psalm-strict.xml?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/psalm-strict.xml",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/23cd2081c0b70b2abc3c2c7d21448434ee80509e",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/psalm-strict.xml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/psalm-strict.xml?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/23cd2081c0b70b2abc3c2c7d21448434ee80509e",
+      "html": "https://github.com/nextcloud/server/blob/master/psalm-strict.xml"
+    }
+  },
+  {
+    "name": "psalm.xml",
+    "path": "psalm.xml",
+    "sha": "9b029ce31d497601619e9c004cdc350d74f0f346",
+    "size": 8393,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/psalm.xml?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/psalm.xml",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/9b029ce31d497601619e9c004cdc350d74f0f346",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/psalm.xml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/psalm.xml?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/9b029ce31d497601619e9c004cdc350d74f0f346",
+      "html": "https://github.com/nextcloud/server/blob/master/psalm.xml"
+    }
+  },
+  {
+    "name": "public.php",
+    "path": "public.php",
+    "sha": "8ae6deff20305bd7ef33f0f6f2760f26fafe2feb",
+    "size": 3059,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/public.php?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/public.php",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/8ae6deff20305bd7ef33f0f6f2760f26fafe2feb",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/public.php",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/public.php?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/8ae6deff20305bd7ef33f0f6f2760f26fafe2feb",
+      "html": "https://github.com/nextcloud/server/blob/master/public.php"
+    }
+  },
+  {
+    "name": "remote.php",
+    "path": "remote.php",
+    "sha": "2cfd9d818c82f8e6a6c25381c536b5dd39e6ebb8",
+    "size": 4760,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/remote.php?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/remote.php",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/2cfd9d818c82f8e6a6c25381c536b5dd39e6ebb8",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/remote.php",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/remote.php?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/2cfd9d818c82f8e6a6c25381c536b5dd39e6ebb8",
+      "html": "https://github.com/nextcloud/server/blob/master/remote.php"
+    }
+  },
+  {
+    "name": "resources",
+    "path": "resources",
+    "sha": "7f7503e659ab55d494e03b23fca9f007c611bcff",
+    "size": 0,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/resources?ref=master",
+    "html_url": "https://github.com/nextcloud/server/tree/master/resources",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/trees/7f7503e659ab55d494e03b23fca9f007c611bcff",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/resources?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/trees/7f7503e659ab55d494e03b23fca9f007c611bcff",
+      "html": "https://github.com/nextcloud/server/tree/master/resources"
+    }
+  },
+  {
+    "name": "robots.txt",
+    "path": "robots.txt",
+    "sha": "1f53798bb4fe33c86020be7f10c44f29486fd190",
+    "size": 26,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/robots.txt?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/robots.txt",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/1f53798bb4fe33c86020be7f10c44f29486fd190",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/robots.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/robots.txt?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/1f53798bb4fe33c86020be7f10c44f29486fd190",
+      "html": "https://github.com/nextcloud/server/blob/master/robots.txt"
+    }
+  },
+  {
+    "name": "status.php",
+    "path": "status.php",
+    "sha": "e1b95d9396ba6d09199f9ac6535d397f52c42185",
+    "size": 1490,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/status.php?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/status.php",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/e1b95d9396ba6d09199f9ac6535d397f52c42185",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/status.php",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/status.php?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/e1b95d9396ba6d09199f9ac6535d397f52c42185",
+      "html": "https://github.com/nextcloud/server/blob/master/status.php"
+    }
+  },
+  {
+    "name": "stylelint.config.js",
+    "path": "stylelint.config.js",
+    "sha": "9fdc18e79042458fc829f84874098af1130d6308",
+    "size": 877,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/stylelint.config.js?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/stylelint.config.js",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/9fdc18e79042458fc829f84874098af1130d6308",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/stylelint.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/stylelint.config.js?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/9fdc18e79042458fc829f84874098af1130d6308",
+      "html": "https://github.com/nextcloud/server/blob/master/stylelint.config.js"
+    }
+  },
+  {
+    "name": "tests",
+    "path": "tests",
+    "sha": "fcb4ae956b25aa8ebb820ecf6ca46e60afcd445c",
+    "size": 0,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/tests?ref=master",
+    "html_url": "https://github.com/nextcloud/server/tree/master/tests",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/trees/fcb4ae956b25aa8ebb820ecf6ca46e60afcd445c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/tests?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/trees/fcb4ae956b25aa8ebb820ecf6ca46e60afcd445c",
+      "html": "https://github.com/nextcloud/server/tree/master/tests"
+    }
+  },
+  {
+    "name": "themes",
+    "path": "themes",
+    "sha": "0cfde33e859eacc1f06136633fa400343231e198",
+    "size": 0,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/themes?ref=master",
+    "html_url": "https://github.com/nextcloud/server/tree/master/themes",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/trees/0cfde33e859eacc1f06136633fa400343231e198",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/themes?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/trees/0cfde33e859eacc1f06136633fa400343231e198",
+      "html": "https://github.com/nextcloud/server/tree/master/themes"
+    }
+  },
+  {
+    "name": "tsconfig.json",
+    "path": "tsconfig.json",
+    "sha": "4cda8f05a1023c3319b229e3a3763db832c8c2c4",
+    "size": 683,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/tsconfig.json?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/tsconfig.json",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/4cda8f05a1023c3319b229e3a3763db832c8c2c4",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/tsconfig.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/tsconfig.json?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/4cda8f05a1023c3319b229e3a3763db832c8c2c4",
+      "html": "https://github.com/nextcloud/server/blob/master/tsconfig.json"
+    }
+  },
+  {
+    "name": "vendor-bin",
+    "path": "vendor-bin",
+    "sha": "8a2220eb2e055c2c874d03562e37dcc88889a24b",
+    "size": 0,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/vendor-bin?ref=master",
+    "html_url": "https://github.com/nextcloud/server/tree/master/vendor-bin",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/trees/8a2220eb2e055c2c874d03562e37dcc88889a24b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/vendor-bin?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/trees/8a2220eb2e055c2c874d03562e37dcc88889a24b",
+      "html": "https://github.com/nextcloud/server/tree/master/vendor-bin"
+    }
+  },
+  {
+    "name": "version.php",
+    "path": "version.php",
+    "sha": "e9b4ce3677dc893ae4eca32b65e3a615db1f2591",
+    "size": 874,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/version.php?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/version.php",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/e9b4ce3677dc893ae4eca32b65e3a615db1f2591",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/version.php",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/version.php?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/e9b4ce3677dc893ae4eca32b65e3a615db1f2591",
+      "html": "https://github.com/nextcloud/server/blob/master/version.php"
+    }
+  },
+  {
+    "name": "vite.config.ts",
+    "path": "vite.config.ts",
+    "sha": "69e4a7f72a8882c0d6e2f0367ad10c26baa9f502",
+    "size": 196,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/vite.config.ts?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/vite.config.ts",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/69e4a7f72a8882c0d6e2f0367ad10c26baa9f502",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/vite.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/vite.config.ts?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/69e4a7f72a8882c0d6e2f0367ad10c26baa9f502",
+      "html": "https://github.com/nextcloud/server/blob/master/vite.config.ts"
+    }
+  },
+  {
+    "name": "vitest.config.ts",
+    "path": "vitest.config.ts",
+    "sha": "1ce29c6770d9e95e1afec63a1e7676f2a1018de6",
+    "size": 305,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/vitest.config.ts?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/vitest.config.ts",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/1ce29c6770d9e95e1afec63a1e7676f2a1018de6",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/vitest.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/vitest.config.ts?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/1ce29c6770d9e95e1afec63a1e7676f2a1018de6",
+      "html": "https://github.com/nextcloud/server/blob/master/vitest.config.ts"
+    }
+  },
+  {
+    "name": "window.d.ts",
+    "path": "window.d.ts",
+    "sha": "0d808e32a8c8845dae83bd64677c62ea577d8673",
+    "size": 1025,
+    "url": "https://api.github.com/repos/nextcloud/server/contents/window.d.ts?ref=master",
+    "html_url": "https://github.com/nextcloud/server/blob/master/window.d.ts",
+    "git_url": "https://api.github.com/repos/nextcloud/server/git/blobs/0d808e32a8c8845dae83bd64677c62ea577d8673",
+    "download_url": "https://raw.githubusercontent.com/nextcloud/server/master/window.d.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/nextcloud/server/contents/window.d.ts?ref=master",
+      "git": "https://api.github.com/repos/nextcloud/server/git/blobs/0d808e32a8c8845dae83bd64677c62ea577d8673",
+      "html": "https://github.com/nextcloud/server/blob/master/window.d.ts"
+    }
+  }
+]

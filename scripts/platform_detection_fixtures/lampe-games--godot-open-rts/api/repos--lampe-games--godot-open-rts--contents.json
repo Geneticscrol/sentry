@@ -1,0 +1,274 @@
+[
+  {
+    "name": ".clang-format",
+    "path": ".clang-format",
+    "sha": "83658e18381860d9d949b28cd07071aa0cbb4753",
+    "size": 1488,
+    "url": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/.clang-format?ref=main",
+    "html_url": "https://github.com/lampe-games/godot-open-rts/blob/main/.clang-format",
+    "git_url": "https://api.github.com/repos/lampe-games/godot-open-rts/git/blobs/83658e18381860d9d949b28cd07071aa0cbb4753",
+    "download_url": "https://raw.githubusercontent.com/lampe-games/godot-open-rts/main/.clang-format",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/.clang-format?ref=main",
+      "git": "https://api.github.com/repos/lampe-games/godot-open-rts/git/blobs/83658e18381860d9d949b28cd07071aa0cbb4753",
+      "html": "https://github.com/lampe-games/godot-open-rts/blob/main/.clang-format"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "210d7bb46c2c044394701dc07e9b7872a639d5d8",
+    "size": 0,
+    "url": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/.github?ref=main",
+    "html_url": "https://github.com/lampe-games/godot-open-rts/tree/main/.github",
+    "git_url": "https://api.github.com/repos/lampe-games/godot-open-rts/git/trees/210d7bb46c2c044394701dc07e9b7872a639d5d8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/lampe-games/godot-open-rts/git/trees/210d7bb46c2c044394701dc07e9b7872a639d5d8",
+      "html": "https://github.com/lampe-games/godot-open-rts/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "f9c54cab0922ab1340180af6a9e18a07bdf74062",
+    "size": 43,
+    "url": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/lampe-games/godot-open-rts/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/lampe-games/godot-open-rts/git/blobs/f9c54cab0922ab1340180af6a9e18a07bdf74062",
+    "download_url": "https://raw.githubusercontent.com/lampe-games/godot-open-rts/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/lampe-games/godot-open-rts/git/blobs/f9c54cab0922ab1340180af6a9e18a07bdf74062",
+      "html": "https://github.com/lampe-games/godot-open-rts/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": "CHANGELOG.md",
+    "path": "CHANGELOG.md",
+    "sha": "b4ab3fa68c6bbb8f01ea6fbb3a7f74612bfcae03",
+    "size": 1379,
+    "url": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/CHANGELOG.md?ref=main",
+    "html_url": "https://github.com/lampe-games/godot-open-rts/blob/main/CHANGELOG.md",
+    "git_url": "https://api.github.com/repos/lampe-games/godot-open-rts/git/blobs/b4ab3fa68c6bbb8f01ea6fbb3a7f74612bfcae03",
+    "download_url": "https://raw.githubusercontent.com/lampe-games/godot-open-rts/main/CHANGELOG.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/CHANGELOG.md?ref=main",
+      "git": "https://api.github.com/repos/lampe-games/godot-open-rts/git/blobs/b4ab3fa68c6bbb8f01ea6fbb3a7f74612bfcae03",
+      "html": "https://github.com/lampe-games/godot-open-rts/blob/main/CHANGELOG.md"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "c82171147cb47c07fd9b640fea936efaffb97201",
+    "size": 1068,
+    "url": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/LICENSE?ref=main",
+    "html_url": "https://github.com/lampe-games/godot-open-rts/blob/main/LICENSE",
+    "git_url": "https://api.github.com/repos/lampe-games/godot-open-rts/git/blobs/c82171147cb47c07fd9b640fea936efaffb97201",
+    "download_url": "https://raw.githubusercontent.com/lampe-games/godot-open-rts/main/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/LICENSE?ref=main",
+      "git": "https://api.github.com/repos/lampe-games/godot-open-rts/git/blobs/c82171147cb47c07fd9b640fea936efaffb97201",
+      "html": "https://github.com/lampe-games/godot-open-rts/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "LOGO_LICENSES.md",
+    "path": "LOGO_LICENSES.md",
+    "sha": "a5a0938084da72297875270ae8c254e3738aa818",
+    "size": 575,
+    "url": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/LOGO_LICENSES.md?ref=main",
+    "html_url": "https://github.com/lampe-games/godot-open-rts/blob/main/LOGO_LICENSES.md",
+    "git_url": "https://api.github.com/repos/lampe-games/godot-open-rts/git/blobs/a5a0938084da72297875270ae8c254e3738aa818",
+    "download_url": "https://raw.githubusercontent.com/lampe-games/godot-open-rts/main/LOGO_LICENSES.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/LOGO_LICENSES.md?ref=main",
+      "git": "https://api.github.com/repos/lampe-games/godot-open-rts/git/blobs/a5a0938084da72297875270ae8c254e3738aa818",
+      "html": "https://github.com/lampe-games/godot-open-rts/blob/main/LOGO_LICENSES.md"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "8f25090d5d66c21ca83ffaf1fb3c5212e0286e79",
+    "size": 1881,
+    "url": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/README.md?ref=main",
+    "html_url": "https://github.com/lampe-games/godot-open-rts/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/lampe-games/godot-open-rts/git/blobs/8f25090d5d66c21ca83ffaf1fb3c5212e0286e79",
+    "download_url": "https://raw.githubusercontent.com/lampe-games/godot-open-rts/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/lampe-games/godot-open-rts/git/blobs/8f25090d5d66c21ca83ffaf1fb3c5212e0286e79",
+      "html": "https://github.com/lampe-games/godot-open-rts/blob/main/README.md"
+    }
+  },
+  {
+    "name": "assets",
+    "path": "assets",
+    "sha": "7d703b60916e9f77be79faad7b9c84fb0d97ca59",
+    "size": 0,
+    "url": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/assets?ref=main",
+    "html_url": "https://github.com/lampe-games/godot-open-rts/tree/main/assets",
+    "git_url": "https://api.github.com/repos/lampe-games/godot-open-rts/git/trees/7d703b60916e9f77be79faad7b9c84fb0d97ca59",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/assets?ref=main",
+      "git": "https://api.github.com/repos/lampe-games/godot-open-rts/git/trees/7d703b60916e9f77be79faad7b9c84fb0d97ca59",
+      "html": "https://github.com/lampe-games/godot-open-rts/tree/main/assets"
+    }
+  },
+  {
+    "name": "build",
+    "path": "build",
+    "sha": "41e63549af4db2377e03c21e25ccf04ae8cf98a6",
+    "size": 0,
+    "url": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/build?ref=main",
+    "html_url": "https://github.com/lampe-games/godot-open-rts/tree/main/build",
+    "git_url": "https://api.github.com/repos/lampe-games/godot-open-rts/git/trees/41e63549af4db2377e03c21e25ccf04ae8cf98a6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/build?ref=main",
+      "git": "https://api.github.com/repos/lampe-games/godot-open-rts/git/trees/41e63549af4db2377e03c21e25ccf04ae8cf98a6",
+      "html": "https://github.com/lampe-games/godot-open-rts/tree/main/build"
+    }
+  },
+  {
+    "name": "export_presets.cfg",
+    "path": "export_presets.cfg",
+    "sha": "2a4a31550b2670b645e4987ed4c4d7782468b58c",
+    "size": 7222,
+    "url": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/export_presets.cfg?ref=main",
+    "html_url": "https://github.com/lampe-games/godot-open-rts/blob/main/export_presets.cfg",
+    "git_url": "https://api.github.com/repos/lampe-games/godot-open-rts/git/blobs/2a4a31550b2670b645e4987ed4c4d7782468b58c",
+    "download_url": "https://raw.githubusercontent.com/lampe-games/godot-open-rts/main/export_presets.cfg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/export_presets.cfg?ref=main",
+      "git": "https://api.github.com/repos/lampe-games/godot-open-rts/git/blobs/2a4a31550b2670b645e4987ed4c4d7782468b58c",
+      "html": "https://github.com/lampe-games/godot-open-rts/blob/main/export_presets.cfg"
+    }
+  },
+  {
+    "name": "icon.svg",
+    "path": "icon.svg",
+    "sha": "adc26df6c2cd666478b85216d4a6d93f61680cb7",
+    "size": 4174,
+    "url": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/icon.svg?ref=main",
+    "html_url": "https://github.com/lampe-games/godot-open-rts/blob/main/icon.svg",
+    "git_url": "https://api.github.com/repos/lampe-games/godot-open-rts/git/blobs/adc26df6c2cd666478b85216d4a6d93f61680cb7",
+    "download_url": "https://raw.githubusercontent.com/lampe-games/godot-open-rts/main/icon.svg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/icon.svg?ref=main",
+      "git": "https://api.github.com/repos/lampe-games/godot-open-rts/git/blobs/adc26df6c2cd666478b85216d4a6d93f61680cb7",
+      "html": "https://github.com/lampe-games/godot-open-rts/blob/main/icon.svg"
+    }
+  },
+  {
+    "name": "icon.svg.import",
+    "path": "icon.svg.import",
+    "sha": "1ddefd62663628a27c51055d3425e18b243fbbfc",
+    "size": 843,
+    "url": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/icon.svg.import?ref=main",
+    "html_url": "https://github.com/lampe-games/godot-open-rts/blob/main/icon.svg.import",
+    "git_url": "https://api.github.com/repos/lampe-games/godot-open-rts/git/blobs/1ddefd62663628a27c51055d3425e18b243fbbfc",
+    "download_url": "https://raw.githubusercontent.com/lampe-games/godot-open-rts/main/icon.svg.import",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/icon.svg.import?ref=main",
+      "git": "https://api.github.com/repos/lampe-games/godot-open-rts/git/blobs/1ddefd62663628a27c51055d3425e18b243fbbfc",
+      "html": "https://github.com/lampe-games/godot-open-rts/blob/main/icon.svg.import"
+    }
+  },
+  {
+    "name": "makefile",
+    "path": "makefile",
+    "sha": "e5ae6833d76e2b2e8d600703d65237d5f11b8fbf",
+    "size": 705,
+    "url": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/makefile?ref=main",
+    "html_url": "https://github.com/lampe-games/godot-open-rts/blob/main/makefile",
+    "git_url": "https://api.github.com/repos/lampe-games/godot-open-rts/git/blobs/e5ae6833d76e2b2e8d600703d65237d5f11b8fbf",
+    "download_url": "https://raw.githubusercontent.com/lampe-games/godot-open-rts/main/makefile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/makefile?ref=main",
+      "git": "https://api.github.com/repos/lampe-games/godot-open-rts/git/blobs/e5ae6833d76e2b2e8d600703d65237d5f11b8fbf",
+      "html": "https://github.com/lampe-games/godot-open-rts/blob/main/makefile"
+    }
+  },
+  {
+    "name": "media",
+    "path": "media",
+    "sha": "1aae2eb7db661eb9a7a52ce8dde0772737010880",
+    "size": 0,
+    "url": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/media?ref=main",
+    "html_url": "https://github.com/lampe-games/godot-open-rts/tree/main/media",
+    "git_url": "https://api.github.com/repos/lampe-games/godot-open-rts/git/trees/1aae2eb7db661eb9a7a52ce8dde0772737010880",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/media?ref=main",
+      "git": "https://api.github.com/repos/lampe-games/godot-open-rts/git/trees/1aae2eb7db661eb9a7a52ce8dde0772737010880",
+      "html": "https://github.com/lampe-games/godot-open-rts/tree/main/media"
+    }
+  },
+  {
+    "name": "project.godot",
+    "path": "project.godot",
+    "sha": "bbfd16b03c29e0ee4b80930af8210979c29975d3",
+    "size": 13066,
+    "url": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/project.godot?ref=main",
+    "html_url": "https://github.com/lampe-games/godot-open-rts/blob/main/project.godot",
+    "git_url": "https://api.github.com/repos/lampe-games/godot-open-rts/git/blobs/bbfd16b03c29e0ee4b80930af8210979c29975d3",
+    "download_url": "https://raw.githubusercontent.com/lampe-games/godot-open-rts/main/project.godot",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/project.godot?ref=main",
+      "git": "https://api.github.com/repos/lampe-games/godot-open-rts/git/blobs/bbfd16b03c29e0ee4b80930af8210979c29975d3",
+      "html": "https://github.com/lampe-games/godot-open-rts/blob/main/project.godot"
+    }
+  },
+  {
+    "name": "source",
+    "path": "source",
+    "sha": "03f9935d01fc5f66f777370e5686cf2f47163e70",
+    "size": 0,
+    "url": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/source?ref=main",
+    "html_url": "https://github.com/lampe-games/godot-open-rts/tree/main/source",
+    "git_url": "https://api.github.com/repos/lampe-games/godot-open-rts/git/trees/03f9935d01fc5f66f777370e5686cf2f47163e70",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/source?ref=main",
+      "git": "https://api.github.com/repos/lampe-games/godot-open-rts/git/trees/03f9935d01fc5f66f777370e5686cf2f47163e70",
+      "html": "https://github.com/lampe-games/godot-open-rts/tree/main/source"
+    }
+  },
+  {
+    "name": "tests",
+    "path": "tests",
+    "sha": "36167543fb681b379e867ba9a2288252e4797ba6",
+    "size": 0,
+    "url": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/tests?ref=main",
+    "html_url": "https://github.com/lampe-games/godot-open-rts/tree/main/tests",
+    "git_url": "https://api.github.com/repos/lampe-games/godot-open-rts/git/trees/36167543fb681b379e867ba9a2288252e4797ba6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/lampe-games/godot-open-rts/contents/tests?ref=main",
+      "git": "https://api.github.com/repos/lampe-games/godot-open-rts/git/trees/36167543fb681b379e867ba9a2288252e4797ba6",
+      "html": "https://github.com/lampe-games/godot-open-rts/tree/main/tests"
+    }
+  }
+]

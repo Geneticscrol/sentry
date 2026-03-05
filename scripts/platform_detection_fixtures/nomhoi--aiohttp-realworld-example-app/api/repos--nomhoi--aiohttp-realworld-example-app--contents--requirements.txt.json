@@ -1,0 +1,18 @@
+{
+  "name": "requirements.txt",
+  "path": "requirements.txt",
+  "sha": "f46a5c9713d7cb58ab1469b0d674ebfd6bf3ba36",
+  "size": 166,
+  "url": "https://api.github.com/repos/nomhoi/aiohttp-realworld-example-app/contents/requirements.txt?ref=master",
+  "html_url": "https://github.com/nomhoi/aiohttp-realworld-example-app/blob/master/requirements.txt",
+  "git_url": "https://api.github.com/repos/nomhoi/aiohttp-realworld-example-app/git/blobs/f46a5c9713d7cb58ab1469b0d674ebfd6bf3ba36",
+  "download_url": "https://raw.githubusercontent.com/nomhoi/aiohttp-realworld-example-app/master/requirements.txt",
+  "type": "file",
+  "content": "YWlvaHR0cD09My42LjIKYWlvaHR0cF9jb3JzPT0wLjcuMAphaW9odHRwX2p3\ndD09MC41LjAKYWlvc3FsaXRlPT0wLjExLjAKYXN5bmNwZz09MC4yMC4xCmFz\neW5jdGVzdD09MC4xMy4wCnB5dGVzdC1hc3luY2lvPT0wLjEwLjAKdG9ydG9p\nc2Utb3JtPT0wLjE1LjEzCnV2bG9vcD09MC4xNC4wCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/nomhoi/aiohttp-realworld-example-app/contents/requirements.txt?ref=master",
+    "git": "https://api.github.com/repos/nomhoi/aiohttp-realworld-example-app/git/blobs/f46a5c9713d7cb58ab1469b0d674ebfd6bf3ba36",
+    "html": "https://github.com/nomhoi/aiohttp-realworld-example-app/blob/master/requirements.txt"
+  }
+}

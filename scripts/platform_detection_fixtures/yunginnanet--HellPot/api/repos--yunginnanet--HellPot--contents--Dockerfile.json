@@ -1,0 +1,18 @@
+{
+  "name": "Dockerfile",
+  "path": "Dockerfile",
+  "sha": "1bcc447f7c7a1802cda658f8b6209b8c19b6cab2",
+  "size": 579,
+  "url": "https://api.github.com/repos/yunginnanet/HellPot/contents/Dockerfile?ref=main",
+  "html_url": "https://github.com/yunginnanet/HellPot/blob/main/Dockerfile",
+  "git_url": "https://api.github.com/repos/yunginnanet/HellPot/git/blobs/1bcc447f7c7a1802cda658f8b6209b8c19b6cab2",
+  "download_url": "https://raw.githubusercontent.com/yunginnanet/HellPot/main/Dockerfile",
+  "type": "file",
+  "content": "RlJPTSBnb2xhbmc6MS4yMyBBUyBidWlsZApXT1JLRElSIC9nby9zcmMvYXBw\nCgpDT1BZIGdvLiogLgpSVU4gZ28gbW9kIGRvd25sb2FkCgpDT1BZIC4gLgoK\nUlVOIGdvIHZldCAtdiAuLy4uLgpSVU4gZ28gdGVzdCAtdiAuLy4uLgpSVU4g\nXAogICAgQ0dPX0VOQUJMRUQ9MCBcCiAgICBWRVJTSU9OPWBnaXQgdGFnIC0t\nc29ydD0tdmVyc2lvbjpyZWZuYW1lIHwgaGVhZCAtbiAxYCBcCiAgICBnbyBi\ndWlsZCAtdHJpbXBhdGggXAogICAgLWxkZmxhZ3MgIi1zIC13IC1YIG1haW4u\ndmVyc2lvbj0kVkVSU0lPTiIgXAogICAgY21kL0hlbGxQb3QvKi5nbwoKCkZS\nT00gZ2NyLmlvL2Rpc3Ryb2xlc3Mvc3RhdGljLWRlYmlhbjExCkxBQkVMIG9y\nZy5vcGVuY29udGFpbmVycy5pbWFnZS5zb3VyY2UgaHR0cHM6Ly9naXRodWIu\nY29tL3l1bmdpbm5hbmV0L0hlbGxQb3QKCkNPUFkgLS1mcm9tPWJ1aWxkIC9n\nby9zcmMvYXBwL0hlbGxQb3QgL2FwcApDT1BZIC0tZnJvbT1idWlsZCAvZ28v\nc3JjL2FwcC9kb2NrZXJfY29uZmlnLnRvbWwgL2NvbmZpZwpFWFBPU0UgODA4\nMApFTlRSWVBPSU5UIFsiL2FwcCIsICItYyIsICIvY29uZmlnIl0K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/yunginnanet/HellPot/contents/Dockerfile?ref=main",
+    "git": "https://api.github.com/repos/yunginnanet/HellPot/git/blobs/1bcc447f7c7a1802cda658f8b6209b8c19b6cab2",
+    "html": "https://github.com/yunginnanet/HellPot/blob/main/Dockerfile"
+  }
+}

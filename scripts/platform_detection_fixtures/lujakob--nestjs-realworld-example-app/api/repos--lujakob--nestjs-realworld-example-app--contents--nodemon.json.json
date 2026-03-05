@@ -1,0 +1,18 @@
+{
+  "name": "nodemon.json",
+  "path": "nodemon.json",
+  "sha": "0c29b463a7019cca98ab93fe44641662e90147d5",
+  "size": 97,
+  "url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/nodemon.json?ref=master",
+  "html_url": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/nodemon.json",
+  "git_url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/0c29b463a7019cca98ab93fe44641662e90147d5",
+  "download_url": "https://raw.githubusercontent.com/lujakob/nestjs-realworld-example-app/master/nodemon.json",
+  "type": "file",
+  "content": "ewogICJ3YXRjaCI6IFsic3JjIl0sCiAgImV4dCI6ICJ0cyIsCiAgImlnbm9y\nZSI6IFsic3JjLyoqLyouc3BlYy50cyJdLAogICJleGVjIjogIm5vZGUgLi9p\nbmRleCIKfQ==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/nodemon.json?ref=master",
+    "git": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/0c29b463a7019cca98ab93fe44641662e90147d5",
+    "html": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/nodemon.json"
+  }
+}

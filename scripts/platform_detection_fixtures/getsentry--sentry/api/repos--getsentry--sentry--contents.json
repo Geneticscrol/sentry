@@ -1,0 +1,962 @@
+[
+  {
+    "name": ".agents",
+    "path": ".agents",
+    "sha": "621e459ffa01085a1919ac0dbe0294c48ce47a8d",
+    "size": 0,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/.agents?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/tree/master/.agents",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/trees/621e459ffa01085a1919ac0dbe0294c48ce47a8d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/.agents?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/trees/621e459ffa01085a1919ac0dbe0294c48ce47a8d",
+      "html": "https://github.com/getsentry/sentry/tree/master/.agents"
+    }
+  },
+  {
+    "name": ".artifacts",
+    "path": ".artifacts",
+    "sha": "44813f92a105143eff565d14d2054c2ea90eb62e",
+    "size": 0,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/.artifacts?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/tree/master/.artifacts",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/trees/44813f92a105143eff565d14d2054c2ea90eb62e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/.artifacts?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/trees/44813f92a105143eff565d14d2054c2ea90eb62e",
+      "html": "https://github.com/getsentry/sentry/tree/master/.artifacts"
+    }
+  },
+  {
+    "name": ".claude",
+    "path": ".claude",
+    "sha": "76c6bd877cd4f46868eb4aaa519fd4c9cbadfc21",
+    "size": 0,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/.claude?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/tree/master/.claude",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/trees/76c6bd877cd4f46868eb4aaa519fd4c9cbadfc21",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/.claude?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/trees/76c6bd877cd4f46868eb4aaa519fd4c9cbadfc21",
+      "html": "https://github.com/getsentry/sentry/tree/master/.claude"
+    }
+  },
+  {
+    "name": ".craft.yml",
+    "path": ".craft.yml",
+    "sha": "db9c3d1c5a61be0fc7b5d280770daa50d88e76eb",
+    "size": 343,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/.craft.yml?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/.craft.yml",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/db9c3d1c5a61be0fc7b5d280770daa50d88e76eb",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/.craft.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/.craft.yml?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/db9c3d1c5a61be0fc7b5d280770daa50d88e76eb",
+      "html": "https://github.com/getsentry/sentry/blob/master/.craft.yml"
+    }
+  },
+  {
+    "name": ".cursor",
+    "path": ".cursor",
+    "sha": "21088317325d07b28324f4c26d8cdf7989ac6d15",
+    "size": 0,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/.cursor?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/tree/master/.cursor",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/trees/21088317325d07b28324f4c26d8cdf7989ac6d15",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/.cursor?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/trees/21088317325d07b28324f4c26d8cdf7989ac6d15",
+      "html": "https://github.com/getsentry/sentry/tree/master/.cursor"
+    }
+  },
+  {
+    "name": ".dockerignore",
+    "path": ".dockerignore",
+    "sha": "64aadf0e405875b45c67a4621fd26d21f81b46ed",
+    "size": 96,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/.dockerignore?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/.dockerignore",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/64aadf0e405875b45c67a4621fd26d21f81b46ed",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/.dockerignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/.dockerignore?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/64aadf0e405875b45c67a4621fd26d21f81b46ed",
+      "html": "https://github.com/getsentry/sentry/blob/master/.dockerignore"
+    }
+  },
+  {
+    "name": ".envrc",
+    "path": ".envrc",
+    "sha": "0dca6015e6b484b3116526e77c741172f6c55830",
+    "size": 6138,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/.envrc?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/.envrc",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/0dca6015e6b484b3116526e77c741172f6c55830",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/.envrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/.envrc?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/0dca6015e6b484b3116526e77c741172f6c55830",
+      "html": "https://github.com/getsentry/sentry/blob/master/.envrc"
+    }
+  },
+  {
+    "name": ".fossa.yml",
+    "path": ".fossa.yml",
+    "sha": "ec7c9c42572d378f7a1f691720fa19c590fd0356",
+    "size": 376,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/.fossa.yml?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/.fossa.yml",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/ec7c9c42572d378f7a1f691720fa19c590fd0356",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/.fossa.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/.fossa.yml?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/ec7c9c42572d378f7a1f691720fa19c590fd0356",
+      "html": "https://github.com/getsentry/sentry/blob/master/.fossa.yml"
+    }
+  },
+  {
+    "name": ".git-blame-ignore-revs",
+    "path": ".git-blame-ignore-revs",
+    "sha": "a038facf502c1e9bfce9907b96a8187c1af79849",
+    "size": 4329,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/.git-blame-ignore-revs?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/.git-blame-ignore-revs",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/a038facf502c1e9bfce9907b96a8187c1af79849",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/.git-blame-ignore-revs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/.git-blame-ignore-revs?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/a038facf502c1e9bfce9907b96a8187c1af79849",
+      "html": "https://github.com/getsentry/sentry/blob/master/.git-blame-ignore-revs"
+    }
+  },
+  {
+    "name": ".gitattributes",
+    "path": ".gitattributes",
+    "sha": "5ba507a7743d712d0ef6adff6b7809db954554cc",
+    "size": 373,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/.gitattributes?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/.gitattributes",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/5ba507a7743d712d0ef6adff6b7809db954554cc",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/.gitattributes",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/.gitattributes?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/5ba507a7743d712d0ef6adff6b7809db954554cc",
+      "html": "https://github.com/getsentry/sentry/blob/master/.gitattributes"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "491da372f9f213be3b8c1cfe5ad7b533a055651e",
+    "size": 0,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/.github?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/tree/master/.github",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/trees/491da372f9f213be3b8c1cfe5ad7b533a055651e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/.github?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/trees/491da372f9f213be3b8c1cfe5ad7b533a055651e",
+      "html": "https://github.com/getsentry/sentry/tree/master/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "fc9239dee7aac6bb6afa213f2889eb0aac140dc2",
+    "size": 2020,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/fc9239dee7aac6bb6afa213f2889eb0aac140dc2",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/fc9239dee7aac6bb6afa213f2889eb0aac140dc2",
+      "html": "https://github.com/getsentry/sentry/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": ".mcp.json",
+    "path": ".mcp.json",
+    "sha": "88a73ecbfeed0223a886d357970bbeaa315deaf5",
+    "size": 134,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/.mcp.json?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/.mcp.json",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/88a73ecbfeed0223a886d357970bbeaa315deaf5",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/.mcp.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/.mcp.json?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/88a73ecbfeed0223a886d357970bbeaa315deaf5",
+      "html": "https://github.com/getsentry/sentry/blob/master/.mcp.json"
+    }
+  },
+  {
+    "name": ".node-version",
+    "path": ".node-version",
+    "sha": "d845d9d88db71e92ea1e8f50a4af89d49fecf2e3",
+    "size": 8,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/.node-version?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/.node-version",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/d845d9d88db71e92ea1e8f50a4af89d49fecf2e3",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/.node-version",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/.node-version?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/d845d9d88db71e92ea1e8f50a4af89d49fecf2e3",
+      "html": "https://github.com/getsentry/sentry/blob/master/.node-version"
+    }
+  },
+  {
+    "name": ".npmrc",
+    "path": ".npmrc",
+    "sha": "9e92c3be0d284c119011193f45aa58c1791524f9",
+    "size": 36,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/.npmrc?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/.npmrc",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/9e92c3be0d284c119011193f45aa58c1791524f9",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/.npmrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/.npmrc?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/9e92c3be0d284c119011193f45aa58c1791524f9",
+      "html": "https://github.com/getsentry/sentry/blob/master/.npmrc"
+    }
+  },
+  {
+    "name": ".pre-commit-config.yaml",
+    "path": ".pre-commit-config.yaml",
+    "sha": "6012d9a347d36f1f4e07f13f047818fd4c72de02",
+    "size": 6011,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/.pre-commit-config.yaml?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/.pre-commit-config.yaml",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/6012d9a347d36f1f4e07f13f047818fd4c72de02",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/.pre-commit-config.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/.pre-commit-config.yaml?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/6012d9a347d36f1f4e07f13f047818fd4c72de02",
+      "html": "https://github.com/getsentry/sentry/blob/master/.pre-commit-config.yaml"
+    }
+  },
+  {
+    "name": ".prettierignore",
+    "path": ".prettierignore",
+    "sha": "ee8c8cdc02a7ffc3cf75405c884fb703b34ba37e",
+    "size": 232,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/.prettierignore?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/.prettierignore",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/ee8c8cdc02a7ffc3cf75405c884fb703b34ba37e",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/.prettierignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/.prettierignore?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/ee8c8cdc02a7ffc3cf75405c884fb703b34ba37e",
+      "html": "https://github.com/getsentry/sentry/blob/master/.prettierignore"
+    }
+  },
+  {
+    "name": ".python-version",
+    "path": ".python-version",
+    "sha": "c10780c628ad54d5dba5c4108b0a5ba6254a29fc",
+    "size": 7,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/.python-version?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/.python-version",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/c10780c628ad54d5dba5c4108b0a5ba6254a29fc",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/.python-version",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/.python-version?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/c10780c628ad54d5dba5c4108b0a5ba6254a29fc",
+      "html": "https://github.com/getsentry/sentry/blob/master/.python-version"
+    }
+  },
+  {
+    "name": ".tx",
+    "path": ".tx",
+    "sha": "31799c0e3a412f7b0cc438244cd4ade39b7d07ae",
+    "size": 0,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/.tx?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/tree/master/.tx",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/trees/31799c0e3a412f7b0cc438244cd4ade39b7d07ae",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/.tx?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/trees/31799c0e3a412f7b0cc438244cd4ade39b7d07ae",
+      "html": "https://github.com/getsentry/sentry/tree/master/.tx"
+    }
+  },
+  {
+    "name": ".vercelignore",
+    "path": ".vercelignore",
+    "sha": "9883e731d2c6e74f0fc12390cf0c12101a6999d0",
+    "size": 384,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/.vercelignore?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/.vercelignore",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/9883e731d2c6e74f0fc12390cf0c12101a6999d0",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/.vercelignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/.vercelignore?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/9883e731d2c6e74f0fc12390cf0c12101a6999d0",
+      "html": "https://github.com/getsentry/sentry/blob/master/.vercelignore"
+    }
+  },
+  {
+    "name": ".vscode",
+    "path": ".vscode",
+    "sha": "24509f1ec5cbae015535df031c6f28e7d1e74065",
+    "size": 0,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/.vscode?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/tree/master/.vscode",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/trees/24509f1ec5cbae015535df031c6f28e7d1e74065",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/.vscode?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/trees/24509f1ec5cbae015535df031c6f28e7d1e74065",
+      "html": "https://github.com/getsentry/sentry/tree/master/.vscode"
+    }
+  },
+  {
+    "name": "AGENTS.md",
+    "path": "AGENTS.md",
+    "sha": "fbb1d5ca0692e63c61067bf5c8e694441b8c8d33",
+    "size": 7247,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/AGENTS.md?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/AGENTS.md",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/fbb1d5ca0692e63c61067bf5c8e694441b8c8d33",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/AGENTS.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/AGENTS.md?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/fbb1d5ca0692e63c61067bf5c8e694441b8c8d33",
+      "html": "https://github.com/getsentry/sentry/blob/master/AGENTS.md"
+    }
+  },
+  {
+    "name": "AUTHORS",
+    "path": "AUTHORS",
+    "sha": "508f7801d24d2669d0612e5f0f29d93eb1f9ec18",
+    "size": 49,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/AUTHORS?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/AUTHORS",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/508f7801d24d2669d0612e5f0f29d93eb1f9ec18",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/AUTHORS",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/AUTHORS?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/508f7801d24d2669d0612e5f0f29d93eb1f9ec18",
+      "html": "https://github.com/getsentry/sentry/blob/master/AUTHORS"
+    }
+  },
+  {
+    "name": "Brewfile",
+    "path": "Brewfile",
+    "sha": "09627aa758117491fd890cd7b999782e40a5d347",
+    "size": 763,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/Brewfile?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/Brewfile",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/09627aa758117491fd890cd7b999782e40a5d347",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/Brewfile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/Brewfile?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/09627aa758117491fd890cd7b999782e40a5d347",
+      "html": "https://github.com/getsentry/sentry/blob/master/Brewfile"
+    }
+  },
+  {
+    "name": "CHANGES",
+    "path": "CHANGES",
+    "sha": "e3607e1688f49f0a0fb8ce59822443508c4db886",
+    "size": 717864,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/CHANGES?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/CHANGES",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/e3607e1688f49f0a0fb8ce59822443508c4db886",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/CHANGES",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/CHANGES?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/e3607e1688f49f0a0fb8ce59822443508c4db886",
+      "html": "https://github.com/getsentry/sentry/blob/master/CHANGES"
+    }
+  },
+  {
+    "name": "CLAUDE.md",
+    "path": "CLAUDE.md",
+    "sha": "43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+    "size": 11,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/CLAUDE.md?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/CLAUDE.md",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/CLAUDE.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/CLAUDE.md?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+      "html": "https://github.com/getsentry/sentry/blob/master/CLAUDE.md"
+    }
+  },
+  {
+    "name": "LICENSE.md",
+    "path": "LICENSE.md",
+    "sha": "f97b1d1f628142b825c11675c5c33dd7a747f946",
+    "size": 3785,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/LICENSE.md?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/LICENSE.md",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/f97b1d1f628142b825c11675c5c33dd7a747f946",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/LICENSE.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/LICENSE.md?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/f97b1d1f628142b825c11675c5c33dd7a747f946",
+      "html": "https://github.com/getsentry/sentry/blob/master/LICENSE.md"
+    }
+  },
+  {
+    "name": "Makefile",
+    "path": "Makefile",
+    "sha": "fdd798061c5d8c70eedfc2dcd00975088ec219e0",
+    "size": 7864,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/Makefile?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/Makefile",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/fdd798061c5d8c70eedfc2dcd00975088ec219e0",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/Makefile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/Makefile?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/fdd798061c5d8c70eedfc2dcd00975088ec219e0",
+      "html": "https://github.com/getsentry/sentry/blob/master/Makefile"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "70d14258712070c2435402c285d584aab7f66c95",
+    "size": 3180,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/README.md?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/70d14258712070c2435402c285d584aab7f66c95",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/70d14258712070c2435402c285d584aab7f66c95",
+      "html": "https://github.com/getsentry/sentry/blob/master/README.md"
+    }
+  },
+  {
+    "name": "SSH",
+    "path": "SSH",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/SSH?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/SSH",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/SSH",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/SSH?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "html": "https://github.com/getsentry/sentry/blob/master/SSH"
+    }
+  },
+  {
+    "name": "agents.toml",
+    "path": "agents.toml",
+    "sha": "89f91783d907b2e8587e16824fcf7425443118ce",
+    "size": 300,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/agents.toml?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/agents.toml",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/89f91783d907b2e8587e16824fcf7425443118ce",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/agents.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/agents.toml?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/89f91783d907b2e8587e16824fcf7425443118ce",
+      "html": "https://github.com/getsentry/sentry/blob/master/agents.toml"
+    }
+  },
+  {
+    "name": "api-docs",
+    "path": "api-docs",
+    "sha": "a1c7a5d995c7f88296c3edd772327a3ecde42229",
+    "size": 0,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/api-docs?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/tree/master/api-docs",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/trees/a1c7a5d995c7f88296c3edd772327a3ecde42229",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/api-docs?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/trees/a1c7a5d995c7f88296c3edd772327a3ecde42229",
+      "html": "https://github.com/getsentry/sentry/tree/master/api-docs"
+    }
+  },
+  {
+    "name": "bin",
+    "path": "bin",
+    "sha": "ac3070d9dcaf64bd6c162f66ea30fd0888a221b7",
+    "size": 0,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/bin?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/tree/master/bin",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/trees/ac3070d9dcaf64bd6c162f66ea30fd0888a221b7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/bin?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/trees/ac3070d9dcaf64bd6c162f66ea30fd0888a221b7",
+      "html": "https://github.com/getsentry/sentry/tree/master/bin"
+    }
+  },
+  {
+    "name": "build-utils",
+    "path": "build-utils",
+    "sha": "8eae77cd40d0c4b599aeba3353cbd9e45e984dfa",
+    "size": 0,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/build-utils?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/tree/master/build-utils",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/trees/8eae77cd40d0c4b599aeba3353cbd9e45e984dfa",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/build-utils?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/trees/8eae77cd40d0c4b599aeba3353cbd9e45e984dfa",
+      "html": "https://github.com/getsentry/sentry/tree/master/build-utils"
+    }
+  },
+  {
+    "name": "config",
+    "path": "config",
+    "sha": "7921535be80e0f1bba05a1743d7a272a623e1771",
+    "size": 0,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/config?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/tree/master/config",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/trees/7921535be80e0f1bba05a1743d7a272a623e1771",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/config?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/trees/7921535be80e0f1bba05a1743d7a272a623e1771",
+      "html": "https://github.com/getsentry/sentry/tree/master/config"
+    }
+  },
+  {
+    "name": "devenv",
+    "path": "devenv",
+    "sha": "ade80ed7ff1d7a07e5d209916df14b2bff716a5d",
+    "size": 0,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/devenv?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/tree/master/devenv",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/trees/ade80ed7ff1d7a07e5d209916df14b2bff716a5d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/devenv?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/trees/ade80ed7ff1d7a07e5d209916df14b2bff716a5d",
+      "html": "https://github.com/getsentry/sentry/tree/master/devenv"
+    }
+  },
+  {
+    "name": "devservices",
+    "path": "devservices",
+    "sha": "50ec6411ed0df5f098abeba0339a69b6a3800e87",
+    "size": 0,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/devservices?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/tree/master/devservices",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/trees/50ec6411ed0df5f098abeba0339a69b6a3800e87",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/devservices?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/trees/50ec6411ed0df5f098abeba0339a69b6a3800e87",
+      "html": "https://github.com/getsentry/sentry/tree/master/devservices"
+    }
+  },
+  {
+    "name": "eslint.config.ts",
+    "path": "eslint.config.ts",
+    "sha": "23fe72cc132fa40b84913cac8d8c7114df978762",
+    "size": 48936,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/eslint.config.ts?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/eslint.config.ts",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/23fe72cc132fa40b84913cac8d8c7114df978762",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/eslint.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/eslint.config.ts?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/23fe72cc132fa40b84913cac8d8c7114df978762",
+      "html": "https://github.com/getsentry/sentry/blob/master/eslint.config.ts"
+    }
+  },
+  {
+    "name": "figma.config.json",
+    "path": "figma.config.json",
+    "sha": "e64c9630df03f475d28e1ec59d40af3403092033",
+    "size": 346,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/figma.config.json?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/figma.config.json",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/e64c9630df03f475d28e1ec59d40af3403092033",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/figma.config.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/figma.config.json?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/e64c9630df03f475d28e1ec59d40af3403092033",
+      "html": "https://github.com/getsentry/sentry/blob/master/figma.config.json"
+    }
+  },
+  {
+    "name": "fixtures",
+    "path": "fixtures",
+    "sha": "19be952fc0438873fd67404865ee275ce0cb8ecb",
+    "size": 0,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/fixtures?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/tree/master/fixtures",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/trees/19be952fc0438873fd67404865ee275ce0cb8ecb",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/fixtures?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/trees/19be952fc0438873fd67404865ee275ce0cb8ecb",
+      "html": "https://github.com/getsentry/sentry/tree/master/fixtures"
+    }
+  },
+  {
+    "name": "jest.config.ts",
+    "path": "jest.config.ts",
+    "sha": "988bc0797e310d93b45dae823b01c48ea8701da2",
+    "size": 11715,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/jest.config.ts?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/jest.config.ts",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/988bc0797e310d93b45dae823b01c48ea8701da2",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/jest.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/jest.config.ts?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/988bc0797e310d93b45dae823b01c48ea8701da2",
+      "html": "https://github.com/getsentry/sentry/blob/master/jest.config.ts"
+    }
+  },
+  {
+    "name": "knip.config.ts",
+    "path": "knip.config.ts",
+    "sha": "e88cd11ecf9193cb8f5dd84e32c64b08dfcd74ff",
+    "size": 3489,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/knip.config.ts?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/knip.config.ts",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/e88cd11ecf9193cb8f5dd84e32c64b08dfcd74ff",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/knip.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/knip.config.ts?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/e88cd11ecf9193cb8f5dd84e32c64b08dfcd74ff",
+      "html": "https://github.com/getsentry/sentry/blob/master/knip.config.ts"
+    }
+  },
+  {
+    "name": "migrations_lockfile.txt",
+    "path": "migrations_lockfile.txt",
+    "sha": "4fa57a5d6b76b411e20c6b36e68c928ee5a7d301",
+    "size": 1231,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/migrations_lockfile.txt?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/migrations_lockfile.txt",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/4fa57a5d6b76b411e20c6b36e68c928ee5a7d301",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/migrations_lockfile.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/migrations_lockfile.txt?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/4fa57a5d6b76b411e20c6b36e68c928ee5a7d301",
+      "html": "https://github.com/getsentry/sentry/blob/master/migrations_lockfile.txt"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "f21ffadc5eb0e0028c60236dbca0c5f71bc6efab",
+    "size": 13668,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/package.json?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/package.json",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/f21ffadc5eb0e0028c60236dbca0c5f71bc6efab",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/package.json?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/f21ffadc5eb0e0028c60236dbca0c5f71bc6efab",
+      "html": "https://github.com/getsentry/sentry/blob/master/package.json"
+    }
+  },
+  {
+    "name": "pnpm-lock.yaml",
+    "path": "pnpm-lock.yaml",
+    "sha": "403ce6da3c7f84779be9c715c45cb1d98b229af9",
+    "size": 690418,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/pnpm-lock.yaml?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/pnpm-lock.yaml",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/403ce6da3c7f84779be9c715c45cb1d98b229af9",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/pnpm-lock.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/pnpm-lock.yaml?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/403ce6da3c7f84779be9c715c45cb1d98b229af9",
+      "html": "https://github.com/getsentry/sentry/blob/master/pnpm-lock.yaml"
+    }
+  },
+  {
+    "name": "prettier.config.js",
+    "path": "prettier.config.js",
+    "sha": "9ab04f5c381737e04326c4893e608a1d30540ed8",
+    "size": 1206,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/prettier.config.js?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/prettier.config.js",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/9ab04f5c381737e04326c4893e608a1d30540ed8",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/prettier.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/prettier.config.js?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/9ab04f5c381737e04326c4893e608a1d30540ed8",
+      "html": "https://github.com/getsentry/sentry/blob/master/prettier.config.js"
+    }
+  },
+  {
+    "name": "pyproject.toml",
+    "path": "pyproject.toml",
+    "sha": "c52f540b51035c25c119772c056baf78b3758fad",
+    "size": 33041,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/pyproject.toml?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/pyproject.toml",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/c52f540b51035c25c119772c056baf78b3758fad",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/pyproject.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/pyproject.toml?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/c52f540b51035c25c119772c056baf78b3758fad",
+      "html": "https://github.com/getsentry/sentry/blob/master/pyproject.toml"
+    }
+  },
+  {
+    "name": "rspack.config.ts",
+    "path": "rspack.config.ts",
+    "sha": "d652358a7ac85b7f677a9e38298b82b77fc85fa8",
+    "size": 31573,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/rspack.config.ts?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/rspack.config.ts",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/d652358a7ac85b7f677a9e38298b82b77fc85fa8",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/rspack.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/rspack.config.ts?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/d652358a7ac85b7f677a9e38298b82b77fc85fa8",
+      "html": "https://github.com/getsentry/sentry/blob/master/rspack.config.ts"
+    }
+  },
+  {
+    "name": "scripts",
+    "path": "scripts",
+    "sha": "4ea3bd57c6c639a7b308da51561f037cae3b17d6",
+    "size": 0,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/scripts?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/tree/master/scripts",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/trees/4ea3bd57c6c639a7b308da51561f037cae3b17d6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/scripts?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/trees/4ea3bd57c6c639a7b308da51561f037cae3b17d6",
+      "html": "https://github.com/getsentry/sentry/tree/master/scripts"
+    }
+  },
+  {
+    "name": "self-hosted",
+    "path": "self-hosted",
+    "sha": "6b4035b2b1bf4fcf553297623d4b0aede5f53552",
+    "size": 0,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/self-hosted?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/tree/master/self-hosted",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/trees/6b4035b2b1bf4fcf553297623d4b0aede5f53552",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/self-hosted?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/trees/6b4035b2b1bf4fcf553297623d4b0aede5f53552",
+      "html": "https://github.com/getsentry/sentry/tree/master/self-hosted"
+    }
+  },
+  {
+    "name": "setup.cfg",
+    "path": "setup.cfg",
+    "sha": "b40b9ac06de3dcb29db0728e3e4973d32e41de0b",
+    "size": 3985,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/setup.cfg?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/setup.cfg",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/b40b9ac06de3dcb29db0728e3e4973d32e41de0b",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/setup.cfg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/setup.cfg?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/b40b9ac06de3dcb29db0728e3e4973d32e41de0b",
+      "html": "https://github.com/getsentry/sentry/blob/master/setup.cfg"
+    }
+  },
+  {
+    "name": "src",
+    "path": "src",
+    "sha": "a3c831ab334fb4a235a4479d3431920d49a5e9de",
+    "size": 0,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/src?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/tree/master/src",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/trees/a3c831ab334fb4a235a4479d3431920d49a5e9de",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/src?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/trees/a3c831ab334fb4a235a4479d3431920d49a5e9de",
+      "html": "https://github.com/getsentry/sentry/tree/master/src"
+    }
+  },
+  {
+    "name": "static",
+    "path": "static",
+    "sha": "40331cc01ffd7cbbb088344446b1438c49294a82",
+    "size": 0,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/static?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/tree/master/static",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/trees/40331cc01ffd7cbbb088344446b1438c49294a82",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/static?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/trees/40331cc01ffd7cbbb088344446b1438c49294a82",
+      "html": "https://github.com/getsentry/sentry/tree/master/static"
+    }
+  },
+  {
+    "name": "stylelint.config.js",
+    "path": "stylelint.config.js",
+    "sha": "1e9a27339bbbe837b8940767af25ec9e239373e2",
+    "size": 1106,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/stylelint.config.js?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/stylelint.config.js",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/1e9a27339bbbe837b8940767af25ec9e239373e2",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/stylelint.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/stylelint.config.js?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/1e9a27339bbbe837b8940767af25ec9e239373e2",
+      "html": "https://github.com/getsentry/sentry/blob/master/stylelint.config.js"
+    }
+  },
+  {
+    "name": "tests",
+    "path": "tests",
+    "sha": "bc5ac9ecdbac5081c1163aeedd55ef9595880317",
+    "size": 0,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/tests?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/tree/master/tests",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/trees/bc5ac9ecdbac5081c1163aeedd55ef9595880317",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/tests?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/trees/bc5ac9ecdbac5081c1163aeedd55ef9595880317",
+      "html": "https://github.com/getsentry/sentry/tree/master/tests"
+    }
+  },
+  {
+    "name": "tools",
+    "path": "tools",
+    "sha": "e1f3c46f379d35f94f590a33368e5a77e832aadc",
+    "size": 0,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/tools?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/tree/master/tools",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/trees/e1f3c46f379d35f94f590a33368e5a77e832aadc",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/tools?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/trees/e1f3c46f379d35f94f590a33368e5a77e832aadc",
+      "html": "https://github.com/getsentry/sentry/tree/master/tools"
+    }
+  },
+  {
+    "name": "tsconfig.json",
+    "path": "tsconfig.json",
+    "sha": "cef70817803c105bdcc799a22787966650457f49",
+    "size": 2794,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/tsconfig.json?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/tsconfig.json",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/cef70817803c105bdcc799a22787966650457f49",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/tsconfig.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/tsconfig.json?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/cef70817803c105bdcc799a22787966650457f49",
+      "html": "https://github.com/getsentry/sentry/blob/master/tsconfig.json"
+    }
+  },
+  {
+    "name": "uv.lock",
+    "path": "uv.lock",
+    "sha": "74a6d1f89ed8ae77b28adbb1e5dbdb858819ba4d",
+    "size": 184654,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/uv.lock?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/uv.lock",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/74a6d1f89ed8ae77b28adbb1e5dbdb858819ba4d",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/uv.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/uv.lock?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/74a6d1f89ed8ae77b28adbb1e5dbdb858819ba4d",
+      "html": "https://github.com/getsentry/sentry/blob/master/uv.lock"
+    }
+  },
+  {
+    "name": "vercel.json",
+    "path": "vercel.json",
+    "sha": "99f53192093c92a98171dd829421c520c14e0d0c",
+    "size": 589,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/vercel.json?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/vercel.json",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/99f53192093c92a98171dd829421c520c14e0d0c",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/vercel.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/vercel.json?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/99f53192093c92a98171dd829421c520c14e0d0c",
+      "html": "https://github.com/getsentry/sentry/blob/master/vercel.json"
+    }
+  },
+  {
+    "name": "warden.toml",
+    "path": "warden.toml",
+    "sha": "aad7722a58f667174fb5a5b3dc5d0c87f149802f",
+    "size": 1228,
+    "url": "https://api.github.com/repos/getsentry/sentry/contents/warden.toml?ref=master",
+    "html_url": "https://github.com/getsentry/sentry/blob/master/warden.toml",
+    "git_url": "https://api.github.com/repos/getsentry/sentry/git/blobs/aad7722a58f667174fb5a5b3dc5d0c87f149802f",
+    "download_url": "https://raw.githubusercontent.com/getsentry/sentry/master/warden.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/getsentry/sentry/contents/warden.toml?ref=master",
+      "git": "https://api.github.com/repos/getsentry/sentry/git/blobs/aad7722a58f667174fb5a5b3dc5d0c87f149802f",
+      "html": "https://github.com/getsentry/sentry/blob/master/warden.toml"
+    }
+  }
+]

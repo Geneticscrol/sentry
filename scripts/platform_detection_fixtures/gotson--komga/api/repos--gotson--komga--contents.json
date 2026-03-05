@@ -1,0 +1,514 @@
+[
+  {
+    "name": ".editorconfig",
+    "path": ".editorconfig",
+    "sha": "702b93326a030b067832642f98d6ef57949b46b4",
+    "size": 586,
+    "url": "https://api.github.com/repos/gotson/komga/contents/.editorconfig?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/.editorconfig",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/702b93326a030b067832642f98d6ef57949b46b4",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/.editorconfig",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/.editorconfig?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/702b93326a030b067832642f98d6ef57949b46b4",
+      "html": "https://github.com/gotson/komga/blob/master/.editorconfig"
+    }
+  },
+  {
+    "name": ".gitattributes",
+    "path": ".gitattributes",
+    "sha": "176a458f94e0ea5272ce67c36bf30b6be9caf623",
+    "size": 12,
+    "url": "https://api.github.com/repos/gotson/komga/contents/.gitattributes?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/.gitattributes",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/176a458f94e0ea5272ce67c36bf30b6be9caf623",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/.gitattributes",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/.gitattributes?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/176a458f94e0ea5272ce67c36bf30b6be9caf623",
+      "html": "https://github.com/gotson/komga/blob/master/.gitattributes"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "e530d54aad167c67578df93ef79e1aba6a2f3d72",
+    "size": 0,
+    "url": "https://api.github.com/repos/gotson/komga/contents/.github?ref=master",
+    "html_url": "https://github.com/gotson/komga/tree/master/.github",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/trees/e530d54aad167c67578df93ef79e1aba6a2f3d72",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/.github?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/trees/e530d54aad167c67578df93ef79e1aba6a2f3d72",
+      "html": "https://github.com/gotson/komga/tree/master/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "7e048bb66c4cf08a99afb424f292cc6aa6879366",
+    "size": 619,
+    "url": "https://api.github.com/repos/gotson/komga/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/7e048bb66c4cf08a99afb424f292cc6aa6879366",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/7e048bb66c4cf08a99afb424f292cc6aa6879366",
+      "html": "https://github.com/gotson/komga/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": ".idea",
+    "path": ".idea",
+    "sha": "58ad0af1130061c9edc9f57b9d21ec926a71e5ff",
+    "size": 0,
+    "url": "https://api.github.com/repos/gotson/komga/contents/.idea?ref=master",
+    "html_url": "https://github.com/gotson/komga/tree/master/.idea",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/trees/58ad0af1130061c9edc9f57b9d21ec926a71e5ff",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/.idea?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/trees/58ad0af1130061c9edc9f57b9d21ec926a71e5ff",
+      "html": "https://github.com/gotson/komga/tree/master/.idea"
+    }
+  },
+  {
+    "name": ".nvmrc",
+    "path": ".nvmrc",
+    "sha": "3c032078a4a21c5c51d3c93d91717c1dabbb8cd0",
+    "size": 3,
+    "url": "https://api.github.com/repos/gotson/komga/contents/.nvmrc?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/.nvmrc",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/3c032078a4a21c5c51d3c93d91717c1dabbb8cd0",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/.nvmrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/.nvmrc?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/3c032078a4a21c5c51d3c93d91717c1dabbb8cd0",
+      "html": "https://github.com/gotson/komga/blob/master/.nvmrc"
+    }
+  },
+  {
+    "name": ".svu.yml",
+    "path": ".svu.yml",
+    "sha": "785d247bddf5ebaba8a4ac6b259edaceb2448045",
+    "size": 37,
+    "url": "https://api.github.com/repos/gotson/komga/contents/.svu.yml?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/.svu.yml",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/785d247bddf5ebaba8a4ac6b259edaceb2448045",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/.svu.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/.svu.yml?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/785d247bddf5ebaba8a4ac6b259edaceb2448045",
+      "html": "https://github.com/gotson/komga/blob/master/.svu.yml"
+    }
+  },
+  {
+    "name": "CHANGELOG.md",
+    "path": "CHANGELOG.md",
+    "sha": "4f444ccbcf6d00b0a260a25c819bc2960af0f062",
+    "size": 340332,
+    "url": "https://api.github.com/repos/gotson/komga/contents/CHANGELOG.md?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/CHANGELOG.md",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/4f444ccbcf6d00b0a260a25c819bc2960af0f062",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/CHANGELOG.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/CHANGELOG.md?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/4f444ccbcf6d00b0a260a25c819bc2960af0f062",
+      "html": "https://github.com/gotson/komga/blob/master/CHANGELOG.md"
+    }
+  },
+  {
+    "name": "CONTRIBUTING.md",
+    "path": "CONTRIBUTING.md",
+    "sha": "4cd8ddaf258803eb60a425e57f082fa8a87f3eee",
+    "size": 804,
+    "url": "https://api.github.com/repos/gotson/komga/contents/CONTRIBUTING.md?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/CONTRIBUTING.md",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/4cd8ddaf258803eb60a425e57f082fa8a87f3eee",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/CONTRIBUTING.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/CONTRIBUTING.md?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/4cd8ddaf258803eb60a425e57f082fa8a87f3eee",
+      "html": "https://github.com/gotson/komga/blob/master/CONTRIBUTING.md"
+    }
+  },
+  {
+    "name": "DEVELOPING.md",
+    "path": "DEVELOPING.md",
+    "sha": "dfe060c370a2527814c88388b74e23ac67e71b3d",
+    "size": 3410,
+    "url": "https://api.github.com/repos/gotson/komga/contents/DEVELOPING.md?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/DEVELOPING.md",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/dfe060c370a2527814c88388b74e23ac67e71b3d",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/DEVELOPING.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/DEVELOPING.md?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/dfe060c370a2527814c88388b74e23ac67e71b3d",
+      "html": "https://github.com/gotson/komga/blob/master/DEVELOPING.md"
+    }
+  },
+  {
+    "name": "DOCKERHUB.md",
+    "path": "DOCKERHUB.md",
+    "sha": "e6edaf4d900f3d6957c09c15312022f60154fdd0",
+    "size": 1308,
+    "url": "https://api.github.com/repos/gotson/komga/contents/DOCKERHUB.md?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/DOCKERHUB.md",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/e6edaf4d900f3d6957c09c15312022f60154fdd0",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/DOCKERHUB.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/DOCKERHUB.md?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/e6edaf4d900f3d6957c09c15312022f60154fdd0",
+      "html": "https://github.com/gotson/komga/blob/master/DOCKERHUB.md"
+    }
+  },
+  {
+    "name": "ERRORCODES.md",
+    "path": "ERRORCODES.md",
+    "sha": "2e7bdefee594f1d20b46dd4d80b2617b4f54789f",
+    "size": 3166,
+    "url": "https://api.github.com/repos/gotson/komga/contents/ERRORCODES.md?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/ERRORCODES.md",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/2e7bdefee594f1d20b46dd4d80b2617b4f54789f",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/ERRORCODES.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/ERRORCODES.md?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/2e7bdefee594f1d20b46dd4d80b2617b4f54789f",
+      "html": "https://github.com/gotson/komga/blob/master/ERRORCODES.md"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "266fd0c0935ed93fc9b47e4b00761f67b18aa0b4",
+    "size": 1075,
+    "url": "https://api.github.com/repos/gotson/komga/contents/LICENSE?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/LICENSE",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/266fd0c0935ed93fc9b47e4b00761f67b18aa0b4",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/LICENSE?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/266fd0c0935ed93fc9b47e4b00761f67b18aa0b4",
+      "html": "https://github.com/gotson/komga/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "PRIVACY.md",
+    "path": "PRIVACY.md",
+    "sha": "71da498437378fa0d2f93722b6d8dd76665242ee",
+    "size": 583,
+    "url": "https://api.github.com/repos/gotson/komga/contents/PRIVACY.md?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/PRIVACY.md",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/71da498437378fa0d2f93722b6d8dd76665242ee",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/PRIVACY.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/PRIVACY.md?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/71da498437378fa0d2f93722b6d8dd76665242ee",
+      "html": "https://github.com/gotson/komga/blob/master/PRIVACY.md"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "d60db0d619af5d0463cc4c1665551dfdd28aa594",
+    "size": 3259,
+    "url": "https://api.github.com/repos/gotson/komga/contents/README.md?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/d60db0d619af5d0463cc4c1665551dfdd28aa594",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/d60db0d619af5d0463cc4c1665551dfdd28aa594",
+      "html": "https://github.com/gotson/komga/blob/master/README.md"
+    }
+  },
+  {
+    "name": "apple.cer",
+    "path": "apple.cer",
+    "sha": "bc3796702a976cd809b74de105ea4e396974fb9a",
+    "size": 1492,
+    "url": "https://api.github.com/repos/gotson/komga/contents/apple.cer?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/apple.cer",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/bc3796702a976cd809b74de105ea4e396974fb9a",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/apple.cer",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/apple.cer?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/bc3796702a976cd809b74de105ea4e396974fb9a",
+      "html": "https://github.com/gotson/komga/blob/master/apple.cer"
+    }
+  },
+  {
+    "name": "build.gradle.kts",
+    "path": "build.gradle.kts",
+    "sha": "1e187071f299c8ac5e599e7f8fcc7b324f50fd25",
+    "size": 5962,
+    "url": "https://api.github.com/repos/gotson/komga/contents/build.gradle.kts?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/build.gradle.kts",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/1e187071f299c8ac5e599e7f8fcc7b324f50fd25",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/build.gradle.kts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/build.gradle.kts?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/1e187071f299c8ac5e599e7f8fcc7b324f50fd25",
+      "html": "https://github.com/gotson/komga/blob/master/build.gradle.kts"
+    }
+  },
+  {
+    "name": "conventionalcommit.json",
+    "path": "conventionalcommit.json",
+    "sha": "982aa0cc212b5d2822c25611bcd0a2eb338012c0",
+    "size": 2024,
+    "url": "https://api.github.com/repos/gotson/komga/contents/conventionalcommit.json?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/conventionalcommit.json",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/982aa0cc212b5d2822c25611bcd0a2eb338012c0",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/conventionalcommit.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/conventionalcommit.json?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/982aa0cc212b5d2822c25611bcd0a2eb338012c0",
+      "html": "https://github.com/gotson/komga/blob/master/conventionalcommit.json"
+    }
+  },
+  {
+    "name": "conveyor.ci.conf",
+    "path": "conveyor.ci.conf",
+    "sha": "75cac88c5e7f446a825466f922786cc42c63c837",
+    "size": 682,
+    "url": "https://api.github.com/repos/gotson/komga/contents/conveyor.ci.conf?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/conveyor.ci.conf",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/75cac88c5e7f446a825466f922786cc42c63c837",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/conveyor.ci.conf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/conveyor.ci.conf?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/75cac88c5e7f446a825466f922786cc42c63c837",
+      "html": "https://github.com/gotson/komga/blob/master/conveyor.ci.conf"
+    }
+  },
+  {
+    "name": "conveyor.conf",
+    "path": "conveyor.conf",
+    "sha": "57c21ddc38d93b97196ca8c8e13b6bea90251ee7",
+    "size": 2158,
+    "url": "https://api.github.com/repos/gotson/komga/contents/conveyor.conf?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/conveyor.conf",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/57c21ddc38d93b97196ca8c8e13b6bea90251ee7",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/conveyor.conf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/conveyor.conf?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/57c21ddc38d93b97196ca8c8e13b6bea90251ee7",
+      "html": "https://github.com/gotson/komga/blob/master/conveyor.conf"
+    }
+  },
+  {
+    "name": "conveyor.detect.conf",
+    "path": "conveyor.detect.conf",
+    "sha": "6be0da3db19400d3554daa2497d336629f51428d",
+    "size": 60,
+    "url": "https://api.github.com/repos/gotson/komga/contents/conveyor.detect.conf?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/conveyor.detect.conf",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/6be0da3db19400d3554daa2497d336629f51428d",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/conveyor.detect.conf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/conveyor.detect.conf?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/6be0da3db19400d3554daa2497d336629f51428d",
+      "html": "https://github.com/gotson/komga/blob/master/conveyor.detect.conf"
+    }
+  },
+  {
+    "name": "conveyor.msstore.ci.conf",
+    "path": "conveyor.msstore.ci.conf",
+    "sha": "8b2785d1ccc57c81192ad4c532713a52cac60e8f",
+    "size": 279,
+    "url": "https://api.github.com/repos/gotson/komga/contents/conveyor.msstore.ci.conf?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/conveyor.msstore.ci.conf",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/8b2785d1ccc57c81192ad4c532713a52cac60e8f",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/conveyor.msstore.ci.conf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/conveyor.msstore.ci.conf?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/8b2785d1ccc57c81192ad4c532713a52cac60e8f",
+      "html": "https://github.com/gotson/komga/blob/master/conveyor.msstore.ci.conf"
+    }
+  },
+  {
+    "name": "conveyor.msstore.conf",
+    "path": "conveyor.msstore.conf",
+    "sha": "a52158179c062d78c1f4beac200e722ba096b48b",
+    "size": 430,
+    "url": "https://api.github.com/repos/gotson/komga/contents/conveyor.msstore.conf?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/conveyor.msstore.conf",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/a52158179c062d78c1f4beac200e722ba096b48b",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/conveyor.msstore.conf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/conveyor.msstore.conf?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/a52158179c062d78c1f4beac200e722ba096b48b",
+      "html": "https://github.com/gotson/komga/blob/master/conveyor.msstore.conf"
+    }
+  },
+  {
+    "name": "gradle.properties",
+    "path": "gradle.properties",
+    "sha": "6a03766717cdfd831133dea0b80d681f3859bcbf",
+    "size": 41,
+    "url": "https://api.github.com/repos/gotson/komga/contents/gradle.properties?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/gradle.properties",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/6a03766717cdfd831133dea0b80d681f3859bcbf",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/gradle.properties",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/gradle.properties?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/6a03766717cdfd831133dea0b80d681f3859bcbf",
+      "html": "https://github.com/gotson/komga/blob/master/gradle.properties"
+    }
+  },
+  {
+    "name": "gradle",
+    "path": "gradle",
+    "sha": "cd6e52af05bb3279b66b583679692f7bdf6bdc6d",
+    "size": 0,
+    "url": "https://api.github.com/repos/gotson/komga/contents/gradle?ref=master",
+    "html_url": "https://github.com/gotson/komga/tree/master/gradle",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/trees/cd6e52af05bb3279b66b583679692f7bdf6bdc6d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/gradle?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/trees/cd6e52af05bb3279b66b583679692f7bdf6bdc6d",
+      "html": "https://github.com/gotson/komga/tree/master/gradle"
+    }
+  },
+  {
+    "name": "gradlew",
+    "path": "gradlew",
+    "sha": "23d15a9367071145e9c79bb4ddf879d1fbe78b5d",
+    "size": 8733,
+    "url": "https://api.github.com/repos/gotson/komga/contents/gradlew?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/gradlew",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/23d15a9367071145e9c79bb4ddf879d1fbe78b5d",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/gradlew",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/gradlew?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/23d15a9367071145e9c79bb4ddf879d1fbe78b5d",
+      "html": "https://github.com/gotson/komga/blob/master/gradlew"
+    }
+  },
+  {
+    "name": "gradlew.bat",
+    "path": "gradlew.bat",
+    "sha": "db3a6ac207e507b0bc1635a9f2c18d3b174e682e",
+    "size": 2843,
+    "url": "https://api.github.com/repos/gotson/komga/contents/gradlew.bat?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/gradlew.bat",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/db3a6ac207e507b0bc1635a9f2c18d3b174e682e",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/gradlew.bat",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/gradlew.bat?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/db3a6ac207e507b0bc1635a9f2c18d3b174e682e",
+      "html": "https://github.com/gotson/komga/blob/master/gradlew.bat"
+    }
+  },
+  {
+    "name": "komga-tray",
+    "path": "komga-tray",
+    "sha": "61b97a6468978a4e9250f8d0af6a4da3987ddbb4",
+    "size": 0,
+    "url": "https://api.github.com/repos/gotson/komga/contents/komga-tray?ref=master",
+    "html_url": "https://github.com/gotson/komga/tree/master/komga-tray",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/trees/61b97a6468978a4e9250f8d0af6a4da3987ddbb4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/komga-tray?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/trees/61b97a6468978a4e9250f8d0af6a4da3987ddbb4",
+      "html": "https://github.com/gotson/komga/tree/master/komga-tray"
+    }
+  },
+  {
+    "name": "komga-webui",
+    "path": "komga-webui",
+    "sha": "1d583d08fa9070ab3370ee4ab81633a904195a36",
+    "size": 0,
+    "url": "https://api.github.com/repos/gotson/komga/contents/komga-webui?ref=master",
+    "html_url": "https://github.com/gotson/komga/tree/master/komga-webui",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/trees/1d583d08fa9070ab3370ee4ab81633a904195a36",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/komga-webui?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/trees/1d583d08fa9070ab3370ee4ab81633a904195a36",
+      "html": "https://github.com/gotson/komga/tree/master/komga-webui"
+    }
+  },
+  {
+    "name": "komga",
+    "path": "komga",
+    "sha": "81eae3fa311f52c6a2ec4d202a5aed34e0aadae6",
+    "size": 0,
+    "url": "https://api.github.com/repos/gotson/komga/contents/komga?ref=master",
+    "html_url": "https://github.com/gotson/komga/tree/master/komga",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/trees/81eae3fa311f52c6a2ec4d202a5aed34e0aadae6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/komga?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/trees/81eae3fa311f52c6a2ec4d202a5aed34e0aadae6",
+      "html": "https://github.com/gotson/komga/tree/master/komga"
+    }
+  },
+  {
+    "name": "res",
+    "path": "res",
+    "sha": "31f2432e2069d725f772b19e4d6818e5917992bd",
+    "size": 0,
+    "url": "https://api.github.com/repos/gotson/komga/contents/res?ref=master",
+    "html_url": "https://github.com/gotson/komga/tree/master/res",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/trees/31f2432e2069d725f772b19e4d6818e5917992bd",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/res?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/trees/31f2432e2069d725f772b19e4d6818e5917992bd",
+      "html": "https://github.com/gotson/komga/tree/master/res"
+    }
+  },
+  {
+    "name": "settings.gradle",
+    "path": "settings.gradle",
+    "sha": "f7c5da0e586cbce6a797db147470f1b9ee6c1722",
+    "size": 37,
+    "url": "https://api.github.com/repos/gotson/komga/contents/settings.gradle?ref=master",
+    "html_url": "https://github.com/gotson/komga/blob/master/settings.gradle",
+    "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/f7c5da0e586cbce6a797db147470f1b9ee6c1722",
+    "download_url": "https://raw.githubusercontent.com/gotson/komga/master/settings.gradle",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/gotson/komga/contents/settings.gradle?ref=master",
+      "git": "https://api.github.com/repos/gotson/komga/git/blobs/f7c5da0e586cbce6a797db147470f1b9ee6c1722",
+      "html": "https://github.com/gotson/komga/blob/master/settings.gradle"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "ember-cli-build.js",
+  "path": "ember-cli-build.js",
+  "sha": "48e94e9e4401ed8c0c06bd5c9cfd5a12595c272a",
+  "size": 794,
+  "url": "https://api.github.com/repos/gothinkster/ember-realworld/contents/ember-cli-build.js?ref=master",
+  "html_url": "https://github.com/gothinkster/ember-realworld/blob/master/ember-cli-build.js",
+  "git_url": "https://api.github.com/repos/gothinkster/ember-realworld/git/blobs/48e94e9e4401ed8c0c06bd5c9cfd5a12595c272a",
+  "download_url": "https://raw.githubusercontent.com/gothinkster/ember-realworld/master/ember-cli-build.js",
+  "type": "file",
+  "content": "J3VzZSBzdHJpY3QnOwoKY29uc3QgRW1iZXJBcHAgPSByZXF1aXJlKCdlbWJl\nci1jbGkvbGliL2Jyb2Njb2xpL2VtYmVyLWFwcCcpOwoKbW9kdWxlLmV4cG9y\ndHMgPSBmdW5jdGlvbiAoZGVmYXVsdHMpIHsKICBsZXQgYXBwID0gbmV3IEVt\nYmVyQXBwKGRlZmF1bHRzLCB7CiAgICAvLyBBZGQgb3B0aW9ucyBoZXJlCiAg\nfSk7CgogIC8vIFVzZSBgYXBwLmltcG9ydGAgdG8gYWRkIGFkZGl0aW9uYWwg\nbGlicmFyaWVzIHRvIHRoZSBnZW5lcmF0ZWQKICAvLyBvdXRwdXQgZmlsZXMu\nCiAgLy8KICAvLyBJZiB5b3UgbmVlZCB0byB1c2UgZGlmZmVyZW50IGFzc2V0\ncyBpbiBkaWZmZXJlbnQKICAvLyBlbnZpcm9ubWVudHMsIHNwZWNpZnkgYW4g\nb2JqZWN0IGFzIHRoZSBmaXJzdCBwYXJhbWV0ZXIuIFRoYXQKICAvLyBvYmpl\nY3QncyBrZXlzIHNob3VsZCBiZSB0aGUgZW52aXJvbm1lbnQgbmFtZSBhbmQg\ndGhlIHZhbHVlcwogIC8vIHNob3VsZCBiZSB0aGUgYXNzZXQgdG8gdXNlIGlu\nIHRoYXQgZW52aXJvbm1lbnQuCiAgLy8KICAvLyBJZiB0aGUgbGlicmFyeSB0\naGF0IHlvdSBhcmUgaW5jbHVkaW5nIGNvbnRhaW5zIEFNRCBvciBFUzYKICAv\nLyBtb2R1bGVzIHRoYXQgeW91IHdvdWxkIGxpa2UgdG8gaW1wb3J0IGludG8g\neW91ciBhcHBsaWNhdGlvbgogIC8vIHBsZWFzZSBzcGVjaWZ5IGFuIG9iamVj\ndCB3aXRoIHRoZSBsaXN0IG9mIG1vZHVsZXMgYXMga2V5cwogIC8vIGFsb25n\nIHdpdGggdGhlIGV4cG9ydHMgb2YgZWFjaCBtb2R1bGUgYXMgaXRzIHZhbHVl\nLgoKICByZXR1cm4gYXBwLnRvVHJlZSgpOwp9Owo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/gothinkster/ember-realworld/contents/ember-cli-build.js?ref=master",
+    "git": "https://api.github.com/repos/gothinkster/ember-realworld/git/blobs/48e94e9e4401ed8c0c06bd5c9cfd5a12595c272a",
+    "html": "https://github.com/gothinkster/ember-realworld/blob/master/ember-cli-build.js"
+  }
+}

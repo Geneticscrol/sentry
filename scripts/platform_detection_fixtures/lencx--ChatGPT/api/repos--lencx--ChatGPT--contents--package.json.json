@@ -1,0 +1,18 @@
+{
+  "name": "package.json",
+  "path": "package.json",
+  "sha": "be5a6187b3abe8a2e4b1683b38d6a0d78106812f",
+  "size": 990,
+  "url": "https://api.github.com/repos/lencx/ChatGPT/contents/package.json?ref=v2-dev",
+  "html_url": "https://github.com/lencx/ChatGPT/blob/v2-dev/package.json",
+  "git_url": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/be5a6187b3abe8a2e4b1683b38d6a0d78106812f",
+  "download_url": "https://raw.githubusercontent.com/lencx/ChatGPT/v2-dev/package.json",
+  "type": "file",
+  "content": "ewogICJuYW1lIjogImNoYXRncHQiLAogICJwcml2YXRlIjogdHJ1ZSwKICAi\ndmVyc2lvbiI6ICIyLjAuMCIsCiAgInR5cGUiOiAibW9kdWxlIiwKICAic2Ny\naXB0cyI6IHsKICAgICJkZXYiOiAidml0ZSIsCiAgICAiYnVpbGQiOiAidHNj\nICYmIHZpdGUgYnVpbGQiLAogICAgInByZXZpZXciOiAidml0ZSBwcmV2aWV3\nIiwKICAgICJ0YXVyaSI6ICJ0YXVyaSIKICB9LAogICJkZXBlbmRlbmNpZXMi\nOiB7CiAgICAiQHRhdXJpLWFwcHMvYXBpIjogIjIuMC4wLWJldGEuMTUiLAog\nICAgIkB0YXVyaS1hcHBzL3BsdWdpbi1vcyI6ICIyLjAuMC1iZXRhLjciLAog\nICAgIkB0YXVyaS1hcHBzL3BsdWdpbi1zaGVsbCI6ICIyLjAuMC1iZXRhLjgi\nLAogICAgImNsc3giOiAiXjIuMS4xIiwKICAgICJsb2Rhc2giOiAiXjQuMTcu\nMjEiLAogICAgInJlYWN0IjogIl4xOC4zLjEiLAogICAgInJlYWN0LWRvbSI6\nICJeMTguMy4xIiwKICAgICJyZWFjdC1ob3RrZXlzLWhvb2siOiAiXjQuNS4w\nIiwKICAgICJyZWFjdC1yb3V0ZXItZG9tIjogIl42LjIzLjAiCiAgfSwKICAi\nZGV2RGVwZW5kZW5jaWVzIjogewogICAgIkB0YWlsd2luZGNzcy90eXBvZ3Jh\ncGh5IjogIl4wLjUuMTMiLAogICAgIkB0YXVyaS1hcHBzL2NsaSI6ICIyLjAu\nMC1iZXRhLjIyIiwKICAgICJAdHlwZXMvbG9kYXNoIjogIl40LjE3LjEiLAog\nICAgIkB0eXBlcy9ub2RlIjogIl4yMC4xMi4xMiIsCiAgICAiQHR5cGVzL3Jl\nYWN0IjogIl4xOC4zLjEiLAogICAgIkB0eXBlcy9yZWFjdC1kb20iOiAiXjE4\nLjMuMCIsCiAgICAiQHZpdGVqcy9wbHVnaW4tcmVhY3QiOiAiXjQuMi4xIiwK\nICAgICJhdXRvcHJlZml4ZXIiOiAiXjEwLjQuMTkiLAogICAgInBvc3Rjc3Mi\nOiAiXjguNC4zOCIsCiAgICAidGFpbHdpbmRjc3MiOiAiXjMuNC4zIiwKICAg\nICJ0eXBlc2NyaXB0IjogIl41LjQuNSIsCiAgICAidml0ZSI6ICJeNS4yLjEx\nIiwKICAgICJ2aXRlLXRzY29uZmlnLXBhdGhzIjogIl40LjMuMiIKICB9Cn0K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/lencx/ChatGPT/contents/package.json?ref=v2-dev",
+    "git": "https://api.github.com/repos/lencx/ChatGPT/git/blobs/be5a6187b3abe8a2e4b1683b38d6a0d78106812f",
+    "html": "https://github.com/lencx/ChatGPT/blob/v2-dev/package.json"
+  }
+}

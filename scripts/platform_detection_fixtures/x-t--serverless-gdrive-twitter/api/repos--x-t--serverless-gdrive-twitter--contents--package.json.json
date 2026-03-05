@@ -1,0 +1,18 @@
+{
+  "name": "package.json",
+  "path": "package.json",
+  "sha": "67188f43d2fffe9557e12216754707725227cb56",
+  "size": 1319,
+  "url": "https://api.github.com/repos/x-t/serverless-gdrive-twitter/contents/package.json?ref=main",
+  "html_url": "https://github.com/x-t/serverless-gdrive-twitter/blob/main/package.json",
+  "git_url": "https://api.github.com/repos/x-t/serverless-gdrive-twitter/git/blobs/67188f43d2fffe9557e12216754707725227cb56",
+  "download_url": "https://raw.githubusercontent.com/x-t/serverless-gdrive-twitter/main/package.json",
+  "type": "file",
+  "content": "ewogICJuYW1lIjogInNlcnZlcmxlc3MtZ2RyaXZlLXR3aXR0ZXIiLAogICJ2\nZXJzaW9uIjogIjEuMC4wIiwKICAiZGVzY3JpcHRpb24iOiAiU2VsZWN0IGFu\nZCB1cGxvYWQgcmFuZG9tIGltYWdlcyBmcm9tIGEgR29vZ2xlIERyaXZlIGZv\nbGRlciB0byBUd2l0dGVyIiwKICAibWFpbiI6ICJkaXN0L2luZGV4LmpzIiwK\nICAic2NyaXB0cyI6IHsKICAgICJidWlsZCI6ICJucG0gcnVuIGNsZWFuICYm\nIHRzYyIsCiAgICAiYnVpbGQ6cHJvZCI6ICJucG0gcnVuIGNsZWFuICYmIHRz\nYyAtcCB0c2NvbmZpZy5wcm9kdWN0aW9uLmpzb24gJiYgZWNobyAnZ2xvYmFs\nLl9fcm9vdGRpcl9fPV9fZGlybmFtZXx8cHJvY2Vzcy5jd2QoKTsnIHwgY2F0\nIC0gZGlzdC9pbmRleC5qcyA+IHRlbXAgJiYgbXYgdGVtcCBkaXN0L2luZGV4\nLmpzIiwKICAgICJjbGVhbiI6ICJybSAtcmYgZGlzdCIsCiAgICAicnVuIjog\nIm5wbSBydW4gYnVpbGQgJiYgbm9kZSBkaXN0L2luZGV4LmpzIgogIH0sCiAg\nInJlcG9zaXRvcnkiOiB7CiAgICAidHlwZSI6ICJnaXQiLAogICAgInVybCI6\nICJnaXQraHR0cHM6Ly9naXRodWIuY29tL3gtdC9zZXJ2ZXJsZXNzLWdkcml2\nZS10d2l0dGVyLmdpdCIKICB9LAogICJhdXRob3IiOiAienh5eiIsCiAgImxp\nY2Vuc2UiOiAiTUlUIiwKICAiYnVncyI6IHsKICAgICJ1cmwiOiAiaHR0cHM6\nLy9naXRodWIuY29tL3gtdC9zZXJ2ZXJsZXNzLWdkcml2ZS10d2l0dGVyL2lz\nc3VlcyIKICB9LAogICJob21lcGFnZSI6ICJodHRwczovL2dpdGh1Yi5jb20v\neC10L3NlcnZlcmxlc3MtZ2RyaXZlLXR3aXR0ZXIjcmVhZG1lIiwKICAiZGVw\nZW5kZW5jaWVzIjogewogICAgIkBhenVyZS9mdW5jdGlvbnMiOiAiXjMuMC4w\nIiwKICAgICJAZ29vZ2xlYXBpcy9kcml2ZSI6ICJeMi4zLjAiLAogICAgIkBz\nZW50cnkvaW50ZWdyYXRpb25zIjogIl42LjE5LjYiLAogICAgIkBzZW50cnkv\nbm9kZSI6ICJeNi4xOS42IiwKICAgICJAc2VudHJ5L3RyYWNpbmciOiAiXjYu\nMTkuNiIsCiAgICAiYXN5bmMtcmV0cnkiOiAiXjEuMy4zIiwKICAgICJkZXRh\nIjogIl4xLjEuMCIsCiAgICAiZG90ZW52IjogIl4xNi4wLjAiLAogICAgIm5v\nZGUtcHJlLWd5cCI6ICJeMC4xNy4wIiwKICAgICJzaGFycCI6ICJeMC4zMC41\nIiwKICAgICJ0d2l0dGVyLWFwaS12MiI6ICJeMS4xMi4wIgogIH0sCiAgImRl\ndkRlcGVuZGVuY2llcyI6IHsKICAgICJAdHlwZXMvYXN5bmMtcmV0cnkiOiAi\nXjEuNC4zIiwKICAgICJAdHlwZXMvbm9kZSI6ICJeMTcuMC4yNSIsCiAgICAi\nQHR5cGVzL3NoYXJwIjogIl4wLjMwLjIiLAogICAgInR5cGVzY3JpcHQiOiAi\nXjQuNi4zIgogIH0KfQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/x-t/serverless-gdrive-twitter/contents/package.json?ref=main",
+    "git": "https://api.github.com/repos/x-t/serverless-gdrive-twitter/git/blobs/67188f43d2fffe9557e12216754707725227cb56",
+    "html": "https://github.com/x-t/serverless-gdrive-twitter/blob/main/package.json"
+  }
+}

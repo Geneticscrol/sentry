@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Individual Scripts",
+    "path": "Individual Scripts",
+    "sha": "4561aab8508266dc54d4ea2a1c18a3a3c2aa0785",
+    "size": 0,
+    "url": "https://api.github.com/repos/Sycnex/Windows10Debloater/contents/Individual%20Scripts?ref=master",
+    "html_url": "https://github.com/Sycnex/Windows10Debloater/tree/master/Individual%20Scripts",
+    "git_url": "https://api.github.com/repos/Sycnex/Windows10Debloater/git/trees/4561aab8508266dc54d4ea2a1c18a3a3c2aa0785",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Sycnex/Windows10Debloater/contents/Individual%20Scripts?ref=master",
+      "git": "https://api.github.com/repos/Sycnex/Windows10Debloater/git/trees/4561aab8508266dc54d4ea2a1c18a3a3c2aa0785",
+      "html": "https://github.com/Sycnex/Windows10Debloater/tree/master/Individual%20Scripts"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "cb297371c840132446f2417ea0e067df24e8ee0b",
+    "size": 1071,
+    "url": "https://api.github.com/repos/Sycnex/Windows10Debloater/contents/LICENSE?ref=master",
+    "html_url": "https://github.com/Sycnex/Windows10Debloater/blob/master/LICENSE",
+    "git_url": "https://api.github.com/repos/Sycnex/Windows10Debloater/git/blobs/cb297371c840132446f2417ea0e067df24e8ee0b",
+    "download_url": "https://raw.githubusercontent.com/Sycnex/Windows10Debloater/master/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Sycnex/Windows10Debloater/contents/LICENSE?ref=master",
+      "git": "https://api.github.com/repos/Sycnex/Windows10Debloater/git/blobs/cb297371c840132446f2417ea0e067df24e8ee0b",
+      "html": "https://github.com/Sycnex/Windows10Debloater/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "85d6bf5d6dc5888db50d42051cd2a88ec1bd215f",
+    "size": 9866,
+    "url": "https://api.github.com/repos/Sycnex/Windows10Debloater/contents/README.md?ref=master",
+    "html_url": "https://github.com/Sycnex/Windows10Debloater/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/Sycnex/Windows10Debloater/git/blobs/85d6bf5d6dc5888db50d42051cd2a88ec1bd215f",
+    "download_url": "https://raw.githubusercontent.com/Sycnex/Windows10Debloater/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Sycnex/Windows10Debloater/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/Sycnex/Windows10Debloater/git/blobs/85d6bf5d6dc5888db50d42051cd2a88ec1bd215f",
+      "html": "https://github.com/Sycnex/Windows10Debloater/blob/master/README.md"
+    }
+  },
+  {
+    "name": "Windows10Debloater.ps1",
+    "path": "Windows10Debloater.ps1",
+    "sha": "c69523ce66c605d36670159367b5e1b99eda957f",
+    "size": 46087,
+    "url": "https://api.github.com/repos/Sycnex/Windows10Debloater/contents/Windows10Debloater.ps1?ref=master",
+    "html_url": "https://github.com/Sycnex/Windows10Debloater/blob/master/Windows10Debloater.ps1",
+    "git_url": "https://api.github.com/repos/Sycnex/Windows10Debloater/git/blobs/c69523ce66c605d36670159367b5e1b99eda957f",
+    "download_url": "https://raw.githubusercontent.com/Sycnex/Windows10Debloater/master/Windows10Debloater.ps1",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Sycnex/Windows10Debloater/contents/Windows10Debloater.ps1?ref=master",
+      "git": "https://api.github.com/repos/Sycnex/Windows10Debloater/git/blobs/c69523ce66c605d36670159367b5e1b99eda957f",
+      "html": "https://github.com/Sycnex/Windows10Debloater/blob/master/Windows10Debloater.ps1"
+    }
+  },
+  {
+    "name": "Windows10DebloaterGUI.ps1",
+    "path": "Windows10DebloaterGUI.ps1",
+    "sha": "d90341ad7b4eae4bffda5ead123c7ac03f5d5bc4",
+    "size": 76621,
+    "url": "https://api.github.com/repos/Sycnex/Windows10Debloater/contents/Windows10DebloaterGUI.ps1?ref=master",
+    "html_url": "https://github.com/Sycnex/Windows10Debloater/blob/master/Windows10DebloaterGUI.ps1",
+    "git_url": "https://api.github.com/repos/Sycnex/Windows10Debloater/git/blobs/d90341ad7b4eae4bffda5ead123c7ac03f5d5bc4",
+    "download_url": "https://raw.githubusercontent.com/Sycnex/Windows10Debloater/master/Windows10DebloaterGUI.ps1",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Sycnex/Windows10Debloater/contents/Windows10DebloaterGUI.ps1?ref=master",
+      "git": "https://api.github.com/repos/Sycnex/Windows10Debloater/git/blobs/d90341ad7b4eae4bffda5ead123c7ac03f5d5bc4",
+      "html": "https://github.com/Sycnex/Windows10Debloater/blob/master/Windows10DebloaterGUI.ps1"
+    }
+  },
+  {
+    "name": "Windows10SysPrepDebloater.ps1",
+    "path": "Windows10SysPrepDebloater.ps1",
+    "sha": "f97de1b964c4df18f59b2a4efde2ccb8cfa577af",
+    "size": 13812,
+    "url": "https://api.github.com/repos/Sycnex/Windows10Debloater/contents/Windows10SysPrepDebloater.ps1?ref=master",
+    "html_url": "https://github.com/Sycnex/Windows10Debloater/blob/master/Windows10SysPrepDebloater.ps1",
+    "git_url": "https://api.github.com/repos/Sycnex/Windows10Debloater/git/blobs/f97de1b964c4df18f59b2a4efde2ccb8cfa577af",
+    "download_url": "https://raw.githubusercontent.com/Sycnex/Windows10Debloater/master/Windows10SysPrepDebloater.ps1",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Sycnex/Windows10Debloater/contents/Windows10SysPrepDebloater.ps1?ref=master",
+      "git": "https://api.github.com/repos/Sycnex/Windows10Debloater/git/blobs/f97de1b964c4df18f59b2a4efde2ccb8cfa577af",
+      "html": "https://github.com/Sycnex/Windows10Debloater/blob/master/Windows10SysPrepDebloater.ps1"
+    }
+  }
+]

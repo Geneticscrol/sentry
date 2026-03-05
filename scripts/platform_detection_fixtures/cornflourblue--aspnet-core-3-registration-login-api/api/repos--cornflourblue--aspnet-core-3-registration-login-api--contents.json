@@ -1,0 +1,258 @@
+[
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "26d1ab289758c530e0885b806cc73565d1d0d1d4",
+    "size": 675,
+    "url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/blobs/26d1ab289758c530e0885b806cc73565d1d0d1d4",
+    "download_url": "https://raw.githubusercontent.com/cornflourblue/aspnet-core-3-registration-login-api/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/blobs/26d1ab289758c530e0885b806cc73565d1d0d1d4",
+      "html": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": ".vscode",
+    "path": ".vscode",
+    "sha": "6f7d45597d3d4feaccdf0f0506874acfc56c744a",
+    "size": 0,
+    "url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/.vscode?ref=master",
+    "html_url": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/tree/master/.vscode",
+    "git_url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/trees/6f7d45597d3d4feaccdf0f0506874acfc56c744a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/.vscode?ref=master",
+      "git": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/trees/6f7d45597d3d4feaccdf0f0506874acfc56c744a",
+      "html": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/tree/master/.vscode"
+    }
+  },
+  {
+    "name": "Controllers",
+    "path": "Controllers",
+    "sha": "978bf02a42c2416bb2ad171c1c52b753a4d1d7d4",
+    "size": 0,
+    "url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/Controllers?ref=master",
+    "html_url": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/tree/master/Controllers",
+    "git_url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/trees/978bf02a42c2416bb2ad171c1c52b753a4d1d7d4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/Controllers?ref=master",
+      "git": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/trees/978bf02a42c2416bb2ad171c1c52b753a4d1d7d4",
+      "html": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/tree/master/Controllers"
+    }
+  },
+  {
+    "name": "Entities",
+    "path": "Entities",
+    "sha": "f84c16f6dd7bf9c764f7dc8e32b6aab1ceaac59d",
+    "size": 0,
+    "url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/Entities?ref=master",
+    "html_url": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/tree/master/Entities",
+    "git_url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/trees/f84c16f6dd7bf9c764f7dc8e32b6aab1ceaac59d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/Entities?ref=master",
+      "git": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/trees/f84c16f6dd7bf9c764f7dc8e32b6aab1ceaac59d",
+      "html": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/tree/master/Entities"
+    }
+  },
+  {
+    "name": "Helpers",
+    "path": "Helpers",
+    "sha": "79c27379a7855c1469f9f7a63e7808e26f5e24f6",
+    "size": 0,
+    "url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/Helpers?ref=master",
+    "html_url": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/tree/master/Helpers",
+    "git_url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/trees/79c27379a7855c1469f9f7a63e7808e26f5e24f6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/Helpers?ref=master",
+      "git": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/trees/79c27379a7855c1469f9f7a63e7808e26f5e24f6",
+      "html": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/tree/master/Helpers"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "26242bb57170e1ef02c3f38df985ce29f825766a",
+    "size": 1080,
+    "url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/LICENSE?ref=master",
+    "html_url": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/blob/master/LICENSE",
+    "git_url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/blobs/26242bb57170e1ef02c3f38df985ce29f825766a",
+    "download_url": "https://raw.githubusercontent.com/cornflourblue/aspnet-core-3-registration-login-api/master/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/LICENSE?ref=master",
+      "git": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/blobs/26242bb57170e1ef02c3f38df985ce29f825766a",
+      "html": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Migrations",
+    "path": "Migrations",
+    "sha": "830bac6e5cb2367438caa92b50a3232dea7ef840",
+    "size": 0,
+    "url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/Migrations?ref=master",
+    "html_url": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/tree/master/Migrations",
+    "git_url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/trees/830bac6e5cb2367438caa92b50a3232dea7ef840",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/Migrations?ref=master",
+      "git": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/trees/830bac6e5cb2367438caa92b50a3232dea7ef840",
+      "html": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/tree/master/Migrations"
+    }
+  },
+  {
+    "name": "Models",
+    "path": "Models",
+    "sha": "e76443511ae63721a3da94a514388e605df3419e",
+    "size": 0,
+    "url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/Models?ref=master",
+    "html_url": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/tree/master/Models",
+    "git_url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/trees/e76443511ae63721a3da94a514388e605df3419e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/Models?ref=master",
+      "git": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/trees/e76443511ae63721a3da94a514388e605df3419e",
+      "html": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/tree/master/Models"
+    }
+  },
+  {
+    "name": "Program.cs",
+    "path": "Program.cs",
+    "sha": "bf2fdddf27289ecd8357091e65788a050fec130a",
+    "size": 574,
+    "url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/Program.cs?ref=master",
+    "html_url": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/blob/master/Program.cs",
+    "git_url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/blobs/bf2fdddf27289ecd8357091e65788a050fec130a",
+    "download_url": "https://raw.githubusercontent.com/cornflourblue/aspnet-core-3-registration-login-api/master/Program.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/Program.cs?ref=master",
+      "git": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/blobs/bf2fdddf27289ecd8357091e65788a050fec130a",
+      "html": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/blob/master/Program.cs"
+    }
+  },
+  {
+    "name": "Properties",
+    "path": "Properties",
+    "sha": "4733ccaf6e2742a914ee5fded0b392291a61415f",
+    "size": 0,
+    "url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/Properties?ref=master",
+    "html_url": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/tree/master/Properties",
+    "git_url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/trees/4733ccaf6e2742a914ee5fded0b392291a61415f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/Properties?ref=master",
+      "git": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/trees/4733ccaf6e2742a914ee5fded0b392291a61415f",
+      "html": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/tree/master/Properties"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "4b140af4dc90b028f1df7ebb292e029532f9e582",
+    "size": 286,
+    "url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/README.md?ref=master",
+    "html_url": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/blobs/4b140af4dc90b028f1df7ebb292e029532f9e582",
+    "download_url": "https://raw.githubusercontent.com/cornflourblue/aspnet-core-3-registration-login-api/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/blobs/4b140af4dc90b028f1df7ebb292e029532f9e582",
+      "html": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/blob/master/README.md"
+    }
+  },
+  {
+    "name": "Services",
+    "path": "Services",
+    "sha": "6f2bb8c82da47cef225a98f9a37bc849ec339e7b",
+    "size": 0,
+    "url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/Services?ref=master",
+    "html_url": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/tree/master/Services",
+    "git_url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/trees/6f2bb8c82da47cef225a98f9a37bc849ec339e7b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/Services?ref=master",
+      "git": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/trees/6f2bb8c82da47cef225a98f9a37bc849ec339e7b",
+      "html": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/tree/master/Services"
+    }
+  },
+  {
+    "name": "Startup.cs",
+    "path": "Startup.cs",
+    "sha": "5383d6fbea39da3811956738d69fac7a7fb2d501",
+    "size": 4019,
+    "url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/Startup.cs?ref=master",
+    "html_url": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/blob/master/Startup.cs",
+    "git_url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/blobs/5383d6fbea39da3811956738d69fac7a7fb2d501",
+    "download_url": "https://raw.githubusercontent.com/cornflourblue/aspnet-core-3-registration-login-api/master/Startup.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/Startup.cs?ref=master",
+      "git": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/blobs/5383d6fbea39da3811956738d69fac7a7fb2d501",
+      "html": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/blob/master/Startup.cs"
+    }
+  },
+  {
+    "name": "WebApi.csproj",
+    "path": "WebApi.csproj",
+    "sha": "c73b2ae1edea46f18963a6ef32cf5a2c4edd9fc7",
+    "size": 1028,
+    "url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/WebApi.csproj?ref=master",
+    "html_url": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/blob/master/WebApi.csproj",
+    "git_url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/blobs/c73b2ae1edea46f18963a6ef32cf5a2c4edd9fc7",
+    "download_url": "https://raw.githubusercontent.com/cornflourblue/aspnet-core-3-registration-login-api/master/WebApi.csproj",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/WebApi.csproj?ref=master",
+      "git": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/blobs/c73b2ae1edea46f18963a6ef32cf5a2c4edd9fc7",
+      "html": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/blob/master/WebApi.csproj"
+    }
+  },
+  {
+    "name": "appsettings.Development.json",
+    "path": "appsettings.Development.json",
+    "sha": "0b5ef19f7fdfee0cdd791c969836b4b8d3493d11",
+    "size": 223,
+    "url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/appsettings.Development.json?ref=master",
+    "html_url": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/blob/master/appsettings.Development.json",
+    "git_url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/blobs/0b5ef19f7fdfee0cdd791c969836b4b8d3493d11",
+    "download_url": "https://raw.githubusercontent.com/cornflourblue/aspnet-core-3-registration-login-api/master/appsettings.Development.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/appsettings.Development.json?ref=master",
+      "git": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/blobs/0b5ef19f7fdfee0cdd791c969836b4b8d3493d11",
+      "html": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/blob/master/appsettings.Development.json"
+    }
+  },
+  {
+    "name": "appsettings.json",
+    "path": "appsettings.json",
+    "sha": "8df0888f049859aaa1d2dc2665f80e4732980fca",
+    "size": 428,
+    "url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/appsettings.json?ref=master",
+    "html_url": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/blob/master/appsettings.json",
+    "git_url": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/blobs/8df0888f049859aaa1d2dc2665f80e4732980fca",
+    "download_url": "https://raw.githubusercontent.com/cornflourblue/aspnet-core-3-registration-login-api/master/appsettings.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/contents/appsettings.json?ref=master",
+      "git": "https://api.github.com/repos/cornflourblue/aspnet-core-3-registration-login-api/git/blobs/8df0888f049859aaa1d2dc2665f80e4732980fca",
+      "html": "https://github.com/cornflourblue/aspnet-core-3-registration-login-api/blob/master/appsettings.json"
+    }
+  }
+]

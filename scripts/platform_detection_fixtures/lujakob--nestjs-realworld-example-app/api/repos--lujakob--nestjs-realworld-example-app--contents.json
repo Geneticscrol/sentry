@@ -1,0 +1,242 @@
+[
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "57a246b1f3e8344b822c942b61f9e327583557ed",
+    "size": 217,
+    "url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/57a246b1f3e8344b822c942b61f9e327583557ed",
+    "download_url": "https://raw.githubusercontent.com/lujakob/nestjs-realworld-example-app/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/57a246b1f3e8344b822c942b61f9e327583557ed",
+      "html": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "a3da037ce297fecc44ed970f1ae96a7601c8e9f7",
+    "size": 4045,
+    "url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/README.md?ref=master",
+    "html_url": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/a3da037ce297fecc44ed970f1ae96a7601c8e9f7",
+    "download_url": "https://raw.githubusercontent.com/lujakob/nestjs-realworld-example-app/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/a3da037ce297fecc44ed970f1ae96a7601c8e9f7",
+      "html": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/README.md"
+    }
+  },
+  {
+    "name": "dist",
+    "path": "dist",
+    "sha": "5e1b54dcb1f194bd49cbd68425b39e9cbc82382c",
+    "size": 0,
+    "url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/dist?ref=master",
+    "html_url": "https://github.com/lujakob/nestjs-realworld-example-app/tree/master/dist",
+    "git_url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/trees/5e1b54dcb1f194bd49cbd68425b39e9cbc82382c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/dist?ref=master",
+      "git": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/trees/5e1b54dcb1f194bd49cbd68425b39e9cbc82382c",
+      "html": "https://github.com/lujakob/nestjs-realworld-example-app/tree/master/dist"
+    }
+  },
+  {
+    "name": "index.js",
+    "path": "index.js",
+    "sha": "7c0e78b2556955e6445c56f4ddd6e643408ada1c",
+    "size": 51,
+    "url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/index.js?ref=master",
+    "html_url": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/index.js",
+    "git_url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/7c0e78b2556955e6445c56f4ddd6e643408ada1c",
+    "download_url": "https://raw.githubusercontent.com/lujakob/nestjs-realworld-example-app/master/index.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/index.js?ref=master",
+      "git": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/7c0e78b2556955e6445c56f4ddd6e643408ada1c",
+      "html": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/index.js"
+    }
+  },
+  {
+    "name": "jest.json",
+    "path": "jest.json",
+    "sha": "785730eaf13b71ce7b94f8a0bdc6ffbaaa2986ad",
+    "size": 357,
+    "url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/jest.json?ref=master",
+    "html_url": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/jest.json",
+    "git_url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/785730eaf13b71ce7b94f8a0bdc6ffbaaa2986ad",
+    "download_url": "https://raw.githubusercontent.com/lujakob/nestjs-realworld-example-app/master/jest.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/jest.json?ref=master",
+      "git": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/785730eaf13b71ce7b94f8a0bdc6ffbaaa2986ad",
+      "html": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/jest.json"
+    }
+  },
+  {
+    "name": "nestconfig.json",
+    "path": "nestconfig.json",
+    "sha": "e3a106ec09c92f2dcb82e617cd359d42f2eb719b",
+    "size": 52,
+    "url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/nestconfig.json?ref=master",
+    "html_url": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/nestconfig.json",
+    "git_url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/e3a106ec09c92f2dcb82e617cd359d42f2eb719b",
+    "download_url": "https://raw.githubusercontent.com/lujakob/nestjs-realworld-example-app/master/nestconfig.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/nestconfig.json?ref=master",
+      "git": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/e3a106ec09c92f2dcb82e617cd359d42f2eb719b",
+      "html": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/nestconfig.json"
+    }
+  },
+  {
+    "name": "nodemon.json",
+    "path": "nodemon.json",
+    "sha": "0c29b463a7019cca98ab93fe44641662e90147d5",
+    "size": 97,
+    "url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/nodemon.json?ref=master",
+    "html_url": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/nodemon.json",
+    "git_url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/0c29b463a7019cca98ab93fe44641662e90147d5",
+    "download_url": "https://raw.githubusercontent.com/lujakob/nestjs-realworld-example-app/master/nodemon.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/nodemon.json?ref=master",
+      "git": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/0c29b463a7019cca98ab93fe44641662e90147d5",
+      "html": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/nodemon.json"
+    }
+  },
+  {
+    "name": "ormconfig.json.example",
+    "path": "ormconfig.json.example",
+    "sha": "ce23ee69898236a5006eb81bceae95a0687aea23",
+    "size": 235,
+    "url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/ormconfig.json.example?ref=master",
+    "html_url": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/ormconfig.json.example",
+    "git_url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/ce23ee69898236a5006eb81bceae95a0687aea23",
+    "download_url": "https://raw.githubusercontent.com/lujakob/nestjs-realworld-example-app/master/ormconfig.json.example",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/ormconfig.json.example?ref=master",
+      "git": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/ce23ee69898236a5006eb81bceae95a0687aea23",
+      "html": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/ormconfig.json.example"
+    }
+  },
+  {
+    "name": "package-lock.json",
+    "path": "package-lock.json",
+    "sha": "f898f9d37d9d4be191276fedf1152e104797fd07",
+    "size": 384575,
+    "url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/package-lock.json?ref=master",
+    "html_url": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/package-lock.json",
+    "git_url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/f898f9d37d9d4be191276fedf1152e104797fd07",
+    "download_url": "https://raw.githubusercontent.com/lujakob/nestjs-realworld-example-app/master/package-lock.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/package-lock.json?ref=master",
+      "git": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/f898f9d37d9d4be191276fedf1152e104797fd07",
+      "html": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/package-lock.json"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "91e59279aaa6c99f1e332f723e5f7b8880bb0fa5",
+    "size": 1949,
+    "url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/package.json?ref=master",
+    "html_url": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/package.json",
+    "git_url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/91e59279aaa6c99f1e332f723e5f7b8880bb0fa5",
+    "download_url": "https://raw.githubusercontent.com/lujakob/nestjs-realworld-example-app/master/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/package.json?ref=master",
+      "git": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/91e59279aaa6c99f1e332f723e5f7b8880bb0fa5",
+      "html": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/package.json"
+    }
+  },
+  {
+    "name": "prisma",
+    "path": "prisma",
+    "sha": "f5030d767cd3b2d53d6145d585bf34e3df9dc384",
+    "size": 0,
+    "url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/prisma?ref=master",
+    "html_url": "https://github.com/lujakob/nestjs-realworld-example-app/tree/master/prisma",
+    "git_url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/trees/f5030d767cd3b2d53d6145d585bf34e3df9dc384",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/prisma?ref=master",
+      "git": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/trees/f5030d767cd3b2d53d6145d585bf34e3df9dc384",
+      "html": "https://github.com/lujakob/nestjs-realworld-example-app/tree/master/prisma"
+    }
+  },
+  {
+    "name": "project-logo.png",
+    "path": "project-logo.png",
+    "sha": "1a2cc0a90117bc1a630e714635ebd84ee0a0c2e1",
+    "size": 36447,
+    "url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/project-logo.png?ref=master",
+    "html_url": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/project-logo.png",
+    "git_url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/1a2cc0a90117bc1a630e714635ebd84ee0a0c2e1",
+    "download_url": "https://raw.githubusercontent.com/lujakob/nestjs-realworld-example-app/master/project-logo.png",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/project-logo.png?ref=master",
+      "git": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/1a2cc0a90117bc1a630e714635ebd84ee0a0c2e1",
+      "html": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/project-logo.png"
+    }
+  },
+  {
+    "name": "src",
+    "path": "src",
+    "sha": "ed198d74b9a6b3467a7c546e0424dbc222494a3e",
+    "size": 0,
+    "url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/src?ref=master",
+    "html_url": "https://github.com/lujakob/nestjs-realworld-example-app/tree/master/src",
+    "git_url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/trees/ed198d74b9a6b3467a7c546e0424dbc222494a3e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/src?ref=master",
+      "git": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/trees/ed198d74b9a6b3467a7c546e0424dbc222494a3e",
+      "html": "https://github.com/lujakob/nestjs-realworld-example-app/tree/master/src"
+    }
+  },
+  {
+    "name": "tsconfig.json",
+    "path": "tsconfig.json",
+    "sha": "56efa8503654e4c8e120b56fafe61171aa374ec7",
+    "size": 439,
+    "url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/tsconfig.json?ref=master",
+    "html_url": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/tsconfig.json",
+    "git_url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/56efa8503654e4c8e120b56fafe61171aa374ec7",
+    "download_url": "https://raw.githubusercontent.com/lujakob/nestjs-realworld-example-app/master/tsconfig.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/tsconfig.json?ref=master",
+      "git": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/56efa8503654e4c8e120b56fafe61171aa374ec7",
+      "html": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/tsconfig.json"
+    }
+  },
+  {
+    "name": "yarn.lock",
+    "path": "yarn.lock",
+    "sha": "3e112e671a6b74f53e2e3faf3b3ef4369f5c4275",
+    "size": 239718,
+    "url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/yarn.lock?ref=master",
+    "html_url": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/yarn.lock",
+    "git_url": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/3e112e671a6b74f53e2e3faf3b3ef4369f5c4275",
+    "download_url": "https://raw.githubusercontent.com/lujakob/nestjs-realworld-example-app/master/yarn.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/contents/yarn.lock?ref=master",
+      "git": "https://api.github.com/repos/lujakob/nestjs-realworld-example-app/git/blobs/3e112e671a6b74f53e2e3faf3b3ef4369f5c4275",
+      "html": "https://github.com/lujakob/nestjs-realworld-example-app/blob/master/yarn.lock"
+    }
+  }
+]

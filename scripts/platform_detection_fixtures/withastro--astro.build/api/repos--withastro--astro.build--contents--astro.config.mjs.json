@@ -1,0 +1,18 @@
+{
+  "name": "astro.config.mjs",
+  "path": "astro.config.mjs",
+  "sha": "19ae2c8cd4f174d2f0444f422edb36112d80e6ab",
+  "size": 1578,
+  "url": "https://api.github.com/repos/withastro/astro.build/contents/astro.config.mjs?ref=main",
+  "html_url": "https://github.com/withastro/astro.build/blob/main/astro.config.mjs",
+  "git_url": "https://api.github.com/repos/withastro/astro.build/git/blobs/19ae2c8cd4f174d2f0444f422edb36112d80e6ab",
+  "download_url": "https://raw.githubusercontent.com/withastro/astro.build/main/astro.config.mjs",
+  "type": "file",
+  "content": "Ly8gQHRzLWNoZWNrCgppbXBvcnQgbWR4IGZyb20gJ0Bhc3Ryb2pzL21keCc7\nCmltcG9ydCBuZXRsaWZ5IGZyb20gJ0Bhc3Ryb2pzL25ldGxpZnknOwppbXBv\ncnQgc2l0ZW1hcCBmcm9tICdAYXN0cm9qcy9zaXRlbWFwJzsKaW1wb3J0IHRh\naWx3aW5kIGZyb20gJ0Bhc3Ryb2pzL3RhaWx3aW5kJzsKaW1wb3J0IHsgZGVm\naW5lQ29uZmlnIH0gZnJvbSAnYXN0cm8vY29uZmlnJzsKaW1wb3J0IGFzdHJv\nRXhwcmVzc2l2ZUNvZGUgZnJvbSAnYXN0cm8tZXhwcmVzc2l2ZS1jb2RlJzsK\naW1wb3J0IGljb24gZnJvbSAnYXN0cm8taWNvbic7CmltcG9ydCBob3VzdG9u\nIGZyb20gJy4vaG91c3Rvbi50aGVtZS5qc29uJzsKCi8qIGh0dHBzOi8vZG9j\ncy5uZXRsaWZ5LmNvbS9jb25maWd1cmUtYnVpbGRzL2Vudmlyb25tZW50LXZh\ncmlhYmxlcy8jcmVhZC1vbmx5LXZhcmlhYmxlcyAqLwpjb25zdCBORVRMSUZZ\nX1BSRVZJRVdfU0lURSA9IHByb2Nlc3MuZW52LkNPTlRFWFQgIT09ICdwcm9k\ndWN0aW9uJyAmJiBwcm9jZXNzLmVudi5ERVBMT1lfUFJJTUVfVVJMOwoKLy8g\naHR0cHM6Ly9hc3Ryby5idWlsZC9jb25maWcKZXhwb3J0IGRlZmF1bHQgZGVm\naW5lQ29uZmlnKHsKCXNpdGU6IE5FVExJRllfUFJFVklFV19TSVRFIHx8ICdo\ndHRwczovL2FzdHJvLmJ1aWxkJywKCXByZWZldGNoOiB0cnVlLAoJaW50ZWdy\nYXRpb25zOiBbCgkJdGFpbHdpbmQoewoJCQlhcHBseUJhc2VTdHlsZXM6IGZh\nbHNlLAoJCX0pLAoJCWFzdHJvRXhwcmVzc2l2ZUNvZGUoewoJCQl0aGVtZXM6\nIFtob3VzdG9uXSwKCQkJc3R5bGVPdmVycmlkZXM6IHsKCQkJCWJvcmRlclJh\nZGl1czogJzAuMzc1cmVtJywKCQkJCWJvcmRlckNvbG9yOiAncmdiKDg0IDg4\nIDEwMCknLAoJCQl9LAoJCQlkZWZhdWx0UHJvcHM6IHsKCQkJCW92ZXJyaWRl\nc0J5TGFuZzogewoJCQkJCSdiYXNoLHNoLHNoZWxsJzogewoJCQkJCQlmcmFt\nZTogJ25vbmUnLAoJCQkJCX0sCgkJCQl9LAoJCQl9LAoJCX0pLAoJCWljb24o\newoJCQlzdmdvT3B0aW9uczogewoJCQkJcGx1Z2luczogWwoJCQkJCXsgbmFt\nZTogJ3ByZXNldC1kZWZhdWx0JyB9LAoJCQkJCXsKCQkJCQkJbmFtZTogJ3By\nZWZpeElkcycsCgkJCQkJCS8vIEVuc3VyZSBJRHMgdXNlZCBpbiBTVkdzIGFy\nZSB1bmlxdWUgdG8gYXZvaWQgY2xhc2hlcyBiZXR3ZWVuIGlubGluZSBTVkdz\nLgoJCQkJCQlwYXJhbXM6IHsgcHJlZml4OiAoKSA9PiBNYXRoLnJvdW5kKE1h\ndGgucmFuZG9tKCkgKiAxXzAwMF8wMDBfMDAwKS50b1N0cmluZygzNikgfSwK\nCQkJCQl9LAoJCQkJXSwKCQkJfSwKCQl9KSwKCQltZHgoKSwKCQlzaXRlbWFw\nKCksCgldLAoJaW1hZ2U6IHsKCQlkb21haW5zOiBbJ3YxLnNjcmVlbnNob3Qu\nMTF0eS5kZXYnLCAnc3RvcmFnZS5nb29nbGVhcGlzLmNvbScsICdhdmF0YXJz\nLmdpdGh1YnVzZXJjb250ZW50LmNvbSddLAoJfSwKCXZpdGU6IHsKCQlzc3I6\nIHsKCQkJbm9FeHRlcm5hbDogWydzbWFydHlwYW50cyddLAoJCX0sCgl9LAoJ\nYWRhcHRlcjogbmV0bGlmeSh7IGltYWdlQ0ROOiBmYWxzZSB9KSwKCWV4cGVy\naW1lbnRhbDogewoJCWNvbnRlbnRJbnRlbGxpc2Vuc2U6IHRydWUsCgl9LAp9\nKTsK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/withastro/astro.build/contents/astro.config.mjs?ref=main",
+    "git": "https://api.github.com/repos/withastro/astro.build/git/blobs/19ae2c8cd4f174d2f0444f422edb36112d80e6ab",
+    "html": "https://github.com/withastro/astro.build/blob/main/astro.config.mjs"
+  }
+}

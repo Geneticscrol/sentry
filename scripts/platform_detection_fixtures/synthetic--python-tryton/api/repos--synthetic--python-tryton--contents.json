@@ -1,0 +1,5 @@
+[
+  {"name": "requirements.txt", "path": "requirements.txt", "type": "file"},
+  {"name": "setup.py", "path": "setup.py", "type": "file"},
+  {"name": "tryton.cfg", "path": "tryton.cfg", "type": "file"}
+]

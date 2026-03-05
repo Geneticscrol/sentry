@@ -1,0 +1,418 @@
+[
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "a37d4b33c024b16d1d32d4c74680d2bc2c3e1dec",
+    "size": 0,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/.github?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/tree/master/.github",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/trees/a37d4b33c024b16d1d32d4c74680d2bc2c3e1dec",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/.github?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/trees/a37d4b33c024b16d1d32d4c74680d2bc2c3e1dec",
+      "html": "https://github.com/go-admin-team/go-admin/tree/master/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "24cb16d502bbd9c4a06125f602b2737b4162b254",
+    "size": 368,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/24cb16d502bbd9c4a06125f602b2737b4162b254",
+    "download_url": "https://raw.githubusercontent.com/go-admin-team/go-admin/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/24cb16d502bbd9c4a06125f602b2737b4162b254",
+      "html": "https://github.com/go-admin-team/go-admin/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": "Dockerfile",
+    "path": "Dockerfile",
+    "sha": "fb3e023ddf6204aa2ca0d121568225d19d4cc785",
+    "size": 482,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/Dockerfile?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/blob/master/Dockerfile",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/fb3e023ddf6204aa2ca0d121568225d19d4cc785",
+    "download_url": "https://raw.githubusercontent.com/go-admin-team/go-admin/master/Dockerfile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/Dockerfile?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/fb3e023ddf6204aa2ca0d121568225d19d4cc785",
+      "html": "https://github.com/go-admin-team/go-admin/blob/master/Dockerfile"
+    }
+  },
+  {
+    "name": "Dockerfilebak",
+    "path": "Dockerfilebak",
+    "sha": "c5e33a5c0dd10a484ff3198fdf790c223b54bd2c",
+    "size": 646,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/Dockerfilebak?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/blob/master/Dockerfilebak",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/c5e33a5c0dd10a484ff3198fdf790c223b54bd2c",
+    "download_url": "https://raw.githubusercontent.com/go-admin-team/go-admin/master/Dockerfilebak",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/Dockerfilebak?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/c5e33a5c0dd10a484ff3198fdf790c223b54bd2c",
+      "html": "https://github.com/go-admin-team/go-admin/blob/master/Dockerfilebak"
+    }
+  },
+  {
+    "name": "LICENSE.md",
+    "path": "LICENSE.md",
+    "sha": "36b35f4c37a16800f542bed488b2f60c5182c9ba",
+    "size": 1070,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/LICENSE.md?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/blob/master/LICENSE.md",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/36b35f4c37a16800f542bed488b2f60c5182c9ba",
+    "download_url": "https://raw.githubusercontent.com/go-admin-team/go-admin/master/LICENSE.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/LICENSE.md?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/36b35f4c37a16800f542bed488b2f60c5182c9ba",
+      "html": "https://github.com/go-admin-team/go-admin/blob/master/LICENSE.md"
+    }
+  },
+  {
+    "name": "Makefile",
+    "path": "Makefile",
+    "sha": "afdb1a12b435fdfcd01a5b355a8c774026db10f2",
+    "size": 1641,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/Makefile?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/blob/master/Makefile",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/afdb1a12b435fdfcd01a5b355a8c774026db10f2",
+    "download_url": "https://raw.githubusercontent.com/go-admin-team/go-admin/master/Makefile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/Makefile?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/afdb1a12b435fdfcd01a5b355a8c774026db10f2",
+      "html": "https://github.com/go-admin-team/go-admin/blob/master/Makefile"
+    }
+  },
+  {
+    "name": "README.Zh-cn.md",
+    "path": "README.Zh-cn.md",
+    "sha": "f7acfb8385de947eb5bd126d8996b412fac78cdd",
+    "size": 18112,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/README.Zh-cn.md?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/blob/master/README.Zh-cn.md",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/f7acfb8385de947eb5bd126d8996b412fac78cdd",
+    "download_url": "https://raw.githubusercontent.com/go-admin-team/go-admin/master/README.Zh-cn.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/README.Zh-cn.md?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/f7acfb8385de947eb5bd126d8996b412fac78cdd",
+      "html": "https://github.com/go-admin-team/go-admin/blob/master/README.Zh-cn.md"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "39bcf0acf0f21803d48f25d5514cb647e393991e",
+    "size": 18794,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/README.md?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/39bcf0acf0f21803d48f25d5514cb647e393991e",
+    "download_url": "https://raw.githubusercontent.com/go-admin-team/go-admin/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/39bcf0acf0f21803d48f25d5514cb647e393991e",
+      "html": "https://github.com/go-admin-team/go-admin/blob/master/README.md"
+    }
+  },
+  {
+    "name": "_config.yml",
+    "path": "_config.yml",
+    "sha": "c4192631f25b34d77a7f159aa0da0e3ae99c4ef4",
+    "size": 26,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/_config.yml?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/blob/master/_config.yml",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/c4192631f25b34d77a7f159aa0da0e3ae99c4ef4",
+    "download_url": "https://raw.githubusercontent.com/go-admin-team/go-admin/master/_config.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/_config.yml?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/c4192631f25b34d77a7f159aa0da0e3ae99c4ef4",
+      "html": "https://github.com/go-admin-team/go-admin/blob/master/_config.yml"
+    }
+  },
+  {
+    "name": "app",
+    "path": "app",
+    "sha": "b2773372a27feef0656fbce42de27b518224c24c",
+    "size": 0,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/app?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/tree/master/app",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/trees/b2773372a27feef0656fbce42de27b518224c24c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/app?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/trees/b2773372a27feef0656fbce42de27b518224c24c",
+      "html": "https://github.com/go-admin-team/go-admin/tree/master/app"
+    }
+  },
+  {
+    "name": "cmd",
+    "path": "cmd",
+    "sha": "465238e3895a8db31536a13fe13b220241bffd15",
+    "size": 0,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/cmd?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/tree/master/cmd",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/trees/465238e3895a8db31536a13fe13b220241bffd15",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/cmd?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/trees/465238e3895a8db31536a13fe13b220241bffd15",
+      "html": "https://github.com/go-admin-team/go-admin/tree/master/cmd"
+    }
+  },
+  {
+    "name": "common",
+    "path": "common",
+    "sha": "7d631608f03c73f0a741238d074bd95f4521be89",
+    "size": 0,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/common?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/tree/master/common",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/trees/7d631608f03c73f0a741238d074bd95f4521be89",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/common?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/trees/7d631608f03c73f0a741238d074bd95f4521be89",
+      "html": "https://github.com/go-admin-team/go-admin/tree/master/common"
+    }
+  },
+  {
+    "name": "config",
+    "path": "config",
+    "sha": "6cc7c0a9ad7aabefffbb1e763b7babe91c79d576",
+    "size": 0,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/config?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/tree/master/config",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/trees/6cc7c0a9ad7aabefffbb1e763b7babe91c79d576",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/config?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/trees/6cc7c0a9ad7aabefffbb1e763b7babe91c79d576",
+      "html": "https://github.com/go-admin-team/go-admin/tree/master/config"
+    }
+  },
+  {
+    "name": "docker-compose.yml",
+    "path": "docker-compose.yml",
+    "sha": "41d94dee420554bca5dc5cb349b49c355db85f65",
+    "size": 363,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/docker-compose.yml?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/blob/master/docker-compose.yml",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/41d94dee420554bca5dc5cb349b49c355db85f65",
+    "download_url": "https://raw.githubusercontent.com/go-admin-team/go-admin/master/docker-compose.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/docker-compose.yml?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/41d94dee420554bca5dc5cb349b49c355db85f65",
+      "html": "https://github.com/go-admin-team/go-admin/blob/master/docker-compose.yml"
+    }
+  },
+  {
+    "name": "docs",
+    "path": "docs",
+    "sha": "d92a2e8107cf24fbac4ae3ab134bff3068d6c95f",
+    "size": 0,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/docs?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/tree/master/docs",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/trees/d92a2e8107cf24fbac4ae3ab134bff3068d6c95f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/docs?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/trees/d92a2e8107cf24fbac4ae3ab134bff3068d6c95f",
+      "html": "https://github.com/go-admin-team/go-admin/tree/master/docs"
+    }
+  },
+  {
+    "name": "go-admin-db.db",
+    "path": "go-admin-db.db",
+    "sha": "fe73e037485b8b47f69bed124e4162c331c895cb",
+    "size": 348160,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/go-admin-db.db?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/blob/master/go-admin-db.db",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/fe73e037485b8b47f69bed124e4162c331c895cb",
+    "download_url": "https://raw.githubusercontent.com/go-admin-team/go-admin/master/go-admin-db.db",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/go-admin-db.db?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/fe73e037485b8b47f69bed124e4162c331c895cb",
+      "html": "https://github.com/go-admin-team/go-admin/blob/master/go-admin-db.db"
+    }
+  },
+  {
+    "name": "go.mod",
+    "path": "go.mod",
+    "sha": "e1a2ff46fd1e2c18eab699925250e43c57a96d05",
+    "size": 6773,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/go.mod?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/blob/master/go.mod",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/e1a2ff46fd1e2c18eab699925250e43c57a96d05",
+    "download_url": "https://raw.githubusercontent.com/go-admin-team/go-admin/master/go.mod",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/go.mod?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/e1a2ff46fd1e2c18eab699925250e43c57a96d05",
+      "html": "https://github.com/go-admin-team/go-admin/blob/master/go.mod"
+    }
+  },
+  {
+    "name": "main.go",
+    "path": "main.go",
+    "sha": "e25407e27169a4d3ee7b7a6a06cbab0fb68b0560",
+    "size": 567,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/main.go?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/blob/master/main.go",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/e25407e27169a4d3ee7b7a6a06cbab0fb68b0560",
+    "download_url": "https://raw.githubusercontent.com/go-admin-team/go-admin/master/main.go",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/main.go?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/e25407e27169a4d3ee7b7a6a06cbab0fb68b0560",
+      "html": "https://github.com/go-admin-team/go-admin/blob/master/main.go"
+    }
+  },
+  {
+    "name": "package-lock.json",
+    "path": "package-lock.json",
+    "sha": "48e341a0954d5f8c2accf3a6731be28e5bb9c0de",
+    "size": 27,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/package-lock.json?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/blob/master/package-lock.json",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/48e341a0954d5f8c2accf3a6731be28e5bb9c0de",
+    "download_url": "https://raw.githubusercontent.com/go-admin-team/go-admin/master/package-lock.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/package-lock.json?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/48e341a0954d5f8c2accf3a6731be28e5bb9c0de",
+      "html": "https://github.com/go-admin-team/go-admin/blob/master/package-lock.json"
+    }
+  },
+  {
+    "name": "restart.sh",
+    "path": "restart.sh",
+    "sha": "ef8c4c13fb11a047deb103a65015164d7275fc33",
+    "size": 334,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/restart.sh?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/blob/master/restart.sh",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/ef8c4c13fb11a047deb103a65015164d7275fc33",
+    "download_url": "https://raw.githubusercontent.com/go-admin-team/go-admin/master/restart.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/restart.sh?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/ef8c4c13fb11a047deb103a65015164d7275fc33",
+      "html": "https://github.com/go-admin-team/go-admin/blob/master/restart.sh"
+    }
+  },
+  {
+    "name": "scripts",
+    "path": "scripts",
+    "sha": "16317be57d3d8623e74741467ed3a48ba5b2600b",
+    "size": 0,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/scripts?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/tree/master/scripts",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/trees/16317be57d3d8623e74741467ed3a48ba5b2600b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/scripts?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/trees/16317be57d3d8623e74741467ed3a48ba5b2600b",
+      "html": "https://github.com/go-admin-team/go-admin/tree/master/scripts"
+    }
+  },
+  {
+    "name": "ssh",
+    "path": "ssh",
+    "sha": "f4c5c35634da6b5da9b0a9c6bfb42007a039c709",
+    "size": 0,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/ssh?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/tree/master/ssh",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/trees/f4c5c35634da6b5da9b0a9c6bfb42007a039c709",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/ssh?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/trees/f4c5c35634da6b5da9b0a9c6bfb42007a039c709",
+      "html": "https://github.com/go-admin-team/go-admin/tree/master/ssh"
+    }
+  },
+  {
+    "name": "static",
+    "path": "static",
+    "sha": "7eee08941c6f67dcfbfba10b71bc4e30cff1670f",
+    "size": 0,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/static?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/tree/master/static",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/trees/7eee08941c6f67dcfbfba10b71bc4e30cff1670f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/static?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/trees/7eee08941c6f67dcfbfba10b71bc4e30cff1670f",
+      "html": "https://github.com/go-admin-team/go-admin/tree/master/static"
+    }
+  },
+  {
+    "name": "stop.sh",
+    "path": "stop.sh",
+    "sha": "6dd9dc4385e318fd897f3bf757c3547606c9341b",
+    "size": 105,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/stop.sh?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/blob/master/stop.sh",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/6dd9dc4385e318fd897f3bf757c3547606c9341b",
+    "download_url": "https://raw.githubusercontent.com/go-admin-team/go-admin/master/stop.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/stop.sh?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/blobs/6dd9dc4385e318fd897f3bf757c3547606c9341b",
+      "html": "https://github.com/go-admin-team/go-admin/blob/master/stop.sh"
+    }
+  },
+  {
+    "name": "template",
+    "path": "template",
+    "sha": "56c0002451713028eab7a8f4ebcec79948e08e97",
+    "size": 0,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/template?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/tree/master/template",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/trees/56c0002451713028eab7a8f4ebcec79948e08e97",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/template?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/trees/56c0002451713028eab7a8f4ebcec79948e08e97",
+      "html": "https://github.com/go-admin-team/go-admin/tree/master/template"
+    }
+  },
+  {
+    "name": "test",
+    "path": "test",
+    "sha": "da43ea355a0e63d827cf6f9d7d97c2cfa39cfbf8",
+    "size": 0,
+    "url": "https://api.github.com/repos/go-admin-team/go-admin/contents/test?ref=master",
+    "html_url": "https://github.com/go-admin-team/go-admin/tree/master/test",
+    "git_url": "https://api.github.com/repos/go-admin-team/go-admin/git/trees/da43ea355a0e63d827cf6f9d7d97c2cfa39cfbf8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/go-admin-team/go-admin/contents/test?ref=master",
+      "git": "https://api.github.com/repos/go-admin-team/go-admin/git/trees/da43ea355a0e63d827cf6f9d7d97c2cfa39cfbf8",
+      "html": "https://github.com/go-admin-team/go-admin/tree/master/test"
+    }
+  }
+]

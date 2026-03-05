@@ -1,0 +1,18 @@
+{
+  "name": "package.json",
+  "path": "package.json",
+  "sha": "045ffb992a9304d8393cbbf5029d3b07ea0c80c7",
+  "size": 791,
+  "url": "https://api.github.com/repos/chatwoot/google-cloud-functions-demo/contents/package.json?ref=main",
+  "html_url": "https://github.com/chatwoot/google-cloud-functions-demo/blob/main/package.json",
+  "git_url": "https://api.github.com/repos/chatwoot/google-cloud-functions-demo/git/blobs/045ffb992a9304d8393cbbf5029d3b07ea0c80c7",
+  "download_url": "https://raw.githubusercontent.com/chatwoot/google-cloud-functions-demo/main/package.json",
+  "type": "file",
+  "content": "ewogICJuYW1lIjogImZ1bmN0aW9ucyIsCiAgImRlc2NyaXB0aW9uIjogIkNs\nb3VkIEZ1bmN0aW9ucyBmb3IgRmlyZWJhc2UiLAogICJzY3JpcHRzIjogewog\nICAgImxpbnQiOiAiZXNsaW50IC4iLAogICAgInNlcnZlIjogImZpcmViYXNl\nIHNlcnZlIC0tb25seSBmdW5jdGlvbnMiLAogICAgInNoZWxsIjogImZpcmVi\nYXNlIGZ1bmN0aW9uczpzaGVsbCIsCiAgICAic3RhcnQiOiAibnB4IGZ1bmN0\naW9ucy1mcmFtZXdvcmsgLS10YXJnZXQ9cGFyc2VDaGF0d29vdFdlYmhvb2si\nLAogICAgImRlcGxveSI6ICJmaXJlYmFzZSBkZXBsb3kgLS1vbmx5IGZ1bmN0\naW9ucyIsCiAgICAibG9ncyI6ICJmaXJlYmFzZSBmdW5jdGlvbnM6bG9nIgog\nIH0sCiAgImVuZ2luZXMiOiB7CiAgICAibm9kZSI6ICIxMiIKICB9LAogICJk\nZXBlbmRlbmNpZXMiOiB7CiAgICAiQGNoYXR3b290L25vZGUiOiAiZ2l0K2h0\ndHBzOi8vZ2l0aHViLmNvbS9jaGF0d29vdC9ub2RlLmdpdCNtYWluIiwKICAg\nICJheGlvcyI6ICJeMC4yMS4xIiwKICAgICJmaXJlYmFzZS1hZG1pbiI6ICJe\nOC42LjAiLAogICAgImZpcmViYXNlLWZ1bmN0aW9ucyI6ICJeMy4zLjAiCiAg\nfSwKICAiZGV2RGVwZW5kZW5jaWVzIjogewogICAgIkBnb29nbGUtY2xvdWQv\nZnVuY3Rpb25zLWZyYW1ld29yayI6ICJeMS43LjEiLAogICAgImVzbGludCI6\nICJeNS4xMi4wIiwKICAgICJlc2xpbnQtcGx1Z2luLXByb21pc2UiOiAiXjQu\nMC4xIiwKICAgICJmaXJlYmFzZS1mdW5jdGlvbnMtdGVzdCI6ICJeMC4xLjYi\nCiAgfSwKICAicHJpdmF0ZSI6IHRydWUKfQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/chatwoot/google-cloud-functions-demo/contents/package.json?ref=main",
+    "git": "https://api.github.com/repos/chatwoot/google-cloud-functions-demo/git/blobs/045ffb992a9304d8393cbbf5029d3b07ea0c80c7",
+    "html": "https://github.com/chatwoot/google-cloud-functions-demo/blob/main/package.json"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "requirements.txt",
+  "path": "requirements.txt",
+  "sha": "39b8913759ce28efecbe9da5698e2c6285ceace7",
+  "size": 133,
+  "url": "https://api.github.com/repos/microsoft/azure-python-redis-queue-processor/contents/requirements.txt?ref=master",
+  "html_url": "https://github.com/microsoft/azure-python-redis-queue-processor/blob/master/requirements.txt",
+  "git_url": "https://api.github.com/repos/microsoft/azure-python-redis-queue-processor/git/blobs/39b8913759ce28efecbe9da5698e2c6285ceace7",
+  "download_url": "https://raw.githubusercontent.com/microsoft/azure-python-redis-queue-processor/master/requirements.txt",
+  "type": "file",
+  "content": "YXJncGFyc2UKYWRhbAphenVyZS5rZXl2YXVsdAphenVyZS5jb21tb24KYXp1\ncmUuc3RvcmFnZS5ibG9iCmF6dXJlLnN0b3JhZ2UucXVldWUKY3J5cHRvZ3Jh\ncGh5CmRhdGV0aW1lCmVudW0KcmVkaXMKcmVxdWVzdHMKcnEKZnV0dXJlcw==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/microsoft/azure-python-redis-queue-processor/contents/requirements.txt?ref=master",
+    "git": "https://api.github.com/repos/microsoft/azure-python-redis-queue-processor/git/blobs/39b8913759ce28efecbe9da5698e2c6285ceace7",
+    "html": "https://github.com/microsoft/azure-python-redis-queue-processor/blob/master/requirements.txt"
+  }
+}

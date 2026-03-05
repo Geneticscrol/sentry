@@ -1,0 +1,18 @@
+{
+  "name": ".nvmrc",
+  "path": ".nvmrc",
+  "sha": "3c032078a4a21c5c51d3c93d91717c1dabbb8cd0",
+  "size": 3,
+  "url": "https://api.github.com/repos/gotson/komga/contents/.nvmrc?ref=master",
+  "html_url": "https://github.com/gotson/komga/blob/master/.nvmrc",
+  "git_url": "https://api.github.com/repos/gotson/komga/git/blobs/3c032078a4a21c5c51d3c93d91717c1dabbb8cd0",
+  "download_url": "https://raw.githubusercontent.com/gotson/komga/master/.nvmrc",
+  "type": "file",
+  "content": "MTgK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/gotson/komga/contents/.nvmrc?ref=master",
+    "git": "https://api.github.com/repos/gotson/komga/git/blobs/3c032078a4a21c5c51d3c93d91717c1dabbb8cd0",
+    "html": "https://github.com/gotson/komga/blob/master/.nvmrc"
+  }
+}

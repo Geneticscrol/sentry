@@ -1,0 +1,146 @@
+[
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "542a2bc68020d557756f2fc96eaada4caf6126ce",
+    "size": 246,
+    "url": "https://api.github.com/repos/Hipo/hipochat/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/Hipo/hipochat/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/Hipo/hipochat/git/blobs/542a2bc68020d557756f2fc96eaada4caf6126ce",
+    "download_url": "https://raw.githubusercontent.com/Hipo/hipochat/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Hipo/hipochat/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/Hipo/hipochat/git/blobs/542a2bc68020d557756f2fc96eaada4caf6126ce",
+      "html": "https://github.com/Hipo/hipochat/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": "README.rst",
+    "path": "README.rst",
+    "sha": "a7e7599f5433541c3f762166c734e6f1fc55af57",
+    "size": 3810,
+    "url": "https://api.github.com/repos/Hipo/hipochat/contents/README.rst?ref=master",
+    "html_url": "https://github.com/Hipo/hipochat/blob/master/README.rst",
+    "git_url": "https://api.github.com/repos/Hipo/hipochat/git/blobs/a7e7599f5433541c3f762166c734e6f1fc55af57",
+    "download_url": "https://raw.githubusercontent.com/Hipo/hipochat/master/README.rst",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Hipo/hipochat/contents/README.rst?ref=master",
+      "git": "https://api.github.com/repos/Hipo/hipochat/git/blobs/a7e7599f5433541c3f762166c734e6f1fc55af57",
+      "html": "https://github.com/Hipo/hipochat/blob/master/README.rst"
+    }
+  },
+  {
+    "name": "env_bootstrap.sh",
+    "path": "env_bootstrap.sh",
+    "sha": "7e30ccb9fe739ec6efef4f61bfb32e99d5daa76a",
+    "size": 148,
+    "url": "https://api.github.com/repos/Hipo/hipochat/contents/env_bootstrap.sh?ref=master",
+    "html_url": "https://github.com/Hipo/hipochat/blob/master/env_bootstrap.sh",
+    "git_url": "https://api.github.com/repos/Hipo/hipochat/git/blobs/7e30ccb9fe739ec6efef4f61bfb32e99d5daa76a",
+    "download_url": "https://raw.githubusercontent.com/Hipo/hipochat/master/env_bootstrap.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Hipo/hipochat/contents/env_bootstrap.sh?ref=master",
+      "git": "https://api.github.com/repos/Hipo/hipochat/git/blobs/7e30ccb9fe739ec6efef4f61bfb32e99d5daa76a",
+      "html": "https://github.com/Hipo/hipochat/blob/master/env_bootstrap.sh"
+    }
+  },
+  {
+    "name": "hipochat",
+    "path": "hipochat",
+    "sha": "3db14604b68a01e7e9b9209c8fd2273d85140467",
+    "size": 0,
+    "url": "https://api.github.com/repos/Hipo/hipochat/contents/hipochat?ref=master",
+    "html_url": "https://github.com/Hipo/hipochat/tree/master/hipochat",
+    "git_url": "https://api.github.com/repos/Hipo/hipochat/git/trees/3db14604b68a01e7e9b9209c8fd2273d85140467",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Hipo/hipochat/contents/hipochat?ref=master",
+      "git": "https://api.github.com/repos/Hipo/hipochat/git/trees/3db14604b68a01e7e9b9209c8fd2273d85140467",
+      "html": "https://github.com/Hipo/hipochat/tree/master/hipochat"
+    }
+  },
+  {
+    "name": "nginx-sample.conf",
+    "path": "nginx-sample.conf",
+    "sha": "ef00d83899616b2acf0664751b113f3b554b119f",
+    "size": 978,
+    "url": "https://api.github.com/repos/Hipo/hipochat/contents/nginx-sample.conf?ref=master",
+    "html_url": "https://github.com/Hipo/hipochat/blob/master/nginx-sample.conf",
+    "git_url": "https://api.github.com/repos/Hipo/hipochat/git/blobs/ef00d83899616b2acf0664751b113f3b554b119f",
+    "download_url": "https://raw.githubusercontent.com/Hipo/hipochat/master/nginx-sample.conf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Hipo/hipochat/contents/nginx-sample.conf?ref=master",
+      "git": "https://api.github.com/repos/Hipo/hipochat/git/blobs/ef00d83899616b2acf0664751b113f3b554b119f",
+      "html": "https://github.com/Hipo/hipochat/blob/master/nginx-sample.conf"
+    }
+  },
+  {
+    "name": "requirements.txt",
+    "path": "requirements.txt",
+    "sha": "fdb92766cb51f07f6a12cecb540b567749ebc50b",
+    "size": 32,
+    "url": "https://api.github.com/repos/Hipo/hipochat/contents/requirements.txt?ref=master",
+    "html_url": "https://github.com/Hipo/hipochat/blob/master/requirements.txt",
+    "git_url": "https://api.github.com/repos/Hipo/hipochat/git/blobs/fdb92766cb51f07f6a12cecb540b567749ebc50b",
+    "download_url": "https://raw.githubusercontent.com/Hipo/hipochat/master/requirements.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Hipo/hipochat/contents/requirements.txt?ref=master",
+      "git": "https://api.github.com/repos/Hipo/hipochat/git/blobs/fdb92766cb51f07f6a12cecb540b567749ebc50b",
+      "html": "https://github.com/Hipo/hipochat/blob/master/requirements.txt"
+    }
+  },
+  {
+    "name": "sample",
+    "path": "sample",
+    "sha": "e7a44a7cf06ad9af704fd47b6241f78b0f2eb809",
+    "size": 0,
+    "url": "https://api.github.com/repos/Hipo/hipochat/contents/sample?ref=master",
+    "html_url": "https://github.com/Hipo/hipochat/tree/master/sample",
+    "git_url": "https://api.github.com/repos/Hipo/hipochat/git/trees/e7a44a7cf06ad9af704fd47b6241f78b0f2eb809",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Hipo/hipochat/contents/sample?ref=master",
+      "git": "https://api.github.com/repos/Hipo/hipochat/git/trees/e7a44a7cf06ad9af704fd47b6241f78b0f2eb809",
+      "html": "https://github.com/Hipo/hipochat/tree/master/sample"
+    }
+  },
+  {
+    "name": "setup.py",
+    "path": "setup.py",
+    "sha": "5c1436f83d4486a64eed7ccdaa4d1b1d2d9ee3e4",
+    "size": 455,
+    "url": "https://api.github.com/repos/Hipo/hipochat/contents/setup.py?ref=master",
+    "html_url": "https://github.com/Hipo/hipochat/blob/master/setup.py",
+    "git_url": "https://api.github.com/repos/Hipo/hipochat/git/blobs/5c1436f83d4486a64eed7ccdaa4d1b1d2d9ee3e4",
+    "download_url": "https://raw.githubusercontent.com/Hipo/hipochat/master/setup.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Hipo/hipochat/contents/setup.py?ref=master",
+      "git": "https://api.github.com/repos/Hipo/hipochat/git/blobs/5c1436f83d4486a64eed7ccdaa4d1b1d2d9ee3e4",
+      "html": "https://github.com/Hipo/hipochat/blob/master/setup.py"
+    }
+  },
+  {
+    "name": "test-chat.py",
+    "path": "test-chat.py",
+    "sha": "a0d168a63ad470ab67c15b052db2715fce23739e",
+    "size": 2908,
+    "url": "https://api.github.com/repos/Hipo/hipochat/contents/test-chat.py?ref=master",
+    "html_url": "https://github.com/Hipo/hipochat/blob/master/test-chat.py",
+    "git_url": "https://api.github.com/repos/Hipo/hipochat/git/blobs/a0d168a63ad470ab67c15b052db2715fce23739e",
+    "download_url": "https://raw.githubusercontent.com/Hipo/hipochat/master/test-chat.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Hipo/hipochat/contents/test-chat.py?ref=master",
+      "git": "https://api.github.com/repos/Hipo/hipochat/git/blobs/a0d168a63ad470ab67c15b052db2715fce23739e",
+      "html": "https://github.com/Hipo/hipochat/blob/master/test-chat.py"
+    }
+  }
+]

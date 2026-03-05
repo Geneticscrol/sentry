@@ -1,0 +1,18 @@
+{
+  "name": "Dockerfile",
+  "path": "Dockerfile",
+  "sha": "ac6ae54de00769b9be9fc0af3c16c3bd73a97278",
+  "size": 465,
+  "url": "https://api.github.com/repos/agenda/agendash/contents/Dockerfile?ref=master",
+  "html_url": "https://github.com/agenda/agendash/blob/master/Dockerfile",
+  "git_url": "https://api.github.com/repos/agenda/agendash/git/blobs/ac6ae54de00769b9be9fc0af3c16c3bd73a97278",
+  "download_url": "https://raw.githubusercontent.com/agenda/agendash/master/Dockerfile",
+  "type": "file",
+  "content": "RlJPTSBub2RlOjE0LWFscGluZQoKIyBEZXBlbmRlbmNpZXMKIyBSVU4gYXBr\nIHVwZGF0ZSAmJiBhcGsgdXBncmFkZSAmJiBcCiMgICAgYXBrIGFkZCAtLW5v\nLWNhY2hlIGJhc2ggZ2F3ayBzZWQgZ3JlcCBiYyBjb3JldXRpbHMgZ2l0IG9w\nZW5zc2gKCkVOViBOT0RFX0VOVj1wcm9kdWN0aW9uIFwKICBNT05HT0RCX1VS\nST1tb25nb2RiOi8vbW9uZ29kYiBcCiAgQ09MTEVDVElPTj1hZ2VuZGFKb2Jz\nIFwKICBCQVNFX1BBVEg9LwoKUlVOIG1rZGlyIC1wIC9hZ2VuZGFzaApXT1JL\nRElSIC9hZ2VuZGFzaAoKQ09QWSBwYWNrYWdlLmpzb24gL2FnZW5kYXNoLwpS\nVU4gbnBtIGluc3RhbGwgJiYgbnBtIGNhY2hlIGNsZWFuIC0tZm9yY2UKCkNP\nUFkgLiAvYWdlbmRhc2gKUlVOIGNobW9kICt4IC9hZ2VuZGFzaC9lbnRyeXBv\naW50LnNoCgpFWFBPU0UgMzAwMAoKRU5UUllQT0lOVCBbIi9hZ2VuZGFzaC9l\nbnRyeXBvaW50LnNoIl0K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/agenda/agendash/contents/Dockerfile?ref=master",
+    "git": "https://api.github.com/repos/agenda/agendash/git/blobs/ac6ae54de00769b9be9fc0af3c16c3bd73a97278",
+    "html": "https://github.com/agenda/agendash/blob/master/Dockerfile"
+  }
+}

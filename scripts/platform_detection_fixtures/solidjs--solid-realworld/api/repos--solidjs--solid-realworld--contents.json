@@ -1,0 +1,178 @@
+[
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "4d5640d893bdd9c7c6ed9ba8d3446fc54cac1c27",
+    "size": 0,
+    "url": "https://api.github.com/repos/solidjs/solid-realworld/contents/.github?ref=main",
+    "html_url": "https://github.com/solidjs/solid-realworld/tree/main/.github",
+    "git_url": "https://api.github.com/repos/solidjs/solid-realworld/git/trees/4d5640d893bdd9c7c6ed9ba8d3446fc54cac1c27",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-realworld/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-realworld/git/trees/4d5640d893bdd9c7c6ed9ba8d3446fc54cac1c27",
+      "html": "https://github.com/solidjs/solid-realworld/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "20cb58bc3718880fa217ae1ff6912d9a9450aa61",
+    "size": 162,
+    "url": "https://api.github.com/repos/solidjs/solid-realworld/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/solidjs/solid-realworld/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/solidjs/solid-realworld/git/blobs/20cb58bc3718880fa217ae1ff6912d9a9450aa61",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-realworld/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-realworld/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-realworld/git/blobs/20cb58bc3718880fa217ae1ff6912d9a9450aa61",
+      "html": "https://github.com/solidjs/solid-realworld/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".prettierrc",
+    "path": ".prettierrc",
+    "sha": "ccfbc0b2a7b5311a6b95914df038454c4182ae97",
+    "size": 107,
+    "url": "https://api.github.com/repos/solidjs/solid-realworld/contents/.prettierrc?ref=main",
+    "html_url": "https://github.com/solidjs/solid-realworld/blob/main/.prettierrc",
+    "git_url": "https://api.github.com/repos/solidjs/solid-realworld/git/blobs/ccfbc0b2a7b5311a6b95914df038454c4182ae97",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-realworld/main/.prettierrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-realworld/contents/.prettierrc?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-realworld/git/blobs/ccfbc0b2a7b5311a6b95914df038454c4182ae97",
+      "html": "https://github.com/solidjs/solid-realworld/blob/main/.prettierrc"
+    }
+  },
+  {
+    "name": "FRONTEND_INSTRUCTIONS.md",
+    "path": "FRONTEND_INSTRUCTIONS.md",
+    "sha": "a5dbb8c056f2724b0378f92c5c315e077894f422",
+    "size": 16463,
+    "url": "https://api.github.com/repos/solidjs/solid-realworld/contents/FRONTEND_INSTRUCTIONS.md?ref=main",
+    "html_url": "https://github.com/solidjs/solid-realworld/blob/main/FRONTEND_INSTRUCTIONS.md",
+    "git_url": "https://api.github.com/repos/solidjs/solid-realworld/git/blobs/a5dbb8c056f2724b0378f92c5c315e077894f422",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-realworld/main/FRONTEND_INSTRUCTIONS.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-realworld/contents/FRONTEND_INSTRUCTIONS.md?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-realworld/git/blobs/a5dbb8c056f2724b0378f92c5c315e077894f422",
+      "html": "https://github.com/solidjs/solid-realworld/blob/main/FRONTEND_INSTRUCTIONS.md"
+    }
+  },
+  {
+    "name": "logo.png",
+    "path": "logo.png",
+    "sha": "29e040195cb5e4da2b3e799cb89c5ca894e0d491",
+    "size": 48369,
+    "url": "https://api.github.com/repos/solidjs/solid-realworld/contents/logo.png?ref=main",
+    "html_url": "https://github.com/solidjs/solid-realworld/blob/main/logo.png",
+    "git_url": "https://api.github.com/repos/solidjs/solid-realworld/git/blobs/29e040195cb5e4da2b3e799cb89c5ca894e0d491",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-realworld/main/logo.png",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-realworld/contents/logo.png?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-realworld/git/blobs/29e040195cb5e4da2b3e799cb89c5ca894e0d491",
+      "html": "https://github.com/solidjs/solid-realworld/blob/main/logo.png"
+    }
+  },
+  {
+    "name": "package-lock.json",
+    "path": "package-lock.json",
+    "sha": "fe72db8ef412fb2d81f0eb434a177212d29dd450",
+    "size": 143826,
+    "url": "https://api.github.com/repos/solidjs/solid-realworld/contents/package-lock.json?ref=main",
+    "html_url": "https://github.com/solidjs/solid-realworld/blob/main/package-lock.json",
+    "git_url": "https://api.github.com/repos/solidjs/solid-realworld/git/blobs/fe72db8ef412fb2d81f0eb434a177212d29dd450",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-realworld/main/package-lock.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-realworld/contents/package-lock.json?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-realworld/git/blobs/fe72db8ef412fb2d81f0eb434a177212d29dd450",
+      "html": "https://github.com/solidjs/solid-realworld/blob/main/package-lock.json"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "29e4d470faecdbf4b05333895a250a40f739e5d1",
+    "size": 1235,
+    "url": "https://api.github.com/repos/solidjs/solid-realworld/contents/package.json?ref=main",
+    "html_url": "https://github.com/solidjs/solid-realworld/blob/main/package.json",
+    "git_url": "https://api.github.com/repos/solidjs/solid-realworld/git/blobs/29e4d470faecdbf4b05333895a250a40f739e5d1",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-realworld/main/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-realworld/contents/package.json?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-realworld/git/blobs/29e4d470faecdbf4b05333895a250a40f739e5d1",
+      "html": "https://github.com/solidjs/solid-realworld/blob/main/package.json"
+    }
+  },
+  {
+    "name": "public",
+    "path": "public",
+    "sha": "aa16ff3fb2aa8dd5aefa79ecc4e4e2d7af1d12c9",
+    "size": 0,
+    "url": "https://api.github.com/repos/solidjs/solid-realworld/contents/public?ref=main",
+    "html_url": "https://github.com/solidjs/solid-realworld/tree/main/public",
+    "git_url": "https://api.github.com/repos/solidjs/solid-realworld/git/trees/aa16ff3fb2aa8dd5aefa79ecc4e4e2d7af1d12c9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-realworld/contents/public?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-realworld/git/trees/aa16ff3fb2aa8dd5aefa79ecc4e4e2d7af1d12c9",
+      "html": "https://github.com/solidjs/solid-realworld/tree/main/public"
+    }
+  },
+  {
+    "name": "readme.md",
+    "path": "readme.md",
+    "sha": "b40797c648165cf37e85d00a7dd33920f3aed7cf",
+    "size": 1081,
+    "url": "https://api.github.com/repos/solidjs/solid-realworld/contents/readme.md?ref=main",
+    "html_url": "https://github.com/solidjs/solid-realworld/blob/main/readme.md",
+    "git_url": "https://api.github.com/repos/solidjs/solid-realworld/git/blobs/b40797c648165cf37e85d00a7dd33920f3aed7cf",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-realworld/main/readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-realworld/contents/readme.md?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-realworld/git/blobs/b40797c648165cf37e85d00a7dd33920f3aed7cf",
+      "html": "https://github.com/solidjs/solid-realworld/blob/main/readme.md"
+    }
+  },
+  {
+    "name": "rollup.config.js",
+    "path": "rollup.config.js",
+    "sha": "a9b170c0e798d692196a83d687e9d4c9271d78e1",
+    "size": 790,
+    "url": "https://api.github.com/repos/solidjs/solid-realworld/contents/rollup.config.js?ref=main",
+    "html_url": "https://github.com/solidjs/solid-realworld/blob/main/rollup.config.js",
+    "git_url": "https://api.github.com/repos/solidjs/solid-realworld/git/blobs/a9b170c0e798d692196a83d687e9d4c9271d78e1",
+    "download_url": "https://raw.githubusercontent.com/solidjs/solid-realworld/main/rollup.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-realworld/contents/rollup.config.js?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-realworld/git/blobs/a9b170c0e798d692196a83d687e9d4c9271d78e1",
+      "html": "https://github.com/solidjs/solid-realworld/blob/main/rollup.config.js"
+    }
+  },
+  {
+    "name": "src",
+    "path": "src",
+    "sha": "b45e9b9ea65f69af371595e18e582825984be9e4",
+    "size": 0,
+    "url": "https://api.github.com/repos/solidjs/solid-realworld/contents/src?ref=main",
+    "html_url": "https://github.com/solidjs/solid-realworld/tree/main/src",
+    "git_url": "https://api.github.com/repos/solidjs/solid-realworld/git/trees/b45e9b9ea65f69af371595e18e582825984be9e4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/solidjs/solid-realworld/contents/src?ref=main",
+      "git": "https://api.github.com/repos/solidjs/solid-realworld/git/trees/b45e9b9ea65f69af371595e18e582825984be9e4",
+      "html": "https://github.com/solidjs/solid-realworld/tree/main/src"
+    }
+  }
+]

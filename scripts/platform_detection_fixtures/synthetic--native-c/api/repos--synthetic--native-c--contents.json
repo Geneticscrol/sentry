@@ -1,0 +1,5 @@
+[
+  {"name": "main.c", "path": "main.c", "type": "file"},
+  {"name": "Makefile", "path": "Makefile", "type": "file"},
+  {"name": "README.md", "path": "README.md", "type": "file"}
+]

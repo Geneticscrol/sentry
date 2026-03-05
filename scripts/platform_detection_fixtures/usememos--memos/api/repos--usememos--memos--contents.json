@@ -1,0 +1,322 @@
+[
+  {
+    "name": ".dockerignore",
+    "path": ".dockerignore",
+    "sha": "d465134d4715a44a15df136cc979110e88e4aaf1",
+    "size": 117,
+    "url": "https://api.github.com/repos/usememos/memos/contents/.dockerignore?ref=main",
+    "html_url": "https://github.com/usememos/memos/blob/main/.dockerignore",
+    "git_url": "https://api.github.com/repos/usememos/memos/git/blobs/d465134d4715a44a15df136cc979110e88e4aaf1",
+    "download_url": "https://raw.githubusercontent.com/usememos/memos/main/.dockerignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/usememos/memos/contents/.dockerignore?ref=main",
+      "git": "https://api.github.com/repos/usememos/memos/git/blobs/d465134d4715a44a15df136cc979110e88e4aaf1",
+      "html": "https://github.com/usememos/memos/blob/main/.dockerignore"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "7e163ad9f407a9917d7a243f349cbbe53d140e46",
+    "size": 0,
+    "url": "https://api.github.com/repos/usememos/memos/contents/.github?ref=main",
+    "html_url": "https://github.com/usememos/memos/tree/main/.github",
+    "git_url": "https://api.github.com/repos/usememos/memos/git/trees/7e163ad9f407a9917d7a243f349cbbe53d140e46",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/usememos/memos/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/usememos/memos/git/trees/7e163ad9f407a9917d7a243f349cbbe53d140e46",
+      "html": "https://github.com/usememos/memos/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "abd9d94fcb5ee6a2353f1ae8904c32e5ddf2b259",
+    "size": 251,
+    "url": "https://api.github.com/repos/usememos/memos/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/usememos/memos/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/usememos/memos/git/blobs/abd9d94fcb5ee6a2353f1ae8904c32e5ddf2b259",
+    "download_url": "https://raw.githubusercontent.com/usememos/memos/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/usememos/memos/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/usememos/memos/git/blobs/abd9d94fcb5ee6a2353f1ae8904c32e5ddf2b259",
+      "html": "https://github.com/usememos/memos/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".golangci.yaml",
+    "path": ".golangci.yaml",
+    "sha": "b97938f08442176fa5f4777bab8ad23d1c25024a",
+    "size": 2630,
+    "url": "https://api.github.com/repos/usememos/memos/contents/.golangci.yaml?ref=main",
+    "html_url": "https://github.com/usememos/memos/blob/main/.golangci.yaml",
+    "git_url": "https://api.github.com/repos/usememos/memos/git/blobs/b97938f08442176fa5f4777bab8ad23d1c25024a",
+    "download_url": "https://raw.githubusercontent.com/usememos/memos/main/.golangci.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/usememos/memos/contents/.golangci.yaml?ref=main",
+      "git": "https://api.github.com/repos/usememos/memos/git/blobs/b97938f08442176fa5f4777bab8ad23d1c25024a",
+      "html": "https://github.com/usememos/memos/blob/main/.golangci.yaml"
+    }
+  },
+  {
+    "name": "AGENTS.md",
+    "path": "AGENTS.md",
+    "sha": "8280246013f18baef411a7029d8e497003a2f21b",
+    "size": 4782,
+    "url": "https://api.github.com/repos/usememos/memos/contents/AGENTS.md?ref=main",
+    "html_url": "https://github.com/usememos/memos/blob/main/AGENTS.md",
+    "git_url": "https://api.github.com/repos/usememos/memos/git/blobs/8280246013f18baef411a7029d8e497003a2f21b",
+    "download_url": "https://raw.githubusercontent.com/usememos/memos/main/AGENTS.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/usememos/memos/contents/AGENTS.md?ref=main",
+      "git": "https://api.github.com/repos/usememos/memos/git/blobs/8280246013f18baef411a7029d8e497003a2f21b",
+      "html": "https://github.com/usememos/memos/blob/main/AGENTS.md"
+    }
+  },
+  {
+    "name": "CLAUDE.md",
+    "path": "CLAUDE.md",
+    "sha": "0ce80d9ae45e19ca73325d1c38f3f8c341075b4d",
+    "size": 90,
+    "url": "https://api.github.com/repos/usememos/memos/contents/CLAUDE.md?ref=main",
+    "html_url": "https://github.com/usememos/memos/blob/main/CLAUDE.md",
+    "git_url": "https://api.github.com/repos/usememos/memos/git/blobs/0ce80d9ae45e19ca73325d1c38f3f8c341075b4d",
+    "download_url": "https://raw.githubusercontent.com/usememos/memos/main/CLAUDE.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/usememos/memos/contents/CLAUDE.md?ref=main",
+      "git": "https://api.github.com/repos/usememos/memos/git/blobs/0ce80d9ae45e19ca73325d1c38f3f8c341075b4d",
+      "html": "https://github.com/usememos/memos/blob/main/CLAUDE.md"
+    }
+  },
+  {
+    "name": "CODEOWNERS",
+    "path": "CODEOWNERS",
+    "sha": "b75ef1700306e15ff0cb3d5840c19a0d627eaccb",
+    "size": 93,
+    "url": "https://api.github.com/repos/usememos/memos/contents/CODEOWNERS?ref=main",
+    "html_url": "https://github.com/usememos/memos/blob/main/CODEOWNERS",
+    "git_url": "https://api.github.com/repos/usememos/memos/git/blobs/b75ef1700306e15ff0cb3d5840c19a0d627eaccb",
+    "download_url": "https://raw.githubusercontent.com/usememos/memos/main/CODEOWNERS",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/usememos/memos/contents/CODEOWNERS?ref=main",
+      "git": "https://api.github.com/repos/usememos/memos/git/blobs/b75ef1700306e15ff0cb3d5840c19a0d627eaccb",
+      "html": "https://github.com/usememos/memos/blob/main/CODEOWNERS"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "ad324eef282c58316ff9dfc8ed5086d120a2311c",
+    "size": 1062,
+    "url": "https://api.github.com/repos/usememos/memos/contents/LICENSE?ref=main",
+    "html_url": "https://github.com/usememos/memos/blob/main/LICENSE",
+    "git_url": "https://api.github.com/repos/usememos/memos/git/blobs/ad324eef282c58316ff9dfc8ed5086d120a2311c",
+    "download_url": "https://raw.githubusercontent.com/usememos/memos/main/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/usememos/memos/contents/LICENSE?ref=main",
+      "git": "https://api.github.com/repos/usememos/memos/git/blobs/ad324eef282c58316ff9dfc8ed5086d120a2311c",
+      "html": "https://github.com/usememos/memos/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "65551f6b923642b733e1ec07dd6307f25727f293",
+    "size": 5617,
+    "url": "https://api.github.com/repos/usememos/memos/contents/README.md?ref=main",
+    "html_url": "https://github.com/usememos/memos/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/usememos/memos/git/blobs/65551f6b923642b733e1ec07dd6307f25727f293",
+    "download_url": "https://raw.githubusercontent.com/usememos/memos/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/usememos/memos/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/usememos/memos/git/blobs/65551f6b923642b733e1ec07dd6307f25727f293",
+      "html": "https://github.com/usememos/memos/blob/main/README.md"
+    }
+  },
+  {
+    "name": "SECURITY.md",
+    "path": "SECURITY.md",
+    "sha": "1818991e94ccdcc6170a3bc40d1e32ca3ea58afd",
+    "size": 1513,
+    "url": "https://api.github.com/repos/usememos/memos/contents/SECURITY.md?ref=main",
+    "html_url": "https://github.com/usememos/memos/blob/main/SECURITY.md",
+    "git_url": "https://api.github.com/repos/usememos/memos/git/blobs/1818991e94ccdcc6170a3bc40d1e32ca3ea58afd",
+    "download_url": "https://raw.githubusercontent.com/usememos/memos/main/SECURITY.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/usememos/memos/contents/SECURITY.md?ref=main",
+      "git": "https://api.github.com/repos/usememos/memos/git/blobs/1818991e94ccdcc6170a3bc40d1e32ca3ea58afd",
+      "html": "https://github.com/usememos/memos/blob/main/SECURITY.md"
+    }
+  },
+  {
+    "name": "cmd",
+    "path": "cmd",
+    "sha": "3f8d0aed4f11dfe99b7da72ef7cc8867687bda2f",
+    "size": 0,
+    "url": "https://api.github.com/repos/usememos/memos/contents/cmd?ref=main",
+    "html_url": "https://github.com/usememos/memos/tree/main/cmd",
+    "git_url": "https://api.github.com/repos/usememos/memos/git/trees/3f8d0aed4f11dfe99b7da72ef7cc8867687bda2f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/usememos/memos/contents/cmd?ref=main",
+      "git": "https://api.github.com/repos/usememos/memos/git/trees/3f8d0aed4f11dfe99b7da72ef7cc8867687bda2f",
+      "html": "https://github.com/usememos/memos/tree/main/cmd"
+    }
+  },
+  {
+    "name": "go.mod",
+    "path": "go.mod",
+    "sha": "bbfe4603d944d7fd80415fab615a5819912e4971",
+    "size": 6505,
+    "url": "https://api.github.com/repos/usememos/memos/contents/go.mod?ref=main",
+    "html_url": "https://github.com/usememos/memos/blob/main/go.mod",
+    "git_url": "https://api.github.com/repos/usememos/memos/git/blobs/bbfe4603d944d7fd80415fab615a5819912e4971",
+    "download_url": "https://raw.githubusercontent.com/usememos/memos/main/go.mod",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/usememos/memos/contents/go.mod?ref=main",
+      "git": "https://api.github.com/repos/usememos/memos/git/blobs/bbfe4603d944d7fd80415fab615a5819912e4971",
+      "html": "https://github.com/usememos/memos/blob/main/go.mod"
+    }
+  },
+  {
+    "name": "go.sum",
+    "path": "go.sum",
+    "sha": "0f927b8474263a5d18757e937749f4d058d4e927",
+    "size": 32439,
+    "url": "https://api.github.com/repos/usememos/memos/contents/go.sum?ref=main",
+    "html_url": "https://github.com/usememos/memos/blob/main/go.sum",
+    "git_url": "https://api.github.com/repos/usememos/memos/git/blobs/0f927b8474263a5d18757e937749f4d058d4e927",
+    "download_url": "https://raw.githubusercontent.com/usememos/memos/main/go.sum",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/usememos/memos/contents/go.sum?ref=main",
+      "git": "https://api.github.com/repos/usememos/memos/git/blobs/0f927b8474263a5d18757e937749f4d058d4e927",
+      "html": "https://github.com/usememos/memos/blob/main/go.sum"
+    }
+  },
+  {
+    "name": "internal",
+    "path": "internal",
+    "sha": "4227e51e936d294d416e4b0e895eb19482519b43",
+    "size": 0,
+    "url": "https://api.github.com/repos/usememos/memos/contents/internal?ref=main",
+    "html_url": "https://github.com/usememos/memos/tree/main/internal",
+    "git_url": "https://api.github.com/repos/usememos/memos/git/trees/4227e51e936d294d416e4b0e895eb19482519b43",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/usememos/memos/contents/internal?ref=main",
+      "git": "https://api.github.com/repos/usememos/memos/git/trees/4227e51e936d294d416e4b0e895eb19482519b43",
+      "html": "https://github.com/usememos/memos/tree/main/internal"
+    }
+  },
+  {
+    "name": "plugin",
+    "path": "plugin",
+    "sha": "f25c51370f9203931dd9cd0cc7d10a105e4a25f8",
+    "size": 0,
+    "url": "https://api.github.com/repos/usememos/memos/contents/plugin?ref=main",
+    "html_url": "https://github.com/usememos/memos/tree/main/plugin",
+    "git_url": "https://api.github.com/repos/usememos/memos/git/trees/f25c51370f9203931dd9cd0cc7d10a105e4a25f8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/usememos/memos/contents/plugin?ref=main",
+      "git": "https://api.github.com/repos/usememos/memos/git/trees/f25c51370f9203931dd9cd0cc7d10a105e4a25f8",
+      "html": "https://github.com/usememos/memos/tree/main/plugin"
+    }
+  },
+  {
+    "name": "proto",
+    "path": "proto",
+    "sha": "8bb74948f063c3fa015d7e97a61c74adc1f7f419",
+    "size": 0,
+    "url": "https://api.github.com/repos/usememos/memos/contents/proto?ref=main",
+    "html_url": "https://github.com/usememos/memos/tree/main/proto",
+    "git_url": "https://api.github.com/repos/usememos/memos/git/trees/8bb74948f063c3fa015d7e97a61c74adc1f7f419",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/usememos/memos/contents/proto?ref=main",
+      "git": "https://api.github.com/repos/usememos/memos/git/trees/8bb74948f063c3fa015d7e97a61c74adc1f7f419",
+      "html": "https://github.com/usememos/memos/tree/main/proto"
+    }
+  },
+  {
+    "name": "scripts",
+    "path": "scripts",
+    "sha": "c86b4314f0ab14ad0eb537c1213d9aac05797bea",
+    "size": 0,
+    "url": "https://api.github.com/repos/usememos/memos/contents/scripts?ref=main",
+    "html_url": "https://github.com/usememos/memos/tree/main/scripts",
+    "git_url": "https://api.github.com/repos/usememos/memos/git/trees/c86b4314f0ab14ad0eb537c1213d9aac05797bea",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/usememos/memos/contents/scripts?ref=main",
+      "git": "https://api.github.com/repos/usememos/memos/git/trees/c86b4314f0ab14ad0eb537c1213d9aac05797bea",
+      "html": "https://github.com/usememos/memos/tree/main/scripts"
+    }
+  },
+  {
+    "name": "server",
+    "path": "server",
+    "sha": "aa10b12d570a5fcea81306a8df8fde03ec9a0bf7",
+    "size": 0,
+    "url": "https://api.github.com/repos/usememos/memos/contents/server?ref=main",
+    "html_url": "https://github.com/usememos/memos/tree/main/server",
+    "git_url": "https://api.github.com/repos/usememos/memos/git/trees/aa10b12d570a5fcea81306a8df8fde03ec9a0bf7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/usememos/memos/contents/server?ref=main",
+      "git": "https://api.github.com/repos/usememos/memos/git/trees/aa10b12d570a5fcea81306a8df8fde03ec9a0bf7",
+      "html": "https://github.com/usememos/memos/tree/main/server"
+    }
+  },
+  {
+    "name": "store",
+    "path": "store",
+    "sha": "b661ebdb5d138a92b49aca5b82fb819ed070647c",
+    "size": 0,
+    "url": "https://api.github.com/repos/usememos/memos/contents/store?ref=main",
+    "html_url": "https://github.com/usememos/memos/tree/main/store",
+    "git_url": "https://api.github.com/repos/usememos/memos/git/trees/b661ebdb5d138a92b49aca5b82fb819ed070647c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/usememos/memos/contents/store?ref=main",
+      "git": "https://api.github.com/repos/usememos/memos/git/trees/b661ebdb5d138a92b49aca5b82fb819ed070647c",
+      "html": "https://github.com/usememos/memos/tree/main/store"
+    }
+  },
+  {
+    "name": "web",
+    "path": "web",
+    "sha": "87a97741bdbecb9b7fad439790b7aacb9d347e41",
+    "size": 0,
+    "url": "https://api.github.com/repos/usememos/memos/contents/web?ref=main",
+    "html_url": "https://github.com/usememos/memos/tree/main/web",
+    "git_url": "https://api.github.com/repos/usememos/memos/git/trees/87a97741bdbecb9b7fad439790b7aacb9d347e41",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/usememos/memos/contents/web?ref=main",
+      "git": "https://api.github.com/repos/usememos/memos/git/trees/87a97741bdbecb9b7fad439790b7aacb9d347e41",
+      "html": "https://github.com/usememos/memos/tree/main/web"
+    }
+  }
+]

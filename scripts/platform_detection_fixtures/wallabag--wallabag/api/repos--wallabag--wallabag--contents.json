@@ -1,0 +1,706 @@
+[
+  {
+    "name": ".composer-auth.json",
+    "path": ".composer-auth.json",
+    "sha": "06e8d2f8344b139d59d5c528d84b935fda732f50",
+    "size": 271,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/.composer-auth.json?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/.composer-auth.json",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/06e8d2f8344b139d59d5c528d84b935fda732f50",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/.composer-auth.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/.composer-auth.json?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/06e8d2f8344b139d59d5c528d84b935fda732f50",
+      "html": "https://github.com/wallabag/wallabag/blob/master/.composer-auth.json"
+    }
+  },
+  {
+    "name": ".editorconfig",
+    "path": ".editorconfig",
+    "sha": "d79cf6f2d41d372f58325c2ec5c3a87d984be3bd",
+    "size": 347,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/.editorconfig?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/.editorconfig",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/d79cf6f2d41d372f58325c2ec5c3a87d984be3bd",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/.editorconfig",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/.editorconfig?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/d79cf6f2d41d372f58325c2ec5c3a87d984be3bd",
+      "html": "https://github.com/wallabag/wallabag/blob/master/.editorconfig"
+    }
+  },
+  {
+    "name": ".eslintrc.json",
+    "path": ".eslintrc.json",
+    "sha": "7adfed8f30a766ac4d77a28fa2b535448579fd83",
+    "size": 409,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/.eslintrc.json?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/.eslintrc.json",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/7adfed8f30a766ac4d77a28fa2b535448579fd83",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/.eslintrc.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/.eslintrc.json?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/7adfed8f30a766ac4d77a28fa2b535448579fd83",
+      "html": "https://github.com/wallabag/wallabag/blob/master/.eslintrc.json"
+    }
+  },
+  {
+    "name": ".gitattributes",
+    "path": ".gitattributes",
+    "sha": "3b534030c562300ee037eceea33172f24d53b9c5",
+    "size": 189,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/.gitattributes?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/.gitattributes",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/3b534030c562300ee037eceea33172f24d53b9c5",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/.gitattributes",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/.gitattributes?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/3b534030c562300ee037eceea33172f24d53b9c5",
+      "html": "https://github.com/wallabag/wallabag/blob/master/.gitattributes"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "a526d21fe4f04ca4ef816ff16c8c4cd123a1c768",
+    "size": 0,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/.github?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/tree/master/.github",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/trees/a526d21fe4f04ca4ef816ff16c8c4cd123a1c768",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/.github?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/trees/a526d21fe4f04ca4ef816ff16c8c4cd123a1c768",
+      "html": "https://github.com/wallabag/wallabag/tree/master/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "b8f1c6f8f6b4bcc01f927558cee9e9602522e8a9",
+    "size": 880,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/b8f1c6f8f6b4bcc01f927558cee9e9602522e8a9",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/b8f1c6f8f6b4bcc01f927558cee9e9602522e8a9",
+      "html": "https://github.com/wallabag/wallabag/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": ".nvmrc",
+    "path": ".nvmrc",
+    "sha": "209e3ef4b6247ce746048d5711befda46206d235",
+    "size": 3,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/.nvmrc?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/.nvmrc",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/209e3ef4b6247ce746048d5711befda46206d235",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/.nvmrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/.nvmrc?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/209e3ef4b6247ce746048d5711befda46206d235",
+      "html": "https://github.com/wallabag/wallabag/blob/master/.nvmrc"
+    }
+  },
+  {
+    "name": ".php-cs-fixer.dist.php",
+    "path": ".php-cs-fixer.dist.php",
+    "sha": "e9e8e70f1811fb1d8263292078730b66bd3996fb",
+    "size": 1493,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/.php-cs-fixer.dist.php?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/.php-cs-fixer.dist.php",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/e9e8e70f1811fb1d8263292078730b66bd3996fb",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/.php-cs-fixer.dist.php",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/.php-cs-fixer.dist.php?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/e9e8e70f1811fb1d8263292078730b66bd3996fb",
+      "html": "https://github.com/wallabag/wallabag/blob/master/.php-cs-fixer.dist.php"
+    }
+  },
+  {
+    "name": "CHANGELOG.md",
+    "path": "CHANGELOG.md",
+    "sha": "295b1b04cbd0152040606a18c5a6a5798ba630bc",
+    "size": 98850,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/CHANGELOG.md?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/CHANGELOG.md",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/295b1b04cbd0152040606a18c5a6a5798ba630bc",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/CHANGELOG.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/CHANGELOG.md?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/295b1b04cbd0152040606a18c5a6a5798ba630bc",
+      "html": "https://github.com/wallabag/wallabag/blob/master/CHANGELOG.md"
+    }
+  },
+  {
+    "name": "CODE_OF_CONDUCT.md",
+    "path": "CODE_OF_CONDUCT.md",
+    "sha": "61bfbe323f0ec85ec90e0f7685268ff6b5fb029a",
+    "size": 3350,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/CODE_OF_CONDUCT.md?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/CODE_OF_CONDUCT.md",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/61bfbe323f0ec85ec90e0f7685268ff6b5fb029a",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/CODE_OF_CONDUCT.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/CODE_OF_CONDUCT.md?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/61bfbe323f0ec85ec90e0f7685268ff6b5fb029a",
+      "html": "https://github.com/wallabag/wallabag/blob/master/CODE_OF_CONDUCT.md"
+    }
+  },
+  {
+    "name": "COPYING.md",
+    "path": "COPYING.md",
+    "sha": "72b9d5d0f393ef861e033288e82a2696bfb2d1db",
+    "size": 1069,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/COPYING.md?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/COPYING.md",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/72b9d5d0f393ef861e033288e82a2696bfb2d1db",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/COPYING.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/COPYING.md?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/72b9d5d0f393ef861e033288e82a2696bfb2d1db",
+      "html": "https://github.com/wallabag/wallabag/blob/master/COPYING.md"
+    }
+  },
+  {
+    "name": "CREDITS.md",
+    "path": "CREDITS.md",
+    "sha": "7c315383ae8dd078f260f40928fa00974794452e",
+    "size": 324,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/CREDITS.md?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/CREDITS.md",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/7c315383ae8dd078f260f40928fa00974794452e",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/CREDITS.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/CREDITS.md?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/7c315383ae8dd078f260f40928fa00974794452e",
+      "html": "https://github.com/wallabag/wallabag/blob/master/CREDITS.md"
+    }
+  },
+  {
+    "name": "GNUmakefile",
+    "path": "GNUmakefile",
+    "sha": "899c0df5626e0f1109e0e45869b43fe10b7fc864",
+    "size": 1985,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/GNUmakefile?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/GNUmakefile",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/899c0df5626e0f1109e0e45869b43fe10b7fc864",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/GNUmakefile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/GNUmakefile?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/899c0df5626e0f1109e0e45869b43fe10b7fc864",
+      "html": "https://github.com/wallabag/wallabag/blob/master/GNUmakefile"
+    }
+  },
+  {
+    "name": "Makefile",
+    "path": "Makefile",
+    "sha": "fefdd017c09dcad7b74352494632653cd1043239",
+    "size": 20,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/Makefile?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/Makefile",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/fefdd017c09dcad7b74352494632653cd1043239",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/Makefile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/Makefile?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/fefdd017c09dcad7b74352494632653cd1043239",
+      "html": "https://github.com/wallabag/wallabag/blob/master/Makefile"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "df20061ac7b255b39851762b0bc3671dc9a8eba5",
+    "size": 3151,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/README.md?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/df20061ac7b255b39851762b0bc3671dc9a8eba5",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/df20061ac7b255b39851762b0bc3671dc9a8eba5",
+      "html": "https://github.com/wallabag/wallabag/blob/master/README.md"
+    }
+  },
+  {
+    "name": "RELEASE_PROCESS.md",
+    "path": "RELEASE_PROCESS.md",
+    "sha": "d060294bb289fb458d4a15c7d22988a93bc7c381",
+    "size": 1479,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/RELEASE_PROCESS.md?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/RELEASE_PROCESS.md",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/d060294bb289fb458d4a15c7d22988a93bc7c381",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/RELEASE_PROCESS.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/RELEASE_PROCESS.md?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/d060294bb289fb458d4a15c7d22988a93bc7c381",
+      "html": "https://github.com/wallabag/wallabag/blob/master/RELEASE_PROCESS.md"
+    }
+  },
+  {
+    "name": "SECURITY.md",
+    "path": "SECURITY.md",
+    "sha": "ad88c11d11d638dd845454aa6d1268ab54f78878",
+    "size": 103,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/SECURITY.md?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/SECURITY.md",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/ad88c11d11d638dd845454aa6d1268ab54f78878",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/SECURITY.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/SECURITY.md?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/ad88c11d11d638dd845454aa6d1268ab54f78878",
+      "html": "https://github.com/wallabag/wallabag/blob/master/SECURITY.md"
+    }
+  },
+  {
+    "name": "app",
+    "path": "app",
+    "sha": "0dce4a6e88a05bbefec3bff63f07ee94a00300e2",
+    "size": 0,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/app?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/tree/master/app",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/trees/0dce4a6e88a05bbefec3bff63f07ee94a00300e2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/app?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/trees/0dce4a6e88a05bbefec3bff63f07ee94a00300e2",
+      "html": "https://github.com/wallabag/wallabag/tree/master/app"
+    }
+  },
+  {
+    "name": "assets",
+    "path": "assets",
+    "sha": "ccbba3c9e73f2e607f5b8a9e71e5ea00904d8e23",
+    "size": 0,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/assets?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/tree/master/assets",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/trees/ccbba3c9e73f2e607f5b8a9e71e5ea00904d8e23",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/assets?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/trees/ccbba3c9e73f2e607f5b8a9e71e5ea00904d8e23",
+      "html": "https://github.com/wallabag/wallabag/tree/master/assets"
+    }
+  },
+  {
+    "name": "bin",
+    "path": "bin",
+    "sha": "281c818c5c9c391a68ea089be66dcdae68a707c2",
+    "size": 0,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/bin?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/tree/master/bin",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/trees/281c818c5c9c391a68ea089be66dcdae68a707c2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/bin?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/trees/281c818c5c9c391a68ea089be66dcdae68a707c2",
+      "html": "https://github.com/wallabag/wallabag/tree/master/bin"
+    }
+  },
+  {
+    "name": "compose.yaml",
+    "path": "compose.yaml",
+    "sha": "aa54f3c164b10ed8c37806407a4456ce8d3b6532",
+    "size": 2940,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/compose.yaml?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/compose.yaml",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/aa54f3c164b10ed8c37806407a4456ce8d3b6532",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/compose.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/compose.yaml?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/aa54f3c164b10ed8c37806407a4456ce8d3b6532",
+      "html": "https://github.com/wallabag/wallabag/blob/master/compose.yaml"
+    }
+  },
+  {
+    "name": "composer-dependency-analyser.php",
+    "path": "composer-dependency-analyser.php",
+    "sha": "d29916219a0ff81c819d90e244e76c88be0f836c",
+    "size": 2323,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/composer-dependency-analyser.php?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/composer-dependency-analyser.php",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/d29916219a0ff81c819d90e244e76c88be0f836c",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/composer-dependency-analyser.php",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/composer-dependency-analyser.php?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/d29916219a0ff81c819d90e244e76c88be0f836c",
+      "html": "https://github.com/wallabag/wallabag/blob/master/composer-dependency-analyser.php"
+    }
+  },
+  {
+    "name": "composer.json",
+    "path": "composer.json",
+    "sha": "fbc835fefcb1af630381e256995b2fdf722ef82f",
+    "size": 8941,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/composer.json?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/composer.json",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/fbc835fefcb1af630381e256995b2fdf722ef82f",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/composer.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/composer.json?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/fbc835fefcb1af630381e256995b2fdf722ef82f",
+      "html": "https://github.com/wallabag/wallabag/blob/master/composer.json"
+    }
+  },
+  {
+    "name": "composer.lock",
+    "path": "composer.lock",
+    "sha": "3a649c8658c6af6d0292926167f3a4556aea6906",
+    "size": 739448,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/composer.lock?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/composer.lock",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/3a649c8658c6af6d0292926167f3a4556aea6906",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/composer.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/composer.lock?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/3a649c8658c6af6d0292926167f3a4556aea6906",
+      "html": "https://github.com/wallabag/wallabag/blob/master/composer.lock"
+    }
+  },
+  {
+    "name": "data",
+    "path": "data",
+    "sha": "52750f448b54d596aaf20b4a21a28aec977255d6",
+    "size": 0,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/data?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/tree/master/data",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/trees/52750f448b54d596aaf20b4a21a28aec977255d6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/data?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/trees/52750f448b54d596aaf20b4a21a28aec977255d6",
+      "html": "https://github.com/wallabag/wallabag/tree/master/data"
+    }
+  },
+  {
+    "name": "docker",
+    "path": "docker",
+    "sha": "e9fd9d9ecb938b7620d6628719fc3d8a6702471b",
+    "size": 0,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/docker?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/tree/master/docker",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/trees/e9fd9d9ecb938b7620d6628719fc3d8a6702471b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/docker?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/trees/e9fd9d9ecb938b7620d6628719fc3d8a6702471b",
+      "html": "https://github.com/wallabag/wallabag/tree/master/docker"
+    }
+  },
+  {
+    "name": "fixtures",
+    "path": "fixtures",
+    "sha": "f00b64f8d076c8e7d28c0f2d62f72d2690c31a2b",
+    "size": 0,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/fixtures?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/tree/master/fixtures",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/trees/f00b64f8d076c8e7d28c0f2d62f72d2690c31a2b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/fixtures?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/trees/f00b64f8d076c8e7d28c0f2d62f72d2690c31a2b",
+      "html": "https://github.com/wallabag/wallabag/tree/master/fixtures"
+    }
+  },
+  {
+    "name": "migrations",
+    "path": "migrations",
+    "sha": "764f1bbfa094db2dde64d09dcccbd2912130f4af",
+    "size": 0,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/migrations?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/tree/master/migrations",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/trees/764f1bbfa094db2dde64d09dcccbd2912130f4af",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/migrations?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/trees/764f1bbfa094db2dde64d09dcccbd2912130f4af",
+      "html": "https://github.com/wallabag/wallabag/tree/master/migrations"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "31de6c4551cb749b4c49dffeded8847e029e9560",
+    "size": 3045,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/package.json?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/package.json",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/31de6c4551cb749b4c49dffeded8847e029e9560",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/package.json?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/31de6c4551cb749b4c49dffeded8847e029e9560",
+      "html": "https://github.com/wallabag/wallabag/blob/master/package.json"
+    }
+  },
+  {
+    "name": "phpstan-baseline.neon",
+    "path": "phpstan-baseline.neon",
+    "sha": "595c34207b13ba640e04249b554d6770fe1bd738",
+    "size": 211,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/phpstan-baseline.neon?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/phpstan-baseline.neon",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/595c34207b13ba640e04249b554d6770fe1bd738",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/phpstan-baseline.neon",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/phpstan-baseline.neon?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/595c34207b13ba640e04249b554d6770fe1bd738",
+      "html": "https://github.com/wallabag/wallabag/blob/master/phpstan-baseline.neon"
+    }
+  },
+  {
+    "name": "phpstan.neon",
+    "path": "phpstan.neon",
+    "sha": "f45cd1016fa713d1a2933bcfa37506729bc781bb",
+    "size": 331,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/phpstan.neon?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/phpstan.neon",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/f45cd1016fa713d1a2933bcfa37506729bc781bb",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/phpstan.neon",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/phpstan.neon?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/f45cd1016fa713d1a2933bcfa37506729bc781bb",
+      "html": "https://github.com/wallabag/wallabag/blob/master/phpstan.neon"
+    }
+  },
+  {
+    "name": "phpunit.xml.dist",
+    "path": "phpunit.xml.dist",
+    "sha": "a40fd7feef169251e3f4a1a1284ad8b363b525b9",
+    "size": 1162,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/phpunit.xml.dist?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/phpunit.xml.dist",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/a40fd7feef169251e3f4a1a1284ad8b363b525b9",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/phpunit.xml.dist",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/phpunit.xml.dist?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/a40fd7feef169251e3f4a1a1284ad8b363b525b9",
+      "html": "https://github.com/wallabag/wallabag/blob/master/phpunit.xml.dist"
+    }
+  },
+  {
+    "name": "postcss.config.js",
+    "path": "postcss.config.js",
+    "sha": "a47ef4f95284d3103dd43c01eb27677a3ef833fd",
+    "size": 62,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/postcss.config.js?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/postcss.config.js",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/a47ef4f95284d3103dd43c01eb27677a3ef833fd",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/postcss.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/postcss.config.js?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/a47ef4f95284d3103dd43c01eb27677a3ef833fd",
+      "html": "https://github.com/wallabag/wallabag/blob/master/postcss.config.js"
+    }
+  },
+  {
+    "name": "rector.php",
+    "path": "rector.php",
+    "sha": "1304330e0c1dfacbbb92a63aa3adb458ff411d57",
+    "size": 827,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/rector.php?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/rector.php",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/1304330e0c1dfacbbb92a63aa3adb458ff411d57",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/rector.php",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/rector.php?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/1304330e0c1dfacbbb92a63aa3adb458ff411d57",
+      "html": "https://github.com/wallabag/wallabag/blob/master/rector.php"
+    }
+  },
+  {
+    "name": "scripts",
+    "path": "scripts",
+    "sha": "16d756a6094ea7a2f4b2e8a815b7dd5c600b167c",
+    "size": 0,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/scripts?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/tree/master/scripts",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/trees/16d756a6094ea7a2f4b2e8a815b7dd5c600b167c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/scripts?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/trees/16d756a6094ea7a2f4b2e8a815b7dd5c600b167c",
+      "html": "https://github.com/wallabag/wallabag/tree/master/scripts"
+    }
+  },
+  {
+    "name": "src",
+    "path": "src",
+    "sha": "4105673032bac01c8b9291f8c0b842569ae72092",
+    "size": 0,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/src?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/tree/master/src",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/trees/4105673032bac01c8b9291f8c0b842569ae72092",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/src?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/trees/4105673032bac01c8b9291f8c0b842569ae72092",
+      "html": "https://github.com/wallabag/wallabag/tree/master/src"
+    }
+  },
+  {
+    "name": "stylelint.config.js",
+    "path": "stylelint.config.js",
+    "sha": "fc55805bbf44be426d82a840e6d5525a532a8d6a",
+    "size": 1009,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/stylelint.config.js?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/stylelint.config.js",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/fc55805bbf44be426d82a840e6d5525a532a8d6a",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/stylelint.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/stylelint.config.js?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/fc55805bbf44be426d82a840e6d5525a532a8d6a",
+      "html": "https://github.com/wallabag/wallabag/blob/master/stylelint.config.js"
+    }
+  },
+  {
+    "name": "templates",
+    "path": "templates",
+    "sha": "e5f4cd2fbb5573d7ca49cfe33f14152a9513552f",
+    "size": 0,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/templates?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/tree/master/templates",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/trees/e5f4cd2fbb5573d7ca49cfe33f14152a9513552f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/templates?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/trees/e5f4cd2fbb5573d7ca49cfe33f14152a9513552f",
+      "html": "https://github.com/wallabag/wallabag/tree/master/templates"
+    }
+  },
+  {
+    "name": "tests",
+    "path": "tests",
+    "sha": "73fdcf608919d5101079224cbb4654caa8b7f20c",
+    "size": 0,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/tests?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/tree/master/tests",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/trees/73fdcf608919d5101079224cbb4654caa8b7f20c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/tests?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/trees/73fdcf608919d5101079224cbb4654caa8b7f20c",
+      "html": "https://github.com/wallabag/wallabag/tree/master/tests"
+    }
+  },
+  {
+    "name": "translations",
+    "path": "translations",
+    "sha": "9ec164e44a89fe352c0771e563a0264ecb66a512",
+    "size": 0,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/translations?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/tree/master/translations",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/trees/9ec164e44a89fe352c0771e563a0264ecb66a512",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/translations?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/trees/9ec164e44a89fe352c0771e563a0264ecb66a512",
+      "html": "https://github.com/wallabag/wallabag/tree/master/translations"
+    }
+  },
+  {
+    "name": "var",
+    "path": "var",
+    "sha": "84e54652cc083c96f0711bc662c90812902bdcc2",
+    "size": 0,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/var?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/tree/master/var",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/trees/84e54652cc083c96f0711bc662c90812902bdcc2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/var?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/trees/84e54652cc083c96f0711bc662c90812902bdcc2",
+      "html": "https://github.com/wallabag/wallabag/tree/master/var"
+    }
+  },
+  {
+    "name": "web",
+    "path": "web",
+    "sha": "fe9ed2c98a15711b72cd71f34bfc37cbcab3a9b6",
+    "size": 0,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/web?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/tree/master/web",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/trees/fe9ed2c98a15711b72cd71f34bfc37cbcab3a9b6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/web?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/trees/fe9ed2c98a15711b72cd71f34bfc37cbcab3a9b6",
+      "html": "https://github.com/wallabag/wallabag/tree/master/web"
+    }
+  },
+  {
+    "name": "webpack.config.js",
+    "path": "webpack.config.js",
+    "sha": "b8958354b2c47ffc7c756d7f685a627141e58456",
+    "size": 802,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/webpack.config.js?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/webpack.config.js",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/b8958354b2c47ffc7c756d7f685a627141e58456",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/webpack.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/webpack.config.js?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/b8958354b2c47ffc7c756d7f685a627141e58456",
+      "html": "https://github.com/wallabag/wallabag/blob/master/webpack.config.js"
+    }
+  },
+  {
+    "name": "yarn.lock",
+    "path": "yarn.lock",
+    "sha": "45461e3f5d6ce56bf74b9829b0851bcb27d49706",
+    "size": 304902,
+    "url": "https://api.github.com/repos/wallabag/wallabag/contents/yarn.lock?ref=master",
+    "html_url": "https://github.com/wallabag/wallabag/blob/master/yarn.lock",
+    "git_url": "https://api.github.com/repos/wallabag/wallabag/git/blobs/45461e3f5d6ce56bf74b9829b0851bcb27d49706",
+    "download_url": "https://raw.githubusercontent.com/wallabag/wallabag/master/yarn.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/wallabag/wallabag/contents/yarn.lock?ref=master",
+      "git": "https://api.github.com/repos/wallabag/wallabag/git/blobs/45461e3f5d6ce56bf74b9829b0851bcb27d49706",
+      "html": "https://github.com/wallabag/wallabag/blob/master/yarn.lock"
+    }
+  }
+]

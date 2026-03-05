@@ -1,0 +1,18 @@
+{
+  "name": "Dockerfile",
+  "path": "Dockerfile",
+  "sha": "2a8cdd7c693fa83f3cd454dd65ef5c5e859cdf6e",
+  "size": 1134,
+  "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/Dockerfile?ref=develop",
+  "html_url": "https://github.com/JioTV-Go/jiotv_go/blob/develop/Dockerfile",
+  "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/2a8cdd7c693fa83f3cd454dd65ef5c5e859cdf6e",
+  "download_url": "https://raw.githubusercontent.com/JioTV-Go/jiotv_go/develop/Dockerfile",
+  "type": "file",
+  "content": "RlJPTSBnb2xhbmc6MS4yNS1hbHBpbmUgQVMgYnVpbGRlcgoKIyBTZXQgdGhl\nIHdvcmtpbmcgZGlyZWN0b3J5IGluc2lkZSB0aGUgY29udGFpbmVyCldPUktE\nSVIgL2FwcAoKIyBFbmFibGUgR28gMS4yNSBleHBlcmltZW50cyBmb3IganNv\nbiB2MiBhbmQgdGhlIG5ldyBHQyBkdXJpbmcgYnVpbGQKRU5WIEdPRVhQRVJJ\nTUVOVD1qc29udjIsZ3JlZW50ZWFnYwoKIyBDb3B5IHNvdXJjZSBmaWxlcyBm\ncm9tIHRoZSBob3N0IGNvbXB1dGVyIHRvIHRoZSBjb250YWluZXIKQ09QWSBn\nby5tb2QgLi8KQ09QWSBnby5zdW0gLi8KQ09QWSBjbWQgLi9jbWQKQ09QWSBw\na2cgLi9wa2cKQ09QWSB3ZWIgLi93ZWIKQ09QWSBpbnRlcm5hbCAuL2ludGVy\nbmFsCkNPUFkgbWFpbi5nbyAuL21haW4uZ28KQ09QWSBWRVJTSU9OIC4vVkVS\nU0lPTgoKIyBCdWlsZCB0aGUgR28gYXBwIHdpdGggb3B0aW1pemF0aW9ucwpS\nVU4gZ28gYnVpbGQgLWxkZmxhZ3M9Ii1zIC13IiAtdHJpbXBhdGggLW8gL2Fw\ncC9qaW90dl9nbyAuCgojIFN0YWdlIDI6IENyZWF0ZSB0aGUgZmluYWwgbWlu\naW1hbCBpbWFnZQojIHNraXBjcTogRE9LLURMMzAwNwpGUk9NIGFscGluZTps\nYXRlc3QKCiMgU2V0IHRoZSB3b3JraW5nIGRpcmVjdG9yeSBpbnNpZGUgdGhl\nIGNvbnRhaW5lcgpXT1JLRElSIC9hcHAKCiMgQ29weSB0aGUgYnVpbHQgR28g\nZXhlY3V0YWJsZSBmcm9tIHRoZSBwcmV2aW91cyBzdGFnZQpDT1BZIC0tZnJv\nbT1idWlsZGVyIC9hcHAvamlvdHZfZ28gLgoKIyBTZXQgZW52aXJvbm1lbnQg\ndmFyaWFibGVzCkVOViBKSU9UVl9QQVRIX1BSRUZJWD0iL2FwcC8uamlvdHZf\nZ28iCgojIFZvbHVtZSBmb3IgY3JlZGVudGlhbHMKVk9MVU1FIC9hcHAvLmpp\nb3R2X2dvCgojIEV4cG9zZSBwb3J0IDUwMDEgdG8gdGhlIG91dHNpZGUgd29y\nbGQKRVhQT1NFIDUwMDEKCiMgQ29tbWFuZCB0byBydW4gdGhlIGV4ZWN1dGFi\nbGUgd2l0aCBhcmd1bWVudHMKIyBUaGUgQ01EIGluc3RydWN0aW9uIGhhcyBi\nZWVuIHJlcGxhY2VkIHdpdGggRU5UUllQT0lOVCB0byBhbGxvdyBhcmd1bWVu\ndHMKRU5UUllQT0lOVCBbIi4vamlvdHZfZ28iXQoKIyBEZWZhdWx0IGFyZ3Vt\nZW50cwpDTUQgWyItLXNraXAtdXBkYXRlLWNoZWNrIiwgInNlcnZlIiwgIi0t\ncHVibGljIl0K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/Dockerfile?ref=develop",
+    "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/2a8cdd7c693fa83f3cd454dd65ef5c5e859cdf6e",
+    "html": "https://github.com/JioTV-Go/jiotv_go/blob/develop/Dockerfile"
+  }
+}

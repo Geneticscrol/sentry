@@ -1,0 +1,18 @@
+{
+  "name": "go.mod",
+  "path": "go.mod",
+  "sha": "0f699d1f4332af93a0be985d4643371acba874d3",
+  "size": 1651,
+  "url": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/go.mod?ref=develop",
+  "html_url": "https://github.com/JioTV-Go/jiotv_go/blob/develop/go.mod",
+  "git_url": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/0f699d1f4332af93a0be985d4643371acba874d3",
+  "download_url": "https://raw.githubusercontent.com/JioTV-Go/jiotv_go/develop/go.mod",
+  "type": "file",
+  "content": "bW9kdWxlIGdpdGh1Yi5jb20vamlvdHYtZ28vamlvdHZfZ28vdjMKCmdvIDEu\nMjUKCnJlcXVpcmUgKAoJZ2l0aHViLmNvbS9CdXJudFN1c2hpL3RvbWwgdjEu\nNi4wCglnaXRodWIuY29tL2lseWFrYXpuYWNoZWV2L2NsZWFuZW52IHYxLjUu\nMAoJZ2l0aHViLmNvbS9tYWRmbG9qby90YXNrcyB2MS4yLjEKCWdpdGh1Yi5j\nb20vc3RyZXRjaHIvdGVzdGlmeSB2MS4xMS4xCglnaXRodWIuY29tL3VyZmF2\nZS9jbGkvdjIgdjIuMjcuNwoJZ29wa2cuaW4veWFtbC52MyB2My4wLjEKKQoK\ncmVxdWlyZSAoCglnaXRodWIuY29tL2NwdWd1eTgzL2dvLW1kMm1hbi92MiB2\nMi4wLjcgLy8gaW5kaXJlY3QKCWdpdGh1Yi5jb20vZGF2ZWNnaC9nby1zcGV3\nIHYxLjEuMSAvLyBpbmRpcmVjdAoJZ2l0aHViLmNvbS9nb2ZpYmVyL3RlbXBs\nYXRlIHYxLjguMyAvLyBpbmRpcmVjdAoJZ2l0aHViLmNvbS9nb2ZpYmVyL3V0\naWxzIHYxLjIuMCAvLyBpbmRpcmVjdAoJZ2l0aHViLmNvbS9qb2hvL2dvZG90\nZW52IHYxLjUuMSAvLyBpbmRpcmVjdAoJZ2l0aHViLmNvbS9taXRjaGVsbGgv\nY29sb3JzdHJpbmcgdjAuMC4wLTIwMTkwMjEzMjEyOTUxLWQwNmU1NmE1MDBk\nYiAvLyBpbmRpcmVjdAoJZ2l0aHViLmNvbS9wbWV6YXJkL2dvLWRpZmZsaWIg\ndjEuMC4wIC8vIGluZGlyZWN0CglnaXRodWIuY29tL3JzL3hpZCB2MS42LjAg\nLy8gaW5kaXJlY3QKCWdpdGh1Yi5jb20vcnVzc3Jvc3MvYmxhY2tmcmlkYXkv\ndjIgdjIuMS4wIC8vIGluZGlyZWN0CglnaXRodWIuY29tL3hyYXNoL3NtZXRy\naWNzIHYwLjAuMC0yMDI0MDUyMTIwMTMzNy02ODZhMWEyOTk0YzEgLy8gaW5k\naXJlY3QKCWdvbGFuZy5vcmcveC9uZXQgdjAuNDYuMCAvLyBpbmRpcmVjdAoJ\nZ29sYW5nLm9yZy94L3Rlcm0gdjAuMzYuMCAvLyBpbmRpcmVjdAoJZ29sYW5n\nLm9yZy94L3RleHQgdjAuMzAuMCAvLyBpbmRpcmVjdAoJb2x5bXBvcy5pby9l\nbmNvZGluZy9lZG4gdjAuMC4wLTIwMjAxMDE5MDczODIzLWQzNTU0Y2EwYjBh\nMyAvLyBpbmRpcmVjdAopCgpyZXF1aXJlICgKCWdpdGh1Yi5jb20vYW5keWJh\nbGhvbG0vYnJvdGxpIHYxLjIuMCAvLyBpbmRpcmVjdAoJZ2l0aHViLmNvbS9n\nb2ZpYmVyL2ZpYmVyL3YyIHYyLjUyLjEwCglnaXRodWIuY29tL2dvZmliZXIv\ndGVtcGxhdGUvaHRtbC92MiB2Mi4xLjMKCWdpdGh1Yi5jb20vZ29vZ2xlL3V1\naWQgdjEuNi4wIC8vIGluZGlyZWN0CglnaXRodWIuY29tL2tsYXVzcG9zdC9j\nb21wcmVzcyB2MS4xOC4xIC8vIGluZGlyZWN0CglnaXRodWIuY29tL21hdHRu\nL2dvLWNvbG9yYWJsZSB2MC4xLjEzIC8vIGluZGlyZWN0CglnaXRodWIuY29t\nL21hdHRuL2dvLWlzYXR0eSB2MC4wLjIwIC8vIGluZGlyZWN0CglnaXRodWIu\nY29tL21hdHRuL2dvLXJ1bmV3aWR0aCB2MC4wLjE2IC8vIGluZGlyZWN0Cgln\naXRodWIuY29tL3Jpdm8vdW5pc2VnIHYwLjQuNyAvLyBpbmRpcmVjdAoJZ2l0\naHViLmNvbS9zY2hvbGx6L3Byb2dyZXNzYmFyL3YzIHYzLjE4LjAKCWdpdGh1\nYi5jb20vdmFseWFsYS9ieXRlYnVmZmVycG9vbCB2MS4wLjAgLy8gaW5kaXJl\nY3QKCWdpdGh1Yi5jb20vdmFseWFsYS9mYXN0aHR0cCB2MS42OC4wCglnb2xh\nbmcub3JnL3gvc3lzIHYwLjM3LjAgLy8gaW5kaXJlY3QKCWdvcGtnLmluL25h\ndGVmaW5jaC9sdW1iZXJqYWNrLnYyIHYyLjIuMQopCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/JioTV-Go/jiotv_go/contents/go.mod?ref=develop",
+    "git": "https://api.github.com/repos/JioTV-Go/jiotv_go/git/blobs/0f699d1f4332af93a0be985d4643371acba874d3",
+    "html": "https://github.com/JioTV-Go/jiotv_go/blob/develop/go.mod"
+  }
+}

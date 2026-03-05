@@ -1,0 +1,130 @@
+[
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "885eb6fb7073893f2a8586f2580500db477889fa",
+    "size": 87,
+    "url": "https://api.github.com/repos/sbraverman/jiralice/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/sbraverman/jiralice/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/sbraverman/jiralice/git/blobs/885eb6fb7073893f2a8586f2580500db477889fa",
+    "download_url": "https://raw.githubusercontent.com/sbraverman/jiralice/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/sbraverman/jiralice/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/sbraverman/jiralice/git/blobs/885eb6fb7073893f2a8586f2580500db477889fa",
+      "html": "https://github.com/sbraverman/jiralice/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": ".travis.yml",
+    "path": ".travis.yml",
+    "sha": "fd15079f2102e6be811ff9526e138adf61ac239f",
+    "size": 105,
+    "url": "https://api.github.com/repos/sbraverman/jiralice/contents/.travis.yml?ref=master",
+    "html_url": "https://github.com/sbraverman/jiralice/blob/master/.travis.yml",
+    "git_url": "https://api.github.com/repos/sbraverman/jiralice/git/blobs/fd15079f2102e6be811ff9526e138adf61ac239f",
+    "download_url": "https://raw.githubusercontent.com/sbraverman/jiralice/master/.travis.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/sbraverman/jiralice/contents/.travis.yml?ref=master",
+      "git": "https://api.github.com/repos/sbraverman/jiralice/git/blobs/fd15079f2102e6be811ff9526e138adf61ac239f",
+      "html": "https://github.com/sbraverman/jiralice/blob/master/.travis.yml"
+    }
+  },
+  {
+    "name": "CHANGES",
+    "path": "CHANGES",
+    "sha": "6749871948c0cefc7e6cd825b60145a4cc998dc4",
+    "size": 29,
+    "url": "https://api.github.com/repos/sbraverman/jiralice/contents/CHANGES?ref=master",
+    "html_url": "https://github.com/sbraverman/jiralice/blob/master/CHANGES",
+    "git_url": "https://api.github.com/repos/sbraverman/jiralice/git/blobs/6749871948c0cefc7e6cd825b60145a4cc998dc4",
+    "download_url": "https://raw.githubusercontent.com/sbraverman/jiralice/master/CHANGES",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/sbraverman/jiralice/contents/CHANGES?ref=master",
+      "git": "https://api.github.com/repos/sbraverman/jiralice/git/blobs/6749871948c0cefc7e6cd825b60145a4cc998dc4",
+      "html": "https://github.com/sbraverman/jiralice/blob/master/CHANGES"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+    "size": 11357,
+    "url": "https://api.github.com/repos/sbraverman/jiralice/contents/LICENSE?ref=master",
+    "html_url": "https://github.com/sbraverman/jiralice/blob/master/LICENSE",
+    "git_url": "https://api.github.com/repos/sbraverman/jiralice/git/blobs/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+    "download_url": "https://raw.githubusercontent.com/sbraverman/jiralice/master/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/sbraverman/jiralice/contents/LICENSE?ref=master",
+      "git": "https://api.github.com/repos/sbraverman/jiralice/git/blobs/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+      "html": "https://github.com/sbraverman/jiralice/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "ee9bc99a79e818685a92feea1c5bbebc08527a91",
+    "size": 5562,
+    "url": "https://api.github.com/repos/sbraverman/jiralice/contents/README.md?ref=master",
+    "html_url": "https://github.com/sbraverman/jiralice/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/sbraverman/jiralice/git/blobs/ee9bc99a79e818685a92feea1c5bbebc08527a91",
+    "download_url": "https://raw.githubusercontent.com/sbraverman/jiralice/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/sbraverman/jiralice/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/sbraverman/jiralice/git/blobs/ee9bc99a79e818685a92feea1c5bbebc08527a91",
+      "html": "https://github.com/sbraverman/jiralice/blob/master/README.md"
+    }
+  },
+  {
+    "name": "jiralice",
+    "path": "jiralice",
+    "sha": "60fd767eea98e3f56d6967b00b68cf6ba1ce18ce",
+    "size": 0,
+    "url": "https://api.github.com/repos/sbraverman/jiralice/contents/jiralice?ref=master",
+    "html_url": "https://github.com/sbraverman/jiralice/tree/master/jiralice",
+    "git_url": "https://api.github.com/repos/sbraverman/jiralice/git/trees/60fd767eea98e3f56d6967b00b68cf6ba1ce18ce",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/sbraverman/jiralice/contents/jiralice?ref=master",
+      "git": "https://api.github.com/repos/sbraverman/jiralice/git/trees/60fd767eea98e3f56d6967b00b68cf6ba1ce18ce",
+      "html": "https://github.com/sbraverman/jiralice/tree/master/jiralice"
+    }
+  },
+  {
+    "name": "requirements.txt",
+    "path": "requirements.txt",
+    "sha": "c45c9b49ed090010d57ee5b4e82f3b0bca79bbeb",
+    "size": 35,
+    "url": "https://api.github.com/repos/sbraverman/jiralice/contents/requirements.txt?ref=master",
+    "html_url": "https://github.com/sbraverman/jiralice/blob/master/requirements.txt",
+    "git_url": "https://api.github.com/repos/sbraverman/jiralice/git/blobs/c45c9b49ed090010d57ee5b4e82f3b0bca79bbeb",
+    "download_url": "https://raw.githubusercontent.com/sbraverman/jiralice/master/requirements.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/sbraverman/jiralice/contents/requirements.txt?ref=master",
+      "git": "https://api.github.com/repos/sbraverman/jiralice/git/blobs/c45c9b49ed090010d57ee5b4e82f3b0bca79bbeb",
+      "html": "https://github.com/sbraverman/jiralice/blob/master/requirements.txt"
+    }
+  },
+  {
+    "name": "tests",
+    "path": "tests",
+    "sha": "5f56a0b9d22d5f4d509cef73de5516fd58737196",
+    "size": 0,
+    "url": "https://api.github.com/repos/sbraverman/jiralice/contents/tests?ref=master",
+    "html_url": "https://github.com/sbraverman/jiralice/tree/master/tests",
+    "git_url": "https://api.github.com/repos/sbraverman/jiralice/git/trees/5f56a0b9d22d5f4d509cef73de5516fd58737196",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/sbraverman/jiralice/contents/tests?ref=master",
+      "git": "https://api.github.com/repos/sbraverman/jiralice/git/trees/5f56a0b9d22d5f4d509cef73de5516fd58737196",
+      "html": "https://github.com/sbraverman/jiralice/tree/master/tests"
+    }
+  }
+]

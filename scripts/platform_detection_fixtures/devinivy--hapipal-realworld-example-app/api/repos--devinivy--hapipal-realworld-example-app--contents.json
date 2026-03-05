@@ -1,0 +1,210 @@
+[
+  {
+    "name": ".eslintrc.json",
+    "path": ".eslintrc.json",
+    "sha": "94dadcd57ab04e828ab729009a3b4b5e0425e7c1",
+    "size": 150,
+    "url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/.eslintrc.json?ref=main",
+    "html_url": "https://github.com/devinivy/hapipal-realworld-example-app/blob/main/.eslintrc.json",
+    "git_url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/blobs/94dadcd57ab04e828ab729009a3b4b5e0425e7c1",
+    "download_url": "https://raw.githubusercontent.com/devinivy/hapipal-realworld-example-app/main/.eslintrc.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/.eslintrc.json?ref=main",
+      "git": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/blobs/94dadcd57ab04e828ab729009a3b4b5e0425e7c1",
+      "html": "https://github.com/devinivy/hapipal-realworld-example-app/blob/main/.eslintrc.json"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "e6f7a34828536a08ff4c2c385b92fb11f0b8ccfd",
+    "size": 0,
+    "url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/.github?ref=main",
+    "html_url": "https://github.com/devinivy/hapipal-realworld-example-app/tree/main/.github",
+    "git_url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/trees/e6f7a34828536a08ff4c2c385b92fb11f0b8ccfd",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/trees/e6f7a34828536a08ff4c2c385b92fb11f0b8ccfd",
+      "html": "https://github.com/devinivy/hapipal-realworld-example-app/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "92008d979a3fe8104aed8785c70478224c2790fc",
+    "size": 36,
+    "url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/devinivy/hapipal-realworld-example-app/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/blobs/92008d979a3fe8104aed8785c70478224c2790fc",
+    "download_url": "https://raw.githubusercontent.com/devinivy/hapipal-realworld-example-app/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/blobs/92008d979a3fe8104aed8785c70478224c2790fc",
+      "html": "https://github.com/devinivy/hapipal-realworld-example-app/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".npmignore",
+    "path": ".npmignore",
+    "sha": "93f392915f03f8c48b4ef44aef9a24c8cc5551cf",
+    "size": 10,
+    "url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/.npmignore?ref=main",
+    "html_url": "https://github.com/devinivy/hapipal-realworld-example-app/blob/main/.npmignore",
+    "git_url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/blobs/93f392915f03f8c48b4ef44aef9a24c8cc5551cf",
+    "download_url": "https://raw.githubusercontent.com/devinivy/hapipal-realworld-example-app/main/.npmignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/.npmignore?ref=main",
+      "git": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/blobs/93f392915f03f8c48b4ef44aef9a24c8cc5551cf",
+      "html": "https://github.com/devinivy/hapipal-realworld-example-app/blob/main/.npmignore"
+    }
+  },
+  {
+    "name": ".travis.yml",
+    "path": ".travis.yml",
+    "sha": "27a58f94f1c97bb9b0bcb16a378a20e96e326a8b",
+    "size": 57,
+    "url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/.travis.yml?ref=main",
+    "html_url": "https://github.com/devinivy/hapipal-realworld-example-app/blob/main/.travis.yml",
+    "git_url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/blobs/27a58f94f1c97bb9b0bcb16a378a20e96e326a8b",
+    "download_url": "https://raw.githubusercontent.com/devinivy/hapipal-realworld-example-app/main/.travis.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/.travis.yml?ref=main",
+      "git": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/blobs/27a58f94f1c97bb9b0bcb16a378a20e96e326a8b",
+      "html": "https://github.com/devinivy/hapipal-realworld-example-app/blob/main/.travis.yml"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "e5b5ed31e7e9403d03ef6e3e9bddfc8c762058ca",
+    "size": 1082,
+    "url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/LICENSE?ref=main",
+    "html_url": "https://github.com/devinivy/hapipal-realworld-example-app/blob/main/LICENSE",
+    "git_url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/blobs/e5b5ed31e7e9403d03ef6e3e9bddfc8c762058ca",
+    "download_url": "https://raw.githubusercontent.com/devinivy/hapipal-realworld-example-app/main/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/LICENSE?ref=main",
+      "git": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/blobs/e5b5ed31e7e9403d03ef6e3e9bddfc8c762058ca",
+      "html": "https://github.com/devinivy/hapipal-realworld-example-app/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "7f4cc051081705fe6b8b127879e2dbbf26e6b005",
+    "size": 15787,
+    "url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/README.md?ref=main",
+    "html_url": "https://github.com/devinivy/hapipal-realworld-example-app/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/blobs/7f4cc051081705fe6b8b127879e2dbbf26e6b005",
+    "download_url": "https://raw.githubusercontent.com/devinivy/hapipal-realworld-example-app/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/blobs/7f4cc051081705fe6b8b127879e2dbbf26e6b005",
+      "html": "https://github.com/devinivy/hapipal-realworld-example-app/blob/main/README.md"
+    }
+  },
+  {
+    "name": "knexfile.js",
+    "path": "knexfile.js",
+    "sha": "ad7d468dd77bb04cb7262d7820775224d36e4e27",
+    "size": 607,
+    "url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/knexfile.js?ref=main",
+    "html_url": "https://github.com/devinivy/hapipal-realworld-example-app/blob/main/knexfile.js",
+    "git_url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/blobs/ad7d468dd77bb04cb7262d7820775224d36e4e27",
+    "download_url": "https://raw.githubusercontent.com/devinivy/hapipal-realworld-example-app/main/knexfile.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/knexfile.js?ref=main",
+      "git": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/blobs/ad7d468dd77bb04cb7262d7820775224d36e4e27",
+      "html": "https://github.com/devinivy/hapipal-realworld-example-app/blob/main/knexfile.js"
+    }
+  },
+  {
+    "name": "lib",
+    "path": "lib",
+    "sha": "37099cac83d30ddd9062a569579fb2e54608e46c",
+    "size": 0,
+    "url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/lib?ref=main",
+    "html_url": "https://github.com/devinivy/hapipal-realworld-example-app/tree/main/lib",
+    "git_url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/trees/37099cac83d30ddd9062a569579fb2e54608e46c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/lib?ref=main",
+      "git": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/trees/37099cac83d30ddd9062a569579fb2e54608e46c",
+      "html": "https://github.com/devinivy/hapipal-realworld-example-app/tree/main/lib"
+    }
+  },
+  {
+    "name": "package-lock.json",
+    "path": "package-lock.json",
+    "sha": "7787fe07a2d4eef926e06e28e9f0662aa5aa5772",
+    "size": 229969,
+    "url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/package-lock.json?ref=main",
+    "html_url": "https://github.com/devinivy/hapipal-realworld-example-app/blob/main/package-lock.json",
+    "git_url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/blobs/7787fe07a2d4eef926e06e28e9f0662aa5aa5772",
+    "download_url": "https://raw.githubusercontent.com/devinivy/hapipal-realworld-example-app/main/package-lock.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/package-lock.json?ref=main",
+      "git": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/blobs/7787fe07a2d4eef926e06e28e9f0662aa5aa5772",
+      "html": "https://github.com/devinivy/hapipal-realworld-example-app/blob/main/package-lock.json"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "3d542b31676db4c7b54944f82b9471afaa8869d5",
+    "size": 1344,
+    "url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/package.json?ref=main",
+    "html_url": "https://github.com/devinivy/hapipal-realworld-example-app/blob/main/package.json",
+    "git_url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/blobs/3d542b31676db4c7b54944f82b9471afaa8869d5",
+    "download_url": "https://raw.githubusercontent.com/devinivy/hapipal-realworld-example-app/main/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/package.json?ref=main",
+      "git": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/blobs/3d542b31676db4c7b54944f82b9471afaa8869d5",
+      "html": "https://github.com/devinivy/hapipal-realworld-example-app/blob/main/package.json"
+    }
+  },
+  {
+    "name": "server",
+    "path": "server",
+    "sha": "75d16eb510554a8220e2903656a325277ac14740",
+    "size": 0,
+    "url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/server?ref=main",
+    "html_url": "https://github.com/devinivy/hapipal-realworld-example-app/tree/main/server",
+    "git_url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/trees/75d16eb510554a8220e2903656a325277ac14740",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/server?ref=main",
+      "git": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/trees/75d16eb510554a8220e2903656a325277ac14740",
+      "html": "https://github.com/devinivy/hapipal-realworld-example-app/tree/main/server"
+    }
+  },
+  {
+    "name": "test",
+    "path": "test",
+    "sha": "3005f4c20d08cbb61de6879a1d77730c73057bef",
+    "size": 0,
+    "url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/test?ref=main",
+    "html_url": "https://github.com/devinivy/hapipal-realworld-example-app/tree/main/test",
+    "git_url": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/trees/3005f4c20d08cbb61de6879a1d77730c73057bef",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/contents/test?ref=main",
+      "git": "https://api.github.com/repos/devinivy/hapipal-realworld-example-app/git/trees/3005f4c20d08cbb61de6879a1d77730c73057bef",
+      "html": "https://github.com/devinivy/hapipal-realworld-example-app/tree/main/test"
+    }
+  }
+]

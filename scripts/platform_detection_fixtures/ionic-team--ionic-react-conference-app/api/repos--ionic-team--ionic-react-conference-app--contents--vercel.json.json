@@ -1,0 +1,18 @@
+{
+  "name": "vercel.json",
+  "path": "vercel.json",
+  "sha": "6a9264870df8a25faf0e9c9c0389853a075f05f0",
+  "size": 70,
+  "url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/vercel.json?ref=main",
+  "html_url": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/vercel.json",
+  "git_url": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/6a9264870df8a25faf0e9c9c0389853a075f05f0",
+  "download_url": "https://raw.githubusercontent.com/ionic-team/ionic-react-conference-app/main/vercel.json",
+  "type": "file",
+  "content": "ewogICJyZXdyaXRlcyI6IFsKICAgIHsgInNvdXJjZSI6ICIvKC4qKSIsICJk\nZXN0aW5hdGlvbiI6ICIvIiB9CiAgXQp9Cg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/contents/vercel.json?ref=main",
+    "git": "https://api.github.com/repos/ionic-team/ionic-react-conference-app/git/blobs/6a9264870df8a25faf0e9c9c0389853a075f05f0",
+    "html": "https://github.com/ionic-team/ionic-react-conference-app/blob/main/vercel.json"
+  }
+}

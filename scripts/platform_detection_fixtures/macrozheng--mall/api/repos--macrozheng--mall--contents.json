@@ -1,0 +1,194 @@
+[
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "a89f7401fc0e5b9b884bd98013f5eee3278729e8",
+    "size": 84,
+    "url": "https://api.github.com/repos/macrozheng/mall/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/macrozheng/mall/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/macrozheng/mall/git/blobs/a89f7401fc0e5b9b884bd98013f5eee3278729e8",
+    "download_url": "https://raw.githubusercontent.com/macrozheng/mall/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/macrozheng/mall/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/macrozheng/mall/git/blobs/a89f7401fc0e5b9b884bd98013f5eee3278729e8",
+      "html": "https://github.com/macrozheng/mall/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "cb151a9bee42c2a0329f00eef6d637e745bd8dbf",
+    "size": 11349,
+    "url": "https://api.github.com/repos/macrozheng/mall/contents/LICENSE?ref=master",
+    "html_url": "https://github.com/macrozheng/mall/blob/master/LICENSE",
+    "git_url": "https://api.github.com/repos/macrozheng/mall/git/blobs/cb151a9bee42c2a0329f00eef6d637e745bd8dbf",
+    "download_url": "https://raw.githubusercontent.com/macrozheng/mall/master/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/macrozheng/mall/contents/LICENSE?ref=master",
+      "git": "https://api.github.com/repos/macrozheng/mall/git/blobs/cb151a9bee42c2a0329f00eef6d637e745bd8dbf",
+      "html": "https://github.com/macrozheng/mall/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "8748ad74b2ca687cc11416d531a087715339845b",
+    "size": 12996,
+    "url": "https://api.github.com/repos/macrozheng/mall/contents/README.md?ref=master",
+    "html_url": "https://github.com/macrozheng/mall/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/macrozheng/mall/git/blobs/8748ad74b2ca687cc11416d531a087715339845b",
+    "download_url": "https://raw.githubusercontent.com/macrozheng/mall/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/macrozheng/mall/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/macrozheng/mall/git/blobs/8748ad74b2ca687cc11416d531a087715339845b",
+      "html": "https://github.com/macrozheng/mall/blob/master/README.md"
+    }
+  },
+  {
+    "name": "document",
+    "path": "document",
+    "sha": "2675feab5613fcc073d00e14510a4c0db2e32825",
+    "size": 0,
+    "url": "https://api.github.com/repos/macrozheng/mall/contents/document?ref=master",
+    "html_url": "https://github.com/macrozheng/mall/tree/master/document",
+    "git_url": "https://api.github.com/repos/macrozheng/mall/git/trees/2675feab5613fcc073d00e14510a4c0db2e32825",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/macrozheng/mall/contents/document?ref=master",
+      "git": "https://api.github.com/repos/macrozheng/mall/git/trees/2675feab5613fcc073d00e14510a4c0db2e32825",
+      "html": "https://github.com/macrozheng/mall/tree/master/document"
+    }
+  },
+  {
+    "name": "mall-admin",
+    "path": "mall-admin",
+    "sha": "afc1b0f192b1a6e8e2f60a6bc86b0a059e468712",
+    "size": 0,
+    "url": "https://api.github.com/repos/macrozheng/mall/contents/mall-admin?ref=master",
+    "html_url": "https://github.com/macrozheng/mall/tree/master/mall-admin",
+    "git_url": "https://api.github.com/repos/macrozheng/mall/git/trees/afc1b0f192b1a6e8e2f60a6bc86b0a059e468712",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/macrozheng/mall/contents/mall-admin?ref=master",
+      "git": "https://api.github.com/repos/macrozheng/mall/git/trees/afc1b0f192b1a6e8e2f60a6bc86b0a059e468712",
+      "html": "https://github.com/macrozheng/mall/tree/master/mall-admin"
+    }
+  },
+  {
+    "name": "mall-common",
+    "path": "mall-common",
+    "sha": "d32b0fadea9e27ca75d3c444170d23cd3bb1ea63",
+    "size": 0,
+    "url": "https://api.github.com/repos/macrozheng/mall/contents/mall-common?ref=master",
+    "html_url": "https://github.com/macrozheng/mall/tree/master/mall-common",
+    "git_url": "https://api.github.com/repos/macrozheng/mall/git/trees/d32b0fadea9e27ca75d3c444170d23cd3bb1ea63",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/macrozheng/mall/contents/mall-common?ref=master",
+      "git": "https://api.github.com/repos/macrozheng/mall/git/trees/d32b0fadea9e27ca75d3c444170d23cd3bb1ea63",
+      "html": "https://github.com/macrozheng/mall/tree/master/mall-common"
+    }
+  },
+  {
+    "name": "mall-demo",
+    "path": "mall-demo",
+    "sha": "39302b4260ed46f3000c26bfca23b710ed263ad6",
+    "size": 0,
+    "url": "https://api.github.com/repos/macrozheng/mall/contents/mall-demo?ref=master",
+    "html_url": "https://github.com/macrozheng/mall/tree/master/mall-demo",
+    "git_url": "https://api.github.com/repos/macrozheng/mall/git/trees/39302b4260ed46f3000c26bfca23b710ed263ad6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/macrozheng/mall/contents/mall-demo?ref=master",
+      "git": "https://api.github.com/repos/macrozheng/mall/git/trees/39302b4260ed46f3000c26bfca23b710ed263ad6",
+      "html": "https://github.com/macrozheng/mall/tree/master/mall-demo"
+    }
+  },
+  {
+    "name": "mall-mbg",
+    "path": "mall-mbg",
+    "sha": "b6ba6c90509bd225bc7cf4523ab138d6d3088357",
+    "size": 0,
+    "url": "https://api.github.com/repos/macrozheng/mall/contents/mall-mbg?ref=master",
+    "html_url": "https://github.com/macrozheng/mall/tree/master/mall-mbg",
+    "git_url": "https://api.github.com/repos/macrozheng/mall/git/trees/b6ba6c90509bd225bc7cf4523ab138d6d3088357",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/macrozheng/mall/contents/mall-mbg?ref=master",
+      "git": "https://api.github.com/repos/macrozheng/mall/git/trees/b6ba6c90509bd225bc7cf4523ab138d6d3088357",
+      "html": "https://github.com/macrozheng/mall/tree/master/mall-mbg"
+    }
+  },
+  {
+    "name": "mall-portal",
+    "path": "mall-portal",
+    "sha": "ad22229f0073704fbfd2754c8c15b60eaef967f2",
+    "size": 0,
+    "url": "https://api.github.com/repos/macrozheng/mall/contents/mall-portal?ref=master",
+    "html_url": "https://github.com/macrozheng/mall/tree/master/mall-portal",
+    "git_url": "https://api.github.com/repos/macrozheng/mall/git/trees/ad22229f0073704fbfd2754c8c15b60eaef967f2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/macrozheng/mall/contents/mall-portal?ref=master",
+      "git": "https://api.github.com/repos/macrozheng/mall/git/trees/ad22229f0073704fbfd2754c8c15b60eaef967f2",
+      "html": "https://github.com/macrozheng/mall/tree/master/mall-portal"
+    }
+  },
+  {
+    "name": "mall-search",
+    "path": "mall-search",
+    "sha": "15057ca7708b6c63a6c0ae681e86ea9d587a360d",
+    "size": 0,
+    "url": "https://api.github.com/repos/macrozheng/mall/contents/mall-search?ref=master",
+    "html_url": "https://github.com/macrozheng/mall/tree/master/mall-search",
+    "git_url": "https://api.github.com/repos/macrozheng/mall/git/trees/15057ca7708b6c63a6c0ae681e86ea9d587a360d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/macrozheng/mall/contents/mall-search?ref=master",
+      "git": "https://api.github.com/repos/macrozheng/mall/git/trees/15057ca7708b6c63a6c0ae681e86ea9d587a360d",
+      "html": "https://github.com/macrozheng/mall/tree/master/mall-search"
+    }
+  },
+  {
+    "name": "mall-security",
+    "path": "mall-security",
+    "sha": "391967322f74c0289f23065a8f5ec7b6b61ae63f",
+    "size": 0,
+    "url": "https://api.github.com/repos/macrozheng/mall/contents/mall-security?ref=master",
+    "html_url": "https://github.com/macrozheng/mall/tree/master/mall-security",
+    "git_url": "https://api.github.com/repos/macrozheng/mall/git/trees/391967322f74c0289f23065a8f5ec7b6b61ae63f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/macrozheng/mall/contents/mall-security?ref=master",
+      "git": "https://api.github.com/repos/macrozheng/mall/git/trees/391967322f74c0289f23065a8f5ec7b6b61ae63f",
+      "html": "https://github.com/macrozheng/mall/tree/master/mall-security"
+    }
+  },
+  {
+    "name": "pom.xml",
+    "path": "pom.xml",
+    "sha": "f375e376dfd9ca56b03088b6833fa83a3511f727",
+    "size": 12233,
+    "url": "https://api.github.com/repos/macrozheng/mall/contents/pom.xml?ref=master",
+    "html_url": "https://github.com/macrozheng/mall/blob/master/pom.xml",
+    "git_url": "https://api.github.com/repos/macrozheng/mall/git/blobs/f375e376dfd9ca56b03088b6833fa83a3511f727",
+    "download_url": "https://raw.githubusercontent.com/macrozheng/mall/master/pom.xml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/macrozheng/mall/contents/pom.xml?ref=master",
+      "git": "https://api.github.com/repos/macrozheng/mall/git/blobs/f375e376dfd9ca56b03088b6833fa83a3511f727",
+      "html": "https://github.com/macrozheng/mall/blob/master/pom.xml"
+    }
+  }
+]

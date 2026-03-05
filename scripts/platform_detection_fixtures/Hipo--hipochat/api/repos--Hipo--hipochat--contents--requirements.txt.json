@@ -1,0 +1,18 @@
+{
+  "name": "requirements.txt",
+  "path": "requirements.txt",
+  "sha": "fdb92766cb51f07f6a12cecb540b567749ebc50b",
+  "size": 32,
+  "url": "https://api.github.com/repos/Hipo/hipochat/contents/requirements.txt?ref=master",
+  "html_url": "https://github.com/Hipo/hipochat/blob/master/requirements.txt",
+  "git_url": "https://api.github.com/repos/Hipo/hipochat/git/blobs/fdb92766cb51f07f6a12cecb540b567749ebc50b",
+  "download_url": "https://raw.githubusercontent.com/Hipo/hipochat/master/requirements.txt",
+  "type": "file",
+  "content": "cGlrYT09MC45LjEzCnRvcm5hZG89PTMuMgpyZWRpcwo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/Hipo/hipochat/contents/requirements.txt?ref=master",
+    "git": "https://api.github.com/repos/Hipo/hipochat/git/blobs/fdb92766cb51f07f6a12cecb540b567749ebc50b",
+    "html": "https://github.com/Hipo/hipochat/blob/master/requirements.txt"
+  }
+}

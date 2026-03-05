@@ -1,0 +1,226 @@
+[
+  {
+    "name": ".dockerignore",
+    "path": ".dockerignore",
+    "sha": "191381ee74dec49c89f99a62d055cb1058ba0de9",
+    "size": 4,
+    "url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/.dockerignore?ref=master",
+    "html_url": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/.dockerignore",
+    "git_url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/191381ee74dec49c89f99a62d055cb1058ba0de9",
+    "download_url": "https://raw.githubusercontent.com/codefresh-contrib/python-flask-sample-app/master/.dockerignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/.dockerignore?ref=master",
+      "git": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/191381ee74dec49c89f99a62d055cb1058ba0de9",
+      "html": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/.dockerignore"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "656305c05b85b1092f22d0dee1b2b29ea6cdf56e",
+    "size": 39,
+    "url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/656305c05b85b1092f22d0dee1b2b29ea6cdf56e",
+    "download_url": "https://raw.githubusercontent.com/codefresh-contrib/python-flask-sample-app/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/656305c05b85b1092f22d0dee1b2b29ea6cdf56e",
+      "html": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": "Dockerfile",
+    "path": "Dockerfile",
+    "sha": "859f5fa7aaa4ba5d75cc686f72bcd24260cc5220",
+    "size": 260,
+    "url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/Dockerfile?ref=master",
+    "html_url": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/Dockerfile",
+    "git_url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/859f5fa7aaa4ba5d75cc686f72bcd24260cc5220",
+    "download_url": "https://raw.githubusercontent.com/codefresh-contrib/python-flask-sample-app/master/Dockerfile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/Dockerfile?ref=master",
+      "git": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/859f5fa7aaa4ba5d75cc686f72bcd24260cc5220",
+      "html": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/Dockerfile"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "8f9252f4527debb8ec5ae57df4ffd134cfd3c643",
+    "size": 1575,
+    "url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/LICENSE?ref=master",
+    "html_url": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/LICENSE",
+    "git_url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/8f9252f4527debb8ec5ae57df4ffd134cfd3c643",
+    "download_url": "https://raw.githubusercontent.com/codefresh-contrib/python-flask-sample-app/master/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/LICENSE?ref=master",
+      "git": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/8f9252f4527debb8ec5ae57df4ffd134cfd3c643",
+      "html": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "MANIFEST.in",
+    "path": "MANIFEST.in",
+    "sha": "a73511ed2a5045257bc185eb6e3ed18901796ed9",
+    "size": 118,
+    "url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/MANIFEST.in?ref=master",
+    "html_url": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/MANIFEST.in",
+    "git_url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/a73511ed2a5045257bc185eb6e3ed18901796ed9",
+    "download_url": "https://raw.githubusercontent.com/codefresh-contrib/python-flask-sample-app/master/MANIFEST.in",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/MANIFEST.in?ref=master",
+      "git": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/a73511ed2a5045257bc185eb6e3ed18901796ed9",
+      "html": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/MANIFEST.in"
+    }
+  },
+  {
+    "name": "README.MD",
+    "path": "README.MD",
+    "sha": "bf1e884110c7bb7a8d9914b5c33715a553153620",
+    "size": 848,
+    "url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/README.MD?ref=master",
+    "html_url": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/README.MD",
+    "git_url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/bf1e884110c7bb7a8d9914b5c33715a553153620",
+    "download_url": "https://raw.githubusercontent.com/codefresh-contrib/python-flask-sample-app/master/README.MD",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/README.MD?ref=master",
+      "git": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/bf1e884110c7bb7a8d9914b5c33715a553153620",
+      "html": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/README.MD"
+    }
+  },
+  {
+    "name": "README.rst",
+    "path": "README.rst",
+    "sha": "7c7255f9590af779ab806e98d74ec49fa21792d7",
+    "size": 1403,
+    "url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/README.rst?ref=master",
+    "html_url": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/README.rst",
+    "git_url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/7c7255f9590af779ab806e98d74ec49fa21792d7",
+    "download_url": "https://raw.githubusercontent.com/codefresh-contrib/python-flask-sample-app/master/README.rst",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/README.rst?ref=master",
+      "git": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/7c7255f9590af779ab806e98d74ec49fa21792d7",
+      "html": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/README.rst"
+    }
+  },
+  {
+    "name": "codefresh.yml",
+    "path": "codefresh.yml",
+    "sha": "f50180427e8431566245f7048294387b600cee27",
+    "size": 603,
+    "url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/codefresh.yml?ref=master",
+    "html_url": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/codefresh.yml",
+    "git_url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/f50180427e8431566245f7048294387b600cee27",
+    "download_url": "https://raw.githubusercontent.com/codefresh-contrib/python-flask-sample-app/master/codefresh.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/codefresh.yml?ref=master",
+      "git": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/f50180427e8431566245f7048294387b600cee27",
+      "html": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/codefresh.yml"
+    }
+  },
+  {
+    "name": "docker-flask-codefresh.jpg",
+    "path": "docker-flask-codefresh.jpg",
+    "sha": "f498d485622720b2caf65be21a32f2b5b23e9e76",
+    "size": 48529,
+    "url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/docker-flask-codefresh.jpg?ref=master",
+    "html_url": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/docker-flask-codefresh.jpg",
+    "git_url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/f498d485622720b2caf65be21a32f2b5b23e9e76",
+    "download_url": "https://raw.githubusercontent.com/codefresh-contrib/python-flask-sample-app/master/docker-flask-codefresh.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/docker-flask-codefresh.jpg?ref=master",
+      "git": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/f498d485622720b2caf65be21a32f2b5b23e9e76",
+      "html": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/docker-flask-codefresh.jpg"
+    }
+  },
+  {
+    "name": "flaskr",
+    "path": "flaskr",
+    "sha": "8ca1fd2d0ffd02f87d1d99c14efe3ae450e598d9",
+    "size": 0,
+    "url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/flaskr?ref=master",
+    "html_url": "https://github.com/codefresh-contrib/python-flask-sample-app/tree/master/flaskr",
+    "git_url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/trees/8ca1fd2d0ffd02f87d1d99c14efe3ae450e598d9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/flaskr?ref=master",
+      "git": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/trees/8ca1fd2d0ffd02f87d1d99c14efe3ae450e598d9",
+      "html": "https://github.com/codefresh-contrib/python-flask-sample-app/tree/master/flaskr"
+    }
+  },
+  {
+    "name": "requirements.txt",
+    "path": "requirements.txt",
+    "sha": "68540b7ec19e379a2373c7abfb68dd8c8066e6ef",
+    "size": 241,
+    "url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/requirements.txt?ref=master",
+    "html_url": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/requirements.txt",
+    "git_url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/68540b7ec19e379a2373c7abfb68dd8c8066e6ef",
+    "download_url": "https://raw.githubusercontent.com/codefresh-contrib/python-flask-sample-app/master/requirements.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/requirements.txt?ref=master",
+      "git": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/68540b7ec19e379a2373c7abfb68dd8c8066e6ef",
+      "html": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/requirements.txt"
+    }
+  },
+  {
+    "name": "setup.cfg",
+    "path": "setup.cfg",
+    "sha": "3e47794efad94150bf7bcdfd0e81d266acda6fb2",
+    "size": 149,
+    "url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/setup.cfg?ref=master",
+    "html_url": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/setup.cfg",
+    "git_url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/3e47794efad94150bf7bcdfd0e81d266acda6fb2",
+    "download_url": "https://raw.githubusercontent.com/codefresh-contrib/python-flask-sample-app/master/setup.cfg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/setup.cfg?ref=master",
+      "git": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/3e47794efad94150bf7bcdfd0e81d266acda6fb2",
+      "html": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/setup.cfg"
+    }
+  },
+  {
+    "name": "setup.py",
+    "path": "setup.py",
+    "sha": "3c8f4116fa005a065d65024396e1cfd688ecd68c",
+    "size": 625,
+    "url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/setup.py?ref=master",
+    "html_url": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/setup.py",
+    "git_url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/3c8f4116fa005a065d65024396e1cfd688ecd68c",
+    "download_url": "https://raw.githubusercontent.com/codefresh-contrib/python-flask-sample-app/master/setup.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/setup.py?ref=master",
+      "git": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/blobs/3c8f4116fa005a065d65024396e1cfd688ecd68c",
+      "html": "https://github.com/codefresh-contrib/python-flask-sample-app/blob/master/setup.py"
+    }
+  },
+  {
+    "name": "tests",
+    "path": "tests",
+    "sha": "d07d948d184da2508824c945e2d6f9902917ea2f",
+    "size": 0,
+    "url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/tests?ref=master",
+    "html_url": "https://github.com/codefresh-contrib/python-flask-sample-app/tree/master/tests",
+    "git_url": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/trees/d07d948d184da2508824c945e2d6f9902917ea2f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/contents/tests?ref=master",
+      "git": "https://api.github.com/repos/codefresh-contrib/python-flask-sample-app/git/trees/d07d948d184da2508824c945e2d6f9902917ea2f",
+      "html": "https://github.com/codefresh-contrib/python-flask-sample-app/tree/master/tests"
+    }
+  }
+]

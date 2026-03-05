@@ -1,0 +1,1346 @@
+[
+  {
+    "name": ".claude",
+    "path": ".claude",
+    "sha": "bafe049dd3c92b8fb0da2f2e06cb29ca350aa551",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/.claude?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/.claude",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/bafe049dd3c92b8fb0da2f2e06cb29ca350aa551",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/.claude?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/bafe049dd3c92b8fb0da2f2e06cb29ca350aa551",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/.claude"
+    }
+  },
+  {
+    "name": ".dockerignore",
+    "path": ".dockerignore",
+    "sha": "2cbce8b53154329a915333faabab4147874e4668",
+    "size": 44,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/.dockerignore?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/.dockerignore",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/2cbce8b53154329a915333faabab4147874e4668",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/.dockerignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/.dockerignore?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/2cbce8b53154329a915333faabab4147874e4668",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/.dockerignore"
+    }
+  },
+  {
+    "name": ".gitattributes",
+    "path": ".gitattributes",
+    "sha": "d226ef697a246ee25027e3c8a364226a10ab5f71",
+    "size": 187,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/.gitattributes?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/.gitattributes",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/d226ef697a246ee25027e3c8a364226a10ab5f71",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/.gitattributes",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/.gitattributes?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/d226ef697a246ee25027e3c8a364226a10ab5f71",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/.gitattributes"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "0b59dbe08bb2c2185938ddf6effb88d9ded82bfe",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/.github?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/.github",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/0b59dbe08bb2c2185938ddf6effb88d9ded82bfe",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/0b59dbe08bb2c2185938ddf6effb88d9ded82bfe",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "1238dae0bf12aacaa3acb8ccfb23f5f1e3cc8320",
+    "size": 663,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/1238dae0bf12aacaa3acb8ccfb23f5f1e3cc8320",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/1238dae0bf12aacaa3acb8ccfb23f5f1e3cc8320",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".opencode",
+    "path": ".opencode",
+    "sha": "9f718d659cc876bc29e58ae62dc132246ff5cd24",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/.opencode?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/.opencode",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/9f718d659cc876bc29e58ae62dc132246ff5cd24",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/.opencode?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/9f718d659cc876bc29e58ae62dc132246ff5cd24",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/.opencode"
+    }
+  },
+  {
+    "name": "AGENTS.md",
+    "path": "AGENTS.md",
+    "sha": "722d4f8b347fc74f99b767aee240f1af287b4d9c",
+    "size": 3516,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/AGENTS.md?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/AGENTS.md",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/722d4f8b347fc74f99b767aee240f1af287b4d9c",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/AGENTS.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/AGENTS.md?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/722d4f8b347fc74f99b767aee240f1af287b4d9c",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/AGENTS.md"
+    }
+  },
+  {
+    "name": "CHANGELOG.md",
+    "path": "CHANGELOG.md",
+    "sha": "7a66eb3c4f46d008721c86701493ad46b1b3e82f",
+    "size": 2572,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/CHANGELOG.md?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/CHANGELOG.md",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/7a66eb3c4f46d008721c86701493ad46b1b3e82f",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/CHANGELOG.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/CHANGELOG.md?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/7a66eb3c4f46d008721c86701493ad46b1b3e82f",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/CHANGELOG.md"
+    }
+  },
+  {
+    "name": "CODE_OF_CONDUCT.md",
+    "path": "CODE_OF_CONDUCT.md",
+    "sha": "33d0b4d0a0aa62d022acb9f6d8a304db0b2138a2",
+    "size": 4045,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/CODE_OF_CONDUCT.md?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/CODE_OF_CONDUCT.md",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/33d0b4d0a0aa62d022acb9f6d8a304db0b2138a2",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/CODE_OF_CONDUCT.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/CODE_OF_CONDUCT.md?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/33d0b4d0a0aa62d022acb9f6d8a304db0b2138a2",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/CODE_OF_CONDUCT.md"
+    }
+  },
+  {
+    "name": "CONTRIBUTING.md",
+    "path": "CONTRIBUTING.md",
+    "sha": "be2580d1d0f58b2c8b493321cac0e2bcc025ddac",
+    "size": 4355,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/CONTRIBUTING.md?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/CONTRIBUTING.md",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/be2580d1d0f58b2c8b493321cac0e2bcc025ddac",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/CONTRIBUTING.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/CONTRIBUTING.md?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/be2580d1d0f58b2c8b493321cac0e2bcc025ddac",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/CONTRIBUTING.md"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "78ae7ea62615a49aab4c8b1a596b2c32d2c446c4",
+    "size": 11309,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/LICENSE?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/LICENSE",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/78ae7ea62615a49aab4c8b1a596b2c32d2c446c4",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/LICENSE?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/78ae7ea62615a49aab4c8b1a596b2c32d2c446c4",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "OPENSEARCH_TESTING_PLAN.md",
+    "path": "OPENSEARCH_TESTING_PLAN.md",
+    "sha": "8451405b5a5a95437545b3c56451c4792dc41df4",
+    "size": 19034,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/OPENSEARCH_TESTING_PLAN.md?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/OPENSEARCH_TESTING_PLAN.md",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/8451405b5a5a95437545b3c56451c4792dc41df4",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/OPENSEARCH_TESTING_PLAN.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/OPENSEARCH_TESTING_PLAN.md?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/8451405b5a5a95437545b3c56451c4792dc41df4",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/OPENSEARCH_TESTING_PLAN.md"
+    }
+  },
+  {
+    "name": "OSSMETADATA",
+    "path": "OSSMETADATA",
+    "sha": "b96d4a4dfa038b3a0b30b19b92aed2953829172c",
+    "size": 20,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/OSSMETADATA?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/OSSMETADATA",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/b96d4a4dfa038b3a0b30b19b92aed2953829172c",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/OSSMETADATA",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/OSSMETADATA?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/b96d4a4dfa038b3a0b30b19b92aed2953829172c",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/OSSMETADATA"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "1544c7bc3813edd8b3ed3b1b4195242689eaaabd",
+    "size": 12788,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/README.md?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/1544c7bc3813edd8b3ed3b1b4195242689eaaabd",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/1544c7bc3813edd8b3ed3b1b4195242689eaaabd",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/README.md"
+    }
+  },
+  {
+    "name": "RELATED.md",
+    "path": "RELATED.md",
+    "sha": "abd0cf10560f3dc0a117cbcf303066c2c6beb36f",
+    "size": 46,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/RELATED.md?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/RELATED.md",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/abd0cf10560f3dc0a117cbcf303066c2c6beb36f",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/RELATED.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/RELATED.md?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/abd0cf10560f3dc0a117cbcf303066c2c6beb36f",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/RELATED.md"
+    }
+  },
+  {
+    "name": "ROADMAP.md",
+    "path": "ROADMAP.md",
+    "sha": "35d01abe2e9dfee8c00e9c3336cde2d1be7e7758",
+    "size": 2560,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/ROADMAP.md?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/ROADMAP.md",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/35d01abe2e9dfee8c00e9c3336cde2d1be7e7758",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/ROADMAP.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/ROADMAP.md?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/35d01abe2e9dfee8c00e9c3336cde2d1be7e7758",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/ROADMAP.md"
+    }
+  },
+  {
+    "name": "SECURITY.md",
+    "path": "SECURITY.md",
+    "sha": "17ed38f0df278661c67dcbab62d73e3e885c8512",
+    "size": 467,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/SECURITY.md?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/SECURITY.md",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/17ed38f0df278661c67dcbab62d73e3e885c8512",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/SECURITY.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/SECURITY.md?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/17ed38f0df278661c67dcbab62d73e3e885c8512",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/SECURITY.md"
+    }
+  },
+  {
+    "name": "USERS.md",
+    "path": "USERS.md",
+    "sha": "3fe8ab685bada7c6a01ecefc0437775369028aeb",
+    "size": 1464,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/USERS.md?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/USERS.md",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/3fe8ab685bada7c6a01ecefc0437775369028aeb",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/USERS.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/USERS.md?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/3fe8ab685bada7c6a01ecefc0437775369028aeb",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/USERS.md"
+    }
+  },
+  {
+    "name": "ai",
+    "path": "ai",
+    "sha": "7df1dabe89edfd0f7807dab25624b301006cbed5",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/ai?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/ai",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/7df1dabe89edfd0f7807dab25624b301006cbed5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/ai?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/7df1dabe89edfd0f7807dab25624b301006cbed5",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/ai"
+    }
+  },
+  {
+    "name": "amqp",
+    "path": "amqp",
+    "sha": "636be9c276be37ad2c25d4963b14e4efe6632e08",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/amqp?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/amqp",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/636be9c276be37ad2c25d4963b14e4efe6632e08",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/amqp?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/636be9c276be37ad2c25d4963b14e4efe6632e08",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/amqp"
+    }
+  },
+  {
+    "name": "annotations-processor",
+    "path": "annotations-processor",
+    "sha": "e4fb0eaf6fcf23838ca2c7b0cae3301315e13cc3",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/annotations-processor?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/annotations-processor",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/e4fb0eaf6fcf23838ca2c7b0cae3301315e13cc3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/annotations-processor?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/e4fb0eaf6fcf23838ca2c7b0cae3301315e13cc3",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/annotations-processor"
+    }
+  },
+  {
+    "name": "annotations",
+    "path": "annotations",
+    "sha": "b2d118685139cca8defd229803b775434812b75e",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/annotations?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/annotations",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/b2d118685139cca8defd229803b775434812b75e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/annotations?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/b2d118685139cca8defd229803b775434812b75e",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/annotations"
+    }
+  },
+  {
+    "name": "awss3-storage",
+    "path": "awss3-storage",
+    "sha": "16178496f63b00190df070c6661be8b8eed25d64",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/awss3-storage?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/awss3-storage",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/16178496f63b00190df070c6661be8b8eed25d64",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/awss3-storage?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/16178496f63b00190df070c6661be8b8eed25d64",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/awss3-storage"
+    }
+  },
+  {
+    "name": "awssqs-event-queue",
+    "path": "awssqs-event-queue",
+    "sha": "4c85839b9524e4b6692034d511622bc18c82b726",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/awssqs-event-queue?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/awssqs-event-queue",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/4c85839b9524e4b6692034d511622bc18c82b726",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/awssqs-event-queue?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/4c85839b9524e4b6692034d511622bc18c82b726",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/awssqs-event-queue"
+    }
+  },
+  {
+    "name": "azureblob-storage",
+    "path": "azureblob-storage",
+    "sha": "2b28f69da599bd7c0936260c669b6cc3dab3e1c0",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/azureblob-storage?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/azureblob-storage",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/2b28f69da599bd7c0936260c669b6cc3dab3e1c0",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/azureblob-storage?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/2b28f69da599bd7c0936260c669b6cc3dab3e1c0",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/azureblob-storage"
+    }
+  },
+  {
+    "name": "build.gradle",
+    "path": "build.gradle",
+    "sha": "4827ad31602246378ebac272c7d8e9ff546d1a41",
+    "size": 5471,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/build.gradle?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/build.gradle",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/4827ad31602246378ebac272c7d8e9ff546d1a41",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/build.gradle",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/build.gradle?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/4827ad31602246378ebac272c7d8e9ff546d1a41",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/build.gradle"
+    }
+  },
+  {
+    "name": "build_ui.sh",
+    "path": "build_ui.sh",
+    "sha": "2af2dd19ab80272cbf967439e44af63647b7ccc4",
+    "size": 383,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/build_ui.sh?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/build_ui.sh",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/2af2dd19ab80272cbf967439e44af63647b7ccc4",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/build_ui.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/build_ui.sh?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/2af2dd19ab80272cbf967439e44af63647b7ccc4",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/build_ui.sh"
+    }
+  },
+  {
+    "name": "cassandra-persistence",
+    "path": "cassandra-persistence",
+    "sha": "3660e02fed00de6ceeed1e4d813f58f83d3a0926",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/cassandra-persistence?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/cassandra-persistence",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/3660e02fed00de6ceeed1e4d813f58f83d3a0926",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/cassandra-persistence?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/3660e02fed00de6ceeed1e4d813f58f83d3a0926",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/cassandra-persistence"
+    }
+  },
+  {
+    "name": "common-persistence",
+    "path": "common-persistence",
+    "sha": "008d4d3333bcc6a5f7f1961bbbfae4c641498803",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/common-persistence?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/common-persistence",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/008d4d3333bcc6a5f7f1961bbbfae4c641498803",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/common-persistence?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/008d4d3333bcc6a5f7f1961bbbfae4c641498803",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/common-persistence"
+    }
+  },
+  {
+    "name": "common",
+    "path": "common",
+    "sha": "e7c8a13a9b013bcc2959036bfa3ed0ff0a1fb0ae",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/common?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/common",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/e7c8a13a9b013bcc2959036bfa3ed0ff0a1fb0ae",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/common?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/e7c8a13a9b013bcc2959036bfa3ed0ff0a1fb0ae",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/common"
+    }
+  },
+  {
+    "name": "conductor-clients",
+    "path": "conductor-clients",
+    "sha": "9309404c707334a137e872dc45cd7a3f0276c3b3",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/conductor-clients?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/conductor-clients",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/9309404c707334a137e872dc45cd7a3f0276c3b3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/conductor-clients?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/9309404c707334a137e872dc45cd7a3f0276c3b3",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/conductor-clients"
+    }
+  },
+  {
+    "name": "conductor_server.bat",
+    "path": "conductor_server.bat",
+    "sha": "4d3105c943fa980ce6aca8229c0b12b0391d05d7",
+    "size": 2642,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/conductor_server.bat?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/conductor_server.bat",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/4d3105c943fa980ce6aca8229c0b12b0391d05d7",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/conductor_server.bat",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/conductor_server.bat?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/4d3105c943fa980ce6aca8229c0b12b0391d05d7",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/conductor_server.bat"
+    }
+  },
+  {
+    "name": "conductor_server.ps1",
+    "path": "conductor_server.ps1",
+    "sha": "cd245e98b746966916495b3e7dd1602e904a594e",
+    "size": 3285,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/conductor_server.ps1?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/conductor_server.ps1",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/cd245e98b746966916495b3e7dd1602e904a594e",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/conductor_server.ps1",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/conductor_server.ps1?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/cd245e98b746966916495b3e7dd1602e904a594e",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/conductor_server.ps1"
+    }
+  },
+  {
+    "name": "conductor_server.sh",
+    "path": "conductor_server.sh",
+    "sha": "06e63f84a8dbd11a1d20b6e6a484cf1e3d7e3d4c",
+    "size": 2481,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/conductor_server.sh?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/conductor_server.sh",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/06e63f84a8dbd11a1d20b6e6a484cf1e3d7e3d4c",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/conductor_server.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/conductor_server.sh?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/06e63f84a8dbd11a1d20b6e6a484cf1e3d7e3d4c",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/conductor_server.sh"
+    }
+  },
+  {
+    "name": "core",
+    "path": "core",
+    "sha": "7a05499d3f600748164a472eaf9725f797afb21d",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/core?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/core",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/7a05499d3f600748164a472eaf9725f797afb21d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/core?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/7a05499d3f600748164a472eaf9725f797afb21d",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/core"
+    }
+  },
+  {
+    "name": "dependencies.gradle",
+    "path": "dependencies.gradle",
+    "sha": "a55706865c7ae6c03754edd16e9b60d5cdd98b15",
+    "size": 2398,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/dependencies.gradle?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/dependencies.gradle",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/a55706865c7ae6c03754edd16e9b60d5cdd98b15",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/dependencies.gradle",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/dependencies.gradle?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/a55706865c7ae6c03754edd16e9b60d5cdd98b15",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/dependencies.gradle"
+    }
+  },
+  {
+    "name": "deploy.gradle",
+    "path": "deploy.gradle",
+    "sha": "5abd6967f122ebc46287b167fc559e2c9d4fc0d7",
+    "size": 5215,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/deploy.gradle?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/deploy.gradle",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/5abd6967f122ebc46287b167fc559e2c9d4fc0d7",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/deploy.gradle",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/deploy.gradle?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/5abd6967f122ebc46287b167fc559e2c9d4fc0d7",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/deploy.gradle"
+    }
+  },
+  {
+    "name": "docker",
+    "path": "docker",
+    "sha": "57be961829bec12c1b5da84acf23fd5d23bbb6b5",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/docker?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/docker",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/57be961829bec12c1b5da84acf23fd5d23bbb6b5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/docker?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/57be961829bec12c1b5da84acf23fd5d23bbb6b5",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/docker"
+    }
+  },
+  {
+    "name": "docs",
+    "path": "docs",
+    "sha": "5b88b601814da17a7190478ba449610be721f303",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/docs?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/docs",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/5b88b601814da17a7190478ba449610be721f303",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/docs?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/5b88b601814da17a7190478ba449610be721f303",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/docs"
+    }
+  },
+  {
+    "name": "es6-persistence",
+    "path": "es6-persistence",
+    "sha": "06fb6f4fc2b188f409b6e8bf8df414f83f9ae5d6",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/es6-persistence?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/es6-persistence",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/06fb6f4fc2b188f409b6e8bf8df414f83f9ae5d6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/es6-persistence?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/06fb6f4fc2b188f409b6e8bf8df414f83f9ae5d6",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/es6-persistence"
+    }
+  },
+  {
+    "name": "es7-persistence",
+    "path": "es7-persistence",
+    "sha": "46d55ad2bb4d6e71ff2c2505dc07d392737766f3",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/es7-persistence?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/es7-persistence",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/46d55ad2bb4d6e71ff2c2505dc07d392737766f3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/es7-persistence?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/46d55ad2bb4d6e71ff2c2505dc07d392737766f3",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/es7-persistence"
+    }
+  },
+  {
+    "name": "family.properties",
+    "path": "family.properties",
+    "sha": "41ff976d5ff3e3575e1120782d9da75fba031b5b",
+    "size": 13,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/family.properties?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/family.properties",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/41ff976d5ff3e3575e1120782d9da75fba031b5b",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/family.properties",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/family.properties?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/41ff976d5ff3e3575e1120782d9da75fba031b5b",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/family.properties"
+    }
+  },
+  {
+    "name": "gradle.properties",
+    "path": "gradle.properties",
+    "sha": "c6fc37252f34c300d4aab5010cfda66827be88e6",
+    "size": 72,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/gradle.properties?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/gradle.properties",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/c6fc37252f34c300d4aab5010cfda66827be88e6",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/gradle.properties",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/gradle.properties?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/c6fc37252f34c300d4aab5010cfda66827be88e6",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/gradle.properties"
+    }
+  },
+  {
+    "name": "gradle",
+    "path": "gradle",
+    "sha": "26a48c800b105a7709ceb9f9de753999acea8be2",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/gradle?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/gradle",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/26a48c800b105a7709ceb9f9de753999acea8be2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/gradle?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/26a48c800b105a7709ceb9f9de753999acea8be2",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/gradle"
+    }
+  },
+  {
+    "name": "gradlew",
+    "path": "gradlew",
+    "sha": "0adc8e1a53214b5f72ec3dfc95f7eacd239b7f27",
+    "size": 8639,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/gradlew?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/gradlew",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/0adc8e1a53214b5f72ec3dfc95f7eacd239b7f27",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/gradlew",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/gradlew?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/0adc8e1a53214b5f72ec3dfc95f7eacd239b7f27",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/gradlew"
+    }
+  },
+  {
+    "name": "gradlew.bat",
+    "path": "gradlew.bat",
+    "sha": "6689b85beecde676054c39c2408085f41e6be6dc",
+    "size": 2868,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/gradlew.bat?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/gradlew.bat",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/6689b85beecde676054c39c2408085f41e6be6dc",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/gradlew.bat",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/gradlew.bat?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/6689b85beecde676054c39c2408085f41e6be6dc",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/gradlew.bat"
+    }
+  },
+  {
+    "name": "grpc-client",
+    "path": "grpc-client",
+    "sha": "e76aa5580f231963bc921628e455f51af1fdc8da",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/grpc-client?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/grpc-client",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/e76aa5580f231963bc921628e455f51af1fdc8da",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/grpc-client?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/e76aa5580f231963bc921628e455f51af1fdc8da",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/grpc-client"
+    }
+  },
+  {
+    "name": "grpc-server",
+    "path": "grpc-server",
+    "sha": "f6b904cfc084fade1733cbdc6bcd10af7c1bf83f",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/grpc-server?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/grpc-server",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/f6b904cfc084fade1733cbdc6bcd10af7c1bf83f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/grpc-server?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/f6b904cfc084fade1733cbdc6bcd10af7c1bf83f",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/grpc-server"
+    }
+  },
+  {
+    "name": "grpc",
+    "path": "grpc",
+    "sha": "6ecdada1d81f3a05507d253bfd62e6e6c26bf57a",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/grpc?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/grpc",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/6ecdada1d81f3a05507d253bfd62e6e6c26bf57a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/grpc?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/6ecdada1d81f3a05507d253bfd62e6e6c26bf57a",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/grpc"
+    }
+  },
+  {
+    "name": "hooks",
+    "path": "hooks",
+    "sha": "b5272e38ee33da55a1ff686087d8656c275d99d2",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/hooks?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/hooks",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/b5272e38ee33da55a1ff686087d8656c275d99d2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/hooks?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/b5272e38ee33da55a1ff686087d8656c275d99d2",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/hooks"
+    }
+  },
+  {
+    "name": "http-task",
+    "path": "http-task",
+    "sha": "e82307f16c8a08ef1281ec9bd06d1e3501964cce",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/http-task?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/http-task",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/e82307f16c8a08ef1281ec9bd06d1e3501964cce",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/http-task?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/e82307f16c8a08ef1281ec9bd06d1e3501964cce",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/http-task"
+    }
+  },
+  {
+    "name": "json-jq-task",
+    "path": "json-jq-task",
+    "sha": "9d5fc3b2fb1a49964d43be629795e462a1fdf3db",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/json-jq-task?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/json-jq-task",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/9d5fc3b2fb1a49964d43be629795e462a1fdf3db",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/json-jq-task?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/9d5fc3b2fb1a49964d43be629795e462a1fdf3db",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/json-jq-task"
+    }
+  },
+  {
+    "name": "kafka-event-queue",
+    "path": "kafka-event-queue",
+    "sha": "530ba12d7cd65882c41c6693dfdc45f748eacd1d",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/kafka-event-queue?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/kafka-event-queue",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/530ba12d7cd65882c41c6693dfdc45f748eacd1d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/kafka-event-queue?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/530ba12d7cd65882c41c6693dfdc45f748eacd1d",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/kafka-event-queue"
+    }
+  },
+  {
+    "name": "kafka",
+    "path": "kafka",
+    "sha": "83e4b07dc2faa8f1ba9b5269e816009c5060aaea",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/kafka?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/kafka",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/83e4b07dc2faa8f1ba9b5269e816009c5060aaea",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/kafka?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/83e4b07dc2faa8f1ba9b5269e816009c5060aaea",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/kafka"
+    }
+  },
+  {
+    "name": "licenseheader.txt",
+    "path": "licenseheader.txt",
+    "sha": "03879c60c0d325f427aa305c589f8488de402ca9",
+    "size": 601,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/licenseheader.txt?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/licenseheader.txt",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/03879c60c0d325f427aa305c589f8488de402ca9",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/licenseheader.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/licenseheader.txt?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/03879c60c0d325f427aa305c589f8488de402ca9",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/licenseheader.txt"
+    }
+  },
+  {
+    "name": "main.py",
+    "path": "main.py",
+    "sha": "6ce763a26a02ff9d14daaf6173254a9f5252985e",
+    "size": 2718,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/main.py?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/main.py",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/6ce763a26a02ff9d14daaf6173254a9f5252985e",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/main.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/main.py?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/6ce763a26a02ff9d14daaf6173254a9f5252985e",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/main.py"
+    }
+  },
+  {
+    "name": "metrics",
+    "path": "metrics",
+    "sha": "0b23735cffdf85a20967b3ae1d66798443016fad",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/metrics?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/metrics",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/0b23735cffdf85a20967b3ae1d66798443016fad",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/metrics?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/0b23735cffdf85a20967b3ae1d66798443016fad",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/metrics"
+    }
+  },
+  {
+    "name": "mkdocs.yml",
+    "path": "mkdocs.yml",
+    "sha": "86dc60765d8126969e0031cc3beadde8cfe4f91d",
+    "size": 5894,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/mkdocs.yml?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/mkdocs.yml",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/86dc60765d8126969e0031cc3beadde8cfe4f91d",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/mkdocs.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/mkdocs.yml?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/86dc60765d8126969e0031cc3beadde8cfe4f91d",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/mkdocs.yml"
+    }
+  },
+  {
+    "name": "mysql-persistence",
+    "path": "mysql-persistence",
+    "sha": "23183d8757dd33e9442a0131a2a348381a07c79e",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/mysql-persistence?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/mysql-persistence",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/23183d8757dd33e9442a0131a2a348381a07c79e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/mysql-persistence?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/23183d8757dd33e9442a0131a2a348381a07c79e",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/mysql-persistence"
+    }
+  },
+  {
+    "name": "nats-streaming",
+    "path": "nats-streaming",
+    "sha": "4741102de09d77397757f7b3cf318e07fcfbf960",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/nats-streaming?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/nats-streaming",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/4741102de09d77397757f7b3cf318e07fcfbf960",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/nats-streaming?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/4741102de09d77397757f7b3cf318e07fcfbf960",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/nats-streaming"
+    }
+  },
+  {
+    "name": "nats",
+    "path": "nats",
+    "sha": "421853c8f3e100760a877693fe8826a9310066ba",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/nats?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/nats",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/421853c8f3e100760a877693fe8826a9310066ba",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/nats?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/421853c8f3e100760a877693fe8826a9310066ba",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/nats"
+    }
+  },
+  {
+    "name": "os-persistence-v2",
+    "path": "os-persistence-v2",
+    "sha": "9a66f072fe45dc414af19838e798e4e479c8f599",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/os-persistence-v2?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/os-persistence-v2",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/9a66f072fe45dc414af19838e798e4e479c8f599",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/os-persistence-v2?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/9a66f072fe45dc414af19838e798e4e479c8f599",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/os-persistence-v2"
+    }
+  },
+  {
+    "name": "os-persistence-v3",
+    "path": "os-persistence-v3",
+    "sha": "2963eaed59d498cff3f6033b385d5ed341760460",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/os-persistence-v3?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/os-persistence-v3",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/2963eaed59d498cff3f6033b385d5ed341760460",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/os-persistence-v3?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/2963eaed59d498cff3f6033b385d5ed341760460",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/os-persistence-v3"
+    }
+  },
+  {
+    "name": "os-persistence",
+    "path": "os-persistence",
+    "sha": "5f9e59678889ef046a4c79608db49cc1529655ed",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/os-persistence?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/os-persistence",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/5f9e59678889ef046a4c79608db49cc1529655ed",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/os-persistence?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/5f9e59678889ef046a4c79608db49cc1529655ed",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/os-persistence"
+    }
+  },
+  {
+    "name": "polyglot-clients",
+    "path": "polyglot-clients",
+    "sha": "828c0d4ea5459543e9b5c6aa527f0376b6d315ab",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/polyglot-clients?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/polyglot-clients",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/828c0d4ea5459543e9b5c6aa527f0376b6d315ab",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/polyglot-clients?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/828c0d4ea5459543e9b5c6aa527f0376b6d315ab",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/polyglot-clients"
+    }
+  },
+  {
+    "name": "postgres-external-storage",
+    "path": "postgres-external-storage",
+    "sha": "59a3566345a332e567e54b0828920c42f9dd757e",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/postgres-external-storage?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/postgres-external-storage",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/59a3566345a332e567e54b0828920c42f9dd757e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/postgres-external-storage?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/59a3566345a332e567e54b0828920c42f9dd757e",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/postgres-external-storage"
+    }
+  },
+  {
+    "name": "postgres-persistence",
+    "path": "postgres-persistence",
+    "sha": "cec579f9bda8ef59a22d755e26d26468c4b89abe",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/postgres-persistence?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/postgres-persistence",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/cec579f9bda8ef59a22d755e26d26468c4b89abe",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/postgres-persistence?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/cec579f9bda8ef59a22d755e26d26468c4b89abe",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/postgres-persistence"
+    }
+  },
+  {
+    "name": "redis-concurrency-limit",
+    "path": "redis-concurrency-limit",
+    "sha": "cf7490c83c2dcf5d55e3bd2a98e49d1b5d25dd2e",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/redis-concurrency-limit?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/redis-concurrency-limit",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/cf7490c83c2dcf5d55e3bd2a98e49d1b5d25dd2e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/redis-concurrency-limit?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/cf7490c83c2dcf5d55e3bd2a98e49d1b5d25dd2e",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/redis-concurrency-limit"
+    }
+  },
+  {
+    "name": "redis-lock",
+    "path": "redis-lock",
+    "sha": "e42f304af63ed6553cf41f1d33d78d678c3ad9de",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/redis-lock?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/redis-lock",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/e42f304af63ed6553cf41f1d33d78d678c3ad9de",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/redis-lock?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/e42f304af63ed6553cf41f1d33d78d678c3ad9de",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/redis-lock"
+    }
+  },
+  {
+    "name": "redis-persistence",
+    "path": "redis-persistence",
+    "sha": "a0adae84368c4e4a8aed2872773cb79f48cc45aa",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/redis-persistence?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/redis-persistence",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/a0adae84368c4e4a8aed2872773cb79f48cc45aa",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/redis-persistence?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/a0adae84368c4e4a8aed2872773cb79f48cc45aa",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/redis-persistence"
+    }
+  },
+  {
+    "name": "requirements.txt",
+    "path": "requirements.txt",
+    "sha": "070b90152980a725fd312b599e6bc29d603be6f0",
+    "size": 43,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/requirements.txt?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/requirements.txt",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/070b90152980a725fd312b599e6bc29d603be6f0",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/requirements.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/requirements.txt?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/070b90152980a725fd312b599e6bc29d603be6f0",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/requirements.txt"
+    }
+  },
+  {
+    "name": "rest",
+    "path": "rest",
+    "sha": "434f88c3d6a113b2901d8dfa34b7098b6c287587",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/rest?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/rest",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/434f88c3d6a113b2901d8dfa34b7098b6c287587",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/rest?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/434f88c3d6a113b2901d8dfa34b7098b6c287587",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/rest"
+    }
+  },
+  {
+    "name": "schemas",
+    "path": "schemas",
+    "sha": "e1bf7e61b569c26e5053f916ce4a3d94d23d0cc2",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/schemas?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/schemas",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/e1bf7e61b569c26e5053f916ce4a3d94d23d0cc2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/schemas?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/e1bf7e61b569c26e5053f916ce4a3d94d23d0cc2",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/schemas"
+    }
+  },
+  {
+    "name": "server-lite",
+    "path": "server-lite",
+    "sha": "075bfb2961167108cbe443176d61fbc8e2a418a6",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/server-lite?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/server-lite",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/075bfb2961167108cbe443176d61fbc8e2a418a6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/server-lite?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/075bfb2961167108cbe443176d61fbc8e2a418a6",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/server-lite"
+    }
+  },
+  {
+    "name": "server",
+    "path": "server",
+    "sha": "422a7f66ce0dbd2388936da6ce1305b44692b259",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/server?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/server",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/422a7f66ce0dbd2388936da6ce1305b44692b259",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/server?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/422a7f66ce0dbd2388936da6ce1305b44692b259",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/server"
+    }
+  },
+  {
+    "name": "settings.gradle",
+    "path": "settings.gradle",
+    "sha": "2a5abb7704d02eaaa183a2ad50632a1c100f1a28",
+    "size": 1697,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/settings.gradle?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/settings.gradle",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/2a5abb7704d02eaaa183a2ad50632a1c100f1a28",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/settings.gradle",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/settings.gradle?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/2a5abb7704d02eaaa183a2ad50632a1c100f1a28",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/settings.gradle"
+    }
+  },
+  {
+    "name": "springboot-bom-overrides.gradle",
+    "path": "springboot-bom-overrides.gradle",
+    "sha": "aa5bd41ad75dfde107128a6e3171e88c34fa55a8",
+    "size": 1042,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/springboot-bom-overrides.gradle?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/blob/main/springboot-bom-overrides.gradle",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/aa5bd41ad75dfde107128a6e3171e88c34fa55a8",
+    "download_url": "https://raw.githubusercontent.com/conductor-oss/conductor/main/springboot-bom-overrides.gradle",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/springboot-bom-overrides.gradle?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/blobs/aa5bd41ad75dfde107128a6e3171e88c34fa55a8",
+      "html": "https://github.com/conductor-oss/conductor/blob/main/springboot-bom-overrides.gradle"
+    }
+  },
+  {
+    "name": "sqlite-persistence",
+    "path": "sqlite-persistence",
+    "sha": "87a690c25e74f2db54bc79a02cc48de0863e9706",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/sqlite-persistence?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/sqlite-persistence",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/87a690c25e74f2db54bc79a02cc48de0863e9706",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/sqlite-persistence?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/87a690c25e74f2db54bc79a02cc48de0863e9706",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/sqlite-persistence"
+    }
+  },
+  {
+    "name": "task-status-listener",
+    "path": "task-status-listener",
+    "sha": "910f1c1bbf3a58cf191e7435ce510bbd1efc44af",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/task-status-listener?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/task-status-listener",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/910f1c1bbf3a58cf191e7435ce510bbd1efc44af",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/task-status-listener?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/910f1c1bbf3a58cf191e7435ce510bbd1efc44af",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/task-status-listener"
+    }
+  },
+  {
+    "name": "test-harness",
+    "path": "test-harness",
+    "sha": "f05edaafbc6177bc2aacf04d644b8cd5af1303c8",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/test-harness?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/test-harness",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/f05edaafbc6177bc2aacf04d644b8cd5af1303c8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/test-harness?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/f05edaafbc6177bc2aacf04d644b8cd5af1303c8",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/test-harness"
+    }
+  },
+  {
+    "name": "test-util",
+    "path": "test-util",
+    "sha": "cc6db8d3553b8f241a700e6446830a48e8d8a593",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/test-util?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/test-util",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/cc6db8d3553b8f241a700e6446830a48e8d8a593",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/test-util?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/cc6db8d3553b8f241a700e6446830a48e8d8a593",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/test-util"
+    }
+  },
+  {
+    "name": "ui",
+    "path": "ui",
+    "sha": "ea789b8a399ca81953971652ee3c423070ec3a5b",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/ui?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/ui",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/ea789b8a399ca81953971652ee3c423070ec3a5b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/ui?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/ea789b8a399ca81953971652ee3c423070ec3a5b",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/ui"
+    }
+  },
+  {
+    "name": "venv",
+    "path": "venv",
+    "sha": "63ee1f7d592f8dab86be178c634d9a4062067409",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/venv?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/venv",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/63ee1f7d592f8dab86be178c634d9a4062067409",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/venv?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/63ee1f7d592f8dab86be178c634d9a4062067409",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/venv"
+    }
+  },
+  {
+    "name": "workflow-event-listener",
+    "path": "workflow-event-listener",
+    "sha": "0d12793d62a325ddc9c653e44523e5d1d0f3563b",
+    "size": 0,
+    "url": "https://api.github.com/repos/conductor-oss/conductor/contents/workflow-event-listener?ref=main",
+    "html_url": "https://github.com/conductor-oss/conductor/tree/main/workflow-event-listener",
+    "git_url": "https://api.github.com/repos/conductor-oss/conductor/git/trees/0d12793d62a325ddc9c653e44523e5d1d0f3563b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/conductor-oss/conductor/contents/workflow-event-listener?ref=main",
+      "git": "https://api.github.com/repos/conductor-oss/conductor/git/trees/0d12793d62a325ddc9c653e44523e5d1d0f3563b",
+      "html": "https://github.com/conductor-oss/conductor/tree/main/workflow-event-listener"
+    }
+  }
+]

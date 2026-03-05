@@ -1,0 +1,194 @@
+[
+  {
+    "name": ".env.sample.b2c",
+    "path": ".env.sample.b2c",
+    "sha": "941300cf4eacae590cc444785244ddb4e492ebad",
+    "size": 1148,
+    "url": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/.env.sample.b2c?ref=main",
+    "html_url": "https://github.com/rayluo/python-webapp-quart/blob/main/.env.sample.b2c",
+    "git_url": "https://api.github.com/repos/rayluo/python-webapp-quart/git/blobs/941300cf4eacae590cc444785244ddb4e492ebad",
+    "download_url": "https://raw.githubusercontent.com/rayluo/python-webapp-quart/main/.env.sample.b2c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/.env.sample.b2c?ref=main",
+      "git": "https://api.github.com/repos/rayluo/python-webapp-quart/git/blobs/941300cf4eacae590cc444785244ddb4e492ebad",
+      "html": "https://github.com/rayluo/python-webapp-quart/blob/main/.env.sample.b2c"
+    }
+  },
+  {
+    "name": ".env.sample.entra-id",
+    "path": ".env.sample.entra-id",
+    "sha": "3e54becc599538c7febbcf8f9de68d56ca465157",
+    "size": 1005,
+    "url": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/.env.sample.entra-id?ref=main",
+    "html_url": "https://github.com/rayluo/python-webapp-quart/blob/main/.env.sample.entra-id",
+    "git_url": "https://api.github.com/repos/rayluo/python-webapp-quart/git/blobs/3e54becc599538c7febbcf8f9de68d56ca465157",
+    "download_url": "https://raw.githubusercontent.com/rayluo/python-webapp-quart/main/.env.sample.entra-id",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/.env.sample.entra-id?ref=main",
+      "git": "https://api.github.com/repos/rayluo/python-webapp-quart/git/blobs/3e54becc599538c7febbcf8f9de68d56ca465157",
+      "html": "https://github.com/rayluo/python-webapp-quart/blob/main/.env.sample.entra-id"
+    }
+  },
+  {
+    "name": ".env.sample.external-id",
+    "path": ".env.sample.external-id",
+    "sha": "2de53bc2acc42bebdf44cb78457dc013c408d45c",
+    "size": 875,
+    "url": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/.env.sample.external-id?ref=main",
+    "html_url": "https://github.com/rayluo/python-webapp-quart/blob/main/.env.sample.external-id",
+    "git_url": "https://api.github.com/repos/rayluo/python-webapp-quart/git/blobs/2de53bc2acc42bebdf44cb78457dc013c408d45c",
+    "download_url": "https://raw.githubusercontent.com/rayluo/python-webapp-quart/main/.env.sample.external-id",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/.env.sample.external-id?ref=main",
+      "git": "https://api.github.com/repos/rayluo/python-webapp-quart/git/blobs/2de53bc2acc42bebdf44cb78457dc013c408d45c",
+      "html": "https://github.com/rayluo/python-webapp-quart/blob/main/.env.sample.external-id"
+    }
+  },
+  {
+    "name": ".env.sample.external-id-custom-domain",
+    "path": ".env.sample.external-id-custom-domain",
+    "sha": "8c3c20a225b870e5fa8c33ffaa7502d0cedd22c4",
+    "size": 900,
+    "url": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/.env.sample.external-id-custom-domain?ref=main",
+    "html_url": "https://github.com/rayluo/python-webapp-quart/blob/main/.env.sample.external-id-custom-domain",
+    "git_url": "https://api.github.com/repos/rayluo/python-webapp-quart/git/blobs/8c3c20a225b870e5fa8c33ffaa7502d0cedd22c4",
+    "download_url": "https://raw.githubusercontent.com/rayluo/python-webapp-quart/main/.env.sample.external-id-custom-domain",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/.env.sample.external-id-custom-domain?ref=main",
+      "git": "https://api.github.com/repos/rayluo/python-webapp-quart/git/blobs/8c3c20a225b870e5fa8c33ffaa7502d0cedd22c4",
+      "html": "https://github.com/rayluo/python-webapp-quart/blob/main/.env.sample.external-id-custom-domain"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "68bc17f9ff2104a9d7b6777058bb4c343ca72609",
+    "size": 3078,
+    "url": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/rayluo/python-webapp-quart/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/rayluo/python-webapp-quart/git/blobs/68bc17f9ff2104a9d7b6777058bb4c343ca72609",
+    "download_url": "https://raw.githubusercontent.com/rayluo/python-webapp-quart/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/rayluo/python-webapp-quart/git/blobs/68bc17f9ff2104a9d7b6777058bb4c343ca72609",
+      "html": "https://github.com/rayluo/python-webapp-quart/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".vscode",
+    "path": ".vscode",
+    "sha": "00c854c6910886321abaf088916f4d75b2b737da",
+    "size": 0,
+    "url": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/.vscode?ref=main",
+    "html_url": "https://github.com/rayluo/python-webapp-quart/tree/main/.vscode",
+    "git_url": "https://api.github.com/repos/rayluo/python-webapp-quart/git/trees/00c854c6910886321abaf088916f4d75b2b737da",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/.vscode?ref=main",
+      "git": "https://api.github.com/repos/rayluo/python-webapp-quart/git/trees/00c854c6910886321abaf088916f4d75b2b737da",
+      "html": "https://github.com/rayluo/python-webapp-quart/tree/main/.vscode"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "40dea6d119fec50dd25e3d0ce02e7ace8f38c0ed",
+    "size": 1064,
+    "url": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/LICENSE?ref=main",
+    "html_url": "https://github.com/rayluo/python-webapp-quart/blob/main/LICENSE",
+    "git_url": "https://api.github.com/repos/rayluo/python-webapp-quart/git/blobs/40dea6d119fec50dd25e3d0ce02e7ace8f38c0ed",
+    "download_url": "https://raw.githubusercontent.com/rayluo/python-webapp-quart/main/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/LICENSE?ref=main",
+      "git": "https://api.github.com/repos/rayluo/python-webapp-quart/git/blobs/40dea6d119fec50dd25e3d0ce02e7ace8f38c0ed",
+      "html": "https://github.com/rayluo/python-webapp-quart/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "e10a018f4104b2279a82f62ac58237f308e296a1",
+    "size": 5419,
+    "url": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/README.md?ref=main",
+    "html_url": "https://github.com/rayluo/python-webapp-quart/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/rayluo/python-webapp-quart/git/blobs/e10a018f4104b2279a82f62ac58237f308e296a1",
+    "download_url": "https://raw.githubusercontent.com/rayluo/python-webapp-quart/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/rayluo/python-webapp-quart/git/blobs/e10a018f4104b2279a82f62ac58237f308e296a1",
+      "html": "https://github.com/rayluo/python-webapp-quart/blob/main/README.md"
+    }
+  },
+  {
+    "name": "app.py",
+    "path": "app.py",
+    "sha": "d6fd730be299e67ff18663212ffb1fa6149b5747",
+    "size": 1450,
+    "url": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/app.py?ref=main",
+    "html_url": "https://github.com/rayluo/python-webapp-quart/blob/main/app.py",
+    "git_url": "https://api.github.com/repos/rayluo/python-webapp-quart/git/blobs/d6fd730be299e67ff18663212ffb1fa6149b5747",
+    "download_url": "https://raw.githubusercontent.com/rayluo/python-webapp-quart/main/app.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/app.py?ref=main",
+      "git": "https://api.github.com/repos/rayluo/python-webapp-quart/git/blobs/d6fd730be299e67ff18663212ffb1fa6149b5747",
+      "html": "https://github.com/rayluo/python-webapp-quart/blob/main/app.py"
+    }
+  },
+  {
+    "name": "auth.py",
+    "path": "auth.py",
+    "sha": "1cc2f262d647eb17c4b3c935426ba9a9b93ad07d",
+    "size": 1040,
+    "url": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/auth.py?ref=main",
+    "html_url": "https://github.com/rayluo/python-webapp-quart/blob/main/auth.py",
+    "git_url": "https://api.github.com/repos/rayluo/python-webapp-quart/git/blobs/1cc2f262d647eb17c4b3c935426ba9a9b93ad07d",
+    "download_url": "https://raw.githubusercontent.com/rayluo/python-webapp-quart/main/auth.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/auth.py?ref=main",
+      "git": "https://api.github.com/repos/rayluo/python-webapp-quart/git/blobs/1cc2f262d647eb17c4b3c935426ba9a9b93ad07d",
+      "html": "https://github.com/rayluo/python-webapp-quart/blob/main/auth.py"
+    }
+  },
+  {
+    "name": "requirements.txt",
+    "path": "requirements.txt",
+    "sha": "b40b89b8eba57df3d73ca360b80155e76615409b",
+    "size": 73,
+    "url": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/requirements.txt?ref=main",
+    "html_url": "https://github.com/rayluo/python-webapp-quart/blob/main/requirements.txt",
+    "git_url": "https://api.github.com/repos/rayluo/python-webapp-quart/git/blobs/b40b89b8eba57df3d73ca360b80155e76615409b",
+    "download_url": "https://raw.githubusercontent.com/rayluo/python-webapp-quart/main/requirements.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/requirements.txt?ref=main",
+      "git": "https://api.github.com/repos/rayluo/python-webapp-quart/git/blobs/b40b89b8eba57df3d73ca360b80155e76615409b",
+      "html": "https://github.com/rayluo/python-webapp-quart/blob/main/requirements.txt"
+    }
+  },
+  {
+    "name": "templates",
+    "path": "templates",
+    "sha": "09e52848dbc36b704e9fbbb779c8e5b51da3d844",
+    "size": 0,
+    "url": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/templates?ref=main",
+    "html_url": "https://github.com/rayluo/python-webapp-quart/tree/main/templates",
+    "git_url": "https://api.github.com/repos/rayluo/python-webapp-quart/git/trees/09e52848dbc36b704e9fbbb779c8e5b51da3d844",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/rayluo/python-webapp-quart/contents/templates?ref=main",
+      "git": "https://api.github.com/repos/rayluo/python-webapp-quart/git/trees/09e52848dbc36b704e9fbbb779c8e5b51da3d844",
+      "html": "https://github.com/rayluo/python-webapp-quart/tree/main/templates"
+    }
+  }
+]

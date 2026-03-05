@@ -1,0 +1,18 @@
+{
+  "name": "go.mod",
+  "path": "go.mod",
+  "sha": "2e992d899c13acbcc543a7c4671eeeb126e82583",
+  "size": 1106,
+  "url": "https://api.github.com/repos/yunginnanet/HellPot/contents/go.mod?ref=main",
+  "html_url": "https://github.com/yunginnanet/HellPot/blob/main/go.mod",
+  "git_url": "https://api.github.com/repos/yunginnanet/HellPot/git/blobs/2e992d899c13acbcc543a7c4671eeeb126e82583",
+  "download_url": "https://raw.githubusercontent.com/yunginnanet/HellPot/main/go.mod",
+  "type": "file",
+  "content": "bW9kdWxlIGdpdGh1Yi5jb20veXVuZ2lubmFuZXQvSGVsbFBvdAoKZ28gMS4y\nMy4wCgp0b29sY2hhaW4gZ28xLjI0LjEKCnJlcXVpcmUgKAoJZ2l0LnRjcC5k\naXJlY3Qva2F5b3MvY29tbW9uIHYxLjAuMAoJZ2l0aHViLmNvbS9mYXN0aHR0\ncC9yb3V0ZXIgdjEuNS40CglnaXRodWIuY29tL2tuYWRoL2tvYW5mL3BhcnNl\ncnMvdG9tbCB2MC4xLjAKCWdpdGh1Yi5jb20va25hZGgva29hbmYvcHJvdmlk\nZXJzL2VudiB2MS4xLjAKCWdpdGh1Yi5jb20va25hZGgva29hbmYvcHJvdmlk\nZXJzL2ZpbGUgdjEuMi4wCglnaXRodWIuY29tL2tuYWRoL2tvYW5mL3YyIHYy\nLjIuMQoJZ2l0aHViLmNvbS9ycy96ZXJvbG9nIHYxLjM0LjAKCWdpdGh1Yi5j\nb20vdmFseWFsYS9mYXN0aHR0cCB2MS42My4wCglnb2xhbmcub3JnL3gvdGVy\nbSB2MC4zMi4wCikKCnJlcXVpcmUgKAoJZ2l0aHViLmNvbS9hbmR5YmFsaG9s\nbS9icm90bGkgdjEuMi4wIC8vIGluZGlyZWN0CglnaXRodWIuY29tL2Zzbm90\naWZ5L2Zzbm90aWZ5IHYxLjkuMCAvLyBpbmRpcmVjdAoJZ2l0aHViLmNvbS9n\nby12aXBlci9tYXBzdHJ1Y3R1cmUvdjIgdjIuMy4wIC8vIGluZGlyZWN0Cgln\naXRodWIuY29tL2tsYXVzcG9zdC9jb21wcmVzcyB2MS4xOC4wIC8vIGluZGly\nZWN0CglnaXRodWIuY29tL2tuYWRoL2tvYW5mL21hcHMgdjAuMS4yIC8vIGlu\nZGlyZWN0CglnaXRodWIuY29tL21hdHRuL2dvLWNvbG9yYWJsZSB2MC4xLjEz\nIC8vIGluZGlyZWN0CglnaXRodWIuY29tL21hdHRuL2dvLWlzYXR0eSB2MC4w\nLjE5IC8vIGluZGlyZWN0CglnaXRodWIuY29tL21pdGNoZWxsaC9jb3B5c3Ry\ndWN0dXJlIHYxLjIuMCAvLyBpbmRpcmVjdAoJZ2l0aHViLmNvbS9taXRjaGVs\nbGgvcmVmbGVjdHdhbGsgdjEuMC4yIC8vIGluZGlyZWN0CglnaXRodWIuY29t\nL3BlbGxldGllci9nby10b21sIHYxLjkuNSAvLyBpbmRpcmVjdAoJZ2l0aHVi\nLmNvbS9zYXZzZ2lvL2dvdGlscyB2MC4wLjAtMjAyNDA3MDQwODI2MzItYWVm\nMzkyOGI4YTM4IC8vIGluZGlyZWN0CglnaXRodWIuY29tL3ZhbHlhbGEvYnl0\nZWJ1ZmZlcnBvb2wgdjEuMC4wIC8vIGluZGlyZWN0Cglnb2xhbmcub3JnL3gv\nc3lzIHYwLjMzLjAgLy8gaW5kaXJlY3QKKQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/yunginnanet/HellPot/contents/go.mod?ref=main",
+    "git": "https://api.github.com/repos/yunginnanet/HellPot/git/blobs/2e992d899c13acbcc543a7c4671eeeb126e82583",
+    "html": "https://github.com/yunginnanet/HellPot/blob/main/go.mod"
+  }
+}

@@ -1,0 +1,642 @@
+[
+  {
+    "name": ".codecov.yml",
+    "path": ".codecov.yml",
+    "sha": "5da2f9bd48184e7ef6c435628ac61436c9fe8a53",
+    "size": 130,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/.codecov.yml?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/.codecov.yml",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/5da2f9bd48184e7ef6c435628ac61436c9fe8a53",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/.codecov.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/.codecov.yml?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/5da2f9bd48184e7ef6c435628ac61436c9fe8a53",
+      "html": "https://github.com/prettier/prettier/blob/main/.codecov.yml"
+    }
+  },
+  {
+    "name": ".editorconfig",
+    "path": ".editorconfig",
+    "sha": "f814943c3ecccf86411450f88ef01dd527ef3bf1",
+    "size": 408,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/.editorconfig?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/.editorconfig",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/f814943c3ecccf86411450f88ef01dd527ef3bf1",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/.editorconfig",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/.editorconfig?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/f814943c3ecccf86411450f88ef01dd527ef3bf1",
+      "html": "https://github.com/prettier/prettier/blob/main/.editorconfig"
+    }
+  },
+  {
+    "name": ".git-blame-ignore-revs",
+    "path": ".git-blame-ignore-revs",
+    "sha": "4155b6e40bddf08e4e40371b475849e4b423a269",
+    "size": 1636,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/.git-blame-ignore-revs?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/.git-blame-ignore-revs",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/4155b6e40bddf08e4e40371b475849e4b423a269",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/.git-blame-ignore-revs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/.git-blame-ignore-revs?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/4155b6e40bddf08e4e40371b475849e4b423a269",
+      "html": "https://github.com/prettier/prettier/blob/main/.git-blame-ignore-revs"
+    }
+  },
+  {
+    "name": ".gitattributes",
+    "path": ".gitattributes",
+    "sha": "6313b56c57848efce05faa7aa7e901ccfc2886ea",
+    "size": 19,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/.gitattributes?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/.gitattributes",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/6313b56c57848efce05faa7aa7e901ccfc2886ea",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/.gitattributes",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/.gitattributes?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/6313b56c57848efce05faa7aa7e901ccfc2886ea",
+      "html": "https://github.com/prettier/prettier/blob/main/.gitattributes"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "b5e1ba96cd3c63cb74d19fca849d4247c544095a",
+    "size": 0,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/.github?ref=main",
+    "html_url": "https://github.com/prettier/prettier/tree/main/.github",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/trees/b5e1ba96cd3c63cb74d19fca849d4247c544095a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/trees/b5e1ba96cd3c63cb74d19fca849d4247c544095a",
+      "html": "https://github.com/prettier/prettier/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "da5d7428d7b5eb7e74bf93632f1620fc839d94cc",
+    "size": 768,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/da5d7428d7b5eb7e74bf93632f1620fc839d94cc",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/da5d7428d7b5eb7e74bf93632f1620fc839d94cc",
+      "html": "https://github.com/prettier/prettier/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".ignore",
+    "path": ".ignore",
+    "sha": "a6920dce0114595a184eb86e70ed83a795102485",
+    "size": 24,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/.ignore?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/.ignore",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/a6920dce0114595a184eb86e70ed83a795102485",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/.ignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/.ignore?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/a6920dce0114595a184eb86e70ed83a795102485",
+      "html": "https://github.com/prettier/prettier/blob/main/.ignore"
+    }
+  },
+  {
+    "name": ".prettierignore",
+    "path": ".prettierignore",
+    "sha": "d6047258dc1d74446bb89a0ee13279bda5b8e75d",
+    "size": 1055,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/.prettierignore?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/.prettierignore",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/d6047258dc1d74446bb89a0ee13279bda5b8e75d",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/.prettierignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/.prettierignore?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/d6047258dc1d74446bb89a0ee13279bda5b8e75d",
+      "html": "https://github.com/prettier/prettier/blob/main/.prettierignore"
+    }
+  },
+  {
+    "name": ".vscode",
+    "path": ".vscode",
+    "sha": "27de0955e3089b98a853ba0a5db4e51421ebb179",
+    "size": 0,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/.vscode?ref=main",
+    "html_url": "https://github.com/prettier/prettier/tree/main/.vscode",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/trees/27de0955e3089b98a853ba0a5db4e51421ebb179",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/.vscode?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/trees/27de0955e3089b98a853ba0a5db4e51421ebb179",
+      "html": "https://github.com/prettier/prettier/tree/main/.vscode"
+    }
+  },
+  {
+    "name": ".yarn",
+    "path": ".yarn",
+    "sha": "a0faca745bbf57a03e5930a042f37b888e67c9b8",
+    "size": 0,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/.yarn?ref=main",
+    "html_url": "https://github.com/prettier/prettier/tree/main/.yarn",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/trees/a0faca745bbf57a03e5930a042f37b888e67c9b8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/.yarn?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/trees/a0faca745bbf57a03e5930a042f37b888e67c9b8",
+      "html": "https://github.com/prettier/prettier/tree/main/.yarn"
+    }
+  },
+  {
+    "name": ".yarnrc.yml",
+    "path": ".yarnrc.yml",
+    "sha": "8ec02f614548d6d3afd3b6875e3ff82e88933db0",
+    "size": 194,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/.yarnrc.yml?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/.yarnrc.yml",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/8ec02f614548d6d3afd3b6875e3ff82e88933db0",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/.yarnrc.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/.yarnrc.yml?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/8ec02f614548d6d3afd3b6875e3ff82e88933db0",
+      "html": "https://github.com/prettier/prettier/blob/main/.yarnrc.yml"
+    }
+  },
+  {
+    "name": "CHANGELOG.md",
+    "path": "CHANGELOG.md",
+    "sha": "b4157ce30bde35c929ac152743c3672a6d51e6df",
+    "size": 142826,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/CHANGELOG.md?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/CHANGELOG.md",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/b4157ce30bde35c929ac152743c3672a6d51e6df",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/CHANGELOG.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/CHANGELOG.md?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/b4157ce30bde35c929ac152743c3672a6d51e6df",
+      "html": "https://github.com/prettier/prettier/blob/main/CHANGELOG.md"
+    }
+  },
+  {
+    "name": "CONTRIBUTING.md",
+    "path": "CONTRIBUTING.md",
+    "sha": "6e8e635b47d764aa5499c130d0e5d9fb00029c62",
+    "size": 8282,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/CONTRIBUTING.md?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/CONTRIBUTING.md",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/6e8e635b47d764aa5499c130d0e5d9fb00029c62",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/CONTRIBUTING.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/CONTRIBUTING.md?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/6e8e635b47d764aa5499c130d0e5d9fb00029c62",
+      "html": "https://github.com/prettier/prettier/blob/main/CONTRIBUTING.md"
+    }
+  },
+  {
+    "name": "FUNDING.json",
+    "path": "FUNDING.json",
+    "sha": "3d839c352aa6ce9435776159f24ab4b697751562",
+    "size": 107,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/FUNDING.json?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/FUNDING.json",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/3d839c352aa6ce9435776159f24ab4b697751562",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/FUNDING.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/FUNDING.json?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/3d839c352aa6ce9435776159f24ab4b697751562",
+      "html": "https://github.com/prettier/prettier/blob/main/FUNDING.json"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "5767e34d30ab78796220f9492726dd2f677d4166",
+    "size": 1065,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/LICENSE?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/LICENSE",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/5767e34d30ab78796220f9492726dd2f677d4166",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/LICENSE?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/5767e34d30ab78796220f9492726dd2f677d4166",
+      "html": "https://github.com/prettier/prettier/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "2297b58e424367eaaaa6a22c8f9f3ed45e769cca",
+    "size": 3396,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/README.md?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/2297b58e424367eaaaa6a22c8f9f3ed45e769cca",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/2297b58e424367eaaaa6a22c8f9f3ed45e769cca",
+      "html": "https://github.com/prettier/prettier/blob/main/README.md"
+    }
+  },
+  {
+    "name": "benchmarks",
+    "path": "benchmarks",
+    "sha": "02d1494c7402c2e01c1c622a080e8dd482778bc8",
+    "size": 0,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/benchmarks?ref=main",
+    "html_url": "https://github.com/prettier/prettier/tree/main/benchmarks",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/trees/02d1494c7402c2e01c1c622a080e8dd482778bc8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/benchmarks?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/trees/02d1494c7402c2e01c1c622a080e8dd482778bc8",
+      "html": "https://github.com/prettier/prettier/tree/main/benchmarks"
+    }
+  },
+  {
+    "name": "bin",
+    "path": "bin",
+    "sha": "1dfa82b2b0357fab56fd305da463f837df065d93",
+    "size": 0,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/bin?ref=main",
+    "html_url": "https://github.com/prettier/prettier/tree/main/bin",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/trees/1dfa82b2b0357fab56fd305da463f837df065d93",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/bin?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/trees/1dfa82b2b0357fab56fd305da463f837df065d93",
+      "html": "https://github.com/prettier/prettier/tree/main/bin"
+    }
+  },
+  {
+    "name": "changelog_unreleased",
+    "path": "changelog_unreleased",
+    "sha": "5b3c1725569a978c3cadbdf006fdc45cea5e0976",
+    "size": 0,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/changelog_unreleased?ref=main",
+    "html_url": "https://github.com/prettier/prettier/tree/main/changelog_unreleased",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/trees/5b3c1725569a978c3cadbdf006fdc45cea5e0976",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/changelog_unreleased?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/trees/5b3c1725569a978c3cadbdf006fdc45cea5e0976",
+      "html": "https://github.com/prettier/prettier/tree/main/changelog_unreleased"
+    }
+  },
+  {
+    "name": "commands.md",
+    "path": "commands.md",
+    "sha": "8cbfd1c7c27979e90116da2c185707aa358244c8",
+    "size": 10507,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/commands.md?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/commands.md",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/8cbfd1c7c27979e90116da2c185707aa358244c8",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/commands.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/commands.md?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/8cbfd1c7c27979e90116da2c185707aa358244c8",
+      "html": "https://github.com/prettier/prettier/blob/main/commands.md"
+    }
+  },
+  {
+    "name": "cspell.json",
+    "path": "cspell.json",
+    "sha": "55224441ecf5988c062b5fea46589313ce3d163b",
+    "size": 7397,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/cspell.json?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/cspell.json",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/55224441ecf5988c062b5fea46589313ce3d163b",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/cspell.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/cspell.json?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/55224441ecf5988c062b5fea46589313ce3d163b",
+      "html": "https://github.com/prettier/prettier/blob/main/cspell.json"
+    }
+  },
+  {
+    "name": "docs",
+    "path": "docs",
+    "sha": "5b4574dfd8fbc73aebe2807af3ad6a4d3ae57187",
+    "size": 0,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/docs?ref=main",
+    "html_url": "https://github.com/prettier/prettier/tree/main/docs",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/trees/5b4574dfd8fbc73aebe2807af3ad6a4d3ae57187",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/docs?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/trees/5b4574dfd8fbc73aebe2807af3ad6a4d3ae57187",
+      "html": "https://github.com/prettier/prettier/tree/main/docs"
+    }
+  },
+  {
+    "name": "eslint.config.js",
+    "path": "eslint.config.js",
+    "sha": "dd660b753b33f47f91cbd8085b9756ead5267db3",
+    "size": 14686,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/eslint.config.js?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/eslint.config.js",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/dd660b753b33f47f91cbd8085b9756ead5267db3",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/eslint.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/eslint.config.js?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/dd660b753b33f47f91cbd8085b9756ead5267db3",
+      "html": "https://github.com/prettier/prettier/blob/main/eslint.config.js"
+    }
+  },
+  {
+    "name": "index.js",
+    "path": "index.js",
+    "sha": "e258df15c9cc260ba047bd36e6d0fcced6348479",
+    "size": 32,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/index.js?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/index.js",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/e258df15c9cc260ba047bd36e6d0fcced6348479",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/index.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/index.js?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/e258df15c9cc260ba047bd36e6d0fcced6348479",
+      "html": "https://github.com/prettier/prettier/blob/main/index.js"
+    }
+  },
+  {
+    "name": "jest.config.js",
+    "path": "jest.config.js",
+    "sha": "4bdcb909429da4ce36a64a02cd488f977e3fea31",
+    "size": 4422,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/jest.config.js?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/jest.config.js",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/4bdcb909429da4ce36a64a02cd488f977e3fea31",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/jest.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/jest.config.js?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/4bdcb909429da4ce36a64a02cd488f977e3fea31",
+      "html": "https://github.com/prettier/prettier/blob/main/jest.config.js"
+    }
+  },
+  {
+    "name": "knip.config.js",
+    "path": "knip.config.js",
+    "sha": "0532462d4406196f0023a87b44261ca45aca0c9d",
+    "size": 1862,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/knip.config.js?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/knip.config.js",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/0532462d4406196f0023a87b44261ca45aca0c9d",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/knip.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/knip.config.js?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/0532462d4406196f0023a87b44261ca45aca0c9d",
+      "html": "https://github.com/prettier/prettier/blob/main/knip.config.js"
+    }
+  },
+  {
+    "name": "netlify.toml",
+    "path": "netlify.toml",
+    "sha": "adc4dff4cbf3a2ad3bcae3c30ef840146478d1a9",
+    "size": 143,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/netlify.toml?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/netlify.toml",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/adc4dff4cbf3a2ad3bcae3c30ef840146478d1a9",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/netlify.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/netlify.toml?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/adc4dff4cbf3a2ad3bcae3c30ef840146478d1a9",
+      "html": "https://github.com/prettier/prettier/blob/main/netlify.toml"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "8b58d5f39cb3cfe2e01462d829e33866a1f61bcf",
+    "size": 9204,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/package.json?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/package.json",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/8b58d5f39cb3cfe2e01462d829e33866a1f61bcf",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/package.json?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/8b58d5f39cb3cfe2e01462d829e33866a1f61bcf",
+      "html": "https://github.com/prettier/prettier/blob/main/package.json"
+    }
+  },
+  {
+    "name": "packages",
+    "path": "packages",
+    "sha": "001d9ce3ecf2ea22a594318c4420882ecacd250d",
+    "size": 0,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/packages?ref=main",
+    "html_url": "https://github.com/prettier/prettier/tree/main/packages",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/trees/001d9ce3ecf2ea22a594318c4420882ecacd250d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/packages?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/trees/001d9ce3ecf2ea22a594318c4420882ecacd250d",
+      "html": "https://github.com/prettier/prettier/tree/main/packages"
+    }
+  },
+  {
+    "name": "prettier.config.js",
+    "path": "prettier.config.js",
+    "sha": "d98b725878ebeffdf5a393404de91510b7c5e654",
+    "size": 477,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/prettier.config.js?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/prettier.config.js",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/d98b725878ebeffdf5a393404de91510b7c5e654",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/prettier.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/prettier.config.js?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/d98b725878ebeffdf5a393404de91510b7c5e654",
+      "html": "https://github.com/prettier/prettier/blob/main/prettier.config.js"
+    }
+  },
+  {
+    "name": "puppeteer.config.cjs",
+    "path": "puppeteer.config.cjs",
+    "sha": "1a12ec8c988f6a332f656373106eb5c4acf7a7a0",
+    "size": 247,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/puppeteer.config.cjs?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/puppeteer.config.cjs",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/1a12ec8c988f6a332f656373106eb5c4acf7a7a0",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/puppeteer.config.cjs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/puppeteer.config.cjs?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/1a12ec8c988f6a332f656373106eb5c4acf7a7a0",
+      "html": "https://github.com/prettier/prettier/blob/main/puppeteer.config.cjs"
+    }
+  },
+  {
+    "name": "scripts",
+    "path": "scripts",
+    "sha": "8fd08ae46352c67448f7560806917540f82724f9",
+    "size": 0,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/scripts?ref=main",
+    "html_url": "https://github.com/prettier/prettier/tree/main/scripts",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/trees/8fd08ae46352c67448f7560806917540f82724f9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/scripts?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/trees/8fd08ae46352c67448f7560806917540f82724f9",
+      "html": "https://github.com/prettier/prettier/tree/main/scripts"
+    }
+  },
+  {
+    "name": "src",
+    "path": "src",
+    "sha": "cd0af47a5605cf172cf8f91a67f5b7c58c762cc4",
+    "size": 0,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/src?ref=main",
+    "html_url": "https://github.com/prettier/prettier/tree/main/src",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/trees/cd0af47a5605cf172cf8f91a67f5b7c58c762cc4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/src?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/trees/cd0af47a5605cf172cf8f91a67f5b7c58c762cc4",
+      "html": "https://github.com/prettier/prettier/tree/main/src"
+    }
+  },
+  {
+    "name": "standalone.js",
+    "path": "standalone.js",
+    "sha": "9b5636b82b95cf2f445930f7ca35bdaa9c4fa9c6",
+    "size": 37,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/standalone.js?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/standalone.js",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/9b5636b82b95cf2f445930f7ca35bdaa9c4fa9c6",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/standalone.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/standalone.js?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/9b5636b82b95cf2f445930f7ca35bdaa9c4fa9c6",
+      "html": "https://github.com/prettier/prettier/blob/main/standalone.js"
+    }
+  },
+  {
+    "name": "tests",
+    "path": "tests",
+    "sha": "8c3c63a2ce88c87ceb5facd0b8d164da7fb2e0e0",
+    "size": 0,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/tests?ref=main",
+    "html_url": "https://github.com/prettier/prettier/tree/main/tests",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/trees/8c3c63a2ce88c87ceb5facd0b8d164da7fb2e0e0",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/tests?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/trees/8c3c63a2ce88c87ceb5facd0b8d164da7fb2e0e0",
+      "html": "https://github.com/prettier/prettier/tree/main/tests"
+    }
+  },
+  {
+    "name": "tsconfig.json",
+    "path": "tsconfig.json",
+    "sha": "325011ab8bd68a1eb3cea7b8e94674a2199bbf7e",
+    "size": 1546,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/tsconfig.json?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/tsconfig.json",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/325011ab8bd68a1eb3cea7b8e94674a2199bbf7e",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/tsconfig.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/tsconfig.json?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/325011ab8bd68a1eb3cea7b8e94674a2199bbf7e",
+      "html": "https://github.com/prettier/prettier/blob/main/tsconfig.json"
+    }
+  },
+  {
+    "name": "types",
+    "path": "types",
+    "sha": "8e0c938c6e7cfbed330feb27e11e72fcd87e3af1",
+    "size": 0,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/types?ref=main",
+    "html_url": "https://github.com/prettier/prettier/tree/main/types",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/trees/8e0c938c6e7cfbed330feb27e11e72fcd87e3af1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/types?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/trees/8e0c938c6e7cfbed330feb27e11e72fcd87e3af1",
+      "html": "https://github.com/prettier/prettier/tree/main/types"
+    }
+  },
+  {
+    "name": "vendors",
+    "path": "vendors",
+    "sha": "13a6f2c8c2fa8ca152b7b4edceefb5bb6c185ba8",
+    "size": 0,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/vendors?ref=main",
+    "html_url": "https://github.com/prettier/prettier/tree/main/vendors",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/trees/13a6f2c8c2fa8ca152b7b4edceefb5bb6c185ba8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/vendors?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/trees/13a6f2c8c2fa8ca152b7b4edceefb5bb6c185ba8",
+      "html": "https://github.com/prettier/prettier/tree/main/vendors"
+    }
+  },
+  {
+    "name": "website",
+    "path": "website",
+    "sha": "ca8cfc0893502a01b0d7b1b6ec4452bb43a5db55",
+    "size": 0,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/website?ref=main",
+    "html_url": "https://github.com/prettier/prettier/tree/main/website",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/trees/ca8cfc0893502a01b0d7b1b6ec4452bb43a5db55",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/website?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/trees/ca8cfc0893502a01b0d7b1b6ec4452bb43a5db55",
+      "html": "https://github.com/prettier/prettier/tree/main/website"
+    }
+  },
+  {
+    "name": "yarn.lock",
+    "path": "yarn.lock",
+    "sha": "4aba2924684a6763141a2568a50e871475cb4ab5",
+    "size": 380251,
+    "url": "https://api.github.com/repos/prettier/prettier/contents/yarn.lock?ref=main",
+    "html_url": "https://github.com/prettier/prettier/blob/main/yarn.lock",
+    "git_url": "https://api.github.com/repos/prettier/prettier/git/blobs/4aba2924684a6763141a2568a50e871475cb4ab5",
+    "download_url": "https://raw.githubusercontent.com/prettier/prettier/main/yarn.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/prettier/prettier/contents/yarn.lock?ref=main",
+      "git": "https://api.github.com/repos/prettier/prettier/git/blobs/4aba2924684a6763141a2568a50e871475cb4ab5",
+      "html": "https://github.com/prettier/prettier/blob/main/yarn.lock"
+    }
+  }
+]

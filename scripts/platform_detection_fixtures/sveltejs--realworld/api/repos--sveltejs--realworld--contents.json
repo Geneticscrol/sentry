@@ -1,0 +1,274 @@
+[
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "3b462cb0c4158547145078184d816bdcf314eaba",
+    "size": 210,
+    "url": "https://api.github.com/repos/sveltejs/realworld/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/sveltejs/realworld/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/sveltejs/realworld/git/blobs/3b462cb0c4158547145078184d816bdcf314eaba",
+    "download_url": "https://raw.githubusercontent.com/sveltejs/realworld/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/sveltejs/realworld/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/sveltejs/realworld/git/blobs/3b462cb0c4158547145078184d816bdcf314eaba",
+      "html": "https://github.com/sveltejs/realworld/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": ".npmrc",
+    "path": ".npmrc",
+    "sha": "b6f27f135954640c8cc5bfd7b8c9922ca6eb2aad",
+    "size": 19,
+    "url": "https://api.github.com/repos/sveltejs/realworld/contents/.npmrc?ref=master",
+    "html_url": "https://github.com/sveltejs/realworld/blob/master/.npmrc",
+    "git_url": "https://api.github.com/repos/sveltejs/realworld/git/blobs/b6f27f135954640c8cc5bfd7b8c9922ca6eb2aad",
+    "download_url": "https://raw.githubusercontent.com/sveltejs/realworld/master/.npmrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/sveltejs/realworld/contents/.npmrc?ref=master",
+      "git": "https://api.github.com/repos/sveltejs/realworld/git/blobs/b6f27f135954640c8cc5bfd7b8c9922ca6eb2aad",
+      "html": "https://github.com/sveltejs/realworld/blob/master/.npmrc"
+    }
+  },
+  {
+    "name": ".nvmrc",
+    "path": ".nvmrc",
+    "sha": "209e3ef4b6247ce746048d5711befda46206d235",
+    "size": 3,
+    "url": "https://api.github.com/repos/sveltejs/realworld/contents/.nvmrc?ref=master",
+    "html_url": "https://github.com/sveltejs/realworld/blob/master/.nvmrc",
+    "git_url": "https://api.github.com/repos/sveltejs/realworld/git/blobs/209e3ef4b6247ce746048d5711befda46206d235",
+    "download_url": "https://raw.githubusercontent.com/sveltejs/realworld/master/.nvmrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/sveltejs/realworld/contents/.nvmrc?ref=master",
+      "git": "https://api.github.com/repos/sveltejs/realworld/git/blobs/209e3ef4b6247ce746048d5711befda46206d235",
+      "html": "https://github.com/sveltejs/realworld/blob/master/.nvmrc"
+    }
+  },
+  {
+    "name": ".prettierignore",
+    "path": ".prettierignore",
+    "sha": "cc41cea9b2673a41363c39cacdf91b63df4e8ba0",
+    "size": 81,
+    "url": "https://api.github.com/repos/sveltejs/realworld/contents/.prettierignore?ref=master",
+    "html_url": "https://github.com/sveltejs/realworld/blob/master/.prettierignore",
+    "git_url": "https://api.github.com/repos/sveltejs/realworld/git/blobs/cc41cea9b2673a41363c39cacdf91b63df4e8ba0",
+    "download_url": "https://raw.githubusercontent.com/sveltejs/realworld/master/.prettierignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/sveltejs/realworld/contents/.prettierignore?ref=master",
+      "git": "https://api.github.com/repos/sveltejs/realworld/git/blobs/cc41cea9b2673a41363c39cacdf91b63df4e8ba0",
+      "html": "https://github.com/sveltejs/realworld/blob/master/.prettierignore"
+    }
+  },
+  {
+    "name": ".prettierrc",
+    "path": ".prettierrc",
+    "sha": "3f7802c3728f1ae67e245f68735362eb8fa4fe4b",
+    "size": 225,
+    "url": "https://api.github.com/repos/sveltejs/realworld/contents/.prettierrc?ref=master",
+    "html_url": "https://github.com/sveltejs/realworld/blob/master/.prettierrc",
+    "git_url": "https://api.github.com/repos/sveltejs/realworld/git/blobs/3f7802c3728f1ae67e245f68735362eb8fa4fe4b",
+    "download_url": "https://raw.githubusercontent.com/sveltejs/realworld/master/.prettierrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/sveltejs/realworld/contents/.prettierrc?ref=master",
+      "git": "https://api.github.com/repos/sveltejs/realworld/git/blobs/3f7802c3728f1ae67e245f68735362eb8fa4fe4b",
+      "html": "https://github.com/sveltejs/realworld/blob/master/.prettierrc"
+    }
+  },
+  {
+    "name": "CHANGELOG.md",
+    "path": "CHANGELOG.md",
+    "sha": "8902d9933a005e1055fec55db5a6dc0128ed380e",
+    "size": 101,
+    "url": "https://api.github.com/repos/sveltejs/realworld/contents/CHANGELOG.md?ref=master",
+    "html_url": "https://github.com/sveltejs/realworld/blob/master/CHANGELOG.md",
+    "git_url": "https://api.github.com/repos/sveltejs/realworld/git/blobs/8902d9933a005e1055fec55db5a6dc0128ed380e",
+    "download_url": "https://raw.githubusercontent.com/sveltejs/realworld/master/CHANGELOG.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/sveltejs/realworld/contents/CHANGELOG.md?ref=master",
+      "git": "https://api.github.com/repos/sveltejs/realworld/git/blobs/8902d9933a005e1055fec55db5a6dc0128ed380e",
+      "html": "https://github.com/sveltejs/realworld/blob/master/CHANGELOG.md"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "825c9afb7a8ac5eacdbfef7decdbbeaf2b1f017d",
+    "size": 1117,
+    "url": "https://api.github.com/repos/sveltejs/realworld/contents/LICENSE?ref=master",
+    "html_url": "https://github.com/sveltejs/realworld/blob/master/LICENSE",
+    "git_url": "https://api.github.com/repos/sveltejs/realworld/git/blobs/825c9afb7a8ac5eacdbfef7decdbbeaf2b1f017d",
+    "download_url": "https://raw.githubusercontent.com/sveltejs/realworld/master/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/sveltejs/realworld/contents/LICENSE?ref=master",
+      "git": "https://api.github.com/repos/sveltejs/realworld/git/blobs/825c9afb7a8ac5eacdbfef7decdbbeaf2b1f017d",
+      "html": "https://github.com/sveltejs/realworld/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "989d51904ea5e226a6754867a137fbc8e9cf8fc2",
+    "size": 833,
+    "url": "https://api.github.com/repos/sveltejs/realworld/contents/README.md?ref=master",
+    "html_url": "https://github.com/sveltejs/realworld/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/sveltejs/realworld/git/blobs/989d51904ea5e226a6754867a137fbc8e9cf8fc2",
+    "download_url": "https://raw.githubusercontent.com/sveltejs/realworld/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/sveltejs/realworld/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/sveltejs/realworld/git/blobs/989d51904ea5e226a6754867a137fbc8e9cf8fc2",
+      "html": "https://github.com/sveltejs/realworld/blob/master/README.md"
+    }
+  },
+  {
+    "name": "jsconfig.json",
+    "path": "jsconfig.json",
+    "sha": "81ff9770cd8aef963618a2267208f8e0a6df209f",
+    "size": 46,
+    "url": "https://api.github.com/repos/sveltejs/realworld/contents/jsconfig.json?ref=master",
+    "html_url": "https://github.com/sveltejs/realworld/blob/master/jsconfig.json",
+    "git_url": "https://api.github.com/repos/sveltejs/realworld/git/blobs/81ff9770cd8aef963618a2267208f8e0a6df209f",
+    "download_url": "https://raw.githubusercontent.com/sveltejs/realworld/master/jsconfig.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/sveltejs/realworld/contents/jsconfig.json?ref=master",
+      "git": "https://api.github.com/repos/sveltejs/realworld/git/blobs/81ff9770cd8aef963618a2267208f8e0a6df209f",
+      "html": "https://github.com/sveltejs/realworld/blob/master/jsconfig.json"
+    }
+  },
+  {
+    "name": "logo.png",
+    "path": "logo.png",
+    "sha": "7187b1269f5a8e89d41aa9bc98443fc3c3f5b8c9",
+    "size": 45236,
+    "url": "https://api.github.com/repos/sveltejs/realworld/contents/logo.png?ref=master",
+    "html_url": "https://github.com/sveltejs/realworld/blob/master/logo.png",
+    "git_url": "https://api.github.com/repos/sveltejs/realworld/git/blobs/7187b1269f5a8e89d41aa9bc98443fc3c3f5b8c9",
+    "download_url": "https://raw.githubusercontent.com/sveltejs/realworld/master/logo.png",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/sveltejs/realworld/contents/logo.png?ref=master",
+      "git": "https://api.github.com/repos/sveltejs/realworld/git/blobs/7187b1269f5a8e89d41aa9bc98443fc3c3f5b8c9",
+      "html": "https://github.com/sveltejs/realworld/blob/master/logo.png"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "9298afd5b76b8961671432471ff08e800fa253e6",
+    "size": 637,
+    "url": "https://api.github.com/repos/sveltejs/realworld/contents/package.json?ref=master",
+    "html_url": "https://github.com/sveltejs/realworld/blob/master/package.json",
+    "git_url": "https://api.github.com/repos/sveltejs/realworld/git/blobs/9298afd5b76b8961671432471ff08e800fa253e6",
+    "download_url": "https://raw.githubusercontent.com/sveltejs/realworld/master/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/sveltejs/realworld/contents/package.json?ref=master",
+      "git": "https://api.github.com/repos/sveltejs/realworld/git/blobs/9298afd5b76b8961671432471ff08e800fa253e6",
+      "html": "https://github.com/sveltejs/realworld/blob/master/package.json"
+    }
+  },
+  {
+    "name": "pnpm-lock.yaml",
+    "path": "pnpm-lock.yaml",
+    "sha": "870d8022eeaded5cf7166813dd63301a1251647a",
+    "size": 43062,
+    "url": "https://api.github.com/repos/sveltejs/realworld/contents/pnpm-lock.yaml?ref=master",
+    "html_url": "https://github.com/sveltejs/realworld/blob/master/pnpm-lock.yaml",
+    "git_url": "https://api.github.com/repos/sveltejs/realworld/git/blobs/870d8022eeaded5cf7166813dd63301a1251647a",
+    "download_url": "https://raw.githubusercontent.com/sveltejs/realworld/master/pnpm-lock.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/sveltejs/realworld/contents/pnpm-lock.yaml?ref=master",
+      "git": "https://api.github.com/repos/sveltejs/realworld/git/blobs/870d8022eeaded5cf7166813dd63301a1251647a",
+      "html": "https://github.com/sveltejs/realworld/blob/master/pnpm-lock.yaml"
+    }
+  },
+  {
+    "name": "pnpm-workspace.yaml",
+    "path": "pnpm-workspace.yaml",
+    "sha": "efc037aa8467135a1f3578711c4bf2240aff1cb3",
+    "size": 35,
+    "url": "https://api.github.com/repos/sveltejs/realworld/contents/pnpm-workspace.yaml?ref=master",
+    "html_url": "https://github.com/sveltejs/realworld/blob/master/pnpm-workspace.yaml",
+    "git_url": "https://api.github.com/repos/sveltejs/realworld/git/blobs/efc037aa8467135a1f3578711c4bf2240aff1cb3",
+    "download_url": "https://raw.githubusercontent.com/sveltejs/realworld/master/pnpm-workspace.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/sveltejs/realworld/contents/pnpm-workspace.yaml?ref=master",
+      "git": "https://api.github.com/repos/sveltejs/realworld/git/blobs/efc037aa8467135a1f3578711c4bf2240aff1cb3",
+      "html": "https://github.com/sveltejs/realworld/blob/master/pnpm-workspace.yaml"
+    }
+  },
+  {
+    "name": "src",
+    "path": "src",
+    "sha": "8576192b520c4009dddc00bacc3f09626ead9828",
+    "size": 0,
+    "url": "https://api.github.com/repos/sveltejs/realworld/contents/src?ref=master",
+    "html_url": "https://github.com/sveltejs/realworld/tree/master/src",
+    "git_url": "https://api.github.com/repos/sveltejs/realworld/git/trees/8576192b520c4009dddc00bacc3f09626ead9828",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/sveltejs/realworld/contents/src?ref=master",
+      "git": "https://api.github.com/repos/sveltejs/realworld/git/trees/8576192b520c4009dddc00bacc3f09626ead9828",
+      "html": "https://github.com/sveltejs/realworld/tree/master/src"
+    }
+  },
+  {
+    "name": "static",
+    "path": "static",
+    "sha": "437c1c9391f4a6747810426ac2f30696e6635372",
+    "size": 0,
+    "url": "https://api.github.com/repos/sveltejs/realworld/contents/static?ref=master",
+    "html_url": "https://github.com/sveltejs/realworld/tree/master/static",
+    "git_url": "https://api.github.com/repos/sveltejs/realworld/git/trees/437c1c9391f4a6747810426ac2f30696e6635372",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/sveltejs/realworld/contents/static?ref=master",
+      "git": "https://api.github.com/repos/sveltejs/realworld/git/trees/437c1c9391f4a6747810426ac2f30696e6635372",
+      "html": "https://github.com/sveltejs/realworld/tree/master/static"
+    }
+  },
+  {
+    "name": "svelte.config.js",
+    "path": "svelte.config.js",
+    "sha": "36cc4ccf03557e360b31d6aa8a68b793f841342e",
+    "size": 209,
+    "url": "https://api.github.com/repos/sveltejs/realworld/contents/svelte.config.js?ref=master",
+    "html_url": "https://github.com/sveltejs/realworld/blob/master/svelte.config.js",
+    "git_url": "https://api.github.com/repos/sveltejs/realworld/git/blobs/36cc4ccf03557e360b31d6aa8a68b793f841342e",
+    "download_url": "https://raw.githubusercontent.com/sveltejs/realworld/master/svelte.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/sveltejs/realworld/contents/svelte.config.js?ref=master",
+      "git": "https://api.github.com/repos/sveltejs/realworld/git/blobs/36cc4ccf03557e360b31d6aa8a68b793f841342e",
+      "html": "https://github.com/sveltejs/realworld/blob/master/svelte.config.js"
+    }
+  },
+  {
+    "name": "vite.config.js",
+    "path": "vite.config.js",
+    "sha": "bbf8c7da43f0080dc6b9fb275f9583b7c17f1506",
+    "size": 144,
+    "url": "https://api.github.com/repos/sveltejs/realworld/contents/vite.config.js?ref=master",
+    "html_url": "https://github.com/sveltejs/realworld/blob/master/vite.config.js",
+    "git_url": "https://api.github.com/repos/sveltejs/realworld/git/blobs/bbf8c7da43f0080dc6b9fb275f9583b7c17f1506",
+    "download_url": "https://raw.githubusercontent.com/sveltejs/realworld/master/vite.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/sveltejs/realworld/contents/vite.config.js?ref=master",
+      "git": "https://api.github.com/repos/sveltejs/realworld/git/blobs/bbf8c7da43f0080dc6b9fb275f9583b7c17f1506",
+      "html": "https://github.com/sveltejs/realworld/blob/master/vite.config.js"
+    }
+  }
+]

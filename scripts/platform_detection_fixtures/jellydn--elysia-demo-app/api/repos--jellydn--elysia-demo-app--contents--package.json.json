@@ -1,0 +1,18 @@
+{
+  "name": "package.json",
+  "path": "package.json",
+  "sha": "0a7488565c9ada9e4e43c540c419fbc09bd950b4",
+  "size": 1155,
+  "url": "https://api.github.com/repos/jellydn/elysia-demo-app/contents/package.json?ref=main",
+  "html_url": "https://github.com/jellydn/elysia-demo-app/blob/main/package.json",
+  "git_url": "https://api.github.com/repos/jellydn/elysia-demo-app/git/blobs/0a7488565c9ada9e4e43c540c419fbc09bd950b4",
+  "download_url": "https://raw.githubusercontent.com/jellydn/elysia-demo-app/main/package.json",
+  "type": "file",
+  "content": "ewogICJuYW1lIjogImVseXNpYS1kZW1vLWFwcCIsCiAgInZlcnNpb24iOiAi\nMS4wLjUwIiwKICAibW9kdWxlIjogInNlcnZlci9pbmRleC5qcyIsCiAgInNj\ncmlwdHMiOiB7CiAgICAiZGV2IjogInJ1bi1wIC1sIGRldjoqIiwKICAgICJk\nZXY6c2VydmVyIjogImJ1biBydW4gLS13YXRjaCBzZXJ2ZXIvaW5kZXgudHMi\nLAogICAgInNlcnZlcjppbnNwZWN0IjogImJ1biAtLWluc3BlY3Qgc2VydmVy\nL2luZGV4LnRzIiwKICAgICJkZXY6d2ViIjogImNkIHdlYiAmJiBidW4gcnVu\nIGRldiIsCiAgICAicG9zdGluc3RhbGwiOiAiY2Qgd2ViICYmIGJ1biBpbnN0\nYWxsIiwKICAgICJmb3JtYXQiOiAiYmlvbWUgZm9ybWF0IC4iLAogICAgImxp\nbnQiOiAiYmlvbWUgbGludCAuIiwKICAgICJjaGVjayI6ICJiaW9tZSBjaGVj\nayAtLWFwcGx5IC4iLAogICAgInRlc3QiOiAiYnVuIHRlc3QiLAogICAgInR5\ncGVjaGVjayI6ICJydW4tcCB0eXBlY2hlY2s6KiIsCiAgICAidHlwZWNoZWNr\nOnNlcnZlciI6ICJ0c2MgLS1ub0VtaXQgLS1wcm9qZWN0IHNlcnZlci90c2Nv\nbmZpZy5zZXJ2ZXIuanNvbiIsCiAgICAidHlwZWNoZWNrOndlYiI6ICJ0c2Mg\nLS1ub0VtaXQgLS1wcm9qZWN0IHdlYi90c2NvbmZpZy5qc29uIgogIH0sCiAg\nImRlcGVuZGVuY2llcyI6IHsKICAgICJAZWx5c2lhanMvY29ycyI6ICIwLjcu\nMiIsCiAgICAiQGVseXNpYWpzL2VkZW4iOiAiMC43LjciLAogICAgIkBlbHlz\naWFqcy9zdGF0aWMiOiAiMC43LjEiLAogICAgIkBlbHlzaWFqcy9zd2FnZ2Vy\nIjogIjEuMC41IiwKICAgICJlbHlzaWEiOiAibGF0ZXN0IiwKICAgICJlbHlz\naWEtYXV0b3JvdXRlcyI6ICIwLjUuMCIsCiAgICAicGlubyI6ICI5LjMuMSIK\nICB9LAogICJkZXZEZXBlbmRlbmNpZXMiOiB7CiAgICAiQGJpb21lanMvYmlv\nbWUiOiAiMS44LjMiLAogICAgIkB0c2NvbmZpZy9zdmVsdGUiOiAiNS4wLjQi\nLAogICAgImJ1bi10eXBlcyI6ICJsYXRlc3QiLAogICAgIm5wbS1ydW4tYWxs\nMiI6ICI4LjAuMSIsCiAgICAic3VwZXJqc29uIjogIjIuMi4xIiwKICAgICJz\ndmVsdGUiOiAibmV4dCIsCiAgICAic3ZlbHRlLWNoZWNrIjogIjQuMC4xIiwK\nICAgICJ0c2xpYiI6ICIyLjYuMyIsCiAgICAidHlwZXNjcmlwdCI6ICI1LjUu\nMyIsCiAgICAidml0ZSI6ICI2LjQuMSIKICB9Cn0K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/jellydn/elysia-demo-app/contents/package.json?ref=main",
+    "git": "https://api.github.com/repos/jellydn/elysia-demo-app/git/blobs/0a7488565c9ada9e4e43c540c419fbc09bd950b4",
+    "html": "https://github.com/jellydn/elysia-demo-app/blob/main/package.json"
+  }
+}

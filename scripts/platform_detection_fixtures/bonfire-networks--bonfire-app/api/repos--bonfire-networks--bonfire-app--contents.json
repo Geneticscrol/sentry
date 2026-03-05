@@ -1,0 +1,930 @@
+[
+  {
+    "name": ".claude",
+    "path": ".claude",
+    "sha": "9bb5130caf94a8a072367dd49ba4a3b937a4bbe6",
+    "size": 0,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.claude?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/tree/main/.claude",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/9bb5130caf94a8a072367dd49ba4a3b937a4bbe6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.claude?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/9bb5130caf94a8a072367dd49ba4a3b937a4bbe6",
+      "html": "https://github.com/bonfire-networks/bonfire-app/tree/main/.claude"
+    }
+  },
+  {
+    "name": ".credo.exs",
+    "path": ".credo.exs",
+    "sha": "83b97790f8ebe23fc5d4b005be1b13b59931f7de",
+    "size": 653,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.credo.exs?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/.credo.exs",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/83b97790f8ebe23fc5d4b005be1b13b59931f7de",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/.credo.exs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.credo.exs?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/83b97790f8ebe23fc5d4b005be1b13b59931f7de",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/.credo.exs"
+    }
+  },
+  {
+    "name": ".cursorignore",
+    "path": ".cursorignore",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.cursorignore?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/.cursorignore",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/.cursorignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.cursorignore?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/.cursorignore"
+    }
+  },
+  {
+    "name": ".dockerignore",
+    "path": ".dockerignore",
+    "sha": "74b935425154d609b581dd366d727142bb7cd9c9",
+    "size": 836,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.dockerignore?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/.dockerignore",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/74b935425154d609b581dd366d727142bb7cd9c9",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/.dockerignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.dockerignore?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/74b935425154d609b581dd366d727142bb7cd9c9",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/.dockerignore"
+    }
+  },
+  {
+    "name": ".envrc",
+    "path": ".envrc",
+    "sha": "533376d44222559ab03b2abfcaacd8676d2e5f51",
+    "size": 859,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.envrc?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/.envrc",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/533376d44222559ab03b2abfcaacd8676d2e5f51",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/.envrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.envrc?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/533376d44222559ab03b2abfcaacd8676d2e5f51",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/.envrc"
+    }
+  },
+  {
+    "name": ".formatter.exs",
+    "path": ".formatter.exs",
+    "sha": "332444f473b30a5c854c0935c840ca6a112ac3df",
+    "size": 1212,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.formatter.exs?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/.formatter.exs",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/332444f473b30a5c854c0935c840ca6a112ac3df",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/.formatter.exs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.formatter.exs?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/332444f473b30a5c854c0935c840ca6a112ac3df",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/.formatter.exs"
+    }
+  },
+  {
+    "name": ".gitattributes",
+    "path": ".gitattributes",
+    "sha": "0b5c8720e85e6be5d6d0d070d490ee0d77fdeca0",
+    "size": 146,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.gitattributes?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/.gitattributes",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/0b5c8720e85e6be5d6d0d070d490ee0d77fdeca0",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/.gitattributes",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.gitattributes?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/0b5c8720e85e6be5d6d0d070d490ee0d77fdeca0",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/.gitattributes"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "f514bcf3f118dcf1f79962b2282c34cf2b07acd1",
+    "size": 0,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.github?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/tree/main/.github",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/f514bcf3f118dcf1f79962b2282c34cf2b07acd1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/f514bcf3f118dcf1f79962b2282c34cf2b07acd1",
+      "html": "https://github.com/bonfire-networks/bonfire-app/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "3439c9122da8d9c2a4e9b7a464e4bdde8da52479",
+    "size": 1980,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/3439c9122da8d9c2a4e9b7a464e4bdde8da52479",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/3439c9122da8d9c2a4e9b7a464e4bdde8da52479",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".gitpod.Dockerfile",
+    "path": ".gitpod.Dockerfile",
+    "sha": "09c3016cf026ff02405b29f7d2a5f95ed13e2dcb",
+    "size": 169,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.gitpod.Dockerfile?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/.gitpod.Dockerfile",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/09c3016cf026ff02405b29f7d2a5f95ed13e2dcb",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/.gitpod.Dockerfile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.gitpod.Dockerfile?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/09c3016cf026ff02405b29f7d2a5f95ed13e2dcb",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/.gitpod.Dockerfile"
+    }
+  },
+  {
+    "name": ".gitpod.yml",
+    "path": ".gitpod.yml",
+    "sha": "5694dbb6c60edfdc27e8482104e516d4de5207dc",
+    "size": 704,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.gitpod.yml?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/.gitpod.yml",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/5694dbb6c60edfdc27e8482104e516d4de5207dc",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/.gitpod.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.gitpod.yml?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/5694dbb6c60edfdc27e8482104e516d4de5207dc",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/.gitpod.yml"
+    }
+  },
+  {
+    "name": ".iex.exs",
+    "path": ".iex.exs",
+    "sha": "24540d2b14a63e1d3d50cb9532d7081f000332a9",
+    "size": 1234,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.iex.exs?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/.iex.exs",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/24540d2b14a63e1d3d50cb9532d7081f000332a9",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/.iex.exs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.iex.exs?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/24540d2b14a63e1d3d50cb9532d7081f000332a9",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/.iex.exs"
+    }
+  },
+  {
+    "name": ".recode.exs",
+    "path": ".recode.exs",
+    "sha": "0bfc12fb55b3a0e66f56c1dc69ca23caa3f857cc",
+    "size": 1838,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.recode.exs?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/.recode.exs",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/0bfc12fb55b3a0e66f56c1dc69ca23caa3f857cc",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/.recode.exs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.recode.exs?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/0bfc12fb55b3a0e66f56c1dc69ca23caa3f857cc",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/.recode.exs"
+    }
+  },
+  {
+    "name": ".sobelow",
+    "path": ".sobelow",
+    "sha": "0fab76d677746887a4ec7d6cc9fe0c7e274eccbc",
+    "size": 0,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.sobelow?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/tree/main/.sobelow",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/0fab76d677746887a4ec7d6cc9fe0c7e274eccbc",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.sobelow?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/0fab76d677746887a4ec7d6cc9fe0c7e274eccbc",
+      "html": "https://github.com/bonfire-networks/bonfire-app/tree/main/.sobelow"
+    }
+  },
+  {
+    "name": ".tool-versions",
+    "path": ".tool-versions",
+    "sha": "8c11958cdbaacb1d5f7d5174d4fc6dfff09d75d5",
+    "size": 516,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.tool-versions?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/.tool-versions",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/8c11958cdbaacb1d5f7d5174d4fc6dfff09d75d5",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/.tool-versions",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.tool-versions?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/8c11958cdbaacb1d5f7d5174d4fc6dfff09d75d5",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/.tool-versions"
+    }
+  },
+  {
+    "name": ".tx",
+    "path": ".tx",
+    "sha": "61d868f9814cd17bf7fa4728dca1cbaaec1de278",
+    "size": 0,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.tx?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/tree/main/.tx",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/61d868f9814cd17bf7fa4728dca1cbaaec1de278",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.tx?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/61d868f9814cd17bf7fa4728dca1cbaaec1de278",
+      "html": "https://github.com/bonfire-networks/bonfire-app/tree/main/.tx"
+    }
+  },
+  {
+    "name": ".yarnrc",
+    "path": ".yarnrc",
+    "sha": "1ecbdeebc69b862cbcf967459aeb5339682052f5",
+    "size": 241,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.yarnrc?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/.yarnrc",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/1ecbdeebc69b862cbcf967459aeb5339682052f5",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/.yarnrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.yarnrc?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/1ecbdeebc69b862cbcf967459aeb5339682052f5",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/.yarnrc"
+    }
+  },
+  {
+    "name": ".zed",
+    "path": ".zed",
+    "sha": "5f4d772901968b3c89908223186311a5e176b895",
+    "size": 0,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.zed?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/tree/main/.zed",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/5f4d772901968b3c89908223186311a5e176b895",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/.zed?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/5f4d772901968b3c89908223186311a5e176b895",
+      "html": "https://github.com/bonfire-networks/bonfire-app/tree/main/.zed"
+    }
+  },
+  {
+    "name": "AGENTS.md",
+    "path": "AGENTS.md",
+    "sha": "99d1550dcf1de7c34c80443866eb09a6fd2329ba",
+    "size": 15750,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/AGENTS.md?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/AGENTS.md",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/99d1550dcf1de7c34c80443866eb09a6fd2329ba",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/AGENTS.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/AGENTS.md?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/99d1550dcf1de7c34c80443866eb09a6fd2329ba",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/AGENTS.md"
+    }
+  },
+  {
+    "name": "CloudronManifest.json",
+    "path": "CloudronManifest.json",
+    "sha": "1e75b712ab1a767898e6566d1deb4a968b0e3a7b",
+    "size": 1229,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/CloudronManifest.json?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/CloudronManifest.json",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/1e75b712ab1a767898e6566d1deb4a968b0e3a7b",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/CloudronManifest.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/CloudronManifest.json?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/1e75b712ab1a767898e6566d1deb4a968b0e3a7b",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/CloudronManifest.json"
+    }
+  },
+  {
+    "name": "Dockerfile.dev",
+    "path": "Dockerfile.dev",
+    "sha": "c5dfe8e9d451c40f94b57054dc8869c5b3e775cf",
+    "size": 651,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/Dockerfile.dev?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/Dockerfile.dev",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/c5dfe8e9d451c40f94b57054dc8869c5b3e775cf",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/Dockerfile.dev",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/Dockerfile.dev?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/c5dfe8e9d451c40f94b57054dc8869c5b3e775cf",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/Dockerfile.dev"
+    }
+  },
+  {
+    "name": "Dockerfile.old",
+    "path": "Dockerfile.old",
+    "sha": "2d8d8b66fe219e1060c58e0fa12495cb020550f1",
+    "size": 1490,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/Dockerfile.old?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/Dockerfile.old",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/2d8d8b66fe219e1060c58e0fa12495cb020550f1",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/Dockerfile.old",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/Dockerfile.old?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/2d8d8b66fe219e1060c58e0fa12495cb020550f1",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/Dockerfile.old"
+    }
+  },
+  {
+    "name": "Dockerfile.release",
+    "path": "Dockerfile.release",
+    "sha": "c7b1e35d0c2fa0d46e83dd00c9ff9d26437a25b1",
+    "size": 9590,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/Dockerfile.release?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/Dockerfile.release",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/c7b1e35d0c2fa0d46e83dd00c9ff9d26437a25b1",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/Dockerfile.release",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/Dockerfile.release?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/c7b1e35d0c2fa0d46e83dd00c9ff9d26437a25b1",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/Dockerfile.release"
+    }
+  },
+  {
+    "name": "LICENSES",
+    "path": "LICENSES",
+    "sha": "8dfd7ff8b902d492fc36bdcef24f9b927381d984",
+    "size": 0,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/LICENSES?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/tree/main/LICENSES",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/8dfd7ff8b902d492fc36bdcef24f9b927381d984",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/LICENSES?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/8dfd7ff8b902d492fc36bdcef24f9b927381d984",
+      "html": "https://github.com/bonfire-networks/bonfire-app/tree/main/LICENSES"
+    }
+  },
+  {
+    "name": "Makefile",
+    "path": "Makefile",
+    "sha": "cf640badc24cd7e32da612d13390e0d20b35093f",
+    "size": 39,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/Makefile?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/Makefile",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/cf640badc24cd7e32da612d13390e0d20b35093f",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/Makefile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/Makefile?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/cf640badc24cd7e32da612d13390e0d20b35093f",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/Makefile"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "68af1f9e0d4d2a90cb3acba9d3211db9393345a4",
+    "size": 7228,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/README.md?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/68af1f9e0d4d2a90cb3acba9d3211db9393345a4",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/68af1f9e0d4d2a90cb3acba9d3211db9393345a4",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/README.md"
+    }
+  },
+  {
+    "name": "SECURITY.md",
+    "path": "SECURITY.md",
+    "sha": "97414c332a8c87a2c72e7ef7e9d094074f256053",
+    "size": 2977,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/SECURITY.md?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/SECURITY.md",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/97414c332a8c87a2c72e7ef7e9d094074f256053",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/SECURITY.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/SECURITY.md?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/97414c332a8c87a2c72e7ef7e9d094074f256053",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/SECURITY.md"
+    }
+  },
+  {
+    "name": "benchmarks",
+    "path": "benchmarks",
+    "sha": "24fd9f61f97486569933ed3daf0ad2866a9608ed",
+    "size": 0,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/benchmarks?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/tree/main/benchmarks",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/24fd9f61f97486569933ed3daf0ad2866a9608ed",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/benchmarks?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/24fd9f61f97486569933ed3daf0ad2866a9608ed",
+      "html": "https://github.com/bonfire-networks/bonfire-app/tree/main/benchmarks"
+    }
+  },
+  {
+    "name": "bonfire-workspace-generate.sh",
+    "path": "bonfire-workspace-generate.sh",
+    "sha": "772b02f2ea940dd2fa368cfc1a3faa087c07ef29",
+    "size": 286,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/bonfire-workspace-generate.sh?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/bonfire-workspace-generate.sh",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/772b02f2ea940dd2fa368cfc1a3faa087c07ef29",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/bonfire-workspace-generate.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/bonfire-workspace-generate.sh?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/772b02f2ea940dd2fa368cfc1a3faa087c07ef29",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/bonfire-workspace-generate.sh"
+    }
+  },
+  {
+    "name": "config",
+    "path": "config",
+    "sha": "377f78066873529918876bcadd433388c7b435da",
+    "size": 0,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/config?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/tree/main/config",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/377f78066873529918876bcadd433388c7b435da",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/config?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/377f78066873529918876bcadd433388c7b435da",
+      "html": "https://github.com/bonfire-networks/bonfire-app/tree/main/config"
+    }
+  },
+  {
+    "name": "deps-alpine-build.sh",
+    "path": "deps-alpine-build.sh",
+    "sha": "58ec6dfac79a43e97adc4fbfee10c55f6731622c",
+    "size": 456,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/deps-alpine-build.sh?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/deps-alpine-build.sh",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/58ec6dfac79a43e97adc4fbfee10c55f6731622c",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/deps-alpine-build.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/deps-alpine-build.sh?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/58ec6dfac79a43e97adc4fbfee10c55f6731622c",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/deps-alpine-build.sh"
+    }
+  },
+  {
+    "name": "deps-alpine.sh",
+    "path": "deps-alpine.sh",
+    "sha": "566c1bea4fac4fb087fc217de4af258b25f5c048",
+    "size": 181,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/deps-alpine.sh?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/deps-alpine.sh",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/566c1bea4fac4fb087fc217de4af258b25f5c048",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/deps-alpine.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/deps-alpine.sh?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/566c1bea4fac4fb087fc217de4af258b25f5c048",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/deps-alpine.sh"
+    }
+  },
+  {
+    "name": "deps-debian-build.sh",
+    "path": "deps-debian-build.sh",
+    "sha": "e5a45aa67e58f74d27443f529c0b0d73b167efb3",
+    "size": 1180,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/deps-debian-build.sh?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/deps-debian-build.sh",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/e5a45aa67e58f74d27443f529c0b0d73b167efb3",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/deps-debian-build.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/deps-debian-build.sh?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/e5a45aa67e58f74d27443f529c0b0d73b167efb3",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/deps-debian-build.sh"
+    }
+  },
+  {
+    "name": "deps-debian.sh",
+    "path": "deps-debian.sh",
+    "sha": "c0830b48d92ba780a6966f519ab2779e94d28841",
+    "size": 278,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/deps-debian.sh?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/deps-debian.sh",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/c0830b48d92ba780a6966f519ab2779e94d28841",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/deps-debian.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/deps-debian.sh?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/c0830b48d92ba780a6966f519ab2779e94d28841",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/deps-debian.sh"
+    }
+  },
+  {
+    "name": "deps-test-browser.sh",
+    "path": "deps-test-browser.sh",
+    "sha": "ad42258b19108f400fb3d6c211ac55dbcbd53953",
+    "size": 2669,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/deps-test-browser.sh?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/deps-test-browser.sh",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/ad42258b19108f400fb3d6c211ac55dbcbd53953",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/deps-test-browser.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/deps-test-browser.sh?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/ad42258b19108f400fb3d6c211ac55dbcbd53953",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/deps-test-browser.sh"
+    }
+  },
+  {
+    "name": "deps.nix",
+    "path": "deps.nix",
+    "sha": "eca9b7b2b5891eb549e95fbb4cda5f6058856562",
+    "size": 49249,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/deps.nix?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/deps.nix",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/eca9b7b2b5891eb549e95fbb4cda5f6058856562",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/deps.nix",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/deps.nix?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/eca9b7b2b5891eb549e95fbb4cda5f6058856562",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/deps.nix"
+    }
+  },
+  {
+    "name": "docker-compose.release.yml",
+    "path": "docker-compose.release.yml",
+    "sha": "ea7c330d1156a80102b98f0f18cd849491d526d1",
+    "size": 2093,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/docker-compose.release.yml?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/docker-compose.release.yml",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/ea7c330d1156a80102b98f0f18cd849491d526d1",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/docker-compose.release.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/docker-compose.release.yml?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/ea7c330d1156a80102b98f0f18cd849491d526d1",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/docker-compose.release.yml"
+    }
+  },
+  {
+    "name": "docker-compose.yml",
+    "path": "docker-compose.yml",
+    "sha": "80a7b8db584e64f08006874f693521c8c81bad6e",
+    "size": 3338,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/docker-compose.yml?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/docker-compose.yml",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/80a7b8db584e64f08006874f693521c8c81bad6e",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/docker-compose.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/docker-compose.yml?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/80a7b8db584e64f08006874f693521c8c81bad6e",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/docker-compose.yml"
+    }
+  },
+  {
+    "name": "docs",
+    "path": "docs",
+    "sha": "3f8987580ca7f00addca2cde2d182dadfd1a421a",
+    "size": 0,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/docs?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/tree/main/docs",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/3f8987580ca7f00addca2cde2d182dadfd1a421a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/docs?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/3f8987580ca7f00addca2cde2d182dadfd1a421a",
+      "html": "https://github.com/bonfire-networks/bonfire-app/tree/main/docs"
+    }
+  },
+  {
+    "name": "flake.lock",
+    "path": "flake.lock",
+    "sha": "d150b06228f28ed0558606f3cbde59536cbb371d",
+    "size": 1027,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/flake.lock?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/flake.lock",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/d150b06228f28ed0558606f3cbde59536cbb371d",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/flake.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/flake.lock?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/d150b06228f28ed0558606f3cbde59536cbb371d",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/flake.lock"
+    }
+  },
+  {
+    "name": "flake.nix",
+    "path": "flake.nix",
+    "sha": "360ec7c5e0df99055204e2c898a95601c12b65fc",
+    "size": 5654,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/flake.nix?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/flake.nix",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/360ec7c5e0df99055204e2c898a95601c12b65fc",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/flake.nix",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/flake.nix?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/360ec7c5e0df99055204e2c898a95601c12b65fc",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/flake.nix"
+    }
+  },
+  {
+    "name": "git-publish.sh",
+    "path": "git-publish.sh",
+    "sha": "d5576e9bd960a301d03d13de5a22a5a77cc2c09e",
+    "size": 2284,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/git-publish.sh?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/git-publish.sh",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/d5576e9bd960a301d03d13de5a22a5a77cc2c09e",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/git-publish.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/git-publish.sh?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/d5576e9bd960a301d03d13de5a22a5a77cc2c09e",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/git-publish.sh"
+    }
+  },
+  {
+    "name": "js-deps-get.sh",
+    "path": "js-deps-get.sh",
+    "sha": "46f454dd3787636fb28ca42213a386c4c3315414",
+    "size": 1222,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/js-deps-get.sh?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/js-deps-get.sh",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/46f454dd3787636fb28ca42213a386c4c3315414",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/js-deps-get.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/js-deps-get.sh?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/46f454dd3787636fb28ca42213a386c4c3315414",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/js-deps-get.sh"
+    }
+  },
+  {
+    "name": "justfile",
+    "path": "justfile",
+    "sha": "e6961af302a3efa85ced448333efe6d1dd3e677a",
+    "size": 56109,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/justfile?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/justfile",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/e6961af302a3efa85ced448333efe6d1dd3e677a",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/justfile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/justfile?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/e6961af302a3efa85ced448333efe6d1dd3e677a",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/justfile"
+    }
+  },
+  {
+    "name": "lib",
+    "path": "lib",
+    "sha": "7cd9550e48d4fb92bce00ee297cc3e0bdeb7fec8",
+    "size": 0,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/lib?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/tree/main/lib",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/7cd9550e48d4fb92bce00ee297cc3e0bdeb7fec8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/lib?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/7cd9550e48d4fb92bce00ee297cc3e0bdeb7fec8",
+      "html": "https://github.com/bonfire-networks/bonfire-app/tree/main/lib"
+    }
+  },
+  {
+    "name": "manifest.scm",
+    "path": "manifest.scm",
+    "sha": "77eefd31356642b325e59163f1ec54f913a5e59f",
+    "size": 5452,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/manifest.scm?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/manifest.scm",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/77eefd31356642b325e59163f1ec54f913a5e59f",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/manifest.scm",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/manifest.scm?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/77eefd31356642b325e59163f1ec54f913a5e59f",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/manifest.scm"
+    }
+  },
+  {
+    "name": "masto_api_coverage.json",
+    "path": "masto_api_coverage.json",
+    "sha": "5b4384a16073bda08d7161267a4b712eac70e928",
+    "size": 74741,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/masto_api_coverage.json?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/masto_api_coverage.json",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/5b4384a16073bda08d7161267a4b712eac70e928",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/masto_api_coverage.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/masto_api_coverage.json?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/5b4384a16073bda08d7161267a4b712eac70e928",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/masto_api_coverage.json"
+    }
+  },
+  {
+    "name": "mix.exs",
+    "path": "mix.exs",
+    "sha": "7a61cc0611b4824f0e366f936c84b7730c5c80b9",
+    "size": 21780,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/mix.exs?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/mix.exs",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/7a61cc0611b4824f0e366f936c84b7730c5c80b9",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/mix.exs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/mix.exs?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/7a61cc0611b4824f0e366f936c84b7730c5c80b9",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/mix.exs"
+    }
+  },
+  {
+    "name": "mix.lock",
+    "path": "mix.lock",
+    "sha": "692346ebf50861b23a4a794b72bd150721095f1f",
+    "size": 127113,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/mix.lock?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/mix.lock",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/692346ebf50861b23a4a794b72bd150721095f1f",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/mix.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/mix.lock?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/692346ebf50861b23a4a794b72bd150721095f1f",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/mix.lock"
+    }
+  },
+  {
+    "name": "native",
+    "path": "native",
+    "sha": "233e1594383c689bc81c486763e7fc8ce7de940e",
+    "size": 0,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/native?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/tree/main/native",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/233e1594383c689bc81c486763e7fc8ce7de940e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/native?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/233e1594383c689bc81c486763e7fc8ce7de940e",
+      "html": "https://github.com/bonfire-networks/bonfire-app/tree/main/native"
+    }
+  },
+  {
+    "name": "nix",
+    "path": "nix",
+    "sha": "335132e674dff7d3d06a6d469d800dcf9ada5e09",
+    "size": 0,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/nix?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/tree/main/nix",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/335132e674dff7d3d06a6d469d800dcf9ada5e09",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/nix?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/335132e674dff7d3d06a6d469d800dcf9ada5e09",
+      "html": "https://github.com/bonfire-networks/bonfire-app/tree/main/nix"
+    }
+  },
+  {
+    "name": "priv",
+    "path": "priv",
+    "sha": "f6ee9ab6cde598bfa8115b0d6d2c2c079faea473",
+    "size": 0,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/priv?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/tree/main/priv",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/f6ee9ab6cde598bfa8115b0d6d2c2c079faea473",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/priv?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/f6ee9ab6cde598bfa8115b0d6d2c2c079faea473",
+      "html": "https://github.com/bonfire-networks/bonfire-app/tree/main/priv"
+    }
+  },
+  {
+    "name": "props.nix",
+    "path": "props.nix",
+    "sha": "34898fa56e2ff2c9a8a1d071f5c6df44c818d219",
+    "size": 371,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/props.nix?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/props.nix",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/34898fa56e2ff2c9a8a1d071f5c6df44c818d219",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/props.nix",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/props.nix?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/34898fa56e2ff2c9a8a1d071f5c6df44c818d219",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/props.nix"
+    }
+  },
+  {
+    "name": "rel",
+    "path": "rel",
+    "sha": "616ced08228fc09babf7f43ce68fd5e80563365d",
+    "size": 0,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/rel?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/tree/main/rel",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/616ced08228fc09babf7f43ce68fd5e80563365d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/rel?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/616ced08228fc09babf7f43ce68fd5e80563365d",
+      "html": "https://github.com/bonfire-networks/bonfire-app/tree/main/rel"
+    }
+  },
+  {
+    "name": "reports",
+    "path": "reports",
+    "sha": "75c6d9cda24c89adefa98877a87b0de13d3cc9ac",
+    "size": 0,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/reports?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/tree/main/reports",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/75c6d9cda24c89adefa98877a87b0de13d3cc9ac",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/reports?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/75c6d9cda24c89adefa98877a87b0de13d3cc9ac",
+      "html": "https://github.com/bonfire-networks/bonfire-app/tree/main/reports"
+    }
+  },
+  {
+    "name": "src-tauri",
+    "path": "src-tauri",
+    "sha": "a3bc33ddb6ace150da9b6ef306b3ff5b93233b4b",
+    "size": 0,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/src-tauri?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/tree/main/src-tauri",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/a3bc33ddb6ace150da9b6ef306b3ff5b93233b4b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/src-tauri?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/a3bc33ddb6ace150da9b6ef306b3ff5b93233b4b",
+      "html": "https://github.com/bonfire-networks/bonfire-app/tree/main/src-tauri"
+    }
+  },
+  {
+    "name": "test",
+    "path": "test",
+    "sha": "dd681641f96ad97498292edc222572f39fdeae94",
+    "size": 0,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/test?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/tree/main/test",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/dd681641f96ad97498292edc222572f39fdeae94",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/test?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/trees/dd681641f96ad97498292edc222572f39fdeae94",
+      "html": "https://github.com/bonfire-networks/bonfire-app/tree/main/test"
+    }
+  },
+  {
+    "name": "tool-versions-to-env.sh",
+    "path": "tool-versions-to-env.sh",
+    "sha": "65814d2f1a861772dd77ee4367f28b48df2955a3",
+    "size": 3986,
+    "url": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/tool-versions-to-env.sh?ref=main",
+    "html_url": "https://github.com/bonfire-networks/bonfire-app/blob/main/tool-versions-to-env.sh",
+    "git_url": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/65814d2f1a861772dd77ee4367f28b48df2955a3",
+    "download_url": "https://raw.githubusercontent.com/bonfire-networks/bonfire-app/main/tool-versions-to-env.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/bonfire-networks/bonfire-app/contents/tool-versions-to-env.sh?ref=main",
+      "git": "https://api.github.com/repos/bonfire-networks/bonfire-app/git/blobs/65814d2f1a861772dd77ee4367f28b48df2955a3",
+      "html": "https://github.com/bonfire-networks/bonfire-app/blob/main/tool-versions-to-env.sh"
+    }
+  }
+]

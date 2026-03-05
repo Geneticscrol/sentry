@@ -1,0 +1,18 @@
+{
+  "name": "Gemfile",
+  "path": "Gemfile",
+  "sha": "87525240bead8ff12559865b3b91a983c58e460f",
+  "size": 1011,
+  "url": "https://api.github.com/repos/puma/puma/contents/Gemfile?ref=main",
+  "html_url": "https://github.com/puma/puma/blob/main/Gemfile",
+  "git_url": "https://api.github.com/repos/puma/puma/git/blobs/87525240bead8ff12559865b3b91a983c58e460f",
+  "download_url": "https://raw.githubusercontent.com/puma/puma/main/Gemfile",
+  "type": "file",
+  "content": "c291cmNlICJodHRwczovL3J1YnlnZW1zLm9yZyIKCmdlbXNwZWMKCmdlbSAi\ncmFrZS1jb21waWxlciIKCmdlbSAianNvbiIsICJ+PiAyLjE4IgpnZW0gIm5p\nbzRyIiwgIn4+IDIuNyIKZ2VtICJtaW5pdGVzdCIsICI+PSA1LjI2IgpnZW0g\nIm1pbml0ZXN0LXJldHJ5IgpnZW0gIm1pbml0ZXN0LXByb3ZlaXQiCmdlbSAi\nbWluaXRlc3Qtc3R1Yi1jb25zdCIKZ2VtICJjb25jdXJyZW50LXJ1YnkiLCAi\nfj4gMS4zIgoKaWYgRU5WWydQVU1BX0NJX1JBQ0snXSYuc3RyaXAgPT0gJ3Jh\nY2syJwogIGdlbSAicmFjayIgICwgIn4+IDIuMiIKICBnZW0gInJhY2t1cCIs\nICJ+PiAxLjAiCiMjIFRlbXBvcmFyaWx5IGRpc2FibGUgdXNpbmcgcmFjayAm\nIHJhY2t1cCBtYWluIGJyYW5jaGVzCiNlbHNpZiBSVUJZX1BBVENITEVWRUwg\nPT0gLTEKIyAgZ2VtICJyYWNrIiAgLCBnaXRodWI6ICJyYWNrL3JhY2siICAs\nIGJyYW5jaDogIm1haW4iCiMgIGdlbSAicmFja3VwIiwgZ2l0aHViOiAicmFj\nay9yYWNrdXAiLCBicmFuY2g6ICJtYWluIgplbHNlCiAgZ2VtICJyYWNrIiAg\nLCAifj4gMy4yIgogIGdlbSAicmFja3VwIiwgIn4+IDIuMyIKZW5kCgpnZW0g\nImpydWJ5LW9wZW5zc2wiLCA6cGxhdGZvcm0gPT4gImpydWJ5IgoKdW5sZXNz\nIEVOVlsnUFVNQV9OT19SVUJPQ09QJ10gfHwgUlVCWV9QTEFURk9STS5pbmNs\ndWRlPygnbXN3aW4nKQogIGdlbSAicnVib2NvcCIKICBnZW0gJ3J1Ym9jb3At\ncGVyZm9ybWFuY2UnLCByZXF1aXJlOiBmYWxzZQplbmQKCmlmIEdlbTo6VmVy\nc2lvbi5uZXcoUlVCWV9WRVJTSU9OKSA+PSBHZW06OlZlcnNpb24ubmV3KCIz\nLjIiKQogIGdlbSAibWluaXRlc3QtbW9jayIKZW5kCgppZiBHZW06OlZlcnNp\nb24ubmV3KFJVQllfVkVSU0lPTikgPj0gR2VtOjpWZXJzaW9uLm5ldygiMy41\nIikKICBnZW0gImxvZ2dlciIKICBpZiA6OkdlbS53aW5fcGxhdGZvcm0/CiAg\nICBnZW0gImZpZGRsZSIKICBlbmQKZW5kCgpnZW0gJ20nCmdlbSAibG9jYWxo\nb3N0IiwgcmVxdWlyZTogZmFsc2UK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/puma/puma/contents/Gemfile?ref=main",
+    "git": "https://api.github.com/repos/puma/puma/git/blobs/87525240bead8ff12559865b3b91a983c58e460f",
+    "html": "https://github.com/puma/puma/blob/main/Gemfile"
+  }
+}

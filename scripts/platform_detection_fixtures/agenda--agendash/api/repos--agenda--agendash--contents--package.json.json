@@ -1,0 +1,18 @@
+{
+  "name": "package.json",
+  "path": "package.json",
+  "sha": "5565860d68ec7c5d2b6f06c955b279d2d3594c37",
+  "size": 1558,
+  "url": "https://api.github.com/repos/agenda/agendash/contents/package.json?ref=master",
+  "html_url": "https://github.com/agenda/agendash/blob/master/package.json",
+  "git_url": "https://api.github.com/repos/agenda/agendash/git/blobs/5565860d68ec7c5d2b6f06c955b279d2d3594c37",
+  "download_url": "https://raw.githubusercontent.com/agenda/agendash/master/package.json",
+  "type": "file",
+  "content": "ewogICJuYW1lIjogImFnZW5kYXNoIiwKICAidmVyc2lvbiI6ICI0LjAuMCIs\nCiAgImRlc2NyaXB0aW9uIjogIkEgbW9kZXJuIGRhc2hib2FyZCBmb3IgQWdl\nbmRhLmpzIHdpdGggUGFnaW5hdGlvbiBhbmQgU2VhcmNoIGNhcGFiaWxpdGll\ncyIsCiAgIm1haW4iOiAiYXBwLmpzIiwKICAiYmluIjogImJpbi9hZ2VuZGFz\naC1zdGFuZGFsb25lLmpzIiwKICAiZW5naW5lcyI6IHsKICAgICJub2RlIjog\nIj49MTQuMC4wIgogIH0sCiAgInNjcmlwdHMiOiB7CiAgICAidGVzdCI6ICJy\ndW4tcCBsaW50IGF2YSIsCiAgICAibGludCI6ICJlc2xpbnQgLi8iLAogICAg\nImF2YSI6ICJhdmEgLXYgLWMgMSIKICB9LAogICJrZXl3b3JkcyI6IFsKICAg\nICJhZ2VuZGEiLAogICAgImFnZW5kYXNoIiwKICAgICJkYXNoYm9hcmQiLAog\nICAgImpvYi1xdWV1ZXMiCiAgXSwKICAicmVwb3NpdG9yeSI6IHsKICAgICJ0\neXBlIjogImdpdCIsCiAgICAidXJsIjogImdpdCtodHRwczovL2dpdGh1Yi5j\nb20vYWdlbmRhL2FnZW5kYXNoLmdpdCIKICB9LAogICJidWdzIjogewogICAg\nInVybCI6ICJodHRwczovL2dpdGh1Yi5jb20vYWdlbmRhL2FnZW5kYXNoL2lz\nc3VlcyIKICB9LAogICJob21lcGFnZSI6ICJodHRwczovL2dpdGh1Yi5jb20v\nYWdlbmRhL2FnZW5kYXNoI3JlYWRtZSIsCiAgImxpY2Vuc2UiOiAiTUlUIiwK\nICAiZmlsZXMiOiBbCiAgICAiYmluIiwKICAgICJsaWIiLAogICAgInB1Ymxp\nYyIsCiAgICAiYXBwLmpzIiwKICAgICIqLnBuZyIsCiAgICAiRG9ja2VyZmls\nZSIsCiAgICAiZW50cnlwb2ludC5zaCIKICBdLAogICJkZXBlbmRlbmNpZXMi\nOiB7CiAgICAiYWdlbmRhIjogIl40LjIuMSIsCiAgICAiYm9keS1wYXJzZXIi\nOiAiXjEuMTkuMiIsCiAgICAiY29tbWFuZGVyIjogIl4yLjkuMCIsCiAgICAi\nZXhwcmVzcyI6ICJeNC4xNy4zIiwKICAgICJtb25nb2RiIjogIioiLAogICAg\nInNlbXZlciI6ICJeNy4zLjQiCiAgfSwKICAiZGV2RGVwZW5kZW5jaWVzIjog\newogICAgIkBmYXN0aWZ5L3N0YXRpYyI6ICJeNi41LjAiLAogICAgIkBoYXBp\nL2hhcGkiOiAiXjIwLjIuMSIsCiAgICAiQGhhcGkvaW5lcnQiOiAiXjYuMC41\nIiwKICAgICJhdmEiOiAiMy4xNS4wIiwKICAgICJlc2xpbnQiOiAiNy4xOS4w\nIiwKICAgICJmYXN0aWZ5IjogIl40LjkuMiIsCiAgICAia29hIjogIjIuMTMu\nMSIsCiAgICAia29hLWJvZHlwYXJzZXIiOiAiNC4zLjAiLAogICAgImtvYS1y\nb3V0ZXIiOiAiMTAuMC4wIiwKICAgICJrb2Etc3RhdGljIjogIjUuMC4wIiwK\nICAgICJucG0tcnVuLWFsbCI6ICI0LjEuNSIsCiAgICAicHJldHRpZXIiOiAi\nMi4yLjEiLAogICAgInN1cGVydGVzdCI6ICJeNi4yLjIiCiAgfSwKICAiZXNs\naW50Q29uZmlnIjogewogICAgInBhcnNlck9wdGlvbnMiOiB7CiAgICAgICJl\nY21hVmVyc2lvbiI6IDIwMTkKICAgIH0sCiAgICAiZW52IjogewogICAgICAi\nZXM2IjogdHJ1ZSwKICAgICAgIm5vZGUiOiB0cnVlCiAgICB9LAogICAgImV4\ndGVuZHMiOiAiZXNsaW50OnJlY29tbWVuZGVkIgogIH0sCiAgImVzbGludEln\nbm9yZSI6IFsKICAgICJwdWJsaWMiCiAgXQp9Cg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/agenda/agendash/contents/package.json?ref=master",
+    "git": "https://api.github.com/repos/agenda/agendash/git/blobs/5565860d68ec7c5d2b6f06c955b279d2d3594c37",
+    "html": "https://github.com/agenda/agendash/blob/master/package.json"
+  }
+}

@@ -1,0 +1,370 @@
+[
+  {
+    "name": ".editorconfig",
+    "path": ".editorconfig",
+    "sha": "40c19fa6612cf971ddc131baa4cfd221a7deed17",
+    "size": 134,
+    "url": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/.editorconfig?ref=master",
+    "html_url": "https://github.com/yt-dlp/yt-dlp/blob/master/.editorconfig",
+    "git_url": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/40c19fa6612cf971ddc131baa4cfd221a7deed17",
+    "download_url": "https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/.editorconfig",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/.editorconfig?ref=master",
+      "git": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/40c19fa6612cf971ddc131baa4cfd221a7deed17",
+      "html": "https://github.com/yt-dlp/yt-dlp/blob/master/.editorconfig"
+    }
+  },
+  {
+    "name": ".gitattributes",
+    "path": ".gitattributes",
+    "sha": "f3e1df5b5b9c1b8046ed08f6c35c7bafcc3d35d6",
+    "size": 107,
+    "url": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/.gitattributes?ref=master",
+    "html_url": "https://github.com/yt-dlp/yt-dlp/blob/master/.gitattributes",
+    "git_url": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/f3e1df5b5b9c1b8046ed08f6c35c7bafcc3d35d6",
+    "download_url": "https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/.gitattributes",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/.gitattributes?ref=master",
+      "git": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/f3e1df5b5b9c1b8046ed08f6c35c7bafcc3d35d6",
+      "html": "https://github.com/yt-dlp/yt-dlp/blob/master/.gitattributes"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "b2fb9b6d64b4bc025b2a20a97ba907bd39ae7efe",
+    "size": 0,
+    "url": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/.github?ref=master",
+    "html_url": "https://github.com/yt-dlp/yt-dlp/tree/master/.github",
+    "git_url": "https://api.github.com/repos/yt-dlp/yt-dlp/git/trees/b2fb9b6d64b4bc025b2a20a97ba907bd39ae7efe",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/.github?ref=master",
+      "git": "https://api.github.com/repos/yt-dlp/yt-dlp/git/trees/b2fb9b6d64b4bc025b2a20a97ba907bd39ae7efe",
+      "html": "https://github.com/yt-dlp/yt-dlp/tree/master/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "af6da639db252323bc2aa7e202a73778c6a356e7",
+    "size": 1245,
+    "url": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/yt-dlp/yt-dlp/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/af6da639db252323bc2aa7e202a73778c6a356e7",
+    "download_url": "https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/af6da639db252323bc2aa7e202a73778c6a356e7",
+      "html": "https://github.com/yt-dlp/yt-dlp/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": ".pre-commit-config.yaml",
+    "path": ".pre-commit-config.yaml",
+    "sha": "a821eeefb16be80cc545069805172083f7d1f43f",
+    "size": 292,
+    "url": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/.pre-commit-config.yaml?ref=master",
+    "html_url": "https://github.com/yt-dlp/yt-dlp/blob/master/.pre-commit-config.yaml",
+    "git_url": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/a821eeefb16be80cc545069805172083f7d1f43f",
+    "download_url": "https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/.pre-commit-config.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/.pre-commit-config.yaml?ref=master",
+      "git": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/a821eeefb16be80cc545069805172083f7d1f43f",
+      "html": "https://github.com/yt-dlp/yt-dlp/blob/master/.pre-commit-config.yaml"
+    }
+  },
+  {
+    "name": ".pre-commit-hatch.yaml",
+    "path": ".pre-commit-hatch.yaml",
+    "sha": "fb7d25e1db54ffab23cd97c1766fda3b6795f789",
+    "size": 156,
+    "url": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/.pre-commit-hatch.yaml?ref=master",
+    "html_url": "https://github.com/yt-dlp/yt-dlp/blob/master/.pre-commit-hatch.yaml",
+    "git_url": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/fb7d25e1db54ffab23cd97c1766fda3b6795f789",
+    "download_url": "https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/.pre-commit-hatch.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/.pre-commit-hatch.yaml?ref=master",
+      "git": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/fb7d25e1db54ffab23cd97c1766fda3b6795f789",
+      "html": "https://github.com/yt-dlp/yt-dlp/blob/master/.pre-commit-hatch.yaml"
+    }
+  },
+  {
+    "name": "CONTRIBUTING.md",
+    "path": "CONTRIBUTING.md",
+    "sha": "9a6111598c8f8adcc74e4c258832adf89ab675f3",
+    "size": 39185,
+    "url": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/CONTRIBUTING.md?ref=master",
+    "html_url": "https://github.com/yt-dlp/yt-dlp/blob/master/CONTRIBUTING.md",
+    "git_url": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/9a6111598c8f8adcc74e4c258832adf89ab675f3",
+    "download_url": "https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/CONTRIBUTING.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/CONTRIBUTING.md?ref=master",
+      "git": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/9a6111598c8f8adcc74e4c258832adf89ab675f3",
+      "html": "https://github.com/yt-dlp/yt-dlp/blob/master/CONTRIBUTING.md"
+    }
+  },
+  {
+    "name": "CONTRIBUTORS",
+    "path": "CONTRIBUTORS",
+    "sha": "32225cf30b953a4b54e641c7ec2e1f9469a6ec39",
+    "size": 8756,
+    "url": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/CONTRIBUTORS?ref=master",
+    "html_url": "https://github.com/yt-dlp/yt-dlp/blob/master/CONTRIBUTORS",
+    "git_url": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/32225cf30b953a4b54e641c7ec2e1f9469a6ec39",
+    "download_url": "https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/CONTRIBUTORS",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/CONTRIBUTORS?ref=master",
+      "git": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/32225cf30b953a4b54e641c7ec2e1f9469a6ec39",
+      "html": "https://github.com/yt-dlp/yt-dlp/blob/master/CONTRIBUTORS"
+    }
+  },
+  {
+    "name": "Changelog.md",
+    "path": "Changelog.md",
+    "sha": "25e114c52b5c0e7d1d20b6175b13b967c77f4a9c",
+    "size": 727374,
+    "url": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/Changelog.md?ref=master",
+    "html_url": "https://github.com/yt-dlp/yt-dlp/blob/master/Changelog.md",
+    "git_url": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/25e114c52b5c0e7d1d20b6175b13b967c77f4a9c",
+    "download_url": "https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/Changelog.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/Changelog.md?ref=master",
+      "git": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/25e114c52b5c0e7d1d20b6175b13b967c77f4a9c",
+      "html": "https://github.com/yt-dlp/yt-dlp/blob/master/Changelog.md"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "68a49daad8ff7e35068f2b7a97d643aab440eaec",
+    "size": 1211,
+    "url": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/LICENSE?ref=master",
+    "html_url": "https://github.com/yt-dlp/yt-dlp/blob/master/LICENSE",
+    "git_url": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/68a49daad8ff7e35068f2b7a97d643aab440eaec",
+    "download_url": "https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/LICENSE?ref=master",
+      "git": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/68a49daad8ff7e35068f2b7a97d643aab440eaec",
+      "html": "https://github.com/yt-dlp/yt-dlp/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "Maintainers.md",
+    "path": "Maintainers.md",
+    "sha": "95feb306c0da5cb72eea50933877651e81b52dca",
+    "size": 4494,
+    "url": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/Maintainers.md?ref=master",
+    "html_url": "https://github.com/yt-dlp/yt-dlp/blob/master/Maintainers.md",
+    "git_url": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/95feb306c0da5cb72eea50933877651e81b52dca",
+    "download_url": "https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/Maintainers.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/Maintainers.md?ref=master",
+      "git": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/95feb306c0da5cb72eea50933877651e81b52dca",
+      "html": "https://github.com/yt-dlp/yt-dlp/blob/master/Maintainers.md"
+    }
+  },
+  {
+    "name": "Makefile",
+    "path": "Makefile",
+    "sha": "c4431027fa3c9b38920a496faf725a1d30717366",
+    "size": 10495,
+    "url": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/Makefile?ref=master",
+    "html_url": "https://github.com/yt-dlp/yt-dlp/blob/master/Makefile",
+    "git_url": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/c4431027fa3c9b38920a496faf725a1d30717366",
+    "download_url": "https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/Makefile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/Makefile?ref=master",
+      "git": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/c4431027fa3c9b38920a496faf725a1d30717366",
+      "html": "https://github.com/yt-dlp/yt-dlp/blob/master/Makefile"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "a5b649818fcf82d5b3c1154be4c33f4ee329d974",
+    "size": 178463,
+    "url": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/README.md?ref=master",
+    "html_url": "https://github.com/yt-dlp/yt-dlp/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/a5b649818fcf82d5b3c1154be4c33f4ee329d974",
+    "download_url": "https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/a5b649818fcf82d5b3c1154be4c33f4ee329d974",
+      "html": "https://github.com/yt-dlp/yt-dlp/blob/master/README.md"
+    }
+  },
+  {
+    "name": "THIRD_PARTY_LICENSES.txt",
+    "path": "THIRD_PARTY_LICENSES.txt",
+    "sha": "f7977064a0de7d38fa2fbd1631ae5e5bec82c98e",
+    "size": 231397,
+    "url": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/THIRD_PARTY_LICENSES.txt?ref=master",
+    "html_url": "https://github.com/yt-dlp/yt-dlp/blob/master/THIRD_PARTY_LICENSES.txt",
+    "git_url": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/f7977064a0de7d38fa2fbd1631ae5e5bec82c98e",
+    "download_url": "https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/THIRD_PARTY_LICENSES.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/THIRD_PARTY_LICENSES.txt?ref=master",
+      "git": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/f7977064a0de7d38fa2fbd1631ae5e5bec82c98e",
+      "html": "https://github.com/yt-dlp/yt-dlp/blob/master/THIRD_PARTY_LICENSES.txt"
+    }
+  },
+  {
+    "name": "bundle",
+    "path": "bundle",
+    "sha": "20bd77cd426ed03a56c3f5bb9b19fc57d03bce00",
+    "size": 0,
+    "url": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/bundle?ref=master",
+    "html_url": "https://github.com/yt-dlp/yt-dlp/tree/master/bundle",
+    "git_url": "https://api.github.com/repos/yt-dlp/yt-dlp/git/trees/20bd77cd426ed03a56c3f5bb9b19fc57d03bce00",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/bundle?ref=master",
+      "git": "https://api.github.com/repos/yt-dlp/yt-dlp/git/trees/20bd77cd426ed03a56c3f5bb9b19fc57d03bce00",
+      "html": "https://github.com/yt-dlp/yt-dlp/tree/master/bundle"
+    }
+  },
+  {
+    "name": "devscripts",
+    "path": "devscripts",
+    "sha": "f66f1f5f0646d602d3b1a10044c60af9abd3e063",
+    "size": 0,
+    "url": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/devscripts?ref=master",
+    "html_url": "https://github.com/yt-dlp/yt-dlp/tree/master/devscripts",
+    "git_url": "https://api.github.com/repos/yt-dlp/yt-dlp/git/trees/f66f1f5f0646d602d3b1a10044c60af9abd3e063",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/devscripts?ref=master",
+      "git": "https://api.github.com/repos/yt-dlp/yt-dlp/git/trees/f66f1f5f0646d602d3b1a10044c60af9abd3e063",
+      "html": "https://github.com/yt-dlp/yt-dlp/tree/master/devscripts"
+    }
+  },
+  {
+    "name": "public.key",
+    "path": "public.key",
+    "sha": "b3af31e9aa2476149045e56ebe82c4a9c41cf09c",
+    "size": 1676,
+    "url": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/public.key?ref=master",
+    "html_url": "https://github.com/yt-dlp/yt-dlp/blob/master/public.key",
+    "git_url": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/b3af31e9aa2476149045e56ebe82c4a9c41cf09c",
+    "download_url": "https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/public.key",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/public.key?ref=master",
+      "git": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/b3af31e9aa2476149045e56ebe82c4a9c41cf09c",
+      "html": "https://github.com/yt-dlp/yt-dlp/blob/master/public.key"
+    }
+  },
+  {
+    "name": "pyproject.toml",
+    "path": "pyproject.toml",
+    "sha": "7a4e860862c7edb3af1d6e5db6fd2bbab4785a28",
+    "size": 11088,
+    "url": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/pyproject.toml?ref=master",
+    "html_url": "https://github.com/yt-dlp/yt-dlp/blob/master/pyproject.toml",
+    "git_url": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/7a4e860862c7edb3af1d6e5db6fd2bbab4785a28",
+    "download_url": "https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/pyproject.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/pyproject.toml?ref=master",
+      "git": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/7a4e860862c7edb3af1d6e5db6fd2bbab4785a28",
+      "html": "https://github.com/yt-dlp/yt-dlp/blob/master/pyproject.toml"
+    }
+  },
+  {
+    "name": "supportedsites.md",
+    "path": "supportedsites.md",
+    "sha": "ed3ecfb520e05cc4997adacbc170e0c32e8b55e0",
+    "size": 58314,
+    "url": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/supportedsites.md?ref=master",
+    "html_url": "https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md",
+    "git_url": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/ed3ecfb520e05cc4997adacbc170e0c32e8b55e0",
+    "download_url": "https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/supportedsites.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/supportedsites.md?ref=master",
+      "git": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/ed3ecfb520e05cc4997adacbc170e0c32e8b55e0",
+      "html": "https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md"
+    }
+  },
+  {
+    "name": "test",
+    "path": "test",
+    "sha": "1e1849a434e5c4c8bd281f460163637ffa2e4b32",
+    "size": 0,
+    "url": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/test?ref=master",
+    "html_url": "https://github.com/yt-dlp/yt-dlp/tree/master/test",
+    "git_url": "https://api.github.com/repos/yt-dlp/yt-dlp/git/trees/1e1849a434e5c4c8bd281f460163637ffa2e4b32",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/test?ref=master",
+      "git": "https://api.github.com/repos/yt-dlp/yt-dlp/git/trees/1e1849a434e5c4c8bd281f460163637ffa2e4b32",
+      "html": "https://github.com/yt-dlp/yt-dlp/tree/master/test"
+    }
+  },
+  {
+    "name": "yt-dlp.cmd",
+    "path": "yt-dlp.cmd",
+    "sha": "5537e0ea9c3e643310d47da1f40e6237b887df85",
+    "size": 47,
+    "url": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/yt-dlp.cmd?ref=master",
+    "html_url": "https://github.com/yt-dlp/yt-dlp/blob/master/yt-dlp.cmd",
+    "git_url": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/5537e0ea9c3e643310d47da1f40e6237b887df85",
+    "download_url": "https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/yt-dlp.cmd",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/yt-dlp.cmd?ref=master",
+      "git": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/5537e0ea9c3e643310d47da1f40e6237b887df85",
+      "html": "https://github.com/yt-dlp/yt-dlp/blob/master/yt-dlp.cmd"
+    }
+  },
+  {
+    "name": "yt-dlp.sh",
+    "path": "yt-dlp.sh",
+    "sha": "ce74df801fa89b321db83260d794a0f58fd8c098",
+    "size": 114,
+    "url": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/yt-dlp.sh?ref=master",
+    "html_url": "https://github.com/yt-dlp/yt-dlp/blob/master/yt-dlp.sh",
+    "git_url": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/ce74df801fa89b321db83260d794a0f58fd8c098",
+    "download_url": "https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/yt-dlp.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/yt-dlp.sh?ref=master",
+      "git": "https://api.github.com/repos/yt-dlp/yt-dlp/git/blobs/ce74df801fa89b321db83260d794a0f58fd8c098",
+      "html": "https://github.com/yt-dlp/yt-dlp/blob/master/yt-dlp.sh"
+    }
+  },
+  {
+    "name": "yt_dlp",
+    "path": "yt_dlp",
+    "sha": "27fd64df0562e0da5ac21fedf8cdaa63339024c2",
+    "size": 0,
+    "url": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/yt_dlp?ref=master",
+    "html_url": "https://github.com/yt-dlp/yt-dlp/tree/master/yt_dlp",
+    "git_url": "https://api.github.com/repos/yt-dlp/yt-dlp/git/trees/27fd64df0562e0da5ac21fedf8cdaa63339024c2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/yt-dlp/yt-dlp/contents/yt_dlp?ref=master",
+      "git": "https://api.github.com/repos/yt-dlp/yt-dlp/git/trees/27fd64df0562e0da5ac21fedf8cdaa63339024c2",
+      "html": "https://github.com/yt-dlp/yt-dlp/tree/master/yt_dlp"
+    }
+  }
+]

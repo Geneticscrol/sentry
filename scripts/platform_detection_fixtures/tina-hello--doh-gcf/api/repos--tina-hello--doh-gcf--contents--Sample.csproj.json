@@ -1,0 +1,18 @@
+{
+  "name": "Sample.csproj",
+  "path": "Sample.csproj",
+  "sha": "53ae8977e62ad61401f28c509523b2b5f8c01eca",
+  "size": 287,
+  "url": "https://api.github.com/repos/tina-hello/doh-gcf/contents/Sample.csproj?ref=main",
+  "html_url": "https://github.com/tina-hello/doh-gcf/blob/main/Sample.csproj",
+  "git_url": "https://api.github.com/repos/tina-hello/doh-gcf/git/blobs/53ae8977e62ad61401f28c509523b2b5f8c01eca",
+  "download_url": "https://raw.githubusercontent.com/tina-hello/doh-gcf/main/Sample.csproj",
+  "type": "file",
+  "content": "PFByb2plY3QgU2RrPSJNaWNyb3NvZnQuTkVULlNkayI+CiAgPFByb3BlcnR5\nR3JvdXA+CiAgICA8T3V0cHV0VHlwZT5FeGU8L091dHB1dFR5cGU+CiAgICA8\nVGFyZ2V0RnJhbWV3b3JrPm5ldGNvcmVhcHAzLjE8L1RhcmdldEZyYW1ld29y\naz4KICA8L1Byb3BlcnR5R3JvdXA+CgogIDxJdGVtR3JvdXA+CiAgICA8UGFj\na2FnZVJlZmVyZW5jZSBJbmNsdWRlPSJHb29nbGUuQ2xvdWQuRnVuY3Rpb25z\nLkhvc3RpbmciIFZlcnNpb249IjEuMC4wLWJldGEwNCIgLz4KICA8L0l0ZW1H\ncm91cD4KPC9Qcm9qZWN0Pgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/tina-hello/doh-gcf/contents/Sample.csproj?ref=main",
+    "git": "https://api.github.com/repos/tina-hello/doh-gcf/git/blobs/53ae8977e62ad61401f28c509523b2b5f8c01eca",
+    "html": "https://github.com/tina-hello/doh-gcf/blob/main/Sample.csproj"
+  }
+}

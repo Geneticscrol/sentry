@@ -1,0 +1,114 @@
+[
+  {
+    "name": ".gitattributes",
+    "path": ".gitattributes",
+    "sha": "60e7a764e9d7d798a827cdbbad56d00236678a22",
+    "size": 8,
+    "url": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/contents/.gitattributes?ref=master",
+    "html_url": "https://github.com/mcasperson/AWSLambdaCSharp/blob/master/.gitattributes",
+    "git_url": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/git/blobs/60e7a764e9d7d798a827cdbbad56d00236678a22",
+    "download_url": "https://raw.githubusercontent.com/mcasperson/AWSLambdaCSharp/master/.gitattributes",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/contents/.gitattributes?ref=master",
+      "git": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/git/blobs/60e7a764e9d7d798a827cdbbad56d00236678a22",
+      "html": "https://github.com/mcasperson/AWSLambdaCSharp/blob/master/.gitattributes"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "3c3a6d0c77770ad36e7caa4891a9e46302ee46bf",
+    "size": 13,
+    "url": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/mcasperson/AWSLambdaCSharp/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/git/blobs/3c3a6d0c77770ad36e7caa4891a9e46302ee46bf",
+    "download_url": "https://raw.githubusercontent.com/mcasperson/AWSLambdaCSharp/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/git/blobs/3c3a6d0c77770ad36e7caa4891a9e46302ee46bf",
+      "html": "https://github.com/mcasperson/AWSLambdaCSharp/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": "AWSLambdaCSharp.csproj",
+    "path": "AWSLambdaCSharp.csproj",
+    "sha": "610d49736c57f0376a5610294035b0d46d8c035c",
+    "size": 635,
+    "url": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/contents/AWSLambdaCSharp.csproj?ref=master",
+    "html_url": "https://github.com/mcasperson/AWSLambdaCSharp/blob/master/AWSLambdaCSharp.csproj",
+    "git_url": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/git/blobs/610d49736c57f0376a5610294035b0d46d8c035c",
+    "download_url": "https://raw.githubusercontent.com/mcasperson/AWSLambdaCSharp/master/AWSLambdaCSharp.csproj",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/contents/AWSLambdaCSharp.csproj?ref=master",
+      "git": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/git/blobs/610d49736c57f0376a5610294035b0d46d8c035c",
+      "html": "https://github.com/mcasperson/AWSLambdaCSharp/blob/master/AWSLambdaCSharp.csproj"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "8d8c9d39de4d137d647492c527f926f9bddc653b",
+    "size": 1074,
+    "url": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/contents/LICENSE?ref=master",
+    "html_url": "https://github.com/mcasperson/AWSLambdaCSharp/blob/master/LICENSE",
+    "git_url": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/git/blobs/8d8c9d39de4d137d647492c527f926f9bddc653b",
+    "download_url": "https://raw.githubusercontent.com/mcasperson/AWSLambdaCSharp/master/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/contents/LICENSE?ref=master",
+      "git": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/git/blobs/8d8c9d39de4d137d647492c527f926f9bddc653b",
+      "html": "https://github.com/mcasperson/AWSLambdaCSharp/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "LambdaMethodHandler.cs",
+    "path": "LambdaMethodHandler.cs",
+    "sha": "85f0636336ecef24e813c3b9f9e984a9504c95ae",
+    "size": 694,
+    "url": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/contents/LambdaMethodHandler.cs?ref=master",
+    "html_url": "https://github.com/mcasperson/AWSLambdaCSharp/blob/master/LambdaMethodHandler.cs",
+    "git_url": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/git/blobs/85f0636336ecef24e813c3b9f9e984a9504c95ae",
+    "download_url": "https://raw.githubusercontent.com/mcasperson/AWSLambdaCSharp/master/LambdaMethodHandler.cs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/contents/LambdaMethodHandler.cs?ref=master",
+      "git": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/git/blobs/85f0636336ecef24e813c3b9f9e984a9504c95ae",
+      "html": "https://github.com/mcasperson/AWSLambdaCSharp/blob/master/LambdaMethodHandler.cs"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "08117a0f51ace0a4eb77cebd0052d722d204c9c5",
+    "size": 498,
+    "url": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/contents/README.md?ref=master",
+    "html_url": "https://github.com/mcasperson/AWSLambdaCSharp/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/git/blobs/08117a0f51ace0a4eb77cebd0052d722d204c9c5",
+    "download_url": "https://raw.githubusercontent.com/mcasperson/AWSLambdaCSharp/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/git/blobs/08117a0f51ace0a4eb77cebd0052d722d204c9c5",
+      "html": "https://github.com/mcasperson/AWSLambdaCSharp/blob/master/README.md"
+    }
+  },
+  {
+    "name": "publish.sh",
+    "path": "publish.sh",
+    "sha": "8c4a3109aaf934a1615f541711d1b95ad586fb26",
+    "size": 113,
+    "url": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/contents/publish.sh?ref=master",
+    "html_url": "https://github.com/mcasperson/AWSLambdaCSharp/blob/master/publish.sh",
+    "git_url": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/git/blobs/8c4a3109aaf934a1615f541711d1b95ad586fb26",
+    "download_url": "https://raw.githubusercontent.com/mcasperson/AWSLambdaCSharp/master/publish.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/contents/publish.sh?ref=master",
+      "git": "https://api.github.com/repos/mcasperson/AWSLambdaCSharp/git/blobs/8c4a3109aaf934a1615f541711d1b95ad586fb26",
+      "html": "https://github.com/mcasperson/AWSLambdaCSharp/blob/master/publish.sh"
+    }
+  }
+]

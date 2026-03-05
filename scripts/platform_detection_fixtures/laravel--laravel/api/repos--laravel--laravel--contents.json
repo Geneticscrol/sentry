@@ -1,0 +1,354 @@
+[
+  {
+    "name": ".editorconfig",
+    "path": ".editorconfig",
+    "sha": "a186cd2079e78c66fca5e037bafa0917818116df",
+    "size": 252,
+    "url": "https://api.github.com/repos/laravel/laravel/contents/.editorconfig?ref=12.x",
+    "html_url": "https://github.com/laravel/laravel/blob/12.x/.editorconfig",
+    "git_url": "https://api.github.com/repos/laravel/laravel/git/blobs/a186cd2079e78c66fca5e037bafa0917818116df",
+    "download_url": "https://raw.githubusercontent.com/laravel/laravel/12.x/.editorconfig",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/laravel/laravel/contents/.editorconfig?ref=12.x",
+      "git": "https://api.github.com/repos/laravel/laravel/git/blobs/a186cd2079e78c66fca5e037bafa0917818116df",
+      "html": "https://github.com/laravel/laravel/blob/12.x/.editorconfig"
+    }
+  },
+  {
+    "name": ".env.example",
+    "path": ".env.example",
+    "sha": "c0660ea143a7a23e6a182cbe42dbd7fc6e242b45",
+    "size": 1086,
+    "url": "https://api.github.com/repos/laravel/laravel/contents/.env.example?ref=12.x",
+    "html_url": "https://github.com/laravel/laravel/blob/12.x/.env.example",
+    "git_url": "https://api.github.com/repos/laravel/laravel/git/blobs/c0660ea143a7a23e6a182cbe42dbd7fc6e242b45",
+    "download_url": "https://raw.githubusercontent.com/laravel/laravel/12.x/.env.example",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/laravel/laravel/contents/.env.example?ref=12.x",
+      "git": "https://api.github.com/repos/laravel/laravel/git/blobs/c0660ea143a7a23e6a182cbe42dbd7fc6e242b45",
+      "html": "https://github.com/laravel/laravel/blob/12.x/.env.example"
+    }
+  },
+  {
+    "name": ".gitattributes",
+    "path": ".gitattributes",
+    "sha": "fcb21d396d657f597ef8b6729f73d89b0a871c9b",
+    "size": 186,
+    "url": "https://api.github.com/repos/laravel/laravel/contents/.gitattributes?ref=12.x",
+    "html_url": "https://github.com/laravel/laravel/blob/12.x/.gitattributes",
+    "git_url": "https://api.github.com/repos/laravel/laravel/git/blobs/fcb21d396d657f597ef8b6729f73d89b0a871c9b",
+    "download_url": "https://raw.githubusercontent.com/laravel/laravel/12.x/.gitattributes",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/laravel/laravel/contents/.gitattributes?ref=12.x",
+      "git": "https://api.github.com/repos/laravel/laravel/git/blobs/fcb21d396d657f597ef8b6729f73d89b0a871c9b",
+      "html": "https://github.com/laravel/laravel/blob/12.x/.gitattributes"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "9866dc8d738f16bffe13817a8fbf37f7183a582a",
+    "size": 0,
+    "url": "https://api.github.com/repos/laravel/laravel/contents/.github?ref=12.x",
+    "html_url": "https://github.com/laravel/laravel/tree/12.x/.github",
+    "git_url": "https://api.github.com/repos/laravel/laravel/git/trees/9866dc8d738f16bffe13817a8fbf37f7183a582a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/laravel/laravel/contents/.github?ref=12.x",
+      "git": "https://api.github.com/repos/laravel/laravel/git/trees/9866dc8d738f16bffe13817a8fbf37f7183a582a",
+      "html": "https://github.com/laravel/laravel/tree/12.x/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "b71b1ea3c2db0dc18242c9b510c88ea7f00bc3cd",
+    "size": 283,
+    "url": "https://api.github.com/repos/laravel/laravel/contents/.gitignore?ref=12.x",
+    "html_url": "https://github.com/laravel/laravel/blob/12.x/.gitignore",
+    "git_url": "https://api.github.com/repos/laravel/laravel/git/blobs/b71b1ea3c2db0dc18242c9b510c88ea7f00bc3cd",
+    "download_url": "https://raw.githubusercontent.com/laravel/laravel/12.x/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/laravel/laravel/contents/.gitignore?ref=12.x",
+      "git": "https://api.github.com/repos/laravel/laravel/git/blobs/b71b1ea3c2db0dc18242c9b510c88ea7f00bc3cd",
+      "html": "https://github.com/laravel/laravel/blob/12.x/.gitignore"
+    }
+  },
+  {
+    "name": ".styleci.yml",
+    "path": ".styleci.yml",
+    "sha": "9daadf1610eeb0705572e15f00cda25c8cf9b7e9",
+    "size": 120,
+    "url": "https://api.github.com/repos/laravel/laravel/contents/.styleci.yml?ref=12.x",
+    "html_url": "https://github.com/laravel/laravel/blob/12.x/.styleci.yml",
+    "git_url": "https://api.github.com/repos/laravel/laravel/git/blobs/9daadf1610eeb0705572e15f00cda25c8cf9b7e9",
+    "download_url": "https://raw.githubusercontent.com/laravel/laravel/12.x/.styleci.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/laravel/laravel/contents/.styleci.yml?ref=12.x",
+      "git": "https://api.github.com/repos/laravel/laravel/git/blobs/9daadf1610eeb0705572e15f00cda25c8cf9b7e9",
+      "html": "https://github.com/laravel/laravel/blob/12.x/.styleci.yml"
+    }
+  },
+  {
+    "name": "CHANGELOG.md",
+    "path": "CHANGELOG.md",
+    "sha": "17fc0ed729a61a720cf01a3c214d0c71675f9aa3",
+    "size": 11048,
+    "url": "https://api.github.com/repos/laravel/laravel/contents/CHANGELOG.md?ref=12.x",
+    "html_url": "https://github.com/laravel/laravel/blob/12.x/CHANGELOG.md",
+    "git_url": "https://api.github.com/repos/laravel/laravel/git/blobs/17fc0ed729a61a720cf01a3c214d0c71675f9aa3",
+    "download_url": "https://raw.githubusercontent.com/laravel/laravel/12.x/CHANGELOG.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/laravel/laravel/contents/CHANGELOG.md?ref=12.x",
+      "git": "https://api.github.com/repos/laravel/laravel/git/blobs/17fc0ed729a61a720cf01a3c214d0c71675f9aa3",
+      "html": "https://github.com/laravel/laravel/blob/12.x/CHANGELOG.md"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "0165a773cef027e7dc2f314808d57e28b22e3813",
+    "size": 3911,
+    "url": "https://api.github.com/repos/laravel/laravel/contents/README.md?ref=12.x",
+    "html_url": "https://github.com/laravel/laravel/blob/12.x/README.md",
+    "git_url": "https://api.github.com/repos/laravel/laravel/git/blobs/0165a773cef027e7dc2f314808d57e28b22e3813",
+    "download_url": "https://raw.githubusercontent.com/laravel/laravel/12.x/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/laravel/laravel/contents/README.md?ref=12.x",
+      "git": "https://api.github.com/repos/laravel/laravel/git/blobs/0165a773cef027e7dc2f314808d57e28b22e3813",
+      "html": "https://github.com/laravel/laravel/blob/12.x/README.md"
+    }
+  },
+  {
+    "name": "app",
+    "path": "app",
+    "sha": "adf97344a2df310c4c60d3139fa1912f8df84f30",
+    "size": 0,
+    "url": "https://api.github.com/repos/laravel/laravel/contents/app?ref=12.x",
+    "html_url": "https://github.com/laravel/laravel/tree/12.x/app",
+    "git_url": "https://api.github.com/repos/laravel/laravel/git/trees/adf97344a2df310c4c60d3139fa1912f8df84f30",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/laravel/laravel/contents/app?ref=12.x",
+      "git": "https://api.github.com/repos/laravel/laravel/git/trees/adf97344a2df310c4c60d3139fa1912f8df84f30",
+      "html": "https://github.com/laravel/laravel/tree/12.x/app"
+    }
+  },
+  {
+    "name": "artisan",
+    "path": "artisan",
+    "sha": "c35e31d6a29f62921a8621944eb20ad162f5b2bb",
+    "size": 425,
+    "url": "https://api.github.com/repos/laravel/laravel/contents/artisan?ref=12.x",
+    "html_url": "https://github.com/laravel/laravel/blob/12.x/artisan",
+    "git_url": "https://api.github.com/repos/laravel/laravel/git/blobs/c35e31d6a29f62921a8621944eb20ad162f5b2bb",
+    "download_url": "https://raw.githubusercontent.com/laravel/laravel/12.x/artisan",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/laravel/laravel/contents/artisan?ref=12.x",
+      "git": "https://api.github.com/repos/laravel/laravel/git/blobs/c35e31d6a29f62921a8621944eb20ad162f5b2bb",
+      "html": "https://github.com/laravel/laravel/blob/12.x/artisan"
+    }
+  },
+  {
+    "name": "bootstrap",
+    "path": "bootstrap",
+    "sha": "254e9f4dea6f6fe19e23a3d0d42b444c3c464b99",
+    "size": 0,
+    "url": "https://api.github.com/repos/laravel/laravel/contents/bootstrap?ref=12.x",
+    "html_url": "https://github.com/laravel/laravel/tree/12.x/bootstrap",
+    "git_url": "https://api.github.com/repos/laravel/laravel/git/trees/254e9f4dea6f6fe19e23a3d0d42b444c3c464b99",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/laravel/laravel/contents/bootstrap?ref=12.x",
+      "git": "https://api.github.com/repos/laravel/laravel/git/trees/254e9f4dea6f6fe19e23a3d0d42b444c3c464b99",
+      "html": "https://github.com/laravel/laravel/tree/12.x/bootstrap"
+    }
+  },
+  {
+    "name": "composer.json",
+    "path": "composer.json",
+    "sha": "b17af3ef3af18a50226254dd83817f6458cbf1d3",
+    "size": 2849,
+    "url": "https://api.github.com/repos/laravel/laravel/contents/composer.json?ref=12.x",
+    "html_url": "https://github.com/laravel/laravel/blob/12.x/composer.json",
+    "git_url": "https://api.github.com/repos/laravel/laravel/git/blobs/b17af3ef3af18a50226254dd83817f6458cbf1d3",
+    "download_url": "https://raw.githubusercontent.com/laravel/laravel/12.x/composer.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/laravel/laravel/contents/composer.json?ref=12.x",
+      "git": "https://api.github.com/repos/laravel/laravel/git/blobs/b17af3ef3af18a50226254dd83817f6458cbf1d3",
+      "html": "https://github.com/laravel/laravel/blob/12.x/composer.json"
+    }
+  },
+  {
+    "name": "config",
+    "path": "config",
+    "sha": "81608970dcb17676bd125c9ce59af87a7292f41e",
+    "size": 0,
+    "url": "https://api.github.com/repos/laravel/laravel/contents/config?ref=12.x",
+    "html_url": "https://github.com/laravel/laravel/tree/12.x/config",
+    "git_url": "https://api.github.com/repos/laravel/laravel/git/trees/81608970dcb17676bd125c9ce59af87a7292f41e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/laravel/laravel/contents/config?ref=12.x",
+      "git": "https://api.github.com/repos/laravel/laravel/git/trees/81608970dcb17676bd125c9ce59af87a7292f41e",
+      "html": "https://github.com/laravel/laravel/tree/12.x/config"
+    }
+  },
+  {
+    "name": "database",
+    "path": "database",
+    "sha": "956c1b74ff22d4264a0eeee188fa1808d3a75f04",
+    "size": 0,
+    "url": "https://api.github.com/repos/laravel/laravel/contents/database?ref=12.x",
+    "html_url": "https://github.com/laravel/laravel/tree/12.x/database",
+    "git_url": "https://api.github.com/repos/laravel/laravel/git/trees/956c1b74ff22d4264a0eeee188fa1808d3a75f04",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/laravel/laravel/contents/database?ref=12.x",
+      "git": "https://api.github.com/repos/laravel/laravel/git/trees/956c1b74ff22d4264a0eeee188fa1808d3a75f04",
+      "html": "https://github.com/laravel/laravel/tree/12.x/database"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "7686b29586f7b1a00e10b0b8f01c5aaf031cf55c",
+    "size": 414,
+    "url": "https://api.github.com/repos/laravel/laravel/contents/package.json?ref=12.x",
+    "html_url": "https://github.com/laravel/laravel/blob/12.x/package.json",
+    "git_url": "https://api.github.com/repos/laravel/laravel/git/blobs/7686b29586f7b1a00e10b0b8f01c5aaf031cf55c",
+    "download_url": "https://raw.githubusercontent.com/laravel/laravel/12.x/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/laravel/laravel/contents/package.json?ref=12.x",
+      "git": "https://api.github.com/repos/laravel/laravel/git/blobs/7686b29586f7b1a00e10b0b8f01c5aaf031cf55c",
+      "html": "https://github.com/laravel/laravel/blob/12.x/package.json"
+    }
+  },
+  {
+    "name": "phpunit.xml",
+    "path": "phpunit.xml",
+    "sha": "e7f0a48df619422a48dd39ceac63c30f998fe389",
+    "size": 1322,
+    "url": "https://api.github.com/repos/laravel/laravel/contents/phpunit.xml?ref=12.x",
+    "html_url": "https://github.com/laravel/laravel/blob/12.x/phpunit.xml",
+    "git_url": "https://api.github.com/repos/laravel/laravel/git/blobs/e7f0a48df619422a48dd39ceac63c30f998fe389",
+    "download_url": "https://raw.githubusercontent.com/laravel/laravel/12.x/phpunit.xml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/laravel/laravel/contents/phpunit.xml?ref=12.x",
+      "git": "https://api.github.com/repos/laravel/laravel/git/blobs/e7f0a48df619422a48dd39ceac63c30f998fe389",
+      "html": "https://github.com/laravel/laravel/blob/12.x/phpunit.xml"
+    }
+  },
+  {
+    "name": "public",
+    "path": "public",
+    "sha": "4963c6841f5c837f2452b6d684cd4a10933e4417",
+    "size": 0,
+    "url": "https://api.github.com/repos/laravel/laravel/contents/public?ref=12.x",
+    "html_url": "https://github.com/laravel/laravel/tree/12.x/public",
+    "git_url": "https://api.github.com/repos/laravel/laravel/git/trees/4963c6841f5c837f2452b6d684cd4a10933e4417",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/laravel/laravel/contents/public?ref=12.x",
+      "git": "https://api.github.com/repos/laravel/laravel/git/trees/4963c6841f5c837f2452b6d684cd4a10933e4417",
+      "html": "https://github.com/laravel/laravel/tree/12.x/public"
+    }
+  },
+  {
+    "name": "resources",
+    "path": "resources",
+    "sha": "17d767383ff1b2bee10f975e4b34065dbd74dd72",
+    "size": 0,
+    "url": "https://api.github.com/repos/laravel/laravel/contents/resources?ref=12.x",
+    "html_url": "https://github.com/laravel/laravel/tree/12.x/resources",
+    "git_url": "https://api.github.com/repos/laravel/laravel/git/trees/17d767383ff1b2bee10f975e4b34065dbd74dd72",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/laravel/laravel/contents/resources?ref=12.x",
+      "git": "https://api.github.com/repos/laravel/laravel/git/trees/17d767383ff1b2bee10f975e4b34065dbd74dd72",
+      "html": "https://github.com/laravel/laravel/tree/12.x/resources"
+    }
+  },
+  {
+    "name": "routes",
+    "path": "routes",
+    "sha": "07dfc016b5e808ae5603eca90519f7f6aa722d22",
+    "size": 0,
+    "url": "https://api.github.com/repos/laravel/laravel/contents/routes?ref=12.x",
+    "html_url": "https://github.com/laravel/laravel/tree/12.x/routes",
+    "git_url": "https://api.github.com/repos/laravel/laravel/git/trees/07dfc016b5e808ae5603eca90519f7f6aa722d22",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/laravel/laravel/contents/routes?ref=12.x",
+      "git": "https://api.github.com/repos/laravel/laravel/git/trees/07dfc016b5e808ae5603eca90519f7f6aa722d22",
+      "html": "https://github.com/laravel/laravel/tree/12.x/routes"
+    }
+  },
+  {
+    "name": "storage",
+    "path": "storage",
+    "sha": "52f4fc20dd23d1552aad0fed5629d2fe43fb98f0",
+    "size": 0,
+    "url": "https://api.github.com/repos/laravel/laravel/contents/storage?ref=12.x",
+    "html_url": "https://github.com/laravel/laravel/tree/12.x/storage",
+    "git_url": "https://api.github.com/repos/laravel/laravel/git/trees/52f4fc20dd23d1552aad0fed5629d2fe43fb98f0",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/laravel/laravel/contents/storage?ref=12.x",
+      "git": "https://api.github.com/repos/laravel/laravel/git/trees/52f4fc20dd23d1552aad0fed5629d2fe43fb98f0",
+      "html": "https://github.com/laravel/laravel/tree/12.x/storage"
+    }
+  },
+  {
+    "name": "tests",
+    "path": "tests",
+    "sha": "4b455379c5ee5810aafe0d7177d1d86518e17fac",
+    "size": 0,
+    "url": "https://api.github.com/repos/laravel/laravel/contents/tests?ref=12.x",
+    "html_url": "https://github.com/laravel/laravel/tree/12.x/tests",
+    "git_url": "https://api.github.com/repos/laravel/laravel/git/trees/4b455379c5ee5810aafe0d7177d1d86518e17fac",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/laravel/laravel/contents/tests?ref=12.x",
+      "git": "https://api.github.com/repos/laravel/laravel/git/trees/4b455379c5ee5810aafe0d7177d1d86518e17fac",
+      "html": "https://github.com/laravel/laravel/tree/12.x/tests"
+    }
+  },
+  {
+    "name": "vite.config.js",
+    "path": "vite.config.js",
+    "sha": "f35b4e79aecca52cf64a611d8fcb75842f923117",
+    "size": 436,
+    "url": "https://api.github.com/repos/laravel/laravel/contents/vite.config.js?ref=12.x",
+    "html_url": "https://github.com/laravel/laravel/blob/12.x/vite.config.js",
+    "git_url": "https://api.github.com/repos/laravel/laravel/git/blobs/f35b4e79aecca52cf64a611d8fcb75842f923117",
+    "download_url": "https://raw.githubusercontent.com/laravel/laravel/12.x/vite.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/laravel/laravel/contents/vite.config.js?ref=12.x",
+      "git": "https://api.github.com/repos/laravel/laravel/git/blobs/f35b4e79aecca52cf64a611d8fcb75842f923117",
+      "html": "https://github.com/laravel/laravel/blob/12.x/vite.config.js"
+    }
+  }
+]
