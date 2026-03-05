@@ -2549,6 +2549,10 @@ function buildRoutes(): RouteObject[] {
       ),
     },
     {
+      path: 'supergroups/',
+      component: make(() => import('sentry/views/issueList/pages/supergroups')),
+    },
+    {
       path: 'views/:viewId/',
       component: errorHandler(OverviewWrapper),
     },
