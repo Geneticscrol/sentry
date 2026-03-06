@@ -1,0 +1,18 @@
+{
+  "name": "Dockerfile",
+  "path": "Dockerfile",
+  "sha": "a9d958d6e405e93824243fccccae625546344873",
+  "size": 349,
+  "url": "https://api.github.com/repos/cubeapm/sample_app_python_sanic/contents/Dockerfile?ref=main",
+  "html_url": "https://github.com/cubeapm/sample_app_python_sanic/blob/main/Dockerfile",
+  "git_url": "https://api.github.com/repos/cubeapm/sample_app_python_sanic/git/blobs/a9d958d6e405e93824243fccccae625546344873",
+  "download_url": "https://raw.githubusercontent.com/cubeapm/sample_app_python_sanic/main/Dockerfile",
+  "type": "file",
+  "content": "RlJPTSB1YnVudHU6MjIuMDQKClJVTiBhcHQtZ2V0IHVwZGF0ZSAmJiBhcHQt\nZ2V0IGluc3RhbGwgLXkgZ2NjIGxpYmZmaS1kZXYgbGlicmRrYWZrYTEgbGli\ncmRrYWZrYS1kZXYgcHl0aG9uMy1waXAKCldPUktESVIgL3NhbmljCgpBREQg\ncmVxdWlyZW1lbnRzLnR4dCAuClJVTiBwaXAgaW5zdGFsbCAtciByZXF1aXJl\nbWVudHMudHh0CgpBREQgLiAuCgpSVU4gcGlwIGluc3RhbGwgLXIgcmVxdWly\nZW1lbnRzLnR4dAoKRVhQT1NFIDgwMDAKCkNNRCBbInNhbmljIiwgInNlcnZl\ncjphcHAiLCAiLS1ob3N0PTAuMC4wLjAiLCAiLS1wb3J0PTgwMDAiLCAiLS13\nb3JrZXJzPTQiLCAiLS1kZWJ1ZyIsICItLXJlbG9hZCJdCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/cubeapm/sample_app_python_sanic/contents/Dockerfile?ref=main",
+    "git": "https://api.github.com/repos/cubeapm/sample_app_python_sanic/git/blobs/a9d958d6e405e93824243fccccae625546344873",
+    "html": "https://github.com/cubeapm/sample_app_python_sanic/blob/main/Dockerfile"
+  }
+}

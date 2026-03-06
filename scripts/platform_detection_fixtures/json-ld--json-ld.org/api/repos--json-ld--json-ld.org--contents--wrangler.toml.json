@@ -1,0 +1,18 @@
+{
+  "name": "wrangler.toml",
+  "path": "wrangler.toml",
+  "sha": "134aac9fdca754e0a32f5b4c853389490c307516",
+  "size": 90,
+  "url": "https://api.github.com/repos/json-ld/json-ld.org/contents/wrangler.toml?ref=main",
+  "html_url": "https://github.com/json-ld/json-ld.org/blob/main/wrangler.toml",
+  "git_url": "https://api.github.com/repos/json-ld/json-ld.org/git/blobs/134aac9fdca754e0a32f5b4c853389490c307516",
+  "download_url": "https://raw.githubusercontent.com/json-ld/json-ld.org/main/wrangler.toml",
+  "type": "file",
+  "content": "bmFtZSA9ICJqc29uLWxkLW9yZyIKcGFnZXNfYnVpbGRfb3V0cHV0X2RpciA9\nICIuL19zaXRlIgpjb21wYXRpYmlsaXR5X2RhdGUgPSAiMjAyNS0wOS0xNSIK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/json-ld/json-ld.org/contents/wrangler.toml?ref=main",
+    "git": "https://api.github.com/repos/json-ld/json-ld.org/git/blobs/134aac9fdca754e0a32f5b4c853389490c307516",
+    "html": "https://github.com/json-ld/json-ld.org/blob/main/wrangler.toml"
+  }
+}

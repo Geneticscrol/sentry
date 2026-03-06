@@ -1,0 +1,146 @@
+[
+  {
+    "name": ".env.example",
+    "path": ".env.example",
+    "sha": "5bf718949a1e229a2fbb80c37d517af804c0a583",
+    "size": 83,
+    "url": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/contents/.env.example?ref=main",
+    "html_url": "https://github.com/cdbrw/bun-elysia-drizzle-base/blob/main/.env.example",
+    "git_url": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/git/blobs/5bf718949a1e229a2fbb80c37d517af804c0a583",
+    "download_url": "https://raw.githubusercontent.com/cdbrw/bun-elysia-drizzle-base/main/.env.example",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/contents/.env.example?ref=main",
+      "git": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/git/blobs/5bf718949a1e229a2fbb80c37d517af804c0a583",
+      "html": "https://github.com/cdbrw/bun-elysia-drizzle-base/blob/main/.env.example"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "48d9de4191d73c38f2dde912fee35b56f7c53fda",
+    "size": 486,
+    "url": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/cdbrw/bun-elysia-drizzle-base/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/git/blobs/48d9de4191d73c38f2dde912fee35b56f7c53fda",
+    "download_url": "https://raw.githubusercontent.com/cdbrw/bun-elysia-drizzle-base/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/git/blobs/48d9de4191d73c38f2dde912fee35b56f7c53fda",
+      "html": "https://github.com/cdbrw/bun-elysia-drizzle-base/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "48790ac0e523e37821738ee7591883248b147fe7",
+    "size": 1099,
+    "url": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/contents/README.md?ref=main",
+    "html_url": "https://github.com/cdbrw/bun-elysia-drizzle-base/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/git/blobs/48790ac0e523e37821738ee7591883248b147fe7",
+    "download_url": "https://raw.githubusercontent.com/cdbrw/bun-elysia-drizzle-base/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/git/blobs/48790ac0e523e37821738ee7591883248b147fe7",
+      "html": "https://github.com/cdbrw/bun-elysia-drizzle-base/blob/main/README.md"
+    }
+  },
+  {
+    "name": "bun.lockb",
+    "path": "bun.lockb",
+    "sha": "a85e46264ec40fc7567a938a2842f3bfb390acb5",
+    "size": 54767,
+    "url": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/contents/bun.lockb?ref=main",
+    "html_url": "https://github.com/cdbrw/bun-elysia-drizzle-base/blob/main/bun.lockb",
+    "git_url": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/git/blobs/a85e46264ec40fc7567a938a2842f3bfb390acb5",
+    "download_url": "https://raw.githubusercontent.com/cdbrw/bun-elysia-drizzle-base/main/bun.lockb",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/contents/bun.lockb?ref=main",
+      "git": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/git/blobs/a85e46264ec40fc7567a938a2842f3bfb390acb5",
+      "html": "https://github.com/cdbrw/bun-elysia-drizzle-base/blob/main/bun.lockb"
+    }
+  },
+  {
+    "name": "drizzle.config.ts",
+    "path": "drizzle.config.ts",
+    "sha": "206be9e5851ff4e0f1813c2ed7e29122904bbd3b",
+    "size": 267,
+    "url": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/contents/drizzle.config.ts?ref=main",
+    "html_url": "https://github.com/cdbrw/bun-elysia-drizzle-base/blob/main/drizzle.config.ts",
+    "git_url": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/git/blobs/206be9e5851ff4e0f1813c2ed7e29122904bbd3b",
+    "download_url": "https://raw.githubusercontent.com/cdbrw/bun-elysia-drizzle-base/main/drizzle.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/contents/drizzle.config.ts?ref=main",
+      "git": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/git/blobs/206be9e5851ff4e0f1813c2ed7e29122904bbd3b",
+      "html": "https://github.com/cdbrw/bun-elysia-drizzle-base/blob/main/drizzle.config.ts"
+    }
+  },
+  {
+    "name": "nixpacks.toml",
+    "path": "nixpacks.toml",
+    "sha": "435e1d87cf858498c9badbd898db18f27741c626",
+    "size": 142,
+    "url": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/contents/nixpacks.toml?ref=main",
+    "html_url": "https://github.com/cdbrw/bun-elysia-drizzle-base/blob/main/nixpacks.toml",
+    "git_url": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/git/blobs/435e1d87cf858498c9badbd898db18f27741c626",
+    "download_url": "https://raw.githubusercontent.com/cdbrw/bun-elysia-drizzle-base/main/nixpacks.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/contents/nixpacks.toml?ref=main",
+      "git": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/git/blobs/435e1d87cf858498c9badbd898db18f27741c626",
+      "html": "https://github.com/cdbrw/bun-elysia-drizzle-base/blob/main/nixpacks.toml"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "03f89b219c0d1bc79693ca4e46faa0235c1efdad",
+    "size": 684,
+    "url": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/contents/package.json?ref=main",
+    "html_url": "https://github.com/cdbrw/bun-elysia-drizzle-base/blob/main/package.json",
+    "git_url": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/git/blobs/03f89b219c0d1bc79693ca4e46faa0235c1efdad",
+    "download_url": "https://raw.githubusercontent.com/cdbrw/bun-elysia-drizzle-base/main/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/contents/package.json?ref=main",
+      "git": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/git/blobs/03f89b219c0d1bc79693ca4e46faa0235c1efdad",
+      "html": "https://github.com/cdbrw/bun-elysia-drizzle-base/blob/main/package.json"
+    }
+  },
+  {
+    "name": "src",
+    "path": "src",
+    "sha": "56ccea6cd42951286eab9769a5f16c74c84651d9",
+    "size": 0,
+    "url": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/contents/src?ref=main",
+    "html_url": "https://github.com/cdbrw/bun-elysia-drizzle-base/tree/main/src",
+    "git_url": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/git/trees/56ccea6cd42951286eab9769a5f16c74c84651d9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/contents/src?ref=main",
+      "git": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/git/trees/56ccea6cd42951286eab9769a5f16c74c84651d9",
+      "html": "https://github.com/cdbrw/bun-elysia-drizzle-base/tree/main/src"
+    }
+  },
+  {
+    "name": "tsconfig.json",
+    "path": "tsconfig.json",
+    "sha": "1ca2350aee631eb81e7136693919064022d43687",
+    "size": 11301,
+    "url": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/contents/tsconfig.json?ref=main",
+    "html_url": "https://github.com/cdbrw/bun-elysia-drizzle-base/blob/main/tsconfig.json",
+    "git_url": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/git/blobs/1ca2350aee631eb81e7136693919064022d43687",
+    "download_url": "https://raw.githubusercontent.com/cdbrw/bun-elysia-drizzle-base/main/tsconfig.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/contents/tsconfig.json?ref=main",
+      "git": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/git/blobs/1ca2350aee631eb81e7136693919064022d43687",
+      "html": "https://github.com/cdbrw/bun-elysia-drizzle-base/blob/main/tsconfig.json"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "name": ".nvmrc",
+  "path": ".nvmrc",
+  "sha": "92f279e3e666d01def7e6fac12406dd9d23cd6a3",
+  "size": 3,
+  "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/.nvmrc?ref=main",
+  "html_url": "https://github.com/puppeteer/puppeteer/blob/main/.nvmrc",
+  "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/92f279e3e666d01def7e6fac12406dd9d23cd6a3",
+  "download_url": "https://raw.githubusercontent.com/puppeteer/puppeteer/main/.nvmrc",
+  "type": "file",
+  "content": "djIy\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/.nvmrc?ref=main",
+    "git": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/92f279e3e666d01def7e6fac12406dd9d23cd6a3",
+    "html": "https://github.com/puppeteer/puppeteer/blob/main/.nvmrc"
+  }
+}

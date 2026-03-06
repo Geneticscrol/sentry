@@ -1,0 +1,370 @@
+[
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "c3f2d6e86703fd20cf342c861d224fef34ac8a33",
+    "size": 0,
+    "url": "https://api.github.com/repos/apple/containerization/contents/.github?ref=main",
+    "html_url": "https://github.com/apple/containerization/tree/main/.github",
+    "git_url": "https://api.github.com/repos/apple/containerization/git/trees/c3f2d6e86703fd20cf342c861d224fef34ac8a33",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apple/containerization/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/apple/containerization/git/trees/c3f2d6e86703fd20cf342c861d224fef34ac8a33",
+      "html": "https://github.com/apple/containerization/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "002f6c18ab03b6fd7a6b3dd46fc81f06862767aa",
+    "size": 246,
+    "url": "https://api.github.com/repos/apple/containerization/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/apple/containerization/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/apple/containerization/git/blobs/002f6c18ab03b6fd7a6b3dd46fc81f06862767aa",
+    "download_url": "https://raw.githubusercontent.com/apple/containerization/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apple/containerization/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/apple/containerization/git/blobs/002f6c18ab03b6fd7a6b3dd46fc81f06862767aa",
+      "html": "https://github.com/apple/containerization/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".spi.yml",
+    "path": ".spi.yml",
+    "sha": "9b46d1ff88d3d659fddf11685c296c75350cd06e",
+    "size": 281,
+    "url": "https://api.github.com/repos/apple/containerization/contents/.spi.yml?ref=main",
+    "html_url": "https://github.com/apple/containerization/blob/main/.spi.yml",
+    "git_url": "https://api.github.com/repos/apple/containerization/git/blobs/9b46d1ff88d3d659fddf11685c296c75350cd06e",
+    "download_url": "https://raw.githubusercontent.com/apple/containerization/main/.spi.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apple/containerization/contents/.spi.yml?ref=main",
+      "git": "https://api.github.com/repos/apple/containerization/git/blobs/9b46d1ff88d3d659fddf11685c296c75350cd06e",
+      "html": "https://github.com/apple/containerization/blob/main/.spi.yml"
+    }
+  },
+  {
+    "name": ".swift-format",
+    "path": ".swift-format",
+    "sha": "dcd6005943eca101d5f81fe8fc5b439651ce3e57",
+    "size": 2372,
+    "url": "https://api.github.com/repos/apple/containerization/contents/.swift-format?ref=main",
+    "html_url": "https://github.com/apple/containerization/blob/main/.swift-format",
+    "git_url": "https://api.github.com/repos/apple/containerization/git/blobs/dcd6005943eca101d5f81fe8fc5b439651ce3e57",
+    "download_url": "https://raw.githubusercontent.com/apple/containerization/main/.swift-format",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apple/containerization/contents/.swift-format?ref=main",
+      "git": "https://api.github.com/repos/apple/containerization/git/blobs/dcd6005943eca101d5f81fe8fc5b439651ce3e57",
+      "html": "https://github.com/apple/containerization/blob/main/.swift-format"
+    }
+  },
+  {
+    "name": ".swift-format-nolint",
+    "path": ".swift-format-nolint",
+    "sha": "8f600e50e9343853a939e98e4e398cc7e6bd2b39",
+    "size": 2395,
+    "url": "https://api.github.com/repos/apple/containerization/contents/.swift-format-nolint?ref=main",
+    "html_url": "https://github.com/apple/containerization/blob/main/.swift-format-nolint",
+    "git_url": "https://api.github.com/repos/apple/containerization/git/blobs/8f600e50e9343853a939e98e4e398cc7e6bd2b39",
+    "download_url": "https://raw.githubusercontent.com/apple/containerization/main/.swift-format-nolint",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apple/containerization/contents/.swift-format-nolint?ref=main",
+      "git": "https://api.github.com/repos/apple/containerization/git/blobs/8f600e50e9343853a939e98e4e398cc7e6bd2b39",
+      "html": "https://github.com/apple/containerization/blob/main/.swift-format-nolint"
+    }
+  },
+  {
+    "name": ".swift-version",
+    "path": ".swift-version",
+    "sha": "23ee9ab8affa798ad30829c8da1ec8805bcda057",
+    "size": 23,
+    "url": "https://api.github.com/repos/apple/containerization/contents/.swift-version?ref=main",
+    "html_url": "https://github.com/apple/containerization/blob/main/.swift-version",
+    "git_url": "https://api.github.com/repos/apple/containerization/git/blobs/23ee9ab8affa798ad30829c8da1ec8805bcda057",
+    "download_url": "https://raw.githubusercontent.com/apple/containerization/main/.swift-version",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apple/containerization/contents/.swift-version?ref=main",
+      "git": "https://api.github.com/repos/apple/containerization/git/blobs/23ee9ab8affa798ad30829c8da1ec8805bcda057",
+      "html": "https://github.com/apple/containerization/blob/main/.swift-version"
+    }
+  },
+  {
+    "name": "CONTRIBUTING.md",
+    "path": "CONTRIBUTING.md",
+    "sha": "67afc015d2e2958ee878fd0bfd560ac73c5eab4e",
+    "size": 6368,
+    "url": "https://api.github.com/repos/apple/containerization/contents/CONTRIBUTING.md?ref=main",
+    "html_url": "https://github.com/apple/containerization/blob/main/CONTRIBUTING.md",
+    "git_url": "https://api.github.com/repos/apple/containerization/git/blobs/67afc015d2e2958ee878fd0bfd560ac73c5eab4e",
+    "download_url": "https://raw.githubusercontent.com/apple/containerization/main/CONTRIBUTING.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apple/containerization/contents/CONTRIBUTING.md?ref=main",
+      "git": "https://api.github.com/repos/apple/containerization/git/blobs/67afc015d2e2958ee878fd0bfd560ac73c5eab4e",
+      "html": "https://github.com/apple/containerization/blob/main/CONTRIBUTING.md"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "7a4a3ea2424c09fbe48d455aed1eaa94d9124835",
+    "size": 11357,
+    "url": "https://api.github.com/repos/apple/containerization/contents/LICENSE?ref=main",
+    "html_url": "https://github.com/apple/containerization/blob/main/LICENSE",
+    "git_url": "https://api.github.com/repos/apple/containerization/git/blobs/7a4a3ea2424c09fbe48d455aed1eaa94d9124835",
+    "download_url": "https://raw.githubusercontent.com/apple/containerization/main/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apple/containerization/contents/LICENSE?ref=main",
+      "git": "https://api.github.com/repos/apple/containerization/git/blobs/7a4a3ea2424c09fbe48d455aed1eaa94d9124835",
+      "html": "https://github.com/apple/containerization/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "MAINTAINERS.txt",
+    "path": "MAINTAINERS.txt",
+    "sha": "2b40e2032c01bbda858c7e6cd7b88b74c374eda9",
+    "size": 622,
+    "url": "https://api.github.com/repos/apple/containerization/contents/MAINTAINERS.txt?ref=main",
+    "html_url": "https://github.com/apple/containerization/blob/main/MAINTAINERS.txt",
+    "git_url": "https://api.github.com/repos/apple/containerization/git/blobs/2b40e2032c01bbda858c7e6cd7b88b74c374eda9",
+    "download_url": "https://raw.githubusercontent.com/apple/containerization/main/MAINTAINERS.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apple/containerization/contents/MAINTAINERS.txt?ref=main",
+      "git": "https://api.github.com/repos/apple/containerization/git/blobs/2b40e2032c01bbda858c7e6cd7b88b74c374eda9",
+      "html": "https://github.com/apple/containerization/blob/main/MAINTAINERS.txt"
+    }
+  },
+  {
+    "name": "Makefile",
+    "path": "Makefile",
+    "sha": "29d71893325e9e68a60ff41c2b96f75864997f50",
+    "size": 6665,
+    "url": "https://api.github.com/repos/apple/containerization/contents/Makefile?ref=main",
+    "html_url": "https://github.com/apple/containerization/blob/main/Makefile",
+    "git_url": "https://api.github.com/repos/apple/containerization/git/blobs/29d71893325e9e68a60ff41c2b96f75864997f50",
+    "download_url": "https://raw.githubusercontent.com/apple/containerization/main/Makefile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apple/containerization/contents/Makefile?ref=main",
+      "git": "https://api.github.com/repos/apple/containerization/git/blobs/29d71893325e9e68a60ff41c2b96f75864997f50",
+      "html": "https://github.com/apple/containerization/blob/main/Makefile"
+    }
+  },
+  {
+    "name": "Package.resolved",
+    "path": "Package.resolved",
+    "sha": "25c0dcb39236d8703f930a732920eb00a4f6722a",
+    "size": 7063,
+    "url": "https://api.github.com/repos/apple/containerization/contents/Package.resolved?ref=main",
+    "html_url": "https://github.com/apple/containerization/blob/main/Package.resolved",
+    "git_url": "https://api.github.com/repos/apple/containerization/git/blobs/25c0dcb39236d8703f930a732920eb00a4f6722a",
+    "download_url": "https://raw.githubusercontent.com/apple/containerization/main/Package.resolved",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apple/containerization/contents/Package.resolved?ref=main",
+      "git": "https://api.github.com/repos/apple/containerization/git/blobs/25c0dcb39236d8703f930a732920eb00a4f6722a",
+      "html": "https://github.com/apple/containerization/blob/main/Package.resolved"
+    }
+  },
+  {
+    "name": "Package.swift",
+    "path": "Package.swift",
+    "sha": "fe86d8445c39417f26e0cbbc118a15f415f31456",
+    "size": 10964,
+    "url": "https://api.github.com/repos/apple/containerization/contents/Package.swift?ref=main",
+    "html_url": "https://github.com/apple/containerization/blob/main/Package.swift",
+    "git_url": "https://api.github.com/repos/apple/containerization/git/blobs/fe86d8445c39417f26e0cbbc118a15f415f31456",
+    "download_url": "https://raw.githubusercontent.com/apple/containerization/main/Package.swift",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apple/containerization/contents/Package.swift?ref=main",
+      "git": "https://api.github.com/repos/apple/containerization/git/blobs/fe86d8445c39417f26e0cbbc118a15f415f31456",
+      "html": "https://github.com/apple/containerization/blob/main/Package.swift"
+    }
+  },
+  {
+    "name": "Protobuf.Makefile",
+    "path": "Protobuf.Makefile",
+    "sha": "bc4f924d7ba3ff9f30104f9803e822da75cb2a68",
+    "size": 2048,
+    "url": "https://api.github.com/repos/apple/containerization/contents/Protobuf.Makefile?ref=main",
+    "html_url": "https://github.com/apple/containerization/blob/main/Protobuf.Makefile",
+    "git_url": "https://api.github.com/repos/apple/containerization/git/blobs/bc4f924d7ba3ff9f30104f9803e822da75cb2a68",
+    "download_url": "https://raw.githubusercontent.com/apple/containerization/main/Protobuf.Makefile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apple/containerization/contents/Protobuf.Makefile?ref=main",
+      "git": "https://api.github.com/repos/apple/containerization/git/blobs/bc4f924d7ba3ff9f30104f9803e822da75cb2a68",
+      "html": "https://github.com/apple/containerization/blob/main/Protobuf.Makefile"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "bfb40ddb7e32e68c018c24d8f1f1fddcbb319f99",
+    "size": 7290,
+    "url": "https://api.github.com/repos/apple/containerization/contents/README.md?ref=main",
+    "html_url": "https://github.com/apple/containerization/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/apple/containerization/git/blobs/bfb40ddb7e32e68c018c24d8f1f1fddcbb319f99",
+    "download_url": "https://raw.githubusercontent.com/apple/containerization/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apple/containerization/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/apple/containerization/git/blobs/bfb40ddb7e32e68c018c24d8f1f1fddcbb319f99",
+      "html": "https://github.com/apple/containerization/blob/main/README.md"
+    }
+  },
+  {
+    "name": "SECURITY.md",
+    "path": "SECURITY.md",
+    "sha": "3b82940165c1ea674b91b3fffed53234dab41481",
+    "size": 1489,
+    "url": "https://api.github.com/repos/apple/containerization/contents/SECURITY.md?ref=main",
+    "html_url": "https://github.com/apple/containerization/blob/main/SECURITY.md",
+    "git_url": "https://api.github.com/repos/apple/containerization/git/blobs/3b82940165c1ea674b91b3fffed53234dab41481",
+    "download_url": "https://raw.githubusercontent.com/apple/containerization/main/SECURITY.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apple/containerization/contents/SECURITY.md?ref=main",
+      "git": "https://api.github.com/repos/apple/containerization/git/blobs/3b82940165c1ea674b91b3fffed53234dab41481",
+      "html": "https://github.com/apple/containerization/blob/main/SECURITY.md"
+    }
+  },
+  {
+    "name": "Sources",
+    "path": "Sources",
+    "sha": "f72c71750ca59a0aab76a166c8fafaca77ead6a7",
+    "size": 0,
+    "url": "https://api.github.com/repos/apple/containerization/contents/Sources?ref=main",
+    "html_url": "https://github.com/apple/containerization/tree/main/Sources",
+    "git_url": "https://api.github.com/repos/apple/containerization/git/trees/f72c71750ca59a0aab76a166c8fafaca77ead6a7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apple/containerization/contents/Sources?ref=main",
+      "git": "https://api.github.com/repos/apple/containerization/git/trees/f72c71750ca59a0aab76a166c8fafaca77ead6a7",
+      "html": "https://github.com/apple/containerization/tree/main/Sources"
+    }
+  },
+  {
+    "name": "Tests",
+    "path": "Tests",
+    "sha": "690948d4f727b290140f41532feb7d89f053ba75",
+    "size": 0,
+    "url": "https://api.github.com/repos/apple/containerization/contents/Tests?ref=main",
+    "html_url": "https://github.com/apple/containerization/tree/main/Tests",
+    "git_url": "https://api.github.com/repos/apple/containerization/git/trees/690948d4f727b290140f41532feb7d89f053ba75",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apple/containerization/contents/Tests?ref=main",
+      "git": "https://api.github.com/repos/apple/containerization/git/trees/690948d4f727b290140f41532feb7d89f053ba75",
+      "html": "https://github.com/apple/containerization/tree/main/Tests"
+    }
+  },
+  {
+    "name": "examples",
+    "path": "examples",
+    "sha": "bd9c25e9562262bd06d5b73fd387611575df25f3",
+    "size": 0,
+    "url": "https://api.github.com/repos/apple/containerization/contents/examples?ref=main",
+    "html_url": "https://github.com/apple/containerization/tree/main/examples",
+    "git_url": "https://api.github.com/repos/apple/containerization/git/trees/bd9c25e9562262bd06d5b73fd387611575df25f3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apple/containerization/contents/examples?ref=main",
+      "git": "https://api.github.com/repos/apple/containerization/git/trees/bd9c25e9562262bd06d5b73fd387611575df25f3",
+      "html": "https://github.com/apple/containerization/tree/main/examples"
+    }
+  },
+  {
+    "name": "kernel",
+    "path": "kernel",
+    "sha": "dd99551a89ca3d0441df3af83dd040976c18037c",
+    "size": 0,
+    "url": "https://api.github.com/repos/apple/containerization/contents/kernel?ref=main",
+    "html_url": "https://github.com/apple/containerization/tree/main/kernel",
+    "git_url": "https://api.github.com/repos/apple/containerization/git/trees/dd99551a89ca3d0441df3af83dd040976c18037c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apple/containerization/contents/kernel?ref=main",
+      "git": "https://api.github.com/repos/apple/containerization/git/trees/dd99551a89ca3d0441df3af83dd040976c18037c",
+      "html": "https://github.com/apple/containerization/tree/main/kernel"
+    }
+  },
+  {
+    "name": "licenserc.toml",
+    "path": "licenserc.toml",
+    "sha": "43b81fcf308211d0de1b67a7db066822a33b3621",
+    "size": 453,
+    "url": "https://api.github.com/repos/apple/containerization/contents/licenserc.toml?ref=main",
+    "html_url": "https://github.com/apple/containerization/blob/main/licenserc.toml",
+    "git_url": "https://api.github.com/repos/apple/containerization/git/blobs/43b81fcf308211d0de1b67a7db066822a33b3621",
+    "download_url": "https://raw.githubusercontent.com/apple/containerization/main/licenserc.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/apple/containerization/contents/licenserc.toml?ref=main",
+      "git": "https://api.github.com/repos/apple/containerization/git/blobs/43b81fcf308211d0de1b67a7db066822a33b3621",
+      "html": "https://github.com/apple/containerization/blob/main/licenserc.toml"
+    }
+  },
+  {
+    "name": "scripts",
+    "path": "scripts",
+    "sha": "e5a510ef53fc94680859de8a1635470d163dd537",
+    "size": 0,
+    "url": "https://api.github.com/repos/apple/containerization/contents/scripts?ref=main",
+    "html_url": "https://github.com/apple/containerization/tree/main/scripts",
+    "git_url": "https://api.github.com/repos/apple/containerization/git/trees/e5a510ef53fc94680859de8a1635470d163dd537",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apple/containerization/contents/scripts?ref=main",
+      "git": "https://api.github.com/repos/apple/containerization/git/trees/e5a510ef53fc94680859de8a1635470d163dd537",
+      "html": "https://github.com/apple/containerization/tree/main/scripts"
+    }
+  },
+  {
+    "name": "signing",
+    "path": "signing",
+    "sha": "67b82e639d76131567ae864d845cc381acc6b7cd",
+    "size": 0,
+    "url": "https://api.github.com/repos/apple/containerization/contents/signing?ref=main",
+    "html_url": "https://github.com/apple/containerization/tree/main/signing",
+    "git_url": "https://api.github.com/repos/apple/containerization/git/trees/67b82e639d76131567ae864d845cc381acc6b7cd",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apple/containerization/contents/signing?ref=main",
+      "git": "https://api.github.com/repos/apple/containerization/git/trees/67b82e639d76131567ae864d845cc381acc6b7cd",
+      "html": "https://github.com/apple/containerization/tree/main/signing"
+    }
+  },
+  {
+    "name": "vminitd",
+    "path": "vminitd",
+    "sha": "aca9de85f34b5391d6c63aae57574d5210de4c9c",
+    "size": 0,
+    "url": "https://api.github.com/repos/apple/containerization/contents/vminitd?ref=main",
+    "html_url": "https://github.com/apple/containerization/tree/main/vminitd",
+    "git_url": "https://api.github.com/repos/apple/containerization/git/trees/aca9de85f34b5391d6c63aae57574d5210de4c9c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/apple/containerization/contents/vminitd?ref=main",
+      "git": "https://api.github.com/repos/apple/containerization/git/trees/aca9de85f34b5391d6c63aae57574d5210de4c9c",
+      "html": "https://github.com/apple/containerization/tree/main/vminitd"
+    }
+  }
+]

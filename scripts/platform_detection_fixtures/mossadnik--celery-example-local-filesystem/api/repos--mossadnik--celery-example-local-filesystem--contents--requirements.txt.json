@@ -1,0 +1,18 @@
+{
+  "name": "requirements.txt",
+  "path": "requirements.txt",
+  "sha": "72943a1c9857cf0493b2c7641661775d308d3eae",
+  "size": 12,
+  "url": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/contents/requirements.txt?ref=master",
+  "html_url": "https://github.com/mossadnik/celery-example-local-filesystem/blob/master/requirements.txt",
+  "git_url": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/git/blobs/72943a1c9857cf0493b2c7641661775d308d3eae",
+  "download_url": "https://raw.githubusercontent.com/mossadnik/celery-example-local-filesystem/master/requirements.txt",
+  "type": "file",
+  "content": "Q2VsZXJ5PT00LjIK\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/contents/requirements.txt?ref=master",
+    "git": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/git/blobs/72943a1c9857cf0493b2c7641661775d308d3eae",
+    "html": "https://github.com/mossadnik/celery-example-local-filesystem/blob/master/requirements.txt"
+  }
+}

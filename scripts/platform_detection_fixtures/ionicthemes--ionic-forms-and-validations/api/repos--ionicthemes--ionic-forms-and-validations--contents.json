@@ -1,0 +1,290 @@
+[
+  {
+    "name": ".firebase",
+    "path": ".firebase",
+    "sha": "51ac57c187c579456db0c9c3075ca9bda2892020",
+    "size": 0,
+    "url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/.firebase?ref=master",
+    "html_url": "https://github.com/ionicthemes/ionic-forms-and-validations/tree/master/.firebase",
+    "git_url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/trees/51ac57c187c579456db0c9c3075ca9bda2892020",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/.firebase?ref=master",
+      "git": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/trees/51ac57c187c579456db0c9c3075ca9bda2892020",
+      "html": "https://github.com/ionicthemes/ionic-forms-and-validations/tree/master/.firebase"
+    }
+  },
+  {
+    "name": ".firebaserc",
+    "path": ".firebaserc",
+    "sha": "2e333d80e80b8790d62588afea5cf8699ed927c9",
+    "size": 76,
+    "url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/.firebaserc?ref=master",
+    "html_url": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/.firebaserc",
+    "git_url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/2e333d80e80b8790d62588afea5cf8699ed927c9",
+    "download_url": "https://raw.githubusercontent.com/ionicthemes/ionic-forms-and-validations/master/.firebaserc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/.firebaserc?ref=master",
+      "git": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/2e333d80e80b8790d62588afea5cf8699ed927c9",
+      "html": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/.firebaserc"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "416fc4c1fa40daf29defeca27a8f09673554ef7d",
+    "size": 389,
+    "url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/416fc4c1fa40daf29defeca27a8f09673554ef7d",
+    "download_url": "https://raw.githubusercontent.com/ionicthemes/ionic-forms-and-validations/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/416fc4c1fa40daf29defeca27a8f09673554ef7d",
+      "html": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "354ffd73864c86d099b561945422c8779b226c12",
+    "size": 2226,
+    "url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/README.md?ref=master",
+    "html_url": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/354ffd73864c86d099b561945422c8779b226c12",
+    "download_url": "https://raw.githubusercontent.com/ionicthemes/ionic-forms-and-validations/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/354ffd73864c86d099b561945422c8779b226c12",
+      "html": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/README.md"
+    }
+  },
+  {
+    "name": "angular.json",
+    "path": "angular.json",
+    "sha": "784b4bfa7ca88a2a78e1fd36326e8fdff642cc8c",
+    "size": 5260,
+    "url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/angular.json?ref=master",
+    "html_url": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/angular.json",
+    "git_url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/784b4bfa7ca88a2a78e1fd36326e8fdff642cc8c",
+    "download_url": "https://raw.githubusercontent.com/ionicthemes/ionic-forms-and-validations/master/angular.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/angular.json?ref=master",
+      "git": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/784b4bfa7ca88a2a78e1fd36326e8fdff642cc8c",
+      "html": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/angular.json"
+    }
+  },
+  {
+    "name": "browserslist",
+    "path": "browserslist",
+    "sha": "b15c7fae51ab96e98b919766a35cc34699a3b7a7",
+    "size": 430,
+    "url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/browserslist?ref=master",
+    "html_url": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/browserslist",
+    "git_url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/b15c7fae51ab96e98b919766a35cc34699a3b7a7",
+    "download_url": "https://raw.githubusercontent.com/ionicthemes/ionic-forms-and-validations/master/browserslist",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/browserslist?ref=master",
+      "git": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/b15c7fae51ab96e98b919766a35cc34699a3b7a7",
+      "html": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/browserslist"
+    }
+  },
+  {
+    "name": "e2e",
+    "path": "e2e",
+    "sha": "838de374d42a0250b61700c10563505117d0e444",
+    "size": 0,
+    "url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/e2e?ref=master",
+    "html_url": "https://github.com/ionicthemes/ionic-forms-and-validations/tree/master/e2e",
+    "git_url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/trees/838de374d42a0250b61700c10563505117d0e444",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/e2e?ref=master",
+      "git": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/trees/838de374d42a0250b61700c10563505117d0e444",
+      "html": "https://github.com/ionicthemes/ionic-forms-and-validations/tree/master/e2e"
+    }
+  },
+  {
+    "name": "firebase.json",
+    "path": "firebase.json",
+    "sha": "45041e03a84fa01020690908ae827cdbf0f2c996",
+    "size": 233,
+    "url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/firebase.json?ref=master",
+    "html_url": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/firebase.json",
+    "git_url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/45041e03a84fa01020690908ae827cdbf0f2c996",
+    "download_url": "https://raw.githubusercontent.com/ionicthemes/ionic-forms-and-validations/master/firebase.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/firebase.json?ref=master",
+      "git": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/45041e03a84fa01020690908ae827cdbf0f2c996",
+      "html": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/firebase.json"
+    }
+  },
+  {
+    "name": "ionic-3",
+    "path": "ionic-3",
+    "sha": "592ea1ee8a4e45b9d371e0e45aba9eb35ccd683b",
+    "size": 0,
+    "url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/ionic-3?ref=master",
+    "html_url": "https://github.com/ionicthemes/ionic-forms-and-validations/tree/master/ionic-3",
+    "git_url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/trees/592ea1ee8a4e45b9d371e0e45aba9eb35ccd683b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/ionic-3?ref=master",
+      "git": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/trees/592ea1ee8a4e45b9d371e0e45aba9eb35ccd683b",
+      "html": "https://github.com/ionicthemes/ionic-forms-and-validations/tree/master/ionic-3"
+    }
+  },
+  {
+    "name": "ionic.config.json",
+    "path": "ionic.config.json",
+    "sha": "93b2f8db7b8653ae4efb47ef286cb1c062b47928",
+    "size": 80,
+    "url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/ionic.config.json?ref=master",
+    "html_url": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/ionic.config.json",
+    "git_url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/93b2f8db7b8653ae4efb47ef286cb1c062b47928",
+    "download_url": "https://raw.githubusercontent.com/ionicthemes/ionic-forms-and-validations/master/ionic.config.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/ionic.config.json?ref=master",
+      "git": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/93b2f8db7b8653ae4efb47ef286cb1c062b47928",
+      "html": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/ionic.config.json"
+    }
+  },
+  {
+    "name": "karma.conf.js",
+    "path": "karma.conf.js",
+    "sha": "ffd7c16c8d6f4ed3d01bf4662bae56658ef0fc15",
+    "size": 981,
+    "url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/karma.conf.js?ref=master",
+    "html_url": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/karma.conf.js",
+    "git_url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/ffd7c16c8d6f4ed3d01bf4662bae56658ef0fc15",
+    "download_url": "https://raw.githubusercontent.com/ionicthemes/ionic-forms-and-validations/master/karma.conf.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/karma.conf.js?ref=master",
+      "git": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/ffd7c16c8d6f4ed3d01bf4662bae56658ef0fc15",
+      "html": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/karma.conf.js"
+    }
+  },
+  {
+    "name": "package-lock.json",
+    "path": "package-lock.json",
+    "sha": "818b64600f3992df6d3f375541d5e1e5936bfb3b",
+    "size": 523446,
+    "url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/package-lock.json?ref=master",
+    "html_url": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/package-lock.json",
+    "git_url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/818b64600f3992df6d3f375541d5e1e5936bfb3b",
+    "download_url": "https://raw.githubusercontent.com/ionicthemes/ionic-forms-and-validations/master/package-lock.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/package-lock.json?ref=master",
+      "git": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/818b64600f3992df6d3f375541d5e1e5936bfb3b",
+      "html": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/package-lock.json"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "11759d1776a6af3df189d86a40306304afc94c90",
+    "size": 1648,
+    "url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/package.json?ref=master",
+    "html_url": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/package.json",
+    "git_url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/11759d1776a6af3df189d86a40306304afc94c90",
+    "download_url": "https://raw.githubusercontent.com/ionicthemes/ionic-forms-and-validations/master/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/package.json?ref=master",
+      "git": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/11759d1776a6af3df189d86a40306304afc94c90",
+      "html": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/package.json"
+    }
+  },
+  {
+    "name": "src",
+    "path": "src",
+    "sha": "97c811f6efd35debc4b700ab64dc1ab6e48825ad",
+    "size": 0,
+    "url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/src?ref=master",
+    "html_url": "https://github.com/ionicthemes/ionic-forms-and-validations/tree/master/src",
+    "git_url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/trees/97c811f6efd35debc4b700ab64dc1ab6e48825ad",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/src?ref=master",
+      "git": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/trees/97c811f6efd35debc4b700ab64dc1ab6e48825ad",
+      "html": "https://github.com/ionicthemes/ionic-forms-and-validations/tree/master/src"
+    }
+  },
+  {
+    "name": "tsconfig.app.json",
+    "path": "tsconfig.app.json",
+    "sha": "91b32f2fce82caaeeb19b9cb6fab4024b9b17831",
+    "size": 272,
+    "url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/tsconfig.app.json?ref=master",
+    "html_url": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/tsconfig.app.json",
+    "git_url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/91b32f2fce82caaeeb19b9cb6fab4024b9b17831",
+    "download_url": "https://raw.githubusercontent.com/ionicthemes/ionic-forms-and-validations/master/tsconfig.app.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/tsconfig.app.json?ref=master",
+      "git": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/91b32f2fce82caaeeb19b9cb6fab4024b9b17831",
+      "html": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/tsconfig.app.json"
+    }
+  },
+  {
+    "name": "tsconfig.json",
+    "path": "tsconfig.json",
+    "sha": "8c4ef3bbae3a0708a4c9cc0c7ad0518b82ef651a",
+    "size": 489,
+    "url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/tsconfig.json?ref=master",
+    "html_url": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/tsconfig.json",
+    "git_url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/8c4ef3bbae3a0708a4c9cc0c7ad0518b82ef651a",
+    "download_url": "https://raw.githubusercontent.com/ionicthemes/ionic-forms-and-validations/master/tsconfig.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/tsconfig.json?ref=master",
+      "git": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/8c4ef3bbae3a0708a4c9cc0c7ad0518b82ef651a",
+      "html": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/tsconfig.json"
+    }
+  },
+  {
+    "name": "tsconfig.spec.json",
+    "path": "tsconfig.spec.json",
+    "sha": "b5bda534fc2352f03e2859d99d2d370eefd04f3c",
+    "size": 269,
+    "url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/tsconfig.spec.json?ref=master",
+    "html_url": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/tsconfig.spec.json",
+    "git_url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/b5bda534fc2352f03e2859d99d2d370eefd04f3c",
+    "download_url": "https://raw.githubusercontent.com/ionicthemes/ionic-forms-and-validations/master/tsconfig.spec.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/tsconfig.spec.json?ref=master",
+      "git": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/b5bda534fc2352f03e2859d99d2d370eefd04f3c",
+      "html": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/tsconfig.spec.json"
+    }
+  },
+  {
+    "name": "tslint.json",
+    "path": "tslint.json",
+    "sha": "a8251b9a19d6cb7b8540f103fbe4dd4afa6f1627",
+    "size": 3188,
+    "url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/tslint.json?ref=master",
+    "html_url": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/tslint.json",
+    "git_url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/a8251b9a19d6cb7b8540f103fbe4dd4afa6f1627",
+    "download_url": "https://raw.githubusercontent.com/ionicthemes/ionic-forms-and-validations/master/tslint.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/tslint.json?ref=master",
+      "git": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/a8251b9a19d6cb7b8540f103fbe4dd4afa6f1627",
+      "html": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/tslint.json"
+    }
+  }
+]

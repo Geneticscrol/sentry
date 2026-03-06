@@ -1,0 +1,18 @@
+{
+  "name": "vercel.json",
+  "path": "vercel.json",
+  "sha": "8f0714a58fac16fd0a1b193e7573e9da95d6e4b3",
+  "size": 375,
+  "url": "https://api.github.com/repos/PuruVJ/macos-web/contents/vercel.json?ref=main",
+  "html_url": "https://github.com/PuruVJ/macos-web/blob/main/vercel.json",
+  "git_url": "https://api.github.com/repos/PuruVJ/macos-web/git/blobs/8f0714a58fac16fd0a1b193e7573e9da95d6e4b3",
+  "download_url": "https://raw.githubusercontent.com/PuruVJ/macos-web/main/vercel.json",
+  "type": "file",
+  "content": "ewoJImhlYWRlcnMiOiBbCgkJewoJCQkic291cmNlIjogIi8oLiopXFwud2Vi\ncCIsCgkJCSJoZWFkZXJzIjogWwoJCQkJewoJCQkJCSJrZXkiOiAiQ2FjaGUt\nQ29udHJvbCIsCgkJCQkJInZhbHVlIjogInB1YmxpYywgbWF4LWFnZT0zMTUz\nNjAwMCwgaW1tdXRhYmxlIgoJCQkJfSwKCQkJCXsKCQkJCQkia2V5IjogIkNE\nTi1DYWNoZS1Db250cm9sIiwKCQkJCQkidmFsdWUiOiAicHVibGljLCBtYXgt\nYWdlPTMxNTM2MDAwLCBpbW11dGFibGUiCgkJCQl9LAoJCQkJewoJCQkJCSJr\nZXkiOiAiVmVyY2VsLUNETi1DYWNoZS1Db250cm9sIiwKCQkJCQkidmFsdWUi\nOiAicHVibGljLCBtYXgtYWdlPTMxNTM2MDAwLCBpbW11dGFibGUiCgkJCQl9\nCgkJCV0KCQl9CgldCn0K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/PuruVJ/macos-web/contents/vercel.json?ref=main",
+    "git": "https://api.github.com/repos/PuruVJ/macos-web/git/blobs/8f0714a58fac16fd0a1b193e7573e9da95d6e4b3",
+    "html": "https://github.com/PuruVJ/macos-web/blob/main/vercel.json"
+  }
+}

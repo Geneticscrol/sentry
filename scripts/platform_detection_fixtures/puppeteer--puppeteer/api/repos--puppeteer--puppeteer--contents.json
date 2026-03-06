@@ -1,0 +1,546 @@
+[
+  {
+    "name": ".devcontainer",
+    "path": ".devcontainer",
+    "sha": "9eca32816a5446714a55a435b627568408325b6c",
+    "size": 0,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/.devcontainer?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/tree/main/.devcontainer",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/trees/9eca32816a5446714a55a435b627568408325b6c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/.devcontainer?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/trees/9eca32816a5446714a55a435b627568408325b6c",
+      "html": "https://github.com/puppeteer/puppeteer/tree/main/.devcontainer"
+    }
+  },
+  {
+    "name": ".editorconfig",
+    "path": ".editorconfig",
+    "sha": "c6c8b3621938a4691225a870a59bf382af1883dd",
+    "size": 147,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/.editorconfig?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/blob/main/.editorconfig",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/c6c8b3621938a4691225a870a59bf382af1883dd",
+    "download_url": "https://raw.githubusercontent.com/puppeteer/puppeteer/main/.editorconfig",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/.editorconfig?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/c6c8b3621938a4691225a870a59bf382af1883dd",
+      "html": "https://github.com/puppeteer/puppeteer/blob/main/.editorconfig"
+    }
+  },
+  {
+    "name": ".gitattributes",
+    "path": ".gitattributes",
+    "sha": "222aec2e3a7840e74974be22d9d92835fbe84b56",
+    "size": 79,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/.gitattributes?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/blob/main/.gitattributes",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/222aec2e3a7840e74974be22d9d92835fbe84b56",
+    "download_url": "https://raw.githubusercontent.com/puppeteer/puppeteer/main/.gitattributes",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/.gitattributes?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/222aec2e3a7840e74974be22d9d92835fbe84b56",
+      "html": "https://github.com/puppeteer/puppeteer/blob/main/.gitattributes"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "f879731ad13e8a83d1a209c8fb0242e7d623d6b3",
+    "size": 0,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/.github?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/tree/main/.github",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/trees/f879731ad13e8a83d1a209c8fb0242e7d623d6b3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/trees/f879731ad13e8a83d1a209c8fb0242e7d623d6b3",
+      "html": "https://github.com/puppeteer/puppeteer/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "17024fb5b1221076f530bd191cc738b54bcf78a3",
+    "size": 467,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/17024fb5b1221076f530bd191cc738b54bcf78a3",
+    "download_url": "https://raw.githubusercontent.com/puppeteer/puppeteer/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/17024fb5b1221076f530bd191cc738b54bcf78a3",
+      "html": "https://github.com/puppeteer/puppeteer/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".mocharc.cjs",
+    "path": ".mocharc.cjs",
+    "sha": "a652fd778bf6001bf8b8c885db9bc8d9df7df338",
+    "size": 755,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/.mocharc.cjs?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/blob/main/.mocharc.cjs",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/a652fd778bf6001bf8b8c885db9bc8d9df7df338",
+    "download_url": "https://raw.githubusercontent.com/puppeteer/puppeteer/main/.mocharc.cjs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/.mocharc.cjs?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/a652fd778bf6001bf8b8c885db9bc8d9df7df338",
+      "html": "https://github.com/puppeteer/puppeteer/blob/main/.mocharc.cjs"
+    }
+  },
+  {
+    "name": ".npmrc",
+    "path": ".npmrc",
+    "sha": "1f6bc691f62bc3d7da066f96cea151577c22844c",
+    "size": 38,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/.npmrc?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/blob/main/.npmrc",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/1f6bc691f62bc3d7da066f96cea151577c22844c",
+    "download_url": "https://raw.githubusercontent.com/puppeteer/puppeteer/main/.npmrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/.npmrc?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/1f6bc691f62bc3d7da066f96cea151577c22844c",
+      "html": "https://github.com/puppeteer/puppeteer/blob/main/.npmrc"
+    }
+  },
+  {
+    "name": ".nvmrc",
+    "path": ".nvmrc",
+    "sha": "92f279e3e666d01def7e6fac12406dd9d23cd6a3",
+    "size": 3,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/.nvmrc?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/blob/main/.nvmrc",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/92f279e3e666d01def7e6fac12406dd9d23cd6a3",
+    "download_url": "https://raw.githubusercontent.com/puppeteer/puppeteer/main/.nvmrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/.nvmrc?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/92f279e3e666d01def7e6fac12406dd9d23cd6a3",
+      "html": "https://github.com/puppeteer/puppeteer/blob/main/.nvmrc"
+    }
+  },
+  {
+    "name": ".prettierignore",
+    "path": ".prettierignore",
+    "sha": "9da3d6ad79ca8a7755c282bbe1505f58d9149f60",
+    "size": 767,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/.prettierignore?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/blob/main/.prettierignore",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/9da3d6ad79ca8a7755c282bbe1505f58d9149f60",
+    "download_url": "https://raw.githubusercontent.com/puppeteer/puppeteer/main/.prettierignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/.prettierignore?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/9da3d6ad79ca8a7755c282bbe1505f58d9149f60",
+      "html": "https://github.com/puppeteer/puppeteer/blob/main/.prettierignore"
+    }
+  },
+  {
+    "name": ".prettierrc.cjs",
+    "path": ".prettierrc.cjs",
+    "sha": "d8ee1c9f6a1cf65fc2dbc696e85373a0e631c32f",
+    "size": 514,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/.prettierrc.cjs?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/blob/main/.prettierrc.cjs",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/d8ee1c9f6a1cf65fc2dbc696e85373a0e631c32f",
+    "download_url": "https://raw.githubusercontent.com/puppeteer/puppeteer/main/.prettierrc.cjs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/.prettierrc.cjs?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/d8ee1c9f6a1cf65fc2dbc696e85373a0e631c32f",
+      "html": "https://github.com/puppeteer/puppeteer/blob/main/.prettierrc.cjs"
+    }
+  },
+  {
+    "name": ".release-please-manifest.json",
+    "path": ".release-please-manifest.json",
+    "sha": "5726c4087161f8a1a74b058882adeff1aea23d53",
+    "size": 148,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/.release-please-manifest.json?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/blob/main/.release-please-manifest.json",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/5726c4087161f8a1a74b058882adeff1aea23d53",
+    "download_url": "https://raw.githubusercontent.com/puppeteer/puppeteer/main/.release-please-manifest.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/.release-please-manifest.json?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/5726c4087161f8a1a74b058882adeff1aea23d53",
+      "html": "https://github.com/puppeteer/puppeteer/blob/main/.release-please-manifest.json"
+    }
+  },
+  {
+    "name": ".vscode",
+    "path": ".vscode",
+    "sha": "11f6afd9d1db863753b77290dc99f272af281e3e",
+    "size": 0,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/.vscode?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/tree/main/.vscode",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/trees/11f6afd9d1db863753b77290dc99f272af281e3e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/.vscode?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/trees/11f6afd9d1db863753b77290dc99f272af281e3e",
+      "html": "https://github.com/puppeteer/puppeteer/tree/main/.vscode"
+    }
+  },
+  {
+    "name": "CHANGELOG.md",
+    "path": "CHANGELOG.md",
+    "sha": "c314c4d18d0c7dfcd4ddc89f97bcb5459051c754",
+    "size": 287685,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/CHANGELOG.md?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/blob/main/CHANGELOG.md",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/c314c4d18d0c7dfcd4ddc89f97bcb5459051c754",
+    "download_url": "https://raw.githubusercontent.com/puppeteer/puppeteer/main/CHANGELOG.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/CHANGELOG.md?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/c314c4d18d0c7dfcd4ddc89f97bcb5459051c754",
+      "html": "https://github.com/puppeteer/puppeteer/blob/main/CHANGELOG.md"
+    }
+  },
+  {
+    "name": "Herebyfile.mjs",
+    "path": "Herebyfile.mjs",
+    "sha": "560d4cd9e12957325b2cb51e6844877adb06e3b5",
+    "size": 3934,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/Herebyfile.mjs?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/blob/main/Herebyfile.mjs",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/560d4cd9e12957325b2cb51e6844877adb06e3b5",
+    "download_url": "https://raw.githubusercontent.com/puppeteer/puppeteer/main/Herebyfile.mjs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/Herebyfile.mjs?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/560d4cd9e12957325b2cb51e6844877adb06e3b5",
+      "html": "https://github.com/puppeteer/puppeteer/blob/main/Herebyfile.mjs"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "d2c171df74e931892e20f9395041bf8529e45330",
+    "size": 11344,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/LICENSE?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/blob/main/LICENSE",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/d2c171df74e931892e20f9395041bf8529e45330",
+    "download_url": "https://raw.githubusercontent.com/puppeteer/puppeteer/main/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/LICENSE?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/d2c171df74e931892e20f9395041bf8529e45330",
+      "html": "https://github.com/puppeteer/puppeteer/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "1ec9733be1a8340d73a3563567561f650c18ebf8",
+    "size": 2302,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/README.md?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/1ec9733be1a8340d73a3563567561f650c18ebf8",
+    "download_url": "https://raw.githubusercontent.com/puppeteer/puppeteer/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/1ec9733be1a8340d73a3563567561f650c18ebf8",
+      "html": "https://github.com/puppeteer/puppeteer/blob/main/README.md"
+    }
+  },
+  {
+    "name": "SECURITY.md",
+    "path": "SECURITY.md",
+    "sha": "a202138d31376fd7d8632c20bbd0c8cfaf29793e",
+    "size": 237,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/SECURITY.md?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/blob/main/SECURITY.md",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/a202138d31376fd7d8632c20bbd0c8cfaf29793e",
+    "download_url": "https://raw.githubusercontent.com/puppeteer/puppeteer/main/SECURITY.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/SECURITY.md?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/a202138d31376fd7d8632c20bbd0c8cfaf29793e",
+      "html": "https://github.com/puppeteer/puppeteer/blob/main/SECURITY.md"
+    }
+  },
+  {
+    "name": "docker",
+    "path": "docker",
+    "sha": "d1d2a34b742af84d72ecc2cf58a94e42f820d827",
+    "size": 0,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/docker?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/tree/main/docker",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/trees/d1d2a34b742af84d72ecc2cf58a94e42f820d827",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/docker?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/trees/d1d2a34b742af84d72ecc2cf58a94e42f820d827",
+      "html": "https://github.com/puppeteer/puppeteer/tree/main/docker"
+    }
+  },
+  {
+    "name": "docs",
+    "path": "docs",
+    "sha": "28c1a4b3212280e93244321d76b2760a002fc7af",
+    "size": 0,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/docs?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/tree/main/docs",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/trees/28c1a4b3212280e93244321d76b2760a002fc7af",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/docs?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/trees/28c1a4b3212280e93244321d76b2760a002fc7af",
+      "html": "https://github.com/puppeteer/puppeteer/tree/main/docs"
+    }
+  },
+  {
+    "name": "eslint.config.mjs",
+    "path": "eslint.config.mjs",
+    "sha": "e2b134e3300e94f85d8872ff7ff78e4dec48f26e",
+    "size": 11573,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/eslint.config.mjs?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/blob/main/eslint.config.mjs",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/e2b134e3300e94f85d8872ff7ff78e4dec48f26e",
+    "download_url": "https://raw.githubusercontent.com/puppeteer/puppeteer/main/eslint.config.mjs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/eslint.config.mjs?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/e2b134e3300e94f85d8872ff7ff78e4dec48f26e",
+      "html": "https://github.com/puppeteer/puppeteer/blob/main/eslint.config.mjs"
+    }
+  },
+  {
+    "name": "eslint.types.config.mjs",
+    "path": "eslint.types.config.mjs",
+    "sha": "92aceefeb34cfd5e32117fed7e1805c9cc576f44",
+    "size": 514,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/eslint.types.config.mjs?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/blob/main/eslint.types.config.mjs",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/92aceefeb34cfd5e32117fed7e1805c9cc576f44",
+    "download_url": "https://raw.githubusercontent.com/puppeteer/puppeteer/main/eslint.types.config.mjs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/eslint.types.config.mjs?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/92aceefeb34cfd5e32117fed7e1805c9cc576f44",
+      "html": "https://github.com/puppeteer/puppeteer/blob/main/eslint.types.config.mjs"
+    }
+  },
+  {
+    "name": "examples",
+    "path": "examples",
+    "sha": "ccf8ffaf535bc0759ff6e13c6c06b4da199082a5",
+    "size": 0,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/examples?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/tree/main/examples",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/trees/ccf8ffaf535bc0759ff6e13c6c06b4da199082a5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/examples?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/trees/ccf8ffaf535bc0759ff6e13c6c06b4da199082a5",
+      "html": "https://github.com/puppeteer/puppeteer/tree/main/examples"
+    }
+  },
+  {
+    "name": "package-lock.json",
+    "path": "package-lock.json",
+    "sha": "3a522793f97de6bd24b48399064e1af15de3d531",
+    "size": 1318872,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/package-lock.json?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/blob/main/package-lock.json",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/3a522793f97de6bd24b48399064e1af15de3d531",
+    "download_url": "https://raw.githubusercontent.com/puppeteer/puppeteer/main/package-lock.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/package-lock.json?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/3a522793f97de6bd24b48399064e1af15de3d531",
+      "html": "https://github.com/puppeteer/puppeteer/blob/main/package-lock.json"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "3b05449418c07ed75ec975d95b055234ed5b7230",
+    "size": 6539,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/package.json?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/blob/main/package.json",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/3b05449418c07ed75ec975d95b055234ed5b7230",
+    "download_url": "https://raw.githubusercontent.com/puppeteer/puppeteer/main/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/package.json?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/3b05449418c07ed75ec975d95b055234ed5b7230",
+      "html": "https://github.com/puppeteer/puppeteer/blob/main/package.json"
+    }
+  },
+  {
+    "name": "packages",
+    "path": "packages",
+    "sha": "f1a565799b78631019dfb2e275daf54b19cf48d2",
+    "size": 0,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/packages?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/tree/main/packages",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/trees/f1a565799b78631019dfb2e275daf54b19cf48d2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/packages?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/trees/f1a565799b78631019dfb2e275daf54b19cf48d2",
+      "html": "https://github.com/puppeteer/puppeteer/tree/main/packages"
+    }
+  },
+  {
+    "name": "puppeteer.config.cjs",
+    "path": "puppeteer.config.cjs",
+    "sha": "6693f2f283ef1032ec6d833d82ce63383e4ce81d",
+    "size": 311,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/puppeteer.config.cjs?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/blob/main/puppeteer.config.cjs",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/6693f2f283ef1032ec6d833d82ce63383e4ce81d",
+    "download_url": "https://raw.githubusercontent.com/puppeteer/puppeteer/main/puppeteer.config.cjs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/puppeteer.config.cjs?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/6693f2f283ef1032ec6d833d82ce63383e4ce81d",
+      "html": "https://github.com/puppeteer/puppeteer/blob/main/puppeteer.config.cjs"
+    }
+  },
+  {
+    "name": "release-please-config.json",
+    "path": "release-please-config.json",
+    "sha": "4a0a56290717226e471d6c4d1db9ecb6fcbd7d7d",
+    "size": 1631,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/release-please-config.json?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/blob/main/release-please-config.json",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/4a0a56290717226e471d6c4d1db9ecb6fcbd7d7d",
+    "download_url": "https://raw.githubusercontent.com/puppeteer/puppeteer/main/release-please-config.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/release-please-config.json?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/4a0a56290717226e471d6c4d1db9ecb6fcbd7d7d",
+      "html": "https://github.com/puppeteer/puppeteer/blob/main/release-please-config.json"
+    }
+  },
+  {
+    "name": "test-d",
+    "path": "test-d",
+    "sha": "53932c2c98716faebe1a411f48496e2d08516f59",
+    "size": 0,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/test-d?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/tree/main/test-d",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/trees/53932c2c98716faebe1a411f48496e2d08516f59",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/test-d?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/trees/53932c2c98716faebe1a411f48496e2d08516f59",
+      "html": "https://github.com/puppeteer/puppeteer/tree/main/test-d"
+    }
+  },
+  {
+    "name": "test",
+    "path": "test",
+    "sha": "aa43a88933640d91d5576e5181a801822d679781",
+    "size": 0,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/test?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/tree/main/test",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/trees/aa43a88933640d91d5576e5181a801822d679781",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/test?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/trees/aa43a88933640d91d5576e5181a801822d679781",
+      "html": "https://github.com/puppeteer/puppeteer/tree/main/test"
+    }
+  },
+  {
+    "name": "tools",
+    "path": "tools",
+    "sha": "d2d04bbfdb1b1c7f8effe567919197a9d33719be",
+    "size": 0,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/tools?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/tree/main/tools",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/trees/d2d04bbfdb1b1c7f8effe567919197a9d33719be",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/tools?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/trees/d2d04bbfdb1b1c7f8effe567919197a9d33719be",
+      "html": "https://github.com/puppeteer/puppeteer/tree/main/tools"
+    }
+  },
+  {
+    "name": "tsconfig.base.json",
+    "path": "tsconfig.base.json",
+    "sha": "969cc43db89f35776b60ddf67dbc2765a1b4b63d",
+    "size": 1036,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/tsconfig.base.json?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/blob/main/tsconfig.base.json",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/969cc43db89f35776b60ddf67dbc2765a1b4b63d",
+    "download_url": "https://raw.githubusercontent.com/puppeteer/puppeteer/main/tsconfig.base.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/tsconfig.base.json?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/969cc43db89f35776b60ddf67dbc2765a1b4b63d",
+      "html": "https://github.com/puppeteer/puppeteer/blob/main/tsconfig.base.json"
+    }
+  },
+  {
+    "name": "tsdoc.json",
+    "path": "tsdoc.json",
+    "sha": "f5b91f4af69b1eed49f16f663711875eadc5d814",
+    "size": 336,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/tsdoc.json?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/blob/main/tsdoc.json",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/f5b91f4af69b1eed49f16f663711875eadc5d814",
+    "download_url": "https://raw.githubusercontent.com/puppeteer/puppeteer/main/tsdoc.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/tsdoc.json?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/f5b91f4af69b1eed49f16f663711875eadc5d814",
+      "html": "https://github.com/puppeteer/puppeteer/blob/main/tsdoc.json"
+    }
+  },
+  {
+    "name": "versions.json",
+    "path": "versions.json",
+    "sha": "7dd06c4270ab8a63db140b003737f802a6cb7d8e",
+    "size": 17574,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/versions.json?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/blob/main/versions.json",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/7dd06c4270ab8a63db140b003737f802a6cb7d8e",
+    "download_url": "https://raw.githubusercontent.com/puppeteer/puppeteer/main/versions.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/versions.json?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/blobs/7dd06c4270ab8a63db140b003737f802a6cb7d8e",
+      "html": "https://github.com/puppeteer/puppeteer/blob/main/versions.json"
+    }
+  },
+  {
+    "name": "website",
+    "path": "website",
+    "sha": "cc34493a3fc4699128232cdb728fa2107b160a2e",
+    "size": 0,
+    "url": "https://api.github.com/repos/puppeteer/puppeteer/contents/website?ref=main",
+    "html_url": "https://github.com/puppeteer/puppeteer/tree/main/website",
+    "git_url": "https://api.github.com/repos/puppeteer/puppeteer/git/trees/cc34493a3fc4699128232cdb728fa2107b160a2e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/puppeteer/puppeteer/contents/website?ref=main",
+      "git": "https://api.github.com/repos/puppeteer/puppeteer/git/trees/cc34493a3fc4699128232cdb728fa2107b160a2e",
+      "html": "https://github.com/puppeteer/puppeteer/tree/main/website"
+    }
+  }
+]

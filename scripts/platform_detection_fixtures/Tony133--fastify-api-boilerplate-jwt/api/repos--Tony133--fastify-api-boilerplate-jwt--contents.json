@@ -1,0 +1,258 @@
+[
+  {
+    "name": ".env.example",
+    "path": ".env.example",
+    "sha": "198f2f8fd73ca84b18d8b96dc564842fa7de600f",
+    "size": 959,
+    "url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/.env.example?ref=main",
+    "html_url": "https://github.com/Tony133/fastify-api-boilerplate-jwt/blob/main/.env.example",
+    "git_url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/blobs/198f2f8fd73ca84b18d8b96dc564842fa7de600f",
+    "download_url": "https://raw.githubusercontent.com/Tony133/fastify-api-boilerplate-jwt/main/.env.example",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/.env.example?ref=main",
+      "git": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/blobs/198f2f8fd73ca84b18d8b96dc564842fa7de600f",
+      "html": "https://github.com/Tony133/fastify-api-boilerplate-jwt/blob/main/.env.example"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "13dbf4801505465e651a506187ae3889c19722e4",
+    "size": 0,
+    "url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/.github?ref=main",
+    "html_url": "https://github.com/Tony133/fastify-api-boilerplate-jwt/tree/main/.github",
+    "git_url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/trees/13dbf4801505465e651a506187ae3889c19722e4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/trees/13dbf4801505465e651a506187ae3889c19722e4",
+      "html": "https://github.com/Tony133/fastify-api-boilerplate-jwt/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "71fa5f3402308f57ac7c5c46552dc81748d52a59",
+    "size": 946,
+    "url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/Tony133/fastify-api-boilerplate-jwt/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/blobs/71fa5f3402308f57ac7c5c46552dc81748d52a59",
+    "download_url": "https://raw.githubusercontent.com/Tony133/fastify-api-boilerplate-jwt/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/blobs/71fa5f3402308f57ac7c5c46552dc81748d52a59",
+      "html": "https://github.com/Tony133/fastify-api-boilerplate-jwt/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".husky",
+    "path": ".husky",
+    "sha": "42b8ee1fe4e88ecaafbeac215e7f466d3a5ec491",
+    "size": 0,
+    "url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/.husky?ref=main",
+    "html_url": "https://github.com/Tony133/fastify-api-boilerplate-jwt/tree/main/.husky",
+    "git_url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/trees/42b8ee1fe4e88ecaafbeac215e7f466d3a5ec491",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/.husky?ref=main",
+      "git": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/trees/42b8ee1fe4e88ecaafbeac215e7f466d3a5ec491",
+      "html": "https://github.com/Tony133/fastify-api-boilerplate-jwt/tree/main/.husky"
+    }
+  },
+  {
+    "name": "@types",
+    "path": "@types",
+    "sha": "9fe51d90ea12be38acee1022b7441d9eea160857",
+    "size": 0,
+    "url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/@types?ref=main",
+    "html_url": "https://github.com/Tony133/fastify-api-boilerplate-jwt/tree/main/@types",
+    "git_url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/trees/9fe51d90ea12be38acee1022b7441d9eea160857",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/@types?ref=main",
+      "git": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/trees/9fe51d90ea12be38acee1022b7441d9eea160857",
+      "html": "https://github.com/Tony133/fastify-api-boilerplate-jwt/tree/main/@types"
+    }
+  },
+  {
+    "name": "Dockerfile",
+    "path": "Dockerfile",
+    "sha": "e933f49de554449b48b82205a9d287e8239bced8",
+    "size": 80,
+    "url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/Dockerfile?ref=main",
+    "html_url": "https://github.com/Tony133/fastify-api-boilerplate-jwt/blob/main/Dockerfile",
+    "git_url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/blobs/e933f49de554449b48b82205a9d287e8239bced8",
+    "download_url": "https://raw.githubusercontent.com/Tony133/fastify-api-boilerplate-jwt/main/Dockerfile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/Dockerfile?ref=main",
+      "git": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/blobs/e933f49de554449b48b82205a9d287e8239bced8",
+      "html": "https://github.com/Tony133/fastify-api-boilerplate-jwt/blob/main/Dockerfile"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "5c59bae7a13643946e0a945aa3c7bac77aba2c1e",
+    "size": 1069,
+    "url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/LICENSE?ref=main",
+    "html_url": "https://github.com/Tony133/fastify-api-boilerplate-jwt/blob/main/LICENSE",
+    "git_url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/blobs/5c59bae7a13643946e0a945aa3c7bac77aba2c1e",
+    "download_url": "https://raw.githubusercontent.com/Tony133/fastify-api-boilerplate-jwt/main/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/LICENSE?ref=main",
+      "git": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/blobs/5c59bae7a13643946e0a945aa3c7bac77aba2c1e",
+      "html": "https://github.com/Tony133/fastify-api-boilerplate-jwt/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "11c82e1a50a1459f889f5543facef5ddfeccf544",
+    "size": 1100,
+    "url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/README.md?ref=main",
+    "html_url": "https://github.com/Tony133/fastify-api-boilerplate-jwt/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/blobs/11c82e1a50a1459f889f5543facef5ddfeccf544",
+    "download_url": "https://raw.githubusercontent.com/Tony133/fastify-api-boilerplate-jwt/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/blobs/11c82e1a50a1459f889f5543facef5ddfeccf544",
+      "html": "https://github.com/Tony133/fastify-api-boilerplate-jwt/blob/main/README.md"
+    }
+  },
+  {
+    "name": "docker-compose.yml",
+    "path": "docker-compose.yml",
+    "sha": "bfcc41a7ee312d99a2a1befe908c4be2c9d18f61",
+    "size": 847,
+    "url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/docker-compose.yml?ref=main",
+    "html_url": "https://github.com/Tony133/fastify-api-boilerplate-jwt/blob/main/docker-compose.yml",
+    "git_url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/blobs/bfcc41a7ee312d99a2a1befe908c4be2c9d18f61",
+    "download_url": "https://raw.githubusercontent.com/Tony133/fastify-api-boilerplate-jwt/main/docker-compose.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/docker-compose.yml?ref=main",
+      "git": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/blobs/bfcc41a7ee312d99a2a1befe908c4be2c9d18f61",
+      "html": "https://github.com/Tony133/fastify-api-boilerplate-jwt/blob/main/docker-compose.yml"
+    }
+  },
+  {
+    "name": "package-lock.json",
+    "path": "package-lock.json",
+    "sha": "861a5837237f54de141fa332f623e1332b56a59e",
+    "size": 135870,
+    "url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/package-lock.json?ref=main",
+    "html_url": "https://github.com/Tony133/fastify-api-boilerplate-jwt/blob/main/package-lock.json",
+    "git_url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/blobs/861a5837237f54de141fa332f623e1332b56a59e",
+    "download_url": "https://raw.githubusercontent.com/Tony133/fastify-api-boilerplate-jwt/main/package-lock.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/package-lock.json?ref=main",
+      "git": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/blobs/861a5837237f54de141fa332f623e1332b56a59e",
+      "html": "https://github.com/Tony133/fastify-api-boilerplate-jwt/blob/main/package-lock.json"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "43084c4b9d515c98aa607800e1fae51c73fb6720",
+    "size": 2037,
+    "url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/package.json?ref=main",
+    "html_url": "https://github.com/Tony133/fastify-api-boilerplate-jwt/blob/main/package.json",
+    "git_url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/blobs/43084c4b9d515c98aa607800e1fae51c73fb6720",
+    "download_url": "https://raw.githubusercontent.com/Tony133/fastify-api-boilerplate-jwt/main/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/package.json?ref=main",
+      "git": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/blobs/43084c4b9d515c98aa607800e1fae51c73fb6720",
+      "html": "https://github.com/Tony133/fastify-api-boilerplate-jwt/blob/main/package.json"
+    }
+  },
+  {
+    "name": "renovate.json",
+    "path": "renovate.json",
+    "sha": "bb339a70107e6d18bac49a614dc9bd96f744b0ae",
+    "size": 173,
+    "url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/renovate.json?ref=main",
+    "html_url": "https://github.com/Tony133/fastify-api-boilerplate-jwt/blob/main/renovate.json",
+    "git_url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/blobs/bb339a70107e6d18bac49a614dc9bd96f744b0ae",
+    "download_url": "https://raw.githubusercontent.com/Tony133/fastify-api-boilerplate-jwt/main/renovate.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/renovate.json?ref=main",
+      "git": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/blobs/bb339a70107e6d18bac49a614dc9bd96f744b0ae",
+      "html": "https://github.com/Tony133/fastify-api-boilerplate-jwt/blob/main/renovate.json"
+    }
+  },
+  {
+    "name": "scripts",
+    "path": "scripts",
+    "sha": "979b2f43c4d70318b76fa4456884c92e6c06f764",
+    "size": 0,
+    "url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/scripts?ref=main",
+    "html_url": "https://github.com/Tony133/fastify-api-boilerplate-jwt/tree/main/scripts",
+    "git_url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/trees/979b2f43c4d70318b76fa4456884c92e6c06f764",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/scripts?ref=main",
+      "git": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/trees/979b2f43c4d70318b76fa4456884c92e6c06f764",
+      "html": "https://github.com/Tony133/fastify-api-boilerplate-jwt/tree/main/scripts"
+    }
+  },
+  {
+    "name": "src",
+    "path": "src",
+    "sha": "f25dec6af285a76dac0fffbd3460641aa9a707fc",
+    "size": 0,
+    "url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/src?ref=main",
+    "html_url": "https://github.com/Tony133/fastify-api-boilerplate-jwt/tree/main/src",
+    "git_url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/trees/f25dec6af285a76dac0fffbd3460641aa9a707fc",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/src?ref=main",
+      "git": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/trees/f25dec6af285a76dac0fffbd3460641aa9a707fc",
+      "html": "https://github.com/Tony133/fastify-api-boilerplate-jwt/tree/main/src"
+    }
+  },
+  {
+    "name": "test",
+    "path": "test",
+    "sha": "18787c400915c73b6d9abced48b1877c130aa15a",
+    "size": 0,
+    "url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/test?ref=main",
+    "html_url": "https://github.com/Tony133/fastify-api-boilerplate-jwt/tree/main/test",
+    "git_url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/trees/18787c400915c73b6d9abced48b1877c130aa15a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/test?ref=main",
+      "git": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/trees/18787c400915c73b6d9abced48b1877c130aa15a",
+      "html": "https://github.com/Tony133/fastify-api-boilerplate-jwt/tree/main/test"
+    }
+  },
+  {
+    "name": "tsconfig.json",
+    "path": "tsconfig.json",
+    "sha": "1fa79676886864fe63b0660c4066925c7c752232",
+    "size": 271,
+    "url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/tsconfig.json?ref=main",
+    "html_url": "https://github.com/Tony133/fastify-api-boilerplate-jwt/blob/main/tsconfig.json",
+    "git_url": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/blobs/1fa79676886864fe63b0660c4066925c7c752232",
+    "download_url": "https://raw.githubusercontent.com/Tony133/fastify-api-boilerplate-jwt/main/tsconfig.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/contents/tsconfig.json?ref=main",
+      "git": "https://api.github.com/repos/Tony133/fastify-api-boilerplate-jwt/git/blobs/1fa79676886864fe63b0660c4066925c7c752232",
+      "html": "https://github.com/Tony133/fastify-api-boilerplate-jwt/blob/main/tsconfig.json"
+    }
+  }
+]

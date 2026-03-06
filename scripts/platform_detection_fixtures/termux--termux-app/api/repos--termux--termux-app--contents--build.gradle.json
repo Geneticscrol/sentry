@@ -1,0 +1,18 @@
+{
+  "name": "build.gradle",
+  "path": "build.gradle",
+  "sha": "65f0e4271511ea439b86c45c0763e1a2dfbb9ec0",
+  "size": 289,
+  "url": "https://api.github.com/repos/termux/termux-app/contents/build.gradle?ref=master",
+  "html_url": "https://github.com/termux/termux-app/blob/master/build.gradle",
+  "git_url": "https://api.github.com/repos/termux/termux-app/git/blobs/65f0e4271511ea439b86c45c0763e1a2dfbb9ec0",
+  "download_url": "https://raw.githubusercontent.com/termux/termux-app/master/build.gradle",
+  "type": "file",
+  "content": "YnVpbGRzY3JpcHQgewogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBtYXZl\nbkNlbnRyYWwoKQogICAgICAgIGdvb2dsZSgpCiAgICB9CiAgICBkZXBlbmRl\nbmNpZXMgewogICAgICAgIGNsYXNzcGF0aCAiY29tLmFuZHJvaWQudG9vbHMu\nYnVpbGQ6Z3JhZGxlOjguMTMuMiIKICAgIH0KfQoKYWxscHJvamVjdHMgewog\nICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBnb29nbGUoKQogICAgICAgIG1h\ndmVuQ2VudHJhbCgpCiAgICAgICAgbWF2ZW4geyB1cmwgImh0dHBzOi8vaml0\ncGFjay5pbyIgfQogICAgfQp9Cg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/termux/termux-app/contents/build.gradle?ref=master",
+    "git": "https://api.github.com/repos/termux/termux-app/git/blobs/65f0e4271511ea439b86c45c0763e1a2dfbb9ec0",
+    "html": "https://github.com/termux/termux-app/blob/master/build.gradle"
+  }
+}

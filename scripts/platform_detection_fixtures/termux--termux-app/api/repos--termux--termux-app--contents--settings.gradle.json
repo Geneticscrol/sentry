@@ -1,0 +1,18 @@
+{
+  "name": "settings.gradle",
+  "path": "settings.gradle",
+  "sha": "b8045c242af0a3842970e779e37d1a316cf9e67d",
+  "size": 73,
+  "url": "https://api.github.com/repos/termux/termux-app/contents/settings.gradle?ref=master",
+  "html_url": "https://github.com/termux/termux-app/blob/master/settings.gradle",
+  "git_url": "https://api.github.com/repos/termux/termux-app/git/blobs/b8045c242af0a3842970e779e37d1a316cf9e67d",
+  "download_url": "https://raw.githubusercontent.com/termux/termux-app/master/settings.gradle",
+  "type": "file",
+  "content": "aW5jbHVkZSAnOmFwcCcsICc6dGVybXV4LXNoYXJlZCcsICc6dGVybWluYWwt\nZW11bGF0b3InLCAnOnRlcm1pbmFsLXZpZXcnCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/termux/termux-app/contents/settings.gradle?ref=master",
+    "git": "https://api.github.com/repos/termux/termux-app/git/blobs/b8045c242af0a3842970e779e37d1a316cf9e67d",
+    "html": "https://github.com/termux/termux-app/blob/master/settings.gradle"
+  }
+}

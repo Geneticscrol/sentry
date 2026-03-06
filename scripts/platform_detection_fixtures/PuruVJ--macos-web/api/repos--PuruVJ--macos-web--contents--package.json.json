@@ -1,0 +1,18 @@
+{
+  "name": "package.json",
+  "path": "package.json",
+  "sha": "dddcfe2679d4059d56e989eb8b01ef73f198b054",
+  "size": 1132,
+  "url": "https://api.github.com/repos/PuruVJ/macos-web/contents/package.json?ref=main",
+  "html_url": "https://github.com/PuruVJ/macos-web/blob/main/package.json",
+  "git_url": "https://api.github.com/repos/PuruVJ/macos-web/git/blobs/dddcfe2679d4059d56e989eb8b01ef73f198b054",
+  "download_url": "https://raw.githubusercontent.com/PuruVJ/macos-web/main/package.json",
+  "type": "file",
+  "content": "ewoJIm5hbWUiOiAibWFjb3Mtc3ZlbHRlIiwKCSJ2ZXJzaW9uIjogIjEzLjAu\nMCIsCgkidHlwZSI6ICJtb2R1bGUiLAoJInNjcmlwdHMiOiB7CgkJImRldiI6\nICJ2aXRlIiwKCQkiYnVpbGQiOiAidml0ZSBidWlsZCIsCgkJInNlcnZlIjog\nInZpdGUgcHJldmlldyIsCgkJImNoZWNrIjogInN2ZWx0ZS1jaGVjayAtLXRz\nY29uZmlnIC4vdHNjb25maWcuanNvbiIKCX0sCgkiZGV2RGVwZW5kZW5jaWVz\nIjogewoJCSJAaWNvbmlmeS1qc29uL2dnIjogIl4xLjIuMSIsCgkJIkBpY29u\naWZ5LWpzb24vaWMiOiAiXjEuMi4xIiwKCQkiQGljb25pZnktanNvbi9pY29u\nLXBhcmstb3V0bGluZSI6ICJeMS4yLjEiLAoJCSJAaWNvbmlmeS1qc29uL2lj\nb25hbW9vbiI6ICJeMS4yLjEiLAoJCSJAaWNvbmlmeS1qc29uL21hamVzdGlj\nb25zIjogIl4xLjIuMSIsCgkJIkBpY29uaWZ5LWpzb24vbWRpIjogIl4xLjIu\nMSIsCgkJIkBpY29uaWZ5LWpzb24vcGVwaWNvbnMiOiAiXjEuMi4wIiwKCQki\nQGljb25pZnktanNvbi9waCI6ICJeMS4yLjEiLAoJCSJAaWNvbmlmeS1qc29u\nL3VpbCI6ICJeMS4yLjEiLAoJCSJAc3ZlbHRlanMvdml0ZS1wbHVnaW4tc3Zl\nbHRlIjogIjQuMC4wIiwKCQkiYnJvd3NlcnNsaXN0IjogIl40LjI0LjIiLAoJ\nCSJsaWdodG5pbmdjc3MiOiAiXjEuMjcuMCIsCgkJInByZXR0aWVyLXBsdWdp\nbi1zdmVsdGUiOiAiXjMuNC4wIiwKCQkic3ZlbHRlIjogIjUuMzQuOCIsCgkJ\nInN2ZWx0ZS1jaGVjayI6ICJeNC4wLjUiLAoJCSJ0eXBlc2NyaXB0IjogIl41\nLjYuMyIsCgkJInZpdGUiOiAiNS40LjEwIiwKCQkidml0ZS1pbWFnZXRvb2xz\nIjogIl43LjAuNCIsCgkJInZpdGUtcGx1Z2luLXB3YSI6ICJeMC4yMC41IiwK\nCQkid29ya2JveC13aW5kb3ciOiAiXjcuMy4wIgoJfSwKCSJkZXBlbmRlbmNp\nZXMiOiB7CgkJIkBmb250c291cmNlL2ludGVyIjogIl41LjEuMCIsCgkJIkBu\nZW9kcmFnL2NvcmUiOiAiMy4wLjAtbmV4dC4zIiwKCQkiQG5lb2RyYWcvc3Zl\nbHRlIjogIjMuMC4wLW5leHQuMyIsCgkJImRhdGUtZm5zIjogIl40LjEuMCIs\nCgkJInBvcG1vdGlvbiI6ICJeMTEuMC41IiwKCQkidW5wbHVnaW4taWNvbnMi\nOiAiXjAuMTkuMyIKCX0sCgkicGFja2FnZU1hbmFnZXIiOiAicG5wbUAxMC4x\nMi4zIgp9Cg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/PuruVJ/macos-web/contents/package.json?ref=main",
+    "git": "https://api.github.com/repos/PuruVJ/macos-web/git/blobs/dddcfe2679d4059d56e989eb8b01ef73f198b054",
+    "html": "https://github.com/PuruVJ/macos-web/blob/main/package.json"
+  }
+}

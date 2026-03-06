@@ -1,0 +1,18 @@
+{
+  "name": "package.json",
+  "path": "package.json",
+  "sha": "7c2738be005ed56a2f50afe2fb13f30d6773fd2b",
+  "size": 1193,
+  "url": "https://api.github.com/repos/json-ld/json-ld.org/contents/package.json?ref=main",
+  "html_url": "https://github.com/json-ld/json-ld.org/blob/main/package.json",
+  "git_url": "https://api.github.com/repos/json-ld/json-ld.org/git/blobs/7c2738be005ed56a2f50afe2fb13f30d6773fd2b",
+  "download_url": "https://raw.githubusercontent.com/json-ld/json-ld.org/main/package.json",
+  "type": "file",
+  "content": "ewogICJuYW1lIjogImpzb24tbGQub3JnIiwKICAicHJpdmF0ZSI6IHRydWUs\nCiAgImRlc2NyaXB0aW9uIjogImpzb24tbGQub3JnIGhvbWVwYWdlIiwKICAi\ndHlwZSI6ICJtb2R1bGUiLAogICJzY3JpcHRzIjogewogICAgImJ1aWxkIjog\nIm5wbSBydW4gYnVpbGQ6ZWRpdG9yICYmIGVsZXZlbnR5IiwKICAgICJidWls\nZDplZGl0b3IiOiAicm9sbHVwIC1jIiwKICAgICJwYWdlcyI6ICJ3cmFuZ2xl\nciBwYWdlcyBkZXYgX3NpdGUvIiwKICAgICJ3YXRjaCI6ICJlbGV2ZW50eSAt\nLXdhdGNoIiwKICAgICJkZXYiOiAid3JhbmdsZXIgcGFnZXMgZGV2IF9zaXRl\nIC0tbGl2ZS1yZWxvYWQgLS1wb3J0IDg3ODgiLAogICAgInRlc3QiOiAiZWNo\nbyBcIkVycm9yOiBubyB0ZXN0IHNwZWNpZmllZFwiICYmIGV4aXQgMSIKICB9\nLAogICJkZXZEZXBlbmRlbmNpZXMiOiB7CiAgICAiQDExdHkvZWxldmVudHki\nOiAiXjMuMS4yIiwKICAgICJAY29kZW1pcnJvci9hdXRvY29tcGxldGUiOiAi\nXjYuMTkuMSIsCiAgICAiQGNvZGVtaXJyb3IvY29tbWFuZHMiOiAiXjYuMTAu\nMCIsCiAgICAiQGNvZGVtaXJyb3IvbGFuZy1qYXZhc2NyaXB0IjogIl42LjIu\nNCIsCiAgICAiQGNvZGVtaXJyb3IvbGFuZy1qc29uIjogIl42LjAuMiIsCiAg\nICAiQGNvZGVtaXJyb3IvbGFuZy15YW1sIjogIl42LjEuMiIsCiAgICAiQGNv\nZGVtaXJyb3IvbGVnYWN5LW1vZGVzIjogIl42LjUuMiIsCiAgICAiQGNvZGVt\naXJyb3IvbGludCI6ICJeNi45LjIiLAogICAgIkBjb2RlbWlycm9yL3N0YXRl\nIjogIl42LjUuMiIsCiAgICAiQGNvZGVtaXJyb3IvdmlldyI6ICJeNi4zOC44\nIiwKICAgICJAZGlnaXRhbGJhemFhci9jYm9ybGQiOiAiXjguMC4yIiwKICAg\nICJAcm9sbHVwL3BsdWdpbi1jb21tb25qcyI6ICJeMjkuMC4wIiwKICAgICJA\ncm9sbHVwL3BsdWdpbi1ub2RlLXJlc29sdmUiOiAiXjE2LjAuMyIsCiAgICAi\nY2JvcjIiOiAiXjIuMC4xIiwKICAgICJjb2RlbWlycm9yIjogIl42LjAuMiIs\nCiAgICAianNvbmxkIjogIl45LjAuMCIsCiAgICAibWFya2Rvd24taXQtYW5j\naG9yIjogIl45LjIuMCIsCiAgICAibWFya2Rvd24taXQtYXR0cnMiOiAiXjQu\nMy4xIiwKICAgICJwZXRpdGUtdnVlIjogIl4wLjQuMSIsCiAgICAicm9sbHVw\nIjogIl40LjUzLjIiLAogICAgIndyYW5nbGVyIjogIl40LjYwLjAiLAogICAg\nInlhbWwiOiAiXjIuOC4xIgogIH0KfQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/json-ld/json-ld.org/contents/package.json?ref=main",
+    "git": "https://api.github.com/repos/json-ld/json-ld.org/git/blobs/7c2738be005ed56a2f50afe2fb13f30d6773fd2b",
+    "html": "https://github.com/json-ld/json-ld.org/blob/main/package.json"
+  }
+}

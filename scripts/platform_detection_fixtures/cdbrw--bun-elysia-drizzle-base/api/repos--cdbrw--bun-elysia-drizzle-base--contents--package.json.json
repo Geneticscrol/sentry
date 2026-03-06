@@ -1,0 +1,18 @@
+{
+  "name": "package.json",
+  "path": "package.json",
+  "sha": "03f89b219c0d1bc79693ca4e46faa0235c1efdad",
+  "size": 684,
+  "url": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/contents/package.json?ref=main",
+  "html_url": "https://github.com/cdbrw/bun-elysia-drizzle-base/blob/main/package.json",
+  "git_url": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/git/blobs/03f89b219c0d1bc79693ca4e46faa0235c1efdad",
+  "download_url": "https://raw.githubusercontent.com/cdbrw/bun-elysia-drizzle-base/main/package.json",
+  "type": "file",
+  "content": "ewogICJuYW1lIjogImJ1bi1lbHlzaWEtZHJpenpsZSIsCiAgInZlcnNpb24i\nOiAiMS4wLjUwIiwKICAic2NyaXB0cyI6IHsKICAgICJkZXYiOiAiYnVuIHJ1\nbiAtLXdhdGNoIHNyYy9pbmRleC50cyIsCiAgICAic3RhcnQiOiAiYnVuIHJ1\nbiBzcmMvaW5kZXgudHMiLAogICAgImludHJvc3BlY3QiOiAiZHJpenpsZS1r\naXQgaW50cm9zcGVjdDpwZyAtLWNvbmZpZz1kcml6emxlLmNvbmZpZy50cyIs\nCiAgICAiZ2VuZXJhdGUiOiAiZHJpenpsZS1raXQgZ2VuZXJhdGU6cGcgLS1j\nb25maWc9ZHJpenpsZS5jb25maWcudHMiLAogICAgIm1pZ3JhdGUiOiAiYnVu\nIHJ1biBzcmMvZGIvbWlncmF0ZS50cyIsCiAgICAic3R1ZGlvIjogImRyaXp6\nbGUta2l0IHN0dWRpbyIKICB9LAogICJkZXBlbmRlbmNpZXMiOiB7CiAgICAi\nQGVseXNpYWpzL3N3YWdnZXIiOiAiXjAuOC41IiwKICAgICJkcml6emxlLW9y\nbSI6ICJeMC4yOS4zIiwKICAgICJkcml6emxlLXpvZCI6ICJeMC41LjEiLAog\nICAgImVseXNpYSI6ICJsYXRlc3QiLAogICAgInBnIjogIl44LjExLjMiCiAg\nfSwKICAiZGV2RGVwZW5kZW5jaWVzIjogewogICAgIkB0eXBlcy9wZyI6ICJe\nOC4xMS4wIiwKICAgICJidW4tdHlwZXMiOiAibGF0ZXN0IiwKICAgICJkcml6\nemxlLWtpdCI6ICJeMC4yMC4xNCIKICB9LAogICJtb2R1bGUiOiAic3JjL2lu\nZGV4LmpzIgp9\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/contents/package.json?ref=main",
+    "git": "https://api.github.com/repos/cdbrw/bun-elysia-drizzle-base/git/blobs/03f89b219c0d1bc79693ca4e46faa0235c1efdad",
+    "html": "https://github.com/cdbrw/bun-elysia-drizzle-base/blob/main/package.json"
+  }
+}

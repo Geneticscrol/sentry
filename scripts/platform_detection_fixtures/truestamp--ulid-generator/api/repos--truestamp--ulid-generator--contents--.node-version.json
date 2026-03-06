@@ -1,0 +1,18 @@
+{
+  "name": ".node-version",
+  "path": ".node-version",
+  "sha": "d9b58502ae371ceb83819de74368bd6c48cae024",
+  "size": 10,
+  "url": "https://api.github.com/repos/truestamp/ulid-generator/contents/.node-version?ref=main",
+  "html_url": "https://github.com/truestamp/ulid-generator/blob/main/.node-version",
+  "git_url": "https://api.github.com/repos/truestamp/ulid-generator/git/blobs/d9b58502ae371ceb83819de74368bd6c48cae024",
+  "download_url": "https://raw.githubusercontent.com/truestamp/ulid-generator/main/.node-version",
+  "type": "file",
+  "content": "djE2LjEzLjIKCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/truestamp/ulid-generator/contents/.node-version?ref=main",
+    "git": "https://api.github.com/repos/truestamp/ulid-generator/git/blobs/d9b58502ae371ceb83819de74368bd6c48cae024",
+    "html": "https://github.com/truestamp/ulid-generator/blob/main/.node-version"
+  }
+}

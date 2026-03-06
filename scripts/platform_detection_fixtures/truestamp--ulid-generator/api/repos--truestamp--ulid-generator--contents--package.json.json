@@ -1,0 +1,18 @@
+{
+  "name": "package.json",
+  "path": "package.json",
+  "sha": "f3e985cdaa2a8b388ce02c11b089b10940cb21e1",
+  "size": 1481,
+  "url": "https://api.github.com/repos/truestamp/ulid-generator/contents/package.json?ref=main",
+  "html_url": "https://github.com/truestamp/ulid-generator/blob/main/package.json",
+  "git_url": "https://api.github.com/repos/truestamp/ulid-generator/git/blobs/f3e985cdaa2a8b388ce02c11b089b10940cb21e1",
+  "download_url": "https://raw.githubusercontent.com/truestamp/ulid-generator/main/package.json",
+  "type": "file",
+  "content": "ewogICJwcml2YXRlIjogdHJ1ZSwKICAibmFtZSI6ICJ1bGlkLWdlbmVyYXRv\nciIsCiAgInZlcnNpb24iOiAiMS4wLjAiLAogICJkZXNjcmlwdGlvbiI6ICJD\nbG91ZGZsYXJlIHdvcmtlciB0byBnZW5lcmF0ZSBsYXJnZSBxdWFudGl0aWVz\nIG9mIG1vbm90b25pYyBVTElEcyIsCiAgInR5cGUiOiAibW9kdWxlIiwKICAi\nc2NyaXB0cyI6IHsKICAgICJmb3JtYXQiOiAicHJldHRpZXIgLS13cml0ZSAn\nKi57anNvbixqc30nICdzcmMvKiovKi50cycgJ3Rlc3RzLyoqLyouc3BlYy50\ncyciLAogICAgImxpbnQiOiAiZXNsaW50IC0tbWF4LXdhcm5pbmdzPTAgc3Jj\nICYmIHByZXR0aWVyIC0tY2hlY2sgJyoue2pzb24sanN9JyAnc3JjLyoqLyou\ne2pzLHRzfScgJ3Rlc3RzLyoqLyoue2pzLHRzfSciLAogICAgImxpbnQtYW5k\nLWZpeCI6ICJlc2xpbnQgLiAtLWV4dCAudHMgLS1maXgiLAogICAgInRlc3Qi\nOiAiamVzdCAtLWNvbmZpZyBqZXN0LmNvbmZpZy5qc29uIC0tdmVyYm9zZSIs\nCiAgICAic3RhcnQiOiAid3JhbmdsZXIgZGV2IC0tbG9jYWwiLAogICAgInB1\nYmxpc2giOiAibnBtIHJ1biBsaW50ICYmIG5wbSBydW4gZm9ybWF0ICYmIHdy\nYW5nbGVyIHB1Ymxpc2ggLS1sZWdhY3ktZW52PXRydWUiCiAgfSwKICAiYXV0\naG9yIjogIlRydWVzdGFtcCA8c3VwcG9ydEB0cnVlc3RhbXAuY29tPiIsCiAg\nImxpY2Vuc2UiOiAiTUlUIiwKICAiZGV2RGVwZW5kZW5jaWVzIjogewogICAg\nIkBjbG91ZGZsYXJlL3dvcmtlcnMtdHlwZXMiOiAiXjMuMTEuMCIsCiAgICAi\nQHR5cGVzL2plc3QiOiAiXjI3LjUuMSIsCiAgICAiQHR5cGVzL25vZGUiOiAi\nXjE3LjAuMzUiLAogICAgIkB0eXBlcy9zZXJ2aWNlLXdvcmtlci1tb2NrIjog\nIl4yLjAuMSIsCiAgICAiQHR5cGVzY3JpcHQtZXNsaW50L2VzbGludC1wbHVn\naW4iOiAiXjUuMjUuMCIsCiAgICAiQHR5cGVzY3JpcHQtZXNsaW50L3BhcnNl\nciI6ICJeNS4yNS4wIiwKICAgICJlc2xpbnQiOiAiXjguMTYuMCIsCiAgICAi\nZXNsaW50LWNvbmZpZy1wcmV0dGllciI6ICJeOC41LjAiLAogICAgImVzbGlu\ndC1jb25maWctdHlwZXNjcmlwdCI6ICJeMy4wLjAiLAogICAgImVzbGludC1w\nbHVnaW4tZXNsaW50LWNvbW1lbnRzIjogIl4zLjIuMCIsCiAgICAiZXNsaW50\nLXBsdWdpbi1pbXBvcnQiOiAiXjIuMjYuMCIsCiAgICAiZXNsaW50LXBsdWdp\nbi1qZXN0IjogIl4yNi4yLjIiLAogICAgImVzbGludC1wbHVnaW4tcHJldHRp\nZXIiOiAiXjQuMC4wIiwKICAgICJqZXN0IjogIl4yOC4xLjAiLAogICAgInBy\nZXR0aWVyIjogIl4yLjYuMiIsCiAgICAic2VydmljZS13b3JrZXItbW9jayI6\nICJeMi4wLjUiLAogICAgInRzLWplc3QiOiAiXjI4LjAuMiIsCiAgICAidHMt\nbG9hZGVyIjogIl45LjMuMCIsCiAgICAidHNsaWIiOiAiXjIuNC4wIiwKICAg\nICJ0eXBlc2NyaXB0IjogIl40LjYuNCIsCiAgICAidWxpZC13b3JrZXJzIjog\nIl4yLjAuMCIsCiAgICAid3JhbmdsZXIiOiAiXjIuMC42IgogIH0KfQo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/truestamp/ulid-generator/contents/package.json?ref=main",
+    "git": "https://api.github.com/repos/truestamp/ulid-generator/git/blobs/f3e985cdaa2a8b388ce02c11b089b10940cb21e1",
+    "html": "https://github.com/truestamp/ulid-generator/blob/main/package.json"
+  }
+}

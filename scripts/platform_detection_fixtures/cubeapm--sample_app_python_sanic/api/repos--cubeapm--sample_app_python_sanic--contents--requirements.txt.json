@@ -1,0 +1,18 @@
+{
+  "name": "requirements.txt",
+  "path": "requirements.txt",
+  "sha": "1537b7f3bb08601afa09d480557ffad69afc4252",
+  "size": 569,
+  "url": "https://api.github.com/repos/cubeapm/sample_app_python_sanic/contents/requirements.txt?ref=main",
+  "html_url": "https://github.com/cubeapm/sample_app_python_sanic/blob/main/requirements.txt",
+  "git_url": "https://api.github.com/repos/cubeapm/sample_app_python_sanic/git/blobs/1537b7f3bb08601afa09d480557ffad69afc4252",
+  "download_url": "https://raw.githubusercontent.com/cubeapm/sample_app_python_sanic/main/requirements.txt",
+  "type": "file",
+  "content": "YWlvZmlsZXM9PTI0LjEuMAphaW9teXNxbD09MC4yLjAKYWxlbWJpYz09MS4x\nNC4xCmFzZ2lyZWY9PTMuOC4xCmFzeW5jLXRpbWVvdXQ9PTUuMC4xCmNlcnRp\nZmk9PTIwMjUuMS4zMQpjZmZpPT0xLjE3LjEKY2hhcnNldC1ub3JtYWxpemVy\nPT0zLjQuMQpjb25mbHVlbnQta2Fma2E9PTIuOC4wCmNyeXB0b2dyYXBoeT09\nNDQuMC4xCmdyZWVubGV0PT0zLjEuMQpoaXJlZGlzPT0zLjEuMApodG1sNXRh\nZ2dlcj09MS4zLjAKaHR0cHRvb2xzPT0wLjYuNAppZG5hPT0zLjEwCk1ha289\nPTEuMy45Ck1hcmt1cFNhZmU9PTMuMC4yCm11bHRpZGljdD09Ni4xLjAKcGFj\na2FnaW5nPT0yNC4yCnB5Y3BhcnNlcj09Mi4yMgpQeU15U1FMPT0xLjEuMQpy\nZWRpcz09NS4yLjEKcmVxdWVzdHM9PTIuMzIuMwpzYW5pYz09MjQuMTIuMApz\nYW5pYy1yb3V0aW5nPT0yMy4xMi4wCnNldHVwdG9vbHM9PTc1LjguMApTUUxB\nbGNoZW15PT0yLjAuMzgKdHJhY2VyaXRlPT0xLjEuMQp0eXBpbmdfZXh0ZW5z\naW9ucz09NC4xMi4yCnVqc29uPT01LjEwLjAKdXJsbGliMz09Mi4zLjAKdXZs\nb29wPT0wLjIxLjAKd2Vic29ja2V0cz09MTQuMgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/cubeapm/sample_app_python_sanic/contents/requirements.txt?ref=main",
+    "git": "https://api.github.com/repos/cubeapm/sample_app_python_sanic/git/blobs/1537b7f3bb08601afa09d480557ffad69afc4252",
+    "html": "https://github.com/cubeapm/sample_app_python_sanic/blob/main/requirements.txt"
+  }
+}

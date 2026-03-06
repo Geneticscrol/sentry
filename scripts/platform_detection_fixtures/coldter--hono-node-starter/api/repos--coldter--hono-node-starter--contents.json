@@ -1,0 +1,274 @@
+[
+  {
+    "name": ".editorconfig",
+    "path": ".editorconfig",
+    "sha": "f69869f87228a0d672fb3fee29aa5894fedaf9ac",
+    "size": 78,
+    "url": "https://api.github.com/repos/coldter/hono-node-starter/contents/.editorconfig?ref=firebase-auth",
+    "html_url": "https://github.com/coldter/hono-node-starter/blob/firebase-auth/.editorconfig",
+    "git_url": "https://api.github.com/repos/coldter/hono-node-starter/git/blobs/f69869f87228a0d672fb3fee29aa5894fedaf9ac",
+    "download_url": "https://raw.githubusercontent.com/coldter/hono-node-starter/firebase-auth/.editorconfig",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/coldter/hono-node-starter/contents/.editorconfig?ref=firebase-auth",
+      "git": "https://api.github.com/repos/coldter/hono-node-starter/git/blobs/f69869f87228a0d672fb3fee29aa5894fedaf9ac",
+      "html": "https://github.com/coldter/hono-node-starter/blob/firebase-auth/.editorconfig"
+    }
+  },
+  {
+    "name": ".env.local.example",
+    "path": ".env.local.example",
+    "sha": "cbd60b520eaffb4cdfcad05970282fb5bb2924fc",
+    "size": 827,
+    "url": "https://api.github.com/repos/coldter/hono-node-starter/contents/.env.local.example?ref=firebase-auth",
+    "html_url": "https://github.com/coldter/hono-node-starter/blob/firebase-auth/.env.local.example",
+    "git_url": "https://api.github.com/repos/coldter/hono-node-starter/git/blobs/cbd60b520eaffb4cdfcad05970282fb5bb2924fc",
+    "download_url": "https://raw.githubusercontent.com/coldter/hono-node-starter/firebase-auth/.env.local.example",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/coldter/hono-node-starter/contents/.env.local.example?ref=firebase-auth",
+      "git": "https://api.github.com/repos/coldter/hono-node-starter/git/blobs/cbd60b520eaffb4cdfcad05970282fb5bb2924fc",
+      "html": "https://github.com/coldter/hono-node-starter/blob/firebase-auth/.env.local.example"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "e3af5f8c86475814285febbf8f88c19a61de011f",
+    "size": 0,
+    "url": "https://api.github.com/repos/coldter/hono-node-starter/contents/.github?ref=firebase-auth",
+    "html_url": "https://github.com/coldter/hono-node-starter/tree/firebase-auth/.github",
+    "git_url": "https://api.github.com/repos/coldter/hono-node-starter/git/trees/e3af5f8c86475814285febbf8f88c19a61de011f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/coldter/hono-node-starter/contents/.github?ref=firebase-auth",
+      "git": "https://api.github.com/repos/coldter/hono-node-starter/git/trees/e3af5f8c86475814285febbf8f88c19a61de011f",
+      "html": "https://github.com/coldter/hono-node-starter/tree/firebase-auth/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "87f182cc96cecabf7878391c868f421264a5bcff",
+    "size": 165,
+    "url": "https://api.github.com/repos/coldter/hono-node-starter/contents/.gitignore?ref=firebase-auth",
+    "html_url": "https://github.com/coldter/hono-node-starter/blob/firebase-auth/.gitignore",
+    "git_url": "https://api.github.com/repos/coldter/hono-node-starter/git/blobs/87f182cc96cecabf7878391c868f421264a5bcff",
+    "download_url": "https://raw.githubusercontent.com/coldter/hono-node-starter/firebase-auth/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/coldter/hono-node-starter/contents/.gitignore?ref=firebase-auth",
+      "git": "https://api.github.com/repos/coldter/hono-node-starter/git/blobs/87f182cc96cecabf7878391c868f421264a5bcff",
+      "html": "https://github.com/coldter/hono-node-starter/blob/firebase-auth/.gitignore"
+    }
+  },
+  {
+    "name": ".hygen.cjs",
+    "path": ".hygen.cjs",
+    "sha": "25e22690763e8d253009c14d15b0775f95dcd2fe",
+    "size": 120,
+    "url": "https://api.github.com/repos/coldter/hono-node-starter/contents/.hygen.cjs?ref=firebase-auth",
+    "html_url": "https://github.com/coldter/hono-node-starter/blob/firebase-auth/.hygen.cjs",
+    "git_url": "https://api.github.com/repos/coldter/hono-node-starter/git/blobs/25e22690763e8d253009c14d15b0775f95dcd2fe",
+    "download_url": "https://raw.githubusercontent.com/coldter/hono-node-starter/firebase-auth/.hygen.cjs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/coldter/hono-node-starter/contents/.hygen.cjs?ref=firebase-auth",
+      "git": "https://api.github.com/repos/coldter/hono-node-starter/git/blobs/25e22690763e8d253009c14d15b0775f95dcd2fe",
+      "html": "https://github.com/coldter/hono-node-starter/blob/firebase-auth/.hygen.cjs"
+    }
+  },
+  {
+    "name": ".vscode",
+    "path": ".vscode",
+    "sha": "07bc0e624478583ac4d065923b86ffed0b024399",
+    "size": 0,
+    "url": "https://api.github.com/repos/coldter/hono-node-starter/contents/.vscode?ref=firebase-auth",
+    "html_url": "https://github.com/coldter/hono-node-starter/tree/firebase-auth/.vscode",
+    "git_url": "https://api.github.com/repos/coldter/hono-node-starter/git/trees/07bc0e624478583ac4d065923b86ffed0b024399",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/coldter/hono-node-starter/contents/.vscode?ref=firebase-auth",
+      "git": "https://api.github.com/repos/coldter/hono-node-starter/git/trees/07bc0e624478583ac4d065923b86ffed0b024399",
+      "html": "https://github.com/coldter/hono-node-starter/tree/firebase-auth/.vscode"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "7f284afb77aff149306b3310bb6f13a17ef94a0a",
+    "size": 889,
+    "url": "https://api.github.com/repos/coldter/hono-node-starter/contents/README.md?ref=firebase-auth",
+    "html_url": "https://github.com/coldter/hono-node-starter/blob/firebase-auth/README.md",
+    "git_url": "https://api.github.com/repos/coldter/hono-node-starter/git/blobs/7f284afb77aff149306b3310bb6f13a17ef94a0a",
+    "download_url": "https://raw.githubusercontent.com/coldter/hono-node-starter/firebase-auth/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/coldter/hono-node-starter/contents/README.md?ref=firebase-auth",
+      "git": "https://api.github.com/repos/coldter/hono-node-starter/git/blobs/7f284afb77aff149306b3310bb6f13a17ef94a0a",
+      "html": "https://github.com/coldter/hono-node-starter/blob/firebase-auth/README.md"
+    }
+  },
+  {
+    "name": "_templates",
+    "path": "_templates",
+    "sha": "892fb5daa4ed0ef34cef386e983c8745b11a1613",
+    "size": 0,
+    "url": "https://api.github.com/repos/coldter/hono-node-starter/contents/_templates?ref=firebase-auth",
+    "html_url": "https://github.com/coldter/hono-node-starter/tree/firebase-auth/_templates",
+    "git_url": "https://api.github.com/repos/coldter/hono-node-starter/git/trees/892fb5daa4ed0ef34cef386e983c8745b11a1613",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/coldter/hono-node-starter/contents/_templates?ref=firebase-auth",
+      "git": "https://api.github.com/repos/coldter/hono-node-starter/git/trees/892fb5daa4ed0ef34cef386e983c8745b11a1613",
+      "html": "https://github.com/coldter/hono-node-starter/tree/firebase-auth/_templates"
+    }
+  },
+  {
+    "name": "biome.json",
+    "path": "biome.json",
+    "sha": "899c3a9dc9025c51fa9270ca93f56a7a03a7f23a",
+    "size": 1673,
+    "url": "https://api.github.com/repos/coldter/hono-node-starter/contents/biome.json?ref=firebase-auth",
+    "html_url": "https://github.com/coldter/hono-node-starter/blob/firebase-auth/biome.json",
+    "git_url": "https://api.github.com/repos/coldter/hono-node-starter/git/blobs/899c3a9dc9025c51fa9270ca93f56a7a03a7f23a",
+    "download_url": "https://raw.githubusercontent.com/coldter/hono-node-starter/firebase-auth/biome.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/coldter/hono-node-starter/contents/biome.json?ref=firebase-auth",
+      "git": "https://api.github.com/repos/coldter/hono-node-starter/git/blobs/899c3a9dc9025c51fa9270ca93f56a7a03a7f23a",
+      "html": "https://github.com/coldter/hono-node-starter/blob/firebase-auth/biome.json"
+    }
+  },
+  {
+    "name": "docker",
+    "path": "docker",
+    "sha": "e5ed3834b2ba20e889cd184578d01ab303af3f21",
+    "size": 0,
+    "url": "https://api.github.com/repos/coldter/hono-node-starter/contents/docker?ref=firebase-auth",
+    "html_url": "https://github.com/coldter/hono-node-starter/tree/firebase-auth/docker",
+    "git_url": "https://api.github.com/repos/coldter/hono-node-starter/git/trees/e5ed3834b2ba20e889cd184578d01ab303af3f21",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/coldter/hono-node-starter/contents/docker?ref=firebase-auth",
+      "git": "https://api.github.com/repos/coldter/hono-node-starter/git/trees/e5ed3834b2ba20e889cd184578d01ab303af3f21",
+      "html": "https://github.com/coldter/hono-node-starter/tree/firebase-auth/docker"
+    }
+  },
+  {
+    "name": "drizzle.config.ts",
+    "path": "drizzle.config.ts",
+    "sha": "feb4f85c5c51376b22fa85c036d41c582e56a68e",
+    "size": 283,
+    "url": "https://api.github.com/repos/coldter/hono-node-starter/contents/drizzle.config.ts?ref=firebase-auth",
+    "html_url": "https://github.com/coldter/hono-node-starter/blob/firebase-auth/drizzle.config.ts",
+    "git_url": "https://api.github.com/repos/coldter/hono-node-starter/git/blobs/feb4f85c5c51376b22fa85c036d41c582e56a68e",
+    "download_url": "https://raw.githubusercontent.com/coldter/hono-node-starter/firebase-auth/drizzle.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/coldter/hono-node-starter/contents/drizzle.config.ts?ref=firebase-auth",
+      "git": "https://api.github.com/repos/coldter/hono-node-starter/git/blobs/feb4f85c5c51376b22fa85c036d41c582e56a68e",
+      "html": "https://github.com/coldter/hono-node-starter/blob/firebase-auth/drizzle.config.ts"
+    }
+  },
+  {
+    "name": "package-lock.json",
+    "path": "package-lock.json",
+    "sha": "6b59c953dee2523b208b69493b05b850f0024dc7",
+    "size": 328780,
+    "url": "https://api.github.com/repos/coldter/hono-node-starter/contents/package-lock.json?ref=firebase-auth",
+    "html_url": "https://github.com/coldter/hono-node-starter/blob/firebase-auth/package-lock.json",
+    "git_url": "https://api.github.com/repos/coldter/hono-node-starter/git/blobs/6b59c953dee2523b208b69493b05b850f0024dc7",
+    "download_url": "https://raw.githubusercontent.com/coldter/hono-node-starter/firebase-auth/package-lock.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/coldter/hono-node-starter/contents/package-lock.json?ref=firebase-auth",
+      "git": "https://api.github.com/repos/coldter/hono-node-starter/git/blobs/6b59c953dee2523b208b69493b05b850f0024dc7",
+      "html": "https://github.com/coldter/hono-node-starter/blob/firebase-auth/package-lock.json"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "2665d10828bb996867849fda50ec02007b85b562",
+    "size": 3074,
+    "url": "https://api.github.com/repos/coldter/hono-node-starter/contents/package.json?ref=firebase-auth",
+    "html_url": "https://github.com/coldter/hono-node-starter/blob/firebase-auth/package.json",
+    "git_url": "https://api.github.com/repos/coldter/hono-node-starter/git/blobs/2665d10828bb996867849fda50ec02007b85b562",
+    "download_url": "https://raw.githubusercontent.com/coldter/hono-node-starter/firebase-auth/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/coldter/hono-node-starter/contents/package.json?ref=firebase-auth",
+      "git": "https://api.github.com/repos/coldter/hono-node-starter/git/blobs/2665d10828bb996867849fda50ec02007b85b562",
+      "html": "https://github.com/coldter/hono-node-starter/blob/firebase-auth/package.json"
+    }
+  },
+  {
+    "name": "src",
+    "path": "src",
+    "sha": "fa5cc8b53f20e0d079335e5d22e3561f0b7f7fed",
+    "size": 0,
+    "url": "https://api.github.com/repos/coldter/hono-node-starter/contents/src?ref=firebase-auth",
+    "html_url": "https://github.com/coldter/hono-node-starter/tree/firebase-auth/src",
+    "git_url": "https://api.github.com/repos/coldter/hono-node-starter/git/trees/fa5cc8b53f20e0d079335e5d22e3561f0b7f7fed",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/coldter/hono-node-starter/contents/src?ref=firebase-auth",
+      "git": "https://api.github.com/repos/coldter/hono-node-starter/git/trees/fa5cc8b53f20e0d079335e5d22e3561f0b7f7fed",
+      "html": "https://github.com/coldter/hono-node-starter/tree/firebase-auth/src"
+    }
+  },
+  {
+    "name": "temp.ts",
+    "path": "temp.ts",
+    "sha": "e80bde4d017638f018c1997a6dff80e339886a87",
+    "size": 4253,
+    "url": "https://api.github.com/repos/coldter/hono-node-starter/contents/temp.ts?ref=firebase-auth",
+    "html_url": "https://github.com/coldter/hono-node-starter/blob/firebase-auth/temp.ts",
+    "git_url": "https://api.github.com/repos/coldter/hono-node-starter/git/blobs/e80bde4d017638f018c1997a6dff80e339886a87",
+    "download_url": "https://raw.githubusercontent.com/coldter/hono-node-starter/firebase-auth/temp.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/coldter/hono-node-starter/contents/temp.ts?ref=firebase-auth",
+      "git": "https://api.github.com/repos/coldter/hono-node-starter/git/blobs/e80bde4d017638f018c1997a6dff80e339886a87",
+      "html": "https://github.com/coldter/hono-node-starter/blob/firebase-auth/temp.ts"
+    }
+  },
+  {
+    "name": "tsconfig.json",
+    "path": "tsconfig.json",
+    "sha": "bcd5187ef56e56de1538d26cea4d3fa3debabdfb",
+    "size": 852,
+    "url": "https://api.github.com/repos/coldter/hono-node-starter/contents/tsconfig.json?ref=firebase-auth",
+    "html_url": "https://github.com/coldter/hono-node-starter/blob/firebase-auth/tsconfig.json",
+    "git_url": "https://api.github.com/repos/coldter/hono-node-starter/git/blobs/bcd5187ef56e56de1538d26cea4d3fa3debabdfb",
+    "download_url": "https://raw.githubusercontent.com/coldter/hono-node-starter/firebase-auth/tsconfig.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/coldter/hono-node-starter/contents/tsconfig.json?ref=firebase-auth",
+      "git": "https://api.github.com/repos/coldter/hono-node-starter/git/blobs/bcd5187ef56e56de1538d26cea4d3fa3debabdfb",
+      "html": "https://github.com/coldter/hono-node-starter/blob/firebase-auth/tsconfig.json"
+    }
+  },
+  {
+    "name": "tsup.config.ts",
+    "path": "tsup.config.ts",
+    "sha": "31b77257ba746fe4e2e8548c722b175d48365bf2",
+    "size": 649,
+    "url": "https://api.github.com/repos/coldter/hono-node-starter/contents/tsup.config.ts?ref=firebase-auth",
+    "html_url": "https://github.com/coldter/hono-node-starter/blob/firebase-auth/tsup.config.ts",
+    "git_url": "https://api.github.com/repos/coldter/hono-node-starter/git/blobs/31b77257ba746fe4e2e8548c722b175d48365bf2",
+    "download_url": "https://raw.githubusercontent.com/coldter/hono-node-starter/firebase-auth/tsup.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/coldter/hono-node-starter/contents/tsup.config.ts?ref=firebase-auth",
+      "git": "https://api.github.com/repos/coldter/hono-node-starter/git/blobs/31b77257ba746fe4e2e8548c722b175d48365bf2",
+      "html": "https://github.com/coldter/hono-node-starter/blob/firebase-auth/tsup.config.ts"
+    }
+  }
+]

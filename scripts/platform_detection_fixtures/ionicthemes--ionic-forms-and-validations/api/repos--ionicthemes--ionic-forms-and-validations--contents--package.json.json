@@ -1,0 +1,18 @@
+{
+  "name": "package.json",
+  "path": "package.json",
+  "sha": "11759d1776a6af3df189d86a40306304afc94c90",
+  "size": 1648,
+  "url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/package.json?ref=master",
+  "html_url": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/package.json",
+  "git_url": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/11759d1776a6af3df189d86a40306304afc94c90",
+  "download_url": "https://raw.githubusercontent.com/ionicthemes/ionic-forms-and-validations/master/package.json",
+  "type": "file",
+  "content": "ewogICJuYW1lIjogImlvbmljLWFuZ3VsYXItZm9ybXMiLAogICJ2ZXJzaW9u\nIjogIjIuMC4wIiwKICAiYXV0aG9yIjogIklvbmljVGhlbWVzIFRlYW0iLAog\nICJob21lcGFnZSI6ICJodHRwczovL2lvbmljdGhlbWVzLmNvbS8iLAogICJz\nY3JpcHRzIjogewogICAgIm5nIjogIm5nIiwKICAgICJzdGFydCI6ICJuZyBz\nZXJ2ZSIsCiAgICAiYnVpbGQiOiAibmcgYnVpbGQiLAogICAgInRlc3QiOiAi\nbmcgdGVzdCIsCiAgICAibGludCI6ICJuZyBsaW50IiwKICAgICJlMmUiOiAi\nbmcgZTJlIgogIH0sCiAgInByaXZhdGUiOiB0cnVlLAogICJkZXBlbmRlbmNp\nZXMiOiB7CiAgICAiQGFuZ3VsYXIvY29tbW9uIjogIn45LjEuNiIsCiAgICAi\nQGFuZ3VsYXIvY29yZSI6ICJ+OS4xLjYiLAogICAgIkBhbmd1bGFyL2Zvcm1z\nIjogIn45LjEuNiIsCiAgICAiQGFuZ3VsYXIvcGxhdGZvcm0tYnJvd3NlciI6\nICJ+OS4xLjYiLAogICAgIkBhbmd1bGFyL3BsYXRmb3JtLWJyb3dzZXItZHlu\nYW1pYyI6ICJ+OS4xLjYiLAogICAgIkBhbmd1bGFyL3JvdXRlciI6ICJ+OS4x\nLjYiLAogICAgIkBpb25pYy1uYXRpdmUvY29yZSI6ICJeNS4wLjciLAogICAg\nIkBpb25pYy1uYXRpdmUvc3BsYXNoLXNjcmVlbiI6ICJeNS4wLjAiLAogICAg\nIkBpb25pYy1uYXRpdmUvc3RhdHVzLWJhciI6ICJeNS4wLjAiLAogICAgIkBp\nb25pYy9hbmd1bGFyIjogIl41LjAuMCIsCiAgICAiZ29vZ2xlLWxpYnBob25l\nbnVtYmVyIjogIl4zLjIuOSIsCiAgICAicnhqcyI6ICJ+Ni41LjEiLAogICAg\nInRzbGliIjogIl4xLjEwLjAiLAogICAgInpvbmUuanMiOiAifjAuMTAuMiIK\nICB9LAogICJkZXZEZXBlbmRlbmNpZXMiOiB7CiAgICAiQGFuZ3VsYXItZGV2\na2l0L2J1aWxkLWFuZ3VsYXIiOiAifjAuOTAxLjUiLAogICAgIkBhbmd1bGFy\nL2NsaSI6ICJ+OS4xLjUiLAogICAgIkBhbmd1bGFyL2NvbXBpbGVyIjogIn45\nLjEuNiIsCiAgICAiQGFuZ3VsYXIvY29tcGlsZXItY2xpIjogIn45LjEuNiIs\nCiAgICAiQGFuZ3VsYXIvbGFuZ3VhZ2Utc2VydmljZSI6ICJ+OS4xLjYiLAog\nICAgIkBpb25pYy9hbmd1bGFyLXRvb2xraXQiOiAiXjIuMS4xIiwKICAgICJA\ndHlwZXMvbm9kZSI6ICJeMTIuMTEuMSIsCiAgICAiQHR5cGVzL2phc21pbmUi\nOiAifjMuNS4wIiwKICAgICJAdHlwZXMvamFzbWluZXdkMiI6ICJ+Mi4wLjMi\nLAogICAgImNvZGVseXplciI6ICJeNS4xLjIiLAogICAgImphc21pbmUtY29y\nZSI6ICJ+My41LjAiLAogICAgImphc21pbmUtc3BlYy1yZXBvcnRlciI6ICJ+\nNC4yLjEiLAogICAgImthcm1hIjogIn41LjAuMCIsCiAgICAia2FybWEtY2hy\nb21lLWxhdW5jaGVyIjogIn4zLjEuMCIsCiAgICAia2FybWEtY292ZXJhZ2Ut\naXN0YW5idWwtcmVwb3J0ZXIiOiAifjIuMS4wIiwKICAgICJrYXJtYS1qYXNt\naW5lIjogIn4zLjAuMSIsCiAgICAia2FybWEtamFzbWluZS1odG1sLXJlcG9y\ndGVyIjogIl4xLjQuMiIsCiAgICAicHJvdHJhY3RvciI6ICJ+NS40LjMiLAog\nICAgInRzLW5vZGUiOiAifjguMy4wIiwKICAgICJ0c2xpbnQiOiAifjYuMS4w\nIiwKICAgICJ0eXBlc2NyaXB0IjogIn4zLjguMyIKICB9LAogICJkZXNjcmlw\ndGlvbiI6ICJBbiBJb25pYyBwcm9qZWN0IHRvIGV4cGxhaW4gaG93IHRvIHVz\nZSBBbmd1bGFyIFJlYWN0aXZlIEZvcm1zIgp9Cg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/contents/package.json?ref=master",
+    "git": "https://api.github.com/repos/ionicthemes/ionic-forms-and-validations/git/blobs/11759d1776a6af3df189d86a40306304afc94c90",
+    "html": "https://github.com/ionicthemes/ionic-forms-and-validations/blob/master/package.json"
+  }
+}

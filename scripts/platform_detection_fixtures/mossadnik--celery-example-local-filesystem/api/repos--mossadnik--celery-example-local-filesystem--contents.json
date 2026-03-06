@@ -1,0 +1,98 @@
+[
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "33208838101dd8d6ada49d07dfe50c20a5c1b0bc",
+    "size": 28,
+    "url": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/mossadnik/celery-example-local-filesystem/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/git/blobs/33208838101dd8d6ada49d07dfe50c20a5c1b0bc",
+    "download_url": "https://raw.githubusercontent.com/mossadnik/celery-example-local-filesystem/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/git/blobs/33208838101dd8d6ada49d07dfe50c20a5c1b0bc",
+      "html": "https://github.com/mossadnik/celery-example-local-filesystem/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": "Readme.md",
+    "path": "Readme.md",
+    "sha": "6ee28585de1e88cf83349ce41474e8e12a7b93db",
+    "size": 440,
+    "url": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/contents/Readme.md?ref=master",
+    "html_url": "https://github.com/mossadnik/celery-example-local-filesystem/blob/master/Readme.md",
+    "git_url": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/git/blobs/6ee28585de1e88cf83349ce41474e8e12a7b93db",
+    "download_url": "https://raw.githubusercontent.com/mossadnik/celery-example-local-filesystem/master/Readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/contents/Readme.md?ref=master",
+      "git": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/git/blobs/6ee28585de1e88cf83349ce41474e8e12a7b93db",
+      "html": "https://github.com/mossadnik/celery-example-local-filesystem/blob/master/Readme.md"
+    }
+  },
+  {
+    "name": "celeryconfig.py",
+    "path": "celeryconfig.py",
+    "sha": "ae420d8ae04923bf7e6eab18ea33608c7c456f37",
+    "size": 830,
+    "url": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/contents/celeryconfig.py?ref=master",
+    "html_url": "https://github.com/mossadnik/celery-example-local-filesystem/blob/master/celeryconfig.py",
+    "git_url": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/git/blobs/ae420d8ae04923bf7e6eab18ea33608c7c456f37",
+    "download_url": "https://raw.githubusercontent.com/mossadnik/celery-example-local-filesystem/master/celeryconfig.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/contents/celeryconfig.py?ref=master",
+      "git": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/git/blobs/ae420d8ae04923bf7e6eab18ea33608c7c456f37",
+      "html": "https://github.com/mossadnik/celery-example-local-filesystem/blob/master/celeryconfig.py"
+    }
+  },
+  {
+    "name": "main.py",
+    "path": "main.py",
+    "sha": "89c7094adba1ac1a5152cc03ab039828cbed8d9b",
+    "size": 244,
+    "url": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/contents/main.py?ref=master",
+    "html_url": "https://github.com/mossadnik/celery-example-local-filesystem/blob/master/main.py",
+    "git_url": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/git/blobs/89c7094adba1ac1a5152cc03ab039828cbed8d9b",
+    "download_url": "https://raw.githubusercontent.com/mossadnik/celery-example-local-filesystem/master/main.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/contents/main.py?ref=master",
+      "git": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/git/blobs/89c7094adba1ac1a5152cc03ab039828cbed8d9b",
+      "html": "https://github.com/mossadnik/celery-example-local-filesystem/blob/master/main.py"
+    }
+  },
+  {
+    "name": "requirements.txt",
+    "path": "requirements.txt",
+    "sha": "72943a1c9857cf0493b2c7641661775d308d3eae",
+    "size": 12,
+    "url": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/contents/requirements.txt?ref=master",
+    "html_url": "https://github.com/mossadnik/celery-example-local-filesystem/blob/master/requirements.txt",
+    "git_url": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/git/blobs/72943a1c9857cf0493b2c7641661775d308d3eae",
+    "download_url": "https://raw.githubusercontent.com/mossadnik/celery-example-local-filesystem/master/requirements.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/contents/requirements.txt?ref=master",
+      "git": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/git/blobs/72943a1c9857cf0493b2c7641661775d308d3eae",
+      "html": "https://github.com/mossadnik/celery-example-local-filesystem/blob/master/requirements.txt"
+    }
+  },
+  {
+    "name": "tasks.py",
+    "path": "tasks.py",
+    "sha": "42b58c8bc59f040dc7c17c0cb8ec1c6ead3b26f0",
+    "size": 154,
+    "url": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/contents/tasks.py?ref=master",
+    "html_url": "https://github.com/mossadnik/celery-example-local-filesystem/blob/master/tasks.py",
+    "git_url": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/git/blobs/42b58c8bc59f040dc7c17c0cb8ec1c6ead3b26f0",
+    "download_url": "https://raw.githubusercontent.com/mossadnik/celery-example-local-filesystem/master/tasks.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/contents/tasks.py?ref=master",
+      "git": "https://api.github.com/repos/mossadnik/celery-example-local-filesystem/git/blobs/42b58c8bc59f040dc7c17c0cb8ec1c6ead3b26f0",
+      "html": "https://github.com/mossadnik/celery-example-local-filesystem/blob/master/tasks.py"
+    }
+  }
+]

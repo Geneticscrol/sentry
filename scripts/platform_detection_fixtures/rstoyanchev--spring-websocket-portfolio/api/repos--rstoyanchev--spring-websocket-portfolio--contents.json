@@ -1,0 +1,146 @@
+[
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "8591e43e73d88784cc01f29d07120ddb5ee20086",
+    "size": 63,
+    "url": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/rstoyanchev/spring-websocket-portfolio/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/git/blobs/8591e43e73d88784cc01f29d07120ddb5ee20086",
+    "download_url": "https://raw.githubusercontent.com/rstoyanchev/spring-websocket-portfolio/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/git/blobs/8591e43e73d88784cc01f29d07120ddb5ee20086",
+      "html": "https://github.com/rstoyanchev/spring-websocket-portfolio/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": "LICENSE.txt",
+    "path": "LICENSE.txt",
+    "sha": "ff77379631504c17ad0a94dddc6803f0d3fb0fbb",
+    "size": 11360,
+    "url": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/contents/LICENSE.txt?ref=main",
+    "html_url": "https://github.com/rstoyanchev/spring-websocket-portfolio/blob/main/LICENSE.txt",
+    "git_url": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/git/blobs/ff77379631504c17ad0a94dddc6803f0d3fb0fbb",
+    "download_url": "https://raw.githubusercontent.com/rstoyanchev/spring-websocket-portfolio/main/LICENSE.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/contents/LICENSE.txt?ref=main",
+      "git": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/git/blobs/ff77379631504c17ad0a94dddc6803f0d3fb0fbb",
+      "html": "https://github.com/rstoyanchev/spring-websocket-portfolio/blob/main/LICENSE.txt"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "9d3748820baeb2ea83fbc8f8e0d6e33468553562",
+    "size": 4536,
+    "url": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/contents/README.md?ref=main",
+    "html_url": "https://github.com/rstoyanchev/spring-websocket-portfolio/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/git/blobs/9d3748820baeb2ea83fbc8f8e0d6e33468553562",
+    "download_url": "https://raw.githubusercontent.com/rstoyanchev/spring-websocket-portfolio/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/git/blobs/9d3748820baeb2ea83fbc8f8e0d6e33468553562",
+      "html": "https://github.com/rstoyanchev/spring-websocket-portfolio/blob/main/README.md"
+    }
+  },
+  {
+    "name": "deployGlassfish.sh",
+    "path": "deployGlassfish.sh",
+    "sha": "4bfcdd15c2f8ccb13788981e3925f661200347e6",
+    "size": 312,
+    "url": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/contents/deployGlassfish.sh?ref=main",
+    "html_url": "https://github.com/rstoyanchev/spring-websocket-portfolio/blob/main/deployGlassfish.sh",
+    "git_url": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/git/blobs/4bfcdd15c2f8ccb13788981e3925f661200347e6",
+    "download_url": "https://raw.githubusercontent.com/rstoyanchev/spring-websocket-portfolio/main/deployGlassfish.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/contents/deployGlassfish.sh?ref=main",
+      "git": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/git/blobs/4bfcdd15c2f8ccb13788981e3925f661200347e6",
+      "html": "https://github.com/rstoyanchev/spring-websocket-portfolio/blob/main/deployGlassfish.sh"
+    }
+  },
+  {
+    "name": "deployTomcat.sh",
+    "path": "deployTomcat.sh",
+    "sha": "7eff7272b31ea15ee6d530c17e6d02a6c7cc5f48",
+    "size": 276,
+    "url": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/contents/deployTomcat.sh?ref=main",
+    "html_url": "https://github.com/rstoyanchev/spring-websocket-portfolio/blob/main/deployTomcat.sh",
+    "git_url": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/git/blobs/7eff7272b31ea15ee6d530c17e6d02a6c7cc5f48",
+    "download_url": "https://raw.githubusercontent.com/rstoyanchev/spring-websocket-portfolio/main/deployTomcat.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/contents/deployTomcat.sh?ref=main",
+      "git": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/git/blobs/7eff7272b31ea15ee6d530c17e6d02a6c7cc5f48",
+      "html": "https://github.com/rstoyanchev/spring-websocket-portfolio/blob/main/deployTomcat.sh"
+    }
+  },
+  {
+    "name": "deployWildFly.sh",
+    "path": "deployWildFly.sh",
+    "sha": "5de390fa7e16ab924bc773c527b4680529b26341",
+    "size": 310,
+    "url": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/contents/deployWildFly.sh?ref=main",
+    "html_url": "https://github.com/rstoyanchev/spring-websocket-portfolio/blob/main/deployWildFly.sh",
+    "git_url": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/git/blobs/5de390fa7e16ab924bc773c527b4680529b26341",
+    "download_url": "https://raw.githubusercontent.com/rstoyanchev/spring-websocket-portfolio/main/deployWildFly.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/contents/deployWildFly.sh?ref=main",
+      "git": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/git/blobs/5de390fa7e16ab924bc773c527b4680529b26341",
+      "html": "https://github.com/rstoyanchev/spring-websocket-portfolio/blob/main/deployWildFly.sh"
+    }
+  },
+  {
+    "name": "pom.xml",
+    "path": "pom.xml",
+    "sha": "10ae08132d36d1953254912c1c3d70941a329be6",
+    "size": 9484,
+    "url": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/contents/pom.xml?ref=main",
+    "html_url": "https://github.com/rstoyanchev/spring-websocket-portfolio/blob/main/pom.xml",
+    "git_url": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/git/blobs/10ae08132d36d1953254912c1c3d70941a329be6",
+    "download_url": "https://raw.githubusercontent.com/rstoyanchev/spring-websocket-portfolio/main/pom.xml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/contents/pom.xml?ref=main",
+      "git": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/git/blobs/10ae08132d36d1953254912c1c3d70941a329be6",
+      "html": "https://github.com/rstoyanchev/spring-websocket-portfolio/blob/main/pom.xml"
+    }
+  },
+  {
+    "name": "shutdownTomcat.sh",
+    "path": "shutdownTomcat.sh",
+    "sha": "33c083135452acfee5b3935cc3a576be56cecbca",
+    "size": 122,
+    "url": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/contents/shutdownTomcat.sh?ref=main",
+    "html_url": "https://github.com/rstoyanchev/spring-websocket-portfolio/blob/main/shutdownTomcat.sh",
+    "git_url": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/git/blobs/33c083135452acfee5b3935cc3a576be56cecbca",
+    "download_url": "https://raw.githubusercontent.com/rstoyanchev/spring-websocket-portfolio/main/shutdownTomcat.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/contents/shutdownTomcat.sh?ref=main",
+      "git": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/git/blobs/33c083135452acfee5b3935cc3a576be56cecbca",
+      "html": "https://github.com/rstoyanchev/spring-websocket-portfolio/blob/main/shutdownTomcat.sh"
+    }
+  },
+  {
+    "name": "src",
+    "path": "src",
+    "sha": "64e3df8ea77cddce65b64f48e359cd378161011b",
+    "size": 0,
+    "url": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/contents/src?ref=main",
+    "html_url": "https://github.com/rstoyanchev/spring-websocket-portfolio/tree/main/src",
+    "git_url": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/git/trees/64e3df8ea77cddce65b64f48e359cd378161011b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/contents/src?ref=main",
+      "git": "https://api.github.com/repos/rstoyanchev/spring-websocket-portfolio/git/trees/64e3df8ea77cddce65b64f48e359cd378161011b",
+      "html": "https://github.com/rstoyanchev/spring-websocket-portfolio/tree/main/src"
+    }
+  }
+]

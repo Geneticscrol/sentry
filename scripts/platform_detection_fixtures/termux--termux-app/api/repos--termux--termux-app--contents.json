@@ -1,0 +1,354 @@
+[
+  {
+    "name": ".editorconfig",
+    "path": ".editorconfig",
+    "sha": "2bbadef6d5c605e80f17caeea77dd504fb5d5f99",
+    "size": 442,
+    "url": "https://api.github.com/repos/termux/termux-app/contents/.editorconfig?ref=master",
+    "html_url": "https://github.com/termux/termux-app/blob/master/.editorconfig",
+    "git_url": "https://api.github.com/repos/termux/termux-app/git/blobs/2bbadef6d5c605e80f17caeea77dd504fb5d5f99",
+    "download_url": "https://raw.githubusercontent.com/termux/termux-app/master/.editorconfig",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/termux/termux-app/contents/.editorconfig?ref=master",
+      "git": "https://api.github.com/repos/termux/termux-app/git/blobs/2bbadef6d5c605e80f17caeea77dd504fb5d5f99",
+      "html": "https://github.com/termux/termux-app/blob/master/.editorconfig"
+    }
+  },
+  {
+    "name": ".gitattributes",
+    "path": ".gitattributes",
+    "sha": "253738449be3efac2dc88db2838b73f85ceeb66e",
+    "size": 120,
+    "url": "https://api.github.com/repos/termux/termux-app/contents/.gitattributes?ref=master",
+    "html_url": "https://github.com/termux/termux-app/blob/master/.gitattributes",
+    "git_url": "https://api.github.com/repos/termux/termux-app/git/blobs/253738449be3efac2dc88db2838b73f85ceeb66e",
+    "download_url": "https://raw.githubusercontent.com/termux/termux-app/master/.gitattributes",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/termux/termux-app/contents/.gitattributes?ref=master",
+      "git": "https://api.github.com/repos/termux/termux-app/git/blobs/253738449be3efac2dc88db2838b73f85ceeb66e",
+      "html": "https://github.com/termux/termux-app/blob/master/.gitattributes"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "6bb7c176ae3974ac278c788fc08db8811dd4092f",
+    "size": 0,
+    "url": "https://api.github.com/repos/termux/termux-app/contents/.github?ref=master",
+    "html_url": "https://github.com/termux/termux-app/tree/master/.github",
+    "git_url": "https://api.github.com/repos/termux/termux-app/git/trees/6bb7c176ae3974ac278c788fc08db8811dd4092f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/termux/termux-app/contents/.github?ref=master",
+      "git": "https://api.github.com/repos/termux/termux-app/git/trees/6bb7c176ae3974ac278c788fc08db8811dd4092f",
+      "html": "https://github.com/termux/termux-app/tree/master/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "a52cbb33941e7e931cfee3ef3fce94dec71c5d5d",
+    "size": 455,
+    "url": "https://api.github.com/repos/termux/termux-app/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/termux/termux-app/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/termux/termux-app/git/blobs/a52cbb33941e7e931cfee3ef3fce94dec71c5d5d",
+    "download_url": "https://raw.githubusercontent.com/termux/termux-app/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/termux/termux-app/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/termux/termux-app/git/blobs/a52cbb33941e7e931cfee3ef3fce94dec71c5d5d",
+      "html": "https://github.com/termux/termux-app/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": "LICENSE.md",
+    "path": "LICENSE.md",
+    "sha": "4b6617028325c7033efd3a77fa25fccc864f4734",
+    "size": 533,
+    "url": "https://api.github.com/repos/termux/termux-app/contents/LICENSE.md?ref=master",
+    "html_url": "https://github.com/termux/termux-app/blob/master/LICENSE.md",
+    "git_url": "https://api.github.com/repos/termux/termux-app/git/blobs/4b6617028325c7033efd3a77fa25fccc864f4734",
+    "download_url": "https://raw.githubusercontent.com/termux/termux-app/master/LICENSE.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/termux/termux-app/contents/LICENSE.md?ref=master",
+      "git": "https://api.github.com/repos/termux/termux-app/git/blobs/4b6617028325c7033efd3a77fa25fccc864f4734",
+      "html": "https://github.com/termux/termux-app/blob/master/LICENSE.md"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "662198d36982063d1483e6ee09ed44701221b802",
+    "size": 25973,
+    "url": "https://api.github.com/repos/termux/termux-app/contents/README.md?ref=master",
+    "html_url": "https://github.com/termux/termux-app/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/termux/termux-app/git/blobs/662198d36982063d1483e6ee09ed44701221b802",
+    "download_url": "https://raw.githubusercontent.com/termux/termux-app/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/termux/termux-app/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/termux/termux-app/git/blobs/662198d36982063d1483e6ee09ed44701221b802",
+      "html": "https://github.com/termux/termux-app/blob/master/README.md"
+    }
+  },
+  {
+    "name": "SECURITY.md",
+    "path": "SECURITY.md",
+    "sha": "479f15cb8161020829254f418b85b8f859d18a67",
+    "size": 106,
+    "url": "https://api.github.com/repos/termux/termux-app/contents/SECURITY.md?ref=master",
+    "html_url": "https://github.com/termux/termux-app/blob/master/SECURITY.md",
+    "git_url": "https://api.github.com/repos/termux/termux-app/git/blobs/479f15cb8161020829254f418b85b8f859d18a67",
+    "download_url": "https://raw.githubusercontent.com/termux/termux-app/master/SECURITY.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/termux/termux-app/contents/SECURITY.md?ref=master",
+      "git": "https://api.github.com/repos/termux/termux-app/git/blobs/479f15cb8161020829254f418b85b8f859d18a67",
+      "html": "https://github.com/termux/termux-app/blob/master/SECURITY.md"
+    }
+  },
+  {
+    "name": "app",
+    "path": "app",
+    "sha": "1b31687c36036d9a94e2ff8a0ae0d6191ae1178e",
+    "size": 0,
+    "url": "https://api.github.com/repos/termux/termux-app/contents/app?ref=master",
+    "html_url": "https://github.com/termux/termux-app/tree/master/app",
+    "git_url": "https://api.github.com/repos/termux/termux-app/git/trees/1b31687c36036d9a94e2ff8a0ae0d6191ae1178e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/termux/termux-app/contents/app?ref=master",
+      "git": "https://api.github.com/repos/termux/termux-app/git/trees/1b31687c36036d9a94e2ff8a0ae0d6191ae1178e",
+      "html": "https://github.com/termux/termux-app/tree/master/app"
+    }
+  },
+  {
+    "name": "art",
+    "path": "art",
+    "sha": "70a46ba01eaa4c942b78d051397f0b948edb4610",
+    "size": 0,
+    "url": "https://api.github.com/repos/termux/termux-app/contents/art?ref=master",
+    "html_url": "https://github.com/termux/termux-app/tree/master/art",
+    "git_url": "https://api.github.com/repos/termux/termux-app/git/trees/70a46ba01eaa4c942b78d051397f0b948edb4610",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/termux/termux-app/contents/art?ref=master",
+      "git": "https://api.github.com/repos/termux/termux-app/git/trees/70a46ba01eaa4c942b78d051397f0b948edb4610",
+      "html": "https://github.com/termux/termux-app/tree/master/art"
+    }
+  },
+  {
+    "name": "build.gradle",
+    "path": "build.gradle",
+    "sha": "65f0e4271511ea439b86c45c0763e1a2dfbb9ec0",
+    "size": 289,
+    "url": "https://api.github.com/repos/termux/termux-app/contents/build.gradle?ref=master",
+    "html_url": "https://github.com/termux/termux-app/blob/master/build.gradle",
+    "git_url": "https://api.github.com/repos/termux/termux-app/git/blobs/65f0e4271511ea439b86c45c0763e1a2dfbb9ec0",
+    "download_url": "https://raw.githubusercontent.com/termux/termux-app/master/build.gradle",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/termux/termux-app/contents/build.gradle?ref=master",
+      "git": "https://api.github.com/repos/termux/termux-app/git/blobs/65f0e4271511ea439b86c45c0763e1a2dfbb9ec0",
+      "html": "https://github.com/termux/termux-app/blob/master/build.gradle"
+    }
+  },
+  {
+    "name": "docs",
+    "path": "docs",
+    "sha": "012ca2645872f6ba222a5d13e7c377eb856c1738",
+    "size": 0,
+    "url": "https://api.github.com/repos/termux/termux-app/contents/docs?ref=master",
+    "html_url": "https://github.com/termux/termux-app/tree/master/docs",
+    "git_url": "https://api.github.com/repos/termux/termux-app/git/trees/012ca2645872f6ba222a5d13e7c377eb856c1738",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/termux/termux-app/contents/docs?ref=master",
+      "git": "https://api.github.com/repos/termux/termux-app/git/trees/012ca2645872f6ba222a5d13e7c377eb856c1738",
+      "html": "https://github.com/termux/termux-app/tree/master/docs"
+    }
+  },
+  {
+    "name": "fastlane",
+    "path": "fastlane",
+    "sha": "8b1db3895c731f38c83fd2258c9368ce9ac40843",
+    "size": 0,
+    "url": "https://api.github.com/repos/termux/termux-app/contents/fastlane?ref=master",
+    "html_url": "https://github.com/termux/termux-app/tree/master/fastlane",
+    "git_url": "https://api.github.com/repos/termux/termux-app/git/trees/8b1db3895c731f38c83fd2258c9368ce9ac40843",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/termux/termux-app/contents/fastlane?ref=master",
+      "git": "https://api.github.com/repos/termux/termux-app/git/trees/8b1db3895c731f38c83fd2258c9368ce9ac40843",
+      "html": "https://github.com/termux/termux-app/tree/master/fastlane"
+    }
+  },
+  {
+    "name": "gradle.properties",
+    "path": "gradle.properties",
+    "sha": "aceaa6532a76044add7544d1e14563a6c10e4d57",
+    "size": 884,
+    "url": "https://api.github.com/repos/termux/termux-app/contents/gradle.properties?ref=master",
+    "html_url": "https://github.com/termux/termux-app/blob/master/gradle.properties",
+    "git_url": "https://api.github.com/repos/termux/termux-app/git/blobs/aceaa6532a76044add7544d1e14563a6c10e4d57",
+    "download_url": "https://raw.githubusercontent.com/termux/termux-app/master/gradle.properties",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/termux/termux-app/contents/gradle.properties?ref=master",
+      "git": "https://api.github.com/repos/termux/termux-app/git/blobs/aceaa6532a76044add7544d1e14563a6c10e4d57",
+      "html": "https://github.com/termux/termux-app/blob/master/gradle.properties"
+    }
+  },
+  {
+    "name": "gradle",
+    "path": "gradle",
+    "sha": "96b359a9ca189ebc01d8fd9783b8d9daf47f65ff",
+    "size": 0,
+    "url": "https://api.github.com/repos/termux/termux-app/contents/gradle?ref=master",
+    "html_url": "https://github.com/termux/termux-app/tree/master/gradle",
+    "git_url": "https://api.github.com/repos/termux/termux-app/git/trees/96b359a9ca189ebc01d8fd9783b8d9daf47f65ff",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/termux/termux-app/contents/gradle?ref=master",
+      "git": "https://api.github.com/repos/termux/termux-app/git/trees/96b359a9ca189ebc01d8fd9783b8d9daf47f65ff",
+      "html": "https://github.com/termux/termux-app/tree/master/gradle"
+    }
+  },
+  {
+    "name": "gradlew",
+    "path": "gradlew",
+    "sha": "adff685a0348c64b2b64f0b302f1f82b28eeaaea",
+    "size": 8618,
+    "url": "https://api.github.com/repos/termux/termux-app/contents/gradlew?ref=master",
+    "html_url": "https://github.com/termux/termux-app/blob/master/gradlew",
+    "git_url": "https://api.github.com/repos/termux/termux-app/git/blobs/adff685a0348c64b2b64f0b302f1f82b28eeaaea",
+    "download_url": "https://raw.githubusercontent.com/termux/termux-app/master/gradlew",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/termux/termux-app/contents/gradlew?ref=master",
+      "git": "https://api.github.com/repos/termux/termux-app/git/blobs/adff685a0348c64b2b64f0b302f1f82b28eeaaea",
+      "html": "https://github.com/termux/termux-app/blob/master/gradlew"
+    }
+  },
+  {
+    "name": "gradlew.bat",
+    "path": "gradlew.bat",
+    "sha": "c4bdd3ab8e3ccd2ac3a2bc0db0f856f16b79ef39",
+    "size": 2803,
+    "url": "https://api.github.com/repos/termux/termux-app/contents/gradlew.bat?ref=master",
+    "html_url": "https://github.com/termux/termux-app/blob/master/gradlew.bat",
+    "git_url": "https://api.github.com/repos/termux/termux-app/git/blobs/c4bdd3ab8e3ccd2ac3a2bc0db0f856f16b79ef39",
+    "download_url": "https://raw.githubusercontent.com/termux/termux-app/master/gradlew.bat",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/termux/termux-app/contents/gradlew.bat?ref=master",
+      "git": "https://api.github.com/repos/termux/termux-app/git/blobs/c4bdd3ab8e3ccd2ac3a2bc0db0f856f16b79ef39",
+      "html": "https://github.com/termux/termux-app/blob/master/gradlew.bat"
+    }
+  },
+  {
+    "name": "jitpack.yml",
+    "path": "jitpack.yml",
+    "sha": "922f8ccccd8d9f58bc9d799f8386a5fcade36c09",
+    "size": 63,
+    "url": "https://api.github.com/repos/termux/termux-app/contents/jitpack.yml?ref=master",
+    "html_url": "https://github.com/termux/termux-app/blob/master/jitpack.yml",
+    "git_url": "https://api.github.com/repos/termux/termux-app/git/blobs/922f8ccccd8d9f58bc9d799f8386a5fcade36c09",
+    "download_url": "https://raw.githubusercontent.com/termux/termux-app/master/jitpack.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/termux/termux-app/contents/jitpack.yml?ref=master",
+      "git": "https://api.github.com/repos/termux/termux-app/git/blobs/922f8ccccd8d9f58bc9d799f8386a5fcade36c09",
+      "html": "https://github.com/termux/termux-app/blob/master/jitpack.yml"
+    }
+  },
+  {
+    "name": "settings.gradle",
+    "path": "settings.gradle",
+    "sha": "b8045c242af0a3842970e779e37d1a316cf9e67d",
+    "size": 73,
+    "url": "https://api.github.com/repos/termux/termux-app/contents/settings.gradle?ref=master",
+    "html_url": "https://github.com/termux/termux-app/blob/master/settings.gradle",
+    "git_url": "https://api.github.com/repos/termux/termux-app/git/blobs/b8045c242af0a3842970e779e37d1a316cf9e67d",
+    "download_url": "https://raw.githubusercontent.com/termux/termux-app/master/settings.gradle",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/termux/termux-app/contents/settings.gradle?ref=master",
+      "git": "https://api.github.com/repos/termux/termux-app/git/blobs/b8045c242af0a3842970e779e37d1a316cf9e67d",
+      "html": "https://github.com/termux/termux-app/blob/master/settings.gradle"
+    }
+  },
+  {
+    "name": "site",
+    "path": "site",
+    "sha": "081408b10194ae5d2c2fabf922ea7bb40bdebe15",
+    "size": 0,
+    "url": "https://api.github.com/repos/termux/termux-app/contents/site?ref=master",
+    "html_url": "https://github.com/termux/termux-app/tree/master/site",
+    "git_url": "https://api.github.com/repos/termux/termux-app/git/trees/081408b10194ae5d2c2fabf922ea7bb40bdebe15",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/termux/termux-app/contents/site?ref=master",
+      "git": "https://api.github.com/repos/termux/termux-app/git/trees/081408b10194ae5d2c2fabf922ea7bb40bdebe15",
+      "html": "https://github.com/termux/termux-app/tree/master/site"
+    }
+  },
+  {
+    "name": "terminal-emulator",
+    "path": "terminal-emulator",
+    "sha": "7751849794169e894c8d9cb442994f5c4fe04759",
+    "size": 0,
+    "url": "https://api.github.com/repos/termux/termux-app/contents/terminal-emulator?ref=master",
+    "html_url": "https://github.com/termux/termux-app/tree/master/terminal-emulator",
+    "git_url": "https://api.github.com/repos/termux/termux-app/git/trees/7751849794169e894c8d9cb442994f5c4fe04759",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/termux/termux-app/contents/terminal-emulator?ref=master",
+      "git": "https://api.github.com/repos/termux/termux-app/git/trees/7751849794169e894c8d9cb442994f5c4fe04759",
+      "html": "https://github.com/termux/termux-app/tree/master/terminal-emulator"
+    }
+  },
+  {
+    "name": "terminal-view",
+    "path": "terminal-view",
+    "sha": "6103ad0cf58aef9486c5bc212b788a5d50c8d8a1",
+    "size": 0,
+    "url": "https://api.github.com/repos/termux/termux-app/contents/terminal-view?ref=master",
+    "html_url": "https://github.com/termux/termux-app/tree/master/terminal-view",
+    "git_url": "https://api.github.com/repos/termux/termux-app/git/trees/6103ad0cf58aef9486c5bc212b788a5d50c8d8a1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/termux/termux-app/contents/terminal-view?ref=master",
+      "git": "https://api.github.com/repos/termux/termux-app/git/trees/6103ad0cf58aef9486c5bc212b788a5d50c8d8a1",
+      "html": "https://github.com/termux/termux-app/tree/master/terminal-view"
+    }
+  },
+  {
+    "name": "termux-shared",
+    "path": "termux-shared",
+    "sha": "578dc49dc7cb98b3fe5930617205caf0e54c51ad",
+    "size": 0,
+    "url": "https://api.github.com/repos/termux/termux-app/contents/termux-shared?ref=master",
+    "html_url": "https://github.com/termux/termux-app/tree/master/termux-shared",
+    "git_url": "https://api.github.com/repos/termux/termux-app/git/trees/578dc49dc7cb98b3fe5930617205caf0e54c51ad",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/termux/termux-app/contents/termux-shared?ref=master",
+      "git": "https://api.github.com/repos/termux/termux-app/git/trees/578dc49dc7cb98b3fe5930617205caf0e54c51ad",
+      "html": "https://github.com/termux/termux-app/tree/master/termux-shared"
+    }
+  }
+]
