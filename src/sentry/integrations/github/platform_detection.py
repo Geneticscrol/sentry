@@ -625,6 +625,7 @@ FRAMEWORKS: list[FrameworkDef] = [
         "sort": 10,
         "base_platform": "php",
         "some": [{"path": "wp-config.php"}],
+        "supersedes": ["php-symfony"],
     },
     {
         "platform": "php-symfony",
