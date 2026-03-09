@@ -1251,16 +1251,17 @@ def detect_platforms(
         for fw in _FRAMEWORKS_BY_PLATFORM.get(base_platform, []):
             if _framework_matches(fw, root_files, file_contents, manifest, root_dirs):
                 platform_id = fw["platform"]
-                seen_platforms.add(platform_id)
-                results.append(
-                    DetectedPlatform(
-                        platform=platform_id,
-                        language=language,
-                        bytes=byte_count,
-                        confidence="high",
-                        priority=100 - fw["sort"],
+                if platform_id not in seen_platforms:
+                    seen_platforms.add(platform_id)
+                    results.append(
+                        DetectedPlatform(
+                            platform=platform_id,
+                            language=language,
+                            bytes=byte_count,
+                            confidence="high",
+                            priority=100 - fw["sort"],
+                        )
                     )
-                )
 
         if base_platform not in seen_platforms:
             seen_platforms.add(base_platform)
