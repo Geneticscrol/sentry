@@ -1,6 +1,8 @@
 import logging
 import posixpath
 import re
+import shutil
+import tempfile
 import uuid
 from collections.abc import Sequence
 
@@ -30,8 +32,10 @@ from sentry.constants import DEBUG_FILES_ROLE_DEFAULT, KNOWN_DIF_FORMATS
 from sentry.debug_files.debug_files import maybe_renew_debug_files
 from sentry.debug_files.upload import find_missing_chunks
 from sentry.models.debugfile import (
+    BadDif,
     ProguardArtifactRelease,
     ProjectDebugFile,
+    create_dif_from_file,
     create_files_from_dif_zip,
 )
 from sentry.models.files.file import File
@@ -459,10 +463,23 @@ def batch_assemble(project, files):
     checksums_to_check -= checksums_with_status
 
     # 2. Check if this project already owns the `ProjectDebugFile` for each file.
-    debug_files = ProjectDebugFile.objects.filter(
-        project_id=project.id,
-        checksum__in=checksums_to_check,
-    ).select_related("file")
+    requested_debug_ids = [
+        (checksum, files[checksum].get("debug_id")) for checksum in checksums_to_check
+    ]
+    debug_file_query = Q(
+        checksum__in=[checksum for checksum, debug_id in requested_debug_ids if debug_id is None]
+    )
+    for checksum, debug_id in requested_debug_ids:
+        if debug_id is not None:
+            debug_file_query |= Q(checksum=checksum, debug_id=debug_id)
+
+    debug_files = (
+        ProjectDebugFile.objects.filter(project_id=project.id)
+        .filter(debug_file_query)
+        .select_related("file")
+        .order_by("checksum", "-id")
+        .distinct("checksum")
+    )
 
     checksums_with_debug_files = set()
     for debug_file in debug_files:
@@ -476,7 +493,50 @@ def batch_assemble(project, files):
 
     checksums_to_check -= checksums_with_debug_files
 
-    # 3. Compute all the chunks that have to be checked for existence.
+    # 3. Reuse the latest existing `File(type="project.dif")` for each checksum.
+    existing_files = (
+        File.objects.filter(type="project.dif", checksum__in=checksums_to_check)
+        .order_by("checksum", "-id")
+        .distinct("checksum")
+    )
+    existing_files_by_checksum = {file.checksum: file for file in existing_files}
+
+    for checksum, existing_file_object in existing_files_by_checksum.items():
+        name, debug_id, _ = get_file_info(files, checksum)
+
+        try:
+            with existing_file_object.getfile() as source_file, tempfile.NamedTemporaryFile() as temp_file:
+                shutil.copyfileobj(source_file, temp_file)
+                temp_file.flush()
+                dif, created = create_dif_from_file(
+                    project,
+                    existing_file_object,
+                    temp_file.name,
+                    name=name,
+                    debug_id=debug_id,
+                )
+        except BadDif as e:
+            file_response[checksum] = {
+                "state": ChunkFileState.ERROR,
+                "detail": e.args[0],
+                "missingChunks": [],
+            }
+        else:
+            if created:
+                from sentry.lang.native.sources import record_last_upload
+
+                record_last_upload(project)
+
+            file_response[checksum] = {
+                "state": ChunkFileState.OK,
+                "detail": None,
+                "missingChunks": [],
+                "dif": serialize(dif),
+            }
+
+    checksums_to_check -= existing_files_by_checksum.keys()
+
+    # 4. Compute all the chunks that have to be checked for existence.
     chunks_to_check = {}
     checksums_without_chunks = set()
     for checksum in checksums_to_check:
@@ -496,7 +556,7 @@ def batch_assemble(project, files):
 
     checksums_to_check -= checksums_without_chunks
 
-    # 4. Find missing chunks and group them per checksum.
+    # 5. Find missing chunks and group them per checksum.
     all_missing_chunks = find_missing_chunks(project.organization.id, set(chunks_to_check.keys()))
 
     missing_chunks_per_checksum: dict[str, set[str]] = {}
@@ -505,7 +565,7 @@ def batch_assemble(project, files):
         # `chunks_to_check.keys()`.
         missing_chunks_per_checksum.setdefault(chunks_to_check[chunk], set()).add(chunk)
 
-    # 5. Report missing chunks per checksum.
+    # 6. Report missing chunks per checksum.
     checksums_with_missing_chunks = set()
     for checksum, missing_chunks in missing_chunks_per_checksum.items():
         file_response[checksum] = {
@@ -518,7 +578,7 @@ def batch_assemble(project, files):
 
     from sentry.tasks.assemble import assemble_dif
 
-    # 6. Kickstart async assembling for all remaining chunks that have passed all checks.
+    # 7. Kickstart async assembling for all remaining chunks that have passed all checks.
     for checksum in checksums_to_check:
         file_info = get_file_info(files, checksum)
         if file_info is None:

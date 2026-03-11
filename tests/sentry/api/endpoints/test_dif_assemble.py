@@ -1,3 +1,4 @@
+import uuid
 from hashlib import sha1
 from unittest.mock import MagicMock, patch
 
@@ -5,7 +6,7 @@ from django.core.files.base import ContentFile
 from django.urls import reverse
 
 from sentry.models.apitoken import ApiToken
-from sentry.models.debugfile import ProjectDebugFile
+from sentry.models.debugfile import BadDif, ProjectDebugFile
 from sentry.models.files.file import File
 from sentry.models.files.fileblob import FileBlob
 from sentry.models.files.fileblobindex import FileBlobIndex
@@ -251,3 +252,107 @@ class DifAssembleEndpoint(APITestCase):
         assert response.status_code == 200, response.content
         assert response.data[total_checksum]["state"] == ChunkFileState.ERROR
         assert "unsupported object file format" in response.data[total_checksum]["detail"]
+
+    @patch("sentry.tasks.assemble.assemble_dif")
+    def test_reuses_existing_file_with_new_debug_id(self, mock_assemble_dif: MagicMock) -> None:
+        file_contents = b'["ExceptionClass", "xyz"]'
+        checksum = sha1(file_contents).hexdigest()
+        debug_id = str(uuid.uuid4())
+
+        file = File.objects.create(name="dartsymbolmap.json", type="project.dif")
+        file.putfile(ContentFile(file_contents))
+
+        response = self.client.post(
+            self.url,
+            data={
+                checksum: {
+                    "name": "dartsymbolmap.json",
+                    "debug_id": debug_id,
+                    "chunks": [],
+                }
+            },
+            HTTP_AUTHORIZATION=f"Bearer {self.token.token}",
+        )
+
+        assert response.status_code == 200, response.content
+        assert response.data[checksum]["state"] == ChunkFileState.OK
+        assert response.data[checksum]["dif"]["uuid"] == debug_id
+
+        dif = ProjectDebugFile.objects.get(project_id=self.project.id, debug_id=debug_id)
+        assert dif.file_id == file.id
+        mock_assemble_dif.apply_async.assert_not_called()
+
+    @patch("sentry.tasks.assemble.assemble_dif")
+    def test_reupload_with_same_debug_id_is_idempotent(self, mock_assemble_dif: MagicMock) -> None:
+        file_contents = b'["ExceptionClass", "xyz"]'
+        checksum = sha1(file_contents).hexdigest()
+        debug_id = str(uuid.uuid4())
+
+        file = File.objects.create(name="dartsymbolmap.json", type="project.dif")
+        file.putfile(ContentFile(file_contents))
+        ProjectDebugFile.objects.create(
+            file=file,
+            checksum=file.checksum,
+            object_name="dartsymbolmap.json",
+            cpu_name="any",
+            project_id=self.project.id,
+            debug_id=debug_id,
+            data={"features": ["mapping"]},
+        )
+
+        response = self.client.post(
+            self.url,
+            data={
+                checksum: {
+                    "name": "dartsymbolmap.json",
+                    "debug_id": debug_id,
+                    "chunks": [],
+                }
+            },
+            HTTP_AUTHORIZATION=f"Bearer {self.token.token}",
+        )
+
+        assert response.status_code == 200, response.content
+        assert response.data[checksum]["state"] == ChunkFileState.OK
+        assert (
+            ProjectDebugFile.objects.filter(project_id=self.project.id, debug_id=debug_id).count()
+            == 1
+        )
+        mock_assemble_dif.apply_async.assert_not_called()
+
+    @patch("sentry.tasks.assemble.assemble_dif")
+    @patch("sentry.api.endpoints.debug_files.create_dif_from_file")
+    def test_inconsistent_debug_id_errors(
+        self, mock_create_dif_from_file: MagicMock, mock_assemble_dif: MagicMock
+    ) -> None:
+        file_contents = self.load_fixture("crash.sym")
+        checksum = sha1(file_contents).hexdigest()
+
+        file = File.objects.create(name="crash.sym", type="project.dif")
+        file.putfile(ContentFile(file_contents))
+
+        mock_create_dif_from_file.side_effect = BadDif("Invalid debug identifier")
+
+        response = self.client.post(
+            self.url,
+            data={
+                checksum: {
+                    "name": "crash.sym",
+                    "debug_id": str(uuid.uuid4()),
+                    "chunks": [],
+                }
+            },
+            HTTP_AUTHORIZATION=f"Bearer {self.token.token}",
+        )
+
+        assert response.status_code == 200, response.content
+        assert response.data[checksum] == {
+            "state": ChunkFileState.ERROR,
+            "detail": "Invalid debug identifier",
+            "missingChunks": [],
+        }
+        assert (
+            ProjectDebugFile.objects.filter(project_id=self.project.id, checksum=checksum).count()
+            == 0
+        )
+        mock_assemble_dif.apply_async.assert_not_called()
