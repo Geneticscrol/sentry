@@ -101,7 +101,13 @@ function WidgetLayout(props: Widget) {
 
       {props.Footer && (
         <FooterWrapper noPadding={props.noFooterPadding}>
-          <ErrorBoundary mini>{props.Footer}</ErrorBoundary>
+          <ErrorBoundary
+            customComponent={({error}) => (
+              <WidgetError error={error ?? undefined} layout="flow" />
+            )}
+          >
+            {props.Footer}
+          </ErrorBoundary>
         </FooterWrapper>
       )}
     </Frame>

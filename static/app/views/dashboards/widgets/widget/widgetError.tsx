@@ -11,11 +11,12 @@ import type {
 
 interface WidgetErrorProps {
   error: StateProps['error'];
+  layout?: 'absolute' | 'flow';
 }
 
-export function WidgetError({error}: WidgetErrorProps) {
+export function WidgetError({error, layout = 'absolute'}: WidgetErrorProps) {
   return (
-    <Panel>
+    <Panel layout={layout}>
       <NonShrinkingWarningIcon variant={DEEMPHASIS_VARIANT} size="md" />
       <ErrorText>
         {typeof error === 'string'
@@ -28,12 +29,16 @@ export function WidgetError({error}: WidgetErrorProps) {
   );
 }
 
-const Panel = styled('div')<{height?: string}>`
-  container-type: size;
+const Panel = styled('div')<{layout: 'absolute' | 'flow'}>`
+  container-type: inline-size;
   container-name: error-panel;
 
-  position: absolute;
-  inset: 0;
+  ${p =>
+    p.layout === 'absolute' &&
+    `
+    position: absolute;
+    inset: 0;
+  `}
 
   padding: ${Y_GUTTER} ${X_GUTTER};
 
