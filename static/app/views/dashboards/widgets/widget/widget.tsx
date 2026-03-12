@@ -105,13 +105,11 @@ function WidgetLayout(props: Widget) {
         <FooterWrapper noPadding={props.noFooterPadding}>
           <ErrorBoundary
             customComponent={() => (
-              <FooterErrorWrapper>
-                <Alert.Container>
-                  <Alert variant="danger" system>
-                    {t('There was a problem rendering this component')}
-                  </Alert>
-                </Alert.Container>
-              </FooterErrorWrapper>
+              <Alert.Container>
+                <Alert variant="danger" system>
+                  {t('There was a problem rendering this component')}
+                </Alert>
+              </Alert.Container>
             )}
           >
             {props.Footer}
@@ -201,8 +199,4 @@ export const FooterWrapper = styled('div')<{noPadding?: boolean}>`
   border-top: 1px solid ${p => p.theme.tokens.border.primary};
   padding: ${p =>
     p.noPadding ? 0 : `${p.theme.space.md} ${X_GUTTER} ${p.theme.space.md} ${X_GUTTER}`};
-`;
-
-const FooterErrorWrapper = styled('div')`
-  padding: ${Y_GUTTER} ${X_GUTTER};
 `;
