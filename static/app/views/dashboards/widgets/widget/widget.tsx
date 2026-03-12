@@ -5,10 +5,7 @@ import styled from '@emotion/styled';
 import {Flex} from '@sentry/scraps/layout';
 
 import ErrorBoundary from 'sentry/components/errorBoundary';
-import {IconWarning} from 'sentry/icons';
-import {t} from 'sentry/locale';
 import {defined} from 'sentry/utils';
-import {DEEMPHASIS_VARIANT} from 'sentry/views/dashboards/widgets/bigNumberWidget/settings';
 import {
   MIN_HEIGHT,
   MIN_WIDTH,
@@ -106,7 +103,7 @@ function WidgetLayout(props: Widget) {
         <FooterWrapper noPadding={props.noFooterPadding}>
           <ErrorBoundary
             customComponent={({error}) => {
-              return <FooterError error={error ?? undefined} />;
+              return <WidgetError error={error ?? undefined} />;
             }}
           >
             {props.Footer}
@@ -192,29 +189,10 @@ const VisualizationWrapper = styled('div')<{noPadding?: boolean}>`
 `;
 
 export const FooterWrapper = styled('div')<{noPadding?: boolean}>`
+  position: relative;
+  min-height: 40px;
   margin: 0;
   border-top: 1px solid ${p => p.theme.tokens.border.primary};
   padding: ${p =>
     p.noPadding ? 0 : `${p.theme.space.md} ${X_GUTTER} ${p.theme.space.md} ${X_GUTTER}`};
-`;
-
-function FooterError({error}: {error?: Error}) {
-  return (
-    <FooterErrorPanel>
-      <IconWarning variant={DEEMPHASIS_VARIANT} size="sm" />
-      <FooterErrorText>{error?.message ?? t('Error loading data.')}</FooterErrorText>
-    </FooterErrorPanel>
-  );
-}
-
-const FooterErrorPanel = styled('div')`
-  display: flex;
-  align-items: center;
-  gap: ${p => p.theme.space.sm};
-  padding: ${p => p.theme.space.sm} 0;
-  color: ${p => p.theme.tokens.content[DEEMPHASIS_VARIANT]};
-`;
-
-const FooterErrorText = styled('span')`
-  font-size: ${p => p.theme.font.size.sm};
 `;
