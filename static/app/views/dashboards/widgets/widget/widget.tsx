@@ -101,17 +101,7 @@ function WidgetLayout(props: Widget) {
 
       {props.Footer && (
         <FooterWrapper noPadding={props.noFooterPadding}>
-          <ErrorBoundary
-            customComponent={({error}) => {
-              return (
-                <InlineErrorWrapper>
-                  <WidgetError error={error ?? undefined} />
-                </InlineErrorWrapper>
-              );
-            }}
-          >
-            {props.Footer}
-          </ErrorBoundary>
+          <ErrorBoundary mini>{props.Footer}</ErrorBoundary>
         </FooterWrapper>
       )}
     </Frame>
@@ -197,9 +187,4 @@ export const FooterWrapper = styled('div')<{noPadding?: boolean}>`
   border-top: 1px solid ${p => p.theme.tokens.border.primary};
   padding: ${p =>
     p.noPadding ? 0 : `${p.theme.space.md} ${X_GUTTER} ${p.theme.space.md} ${X_GUTTER}`};
-`;
-
-const InlineErrorWrapper = styled('div')`
-  position: relative;
-  height: ${MIN_HEIGHT}px;
 `;
