@@ -1,5 +1,5 @@
 import {PrimaryNavigationGroup} from 'sentry/views/navigation/types';
-import SettingsNavigation from 'sentry/views/settings/components/settingsNavigation';
+import {SettingsNavigation} from 'sentry/views/settings/components/settingsNavigation';
 
 export function AdminSecondaryNavigation() {
   return (

@@ -5,7 +5,7 @@ import type {Client} from 'sentry/api';
 import type {Group} from 'sentry/types/group';
 import type {Organization} from 'sentry/types/organization';
 import type {Project} from 'sentry/types/project';
-import withApi from 'sentry/utils/withApi';
+import {withApi} from 'sentry/utils/withApi';
 
 const DEFAULT_POLL_INTERVAL = 5000;
 

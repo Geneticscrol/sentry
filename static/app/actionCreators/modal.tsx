@@ -14,7 +14,7 @@ import type {LinkToDashboardModalProps} from 'sentry/components/modals/widgetBui
 import type {WidgetViewerModalOptions} from 'sentry/components/modals/widgetViewerModal';
 import type {ConsoleModalProps} from 'sentry/components/onboarding/consoleModal';
 import type {Category} from 'sentry/components/platformPicker';
-import ModalStore from 'sentry/stores/modalStore';
+import {ModalStore} from 'sentry/stores/modalStore';
 import type {CustomRepoType} from 'sentry/types/debugFiles';
 import type {Event} from 'sentry/types/event';
 import type {IssueOwnership} from 'sentry/types/group';
