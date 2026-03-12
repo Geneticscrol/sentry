@@ -100,7 +100,15 @@ function WidgetLayout(props: Widget) {
       )}
 
       {props.Footer && (
-        <FooterWrapper noPadding={props.noFooterPadding}>{props.Footer}</FooterWrapper>
+        <FooterWrapper noPadding={props.noFooterPadding}>
+          <ErrorBoundary
+            customComponent={({error}) => {
+              return <WidgetError error={error ?? undefined} />;
+            }}
+          >
+            {props.Footer}
+          </ErrorBoundary>
+        </FooterWrapper>
       )}
     </Frame>
   );
