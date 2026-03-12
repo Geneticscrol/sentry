@@ -201,5 +201,5 @@ export const FooterWrapper = styled('div')<{noPadding?: boolean}>`
 
 const InlineErrorWrapper = styled('div')`
   position: relative;
-  min-height: 40px;
+  height: ${MIN_HEIGHT}px;
 `;
