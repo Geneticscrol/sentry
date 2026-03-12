@@ -189,6 +189,7 @@ const VisualizationWrapper = styled('div')<{noPadding?: boolean}>`
 `;
 
 export const FooterWrapper = styled('div')<{noPadding?: boolean}>`
+  position: relative;
   margin: 0;
   border-top: 1px solid ${p => p.theme.tokens.border.primary};
   padding: ${p =>
