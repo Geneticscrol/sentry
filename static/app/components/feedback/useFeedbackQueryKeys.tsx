@@ -2,7 +2,7 @@ import type {ReactNode} from 'react';
 import {createContext, useCallback, useContext, useRef, useState} from 'react';
 
 import getFeedbackItemQueryKey from 'sentry/components/feedback/getFeedbackItemQueryKey';
-import useFeedbackListQueryKey from 'sentry/components/feedback/useFeedbackListQueryKey';
+import {useFeedbackListQueryKey} from 'sentry/components/feedback/useFeedbackListQueryKey';
 import type {Organization} from 'sentry/types/organization';
 import type {ApiQueryKey, InfiniteApiQueryKey} from 'sentry/utils/queryClient';
 
@@ -87,6 +87,6 @@ export function FeedbackQueryKeys({children, organization}: Props) {
   );
 }
 
-export default function useFeedbackQueryKeys() {
+export function useFeedbackQueryKeys() {
   return useContext(FeedbackQueryKeysProvider);
 }

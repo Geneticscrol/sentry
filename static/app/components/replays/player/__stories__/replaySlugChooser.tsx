@@ -12,9 +12,9 @@ import {ProjectPicker} from 'sentry/components/replays/player/__stories__/projec
 import {Providers} from 'sentry/components/replays/player/__stories__/providers';
 import {ReplayLoadingState} from 'sentry/components/replays/player/replayLoadingState';
 import {useInfiniteApiQuery} from 'sentry/utils/queryClient';
-import useLoadReplayReader from 'sentry/utils/replays/hooks/useLoadReplayReader';
-import useReplayListQueryKey from 'sentry/utils/replays/hooks/useReplayListQueryKey';
-import useOrganization from 'sentry/utils/useOrganization';
+import {useLoadReplayReader} from 'sentry/utils/replays/hooks/useLoadReplayReader';
+import {useReplayListQueryKey} from 'sentry/utils/replays/hooks/useReplayListQueryKey';
+import {useOrganization} from 'sentry/utils/useOrganization';
 import {useSessionStorage} from 'sentry/utils/useSessionStorage';
 import type {ReplayListRecord} from 'sentry/views/replays/types';
 

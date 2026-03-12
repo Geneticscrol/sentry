@@ -9,8 +9,8 @@ import {EnvironmentPicker} from 'sentry/components/replays/player/__stories__/en
 import {ProjectPicker} from 'sentry/components/replays/player/__stories__/projectPicker';
 import * as Storybook from 'sentry/stories';
 import {useInfiniteApiQuery} from 'sentry/utils/queryClient';
-import useReplayListQueryKey from 'sentry/utils/replays/hooks/useReplayListQueryKey';
-import useOrganization from 'sentry/utils/useOrganization';
+import {useReplayListQueryKey} from 'sentry/utils/replays/hooks/useReplayListQueryKey';
+import {useOrganization} from 'sentry/utils/useOrganization';
 import type {ReplayListRecord} from 'sentry/views/replays/types';
 
 export default Storybook.story('ReplayList', story => {
