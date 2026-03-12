@@ -11,6 +11,11 @@ import type {
 
 interface WidgetErrorProps {
   error: StateProps['error'];
+  /**
+   * How the error overlay is positioned:
+   * - `absolute` (default): overlays the parent. Use when the parent has a fixed height (e.g. visualization slot).
+   * - `flow`: participates in normal layout. Use when the parent has variable height (e.g. error message in the footer slot).
+   */
   layout?: 'absolute' | 'flow';
 }
 
