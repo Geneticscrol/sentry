@@ -107,7 +107,7 @@ function WidgetLayout(props: Widget) {
             customComponent={() => (
               <FooterErrorWrapper>
                 <Alert.Container>
-                  <Alert variant="danger">
+                  <Alert variant="danger" system>
                     {t('There was a problem rendering this component')}
                   </Alert>
                 </Alert.Container>
