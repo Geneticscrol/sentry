@@ -2,11 +2,9 @@ import {Fragment} from 'react';
 import {css} from '@emotion/react';
 import styled from '@emotion/styled';
 
-import {Alert} from '@sentry/scraps/alert';
 import {Flex} from '@sentry/scraps/layout';
 
 import ErrorBoundary from 'sentry/components/errorBoundary';
-import {t} from 'sentry/locale';
 import {defined} from 'sentry/utils';
 import {
   MIN_HEIGHT,
@@ -104,13 +102,9 @@ function WidgetLayout(props: Widget) {
       {props.Footer && (
         <FooterWrapper noPadding={props.noFooterPadding}>
           <ErrorBoundary
-            customComponent={() => (
-              <Alert.Container>
-                <Alert variant="danger" system>
-                  {t('There was a problem rendering this component')}
-                </Alert>
-              </Alert.Container>
-            )}
+            customComponent={({error}) => {
+              return <WidgetError error={error ?? undefined} />;
+            }}
           >
             {props.Footer}
           </ErrorBoundary>
@@ -195,6 +189,7 @@ const VisualizationWrapper = styled('div')<{noPadding?: boolean}>`
 `;
 
 export const FooterWrapper = styled('div')<{noPadding?: boolean}>`
+  position: relative;
   margin: 0;
   border-top: 1px solid ${p => p.theme.tokens.border.primary};
   padding: ${p =>
