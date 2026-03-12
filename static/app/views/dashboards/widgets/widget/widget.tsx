@@ -2,9 +2,11 @@ import {Fragment} from 'react';
 import {css} from '@emotion/react';
 import styled from '@emotion/styled';
 
+import {Alert} from '@sentry/scraps/alert';
 import {Flex} from '@sentry/scraps/layout';
 
 import ErrorBoundary from 'sentry/components/errorBoundary';
+import {t} from 'sentry/locale';
 import {defined} from 'sentry/utils';
 import {
   MIN_HEIGHT,
@@ -101,7 +103,19 @@ function WidgetLayout(props: Widget) {
 
       {props.Footer && (
         <FooterWrapper noPadding={props.noFooterPadding}>
-          <ErrorBoundary mini>{props.Footer}</ErrorBoundary>
+          <ErrorBoundary
+            customComponent={() => (
+              <FooterErrorWrapper>
+                <Alert.Container>
+                  <Alert variant="danger">
+                    {t('There was a problem rendering this component')}
+                  </Alert>
+                </Alert.Container>
+              </FooterErrorWrapper>
+            )}
+          >
+            {props.Footer}
+          </ErrorBoundary>
         </FooterWrapper>
       )}
     </Frame>
@@ -187,4 +201,8 @@ export const FooterWrapper = styled('div')<{noPadding?: boolean}>`
   border-top: 1px solid ${p => p.theme.tokens.border.primary};
   padding: ${p =>
     p.noPadding ? 0 : `${p.theme.space.md} ${X_GUTTER} ${p.theme.space.md} ${X_GUTTER}`};
+`;
+
+const FooterErrorWrapper = styled('div')`
+  padding: ${Y_GUTTER} ${X_GUTTER};
 `;
